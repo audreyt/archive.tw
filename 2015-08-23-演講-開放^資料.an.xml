@@ -2,8 +2,6 @@
   <debate>
     <meta>
       <references>
-        <TLCPerson href="/ontology/person/::/主持人" id="主持人" showAs="主持人">
-        </TLCPerson>
         <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳">
         </TLCPerson>
         <TLCPerson href="/ontology/person/::/彭啟明" id="彭啟明" showAs="彭啟明">
@@ -335,7 +333,7 @@
         <speech by="#唐鳳">
           <p>我們跟媒體的合作也是這樣的概念：我們是供稿的，他們願意採納就採納。</p>
         </speech>
-        <speech by="#主持人">
+        <speech by="#彭啟明">
           <p>我有一個問題，vTaiwan跟join競爭嗎？</p>
         </speech>
         <speech by="#唐鳳">
