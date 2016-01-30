@@ -1,0 +1,975 @@
+
+
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+      
+        <TLCPerson href="/ontology/person/::/audrey-tang" id="audrey-tang" showAs="Audrey Tang"/>
+      
+        <TLCPerson href="/ontology/person/::/blaise-agüera-y-arcas" id="blaise-agüera-y-arcas" showAs="Blaise Agüera y Arcas"/>
+      
+        <TLCPerson href="/ontology/person/::/florent-latrive" id="florent-latrive" showAs="Florent Latrive"/>
+      
+        <TLCPerson href="/ontology/person/::/voiceover-chandana-ekanayake" id="voiceover-chandana-ekanayake" showAs="VoiceOver — Chandana Ekanayake"/>
+      
+        <TLCPerson href="/ontology/person/::/voiceover-jaclyn-tsai" id="voiceover-jaclyn-tsai" showAs="VoiceOver — Jaclyn Tsai"/>
+      
+        <TLCPerson href="/ontology/person/::/voiceover-jeffrey-mamber" id="voiceover-jeffrey-mamber" showAs="Voiceover — Jeffrey Mamber"/>
+      
+        <TLCPerson href="/ontology/person/::/voiceover-richard-gariott" id="voiceover-richard-gariott" showAs="Voiceover — Richard Gariott"/>
+      
+        <TLCPerson href="/ontology/person/::/voiceover-spacevr-staff" id="voiceover-spacevr-staff" showAs="Voiceover —  SpaceVR staff"/>
+      
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        
+        <heading>The day after tomorrow</heading>
+        
+
+    
+      
+        
+          
+            <speech by="#florent-latrive">
+              
+              
+              
+              
+              <p>Blaise, we are talking about “the day after tomorrow,” because tomorrow is crap, it’s too close from today. The day after tomorrow is much more free and cool. It’s full of new technologies and politics.</p><p>You will talk about the day after tomorrow because you are fun and cool, and nobody wants a crap debate, past midnight here in the Quai d’Orsay.</p><p>What are you doing at Google, Blaise?</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#blaise-agüera-y-arcas">
+              
+              
+              
+              
+              <p>At Google, I work on machine intelligence. My group is part of a larger organization of more than 1,000 people called Research and Machine Intelligence.</p><p>A big part of the goal of that group as a whole is to advance the technologies that are essentially starting to confer capabilities that are modeled or inspired after biological brains on machines. Machine Learning is the previous iteration of this kind of technology, we often call it Machine Intelligence these days.</p><p>My own group, within this larger group, focuses very much on machine intelligence on devices and on the edge rather than in data center. The reason that I’ve been very much focused on machine intelligence on devices is that I believe that if we think about the day after tomorrow, we really are headed for a world in which our technology is highly integrated into our bodies.</p><p>I don’t want for that world to be one in which we’re all part of a single giant super computer, to put it bluntly.</p><p>I think that it’s very important that our personal technology extend us as people. In order for that to be the case, we need to not only develop technologies that are interesting and powerful with respect to the server and the data center, but also develop a separate set of technologies that enable capabilities that can run without connections to the data center.</p><p></p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#florent-latrive">
+              
+              
+              
+              
+              <p>This kind of technologies that you have just described, is it possible to find that kind of technologies nowadays in the shops?</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#blaise-agüera-y-arcas">
+              
+              
+              
+              
+              <p>Yes, it is. For example, one of the things that my group makes is the deep neural networks that look at photos and analyze what’s in them, and these algorithms are able to tag the contents of the photos.</p><p>This is a capability that is very, very new in computer science. Three years ago, four years ago, it was impossible saying things like, "This is a girl holding a kitten on a sofa," something like this.</p><p>The interesting thing about those algorithms is that the neural networks that do this are small enough and fast enough, now, that they can fit on the device. That means, for example, that when you take photos, they can be tagged on your phone without you having to first to upload them.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#florent-latrive">
+              
+              
+              
+              
+              <p>You have use a word, "neural network." How would you describe that technology?</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#blaise-agüera-y-arcas">
+              
+              
+              
+              
+              <p>In the beginning of computer science, the fathers of computer science, John von Neumann, Alan Turing, were very, very interested in brains and in thinking as well as in computation and mathematics. The origins of computational neuroscience and the study of neurons and the creation of computers, these origins were very tightly intertwined.</p><p>In fact, in Turing’s original paper in 1948, which many people see as the dawn of computer science, he laid out two different approaches to computation. One of them was based on the serial execution of instructions one after the other. This is the Turing machine that everybody understands as the basis for the computer now.</p><p>He also talked about a different model for computation involving networks of artificial neurons that are connected together in a grid or in a graph, in an arbitrary relationship that allows data to flow through.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#florent-latrive">
+              
+              
+              
+              
+              <p>Brute force of computation, versus computation like the human brain, is that correct?</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#blaise-agüera-y-arcas">
+              
+              
+              
+              
+              <p>Yes. The brute force approach is one that’s based on the idea of mathematical calculation in series and sequence. That model of computation allows you to do things like calculate the trajectory of an orbit to within 12 significant digits, things like this. These were the kinds of things that the very earliest computers did.</p><p>Unfortunately, they were machines designed for warfare, more often than not. But the other model for computation, which involved the parallel flow of information through neurons, was really designed to mimic what we know, what we even knew in 1948 happened in brains.</p><p>But at that time, computers were really not powerful enough to implement meaningful versions of those kinds of brains that are modeled after the physiology of real animals.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#florent-latrive">
+              
+              
+              
+              
+              <p>What is the first experiment of a neural network that astonished you, and you say that it’s the beginning of something?</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#blaise-agüera-y-arcas">
+              
+              
+              
+              
+              <p>I think that it was solving the ImageNet challenge. This happened several years ago. This was very closely related to the problem that I was just telling you about, deciding what is in the photo. ImageNet is a database of millions of photographs that have all been labeled by hand with what is in there.</p><p>This seems like a very simple task to do. It’s not something that a three-year-old would have any problems with. But it’s something that is absolutely not amenable to the kind of serial computation that has really dominated computing since its birth.</p><p>These deep neural nets -- which again, they’re very similar to what’s been there from the very beginning of computation, but trained appropriately and using modern computational power -- are able to say what is in the image.</p><p>The fact that they were able to solve this problem that it’s so easy for us to solve, and that they did it in ways that look very much like the way real brains do it, was really very eye-opening to me, and made me feel like we’re at the brink of a revolution with respect to this technology.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#florent-latrive">
+              
+              
+              
+              
+              <p>Thank you, Blaise. We’ll come back to our neural network soon after. Audrey?</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#audrey-tang">
+              
+              
+              
+              
+              <p>Sorry for the technical difficulties. Because Blaise has a slide that’s entirely visual, we have to fix the filming problem. We devised a solution.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#florent-latrive">
+              
+              
+              
+              
+              <p>Blaise, it’s your fault.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#audrey-tang">
+              
+              
+              
+              
+              <p>No, it’s not.</p><p>Everybody will see my screen this way, and then I will play the slides for Blaise. You can see my screen.</p><p>Without further ado, I will just play my slides, which is very short, like 15 minutes, and then play Blaise’s slides. Again, 15 minutes, if that’s OK with you.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#florent-latrive">
+              
+              
+              
+              
+              <p>That’s OK.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#audrey-tang">
+              
+              
+              
+              
+              <p>Film crew will just film my screen. This is mirrors of mirrors.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <narrative><p><i>(laughter)</i></p></narrative>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#audrey-tang">
+              
+              
+              
+              
+              <p>I can see a recursive image of my own screen from the mirrors there. This is actually pretty metaphoric.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <narrative><p><i>(laughter)</i></p></narrative>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#audrey-tang">
+              
+              
+              
+              
+              <p>I’m happy to be here to talk about the day after tomorrow. The midnight reminds us that we are among the stars. If you look up in the night sky, you see that Earth is a place among the stars. I’ve been working with the technology called virtual reality. I have a virtual reality headset here which Florent will put on for effect — never mind.</p><p>It enables us to see the space and our relationship to the earth.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#voiceover-richard-gariott">
+              
+              
+              
+              
+              <p>The most beautiful thing I’ve ever seen is the earth from space. On this little ball is everything we’ve ever known, all of the history, all of the future, all the beauty of what it means to be human.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#voiceover-spacevr-staff">
+              
+              
+              
+              
+              <p>The world that everyone uses is fragile. You can’t understand that from the ground, because it’s not really relevant to you. From the ground, it looks like the sky goes up forever. From space, it looks very small.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#audrey-tang">
+              
+              
+              
+              
+              <p>Right. From space, we all look very small, and we are very tightly bound together. We share the Earth. All of our problems are of a global scale at the moment, including the climate and everything that people at this night have talked about. The observer effect makes us able to see the problem on a global scale.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#voiceover-richard-gariott">
+              
+              
+              
+              
+              <p>My conception of the scale of the reality of the earth went from being unimaginably large to absolutely finite and, in fact, small. It goes from infinity to one. I’m going to get goosebumps about this sort of stuff when I talk about it. Even today, it was only after my flight that I began to go, "I can’t be the only one who’s had this sort of reaction."</p><p>That’s when I discovered this term "the overview effect."</p><p></p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#audrey-tang">
+              
+              
+              
+              
+              <p>Actually, during this whole event, during lunch, and during the radio interviews, I’ve been asking Saskia Sassen, Souleymane Bachir Diagne, and everybody I met to put on this compass and watch Earth with me together.</p><p>This is relevant because when we’re facing issues of a global scale, they enable us to think in ways that’s different from the ways that we used to think.</p><p>Yesterday, or really the day before yesterday, the French Assembly passed a very important law, the "République Numérique," the digital republic bill.</p><p>The bill works like an overview effect. On the Internet, when seen from the edges of the Internet, we see all the transnational issues. But when we are on the Internet, we still keep our different values. We want to live as what the French people have always valued. In the cyberspace, as well as the physical space.</p><p>These values in the act, of course, includes the Internet’s primary virtue, that everybody can talk to everybody freely, that everybody has the equal access to Internet as a basic human right, and that whatever we put on the Internet should be secure, should be trustworthy, should not be surveilled, should not be tampered with.</p><p>These are just things valued in the real space and the same things we value in cyberspace, as well. When they talked about this bill, there were a very involved process of Internet consultation. This bill was done with a consultation with the Netizens, and everybody voted which act in this bill do they like, do they dislike, why, and they can propose new ideas.</p><p>One of the new ideas that came since the original draft of the bill, was that six months from now, the French government must write a report explaining to the Parliament, to the Assembly.</p><p>Whereas before, we had the Senate and the Assembly, now there’s also the Internet. The government sends all bills first to the Internet, after deliberation, and then to the Assembly.</p><p>Now, the challenge is to figure out how actually to implement this, and we have six months of time.</p><p>Now, in Taiwan, one year ago, we started a very similar thing, and I was a facilitator, moderator and architect of this system, which we call vTaiwan, which talk about more or less the same things as the Numérique République bills talked about.</p><p>But as we talk about these things more and more, we think that we discover many things that one nation cannot solve by its own, one place cannot solve by its own.</p><p>There are problems like Uber -- sorry -- challenges like Uber and AirBnB, which are of such a global scale that one sovereign entity is not sufficient to talk this problem through.</p><p>So we use the same Internet deliberation methods to talk about these transnational issues.</p><p>This slide is called "the day before yesterday", because it’s past midnight now. The day before yesterday, I was in the streets, and I saw the taxi driver on strike. They also waved this flag, says, "We want the same protections from our nation, but the government is not delivering it," and so on.</p><p>Then, the tricky thing is that last time when I was in Paris, and in June and August, there were exactly the same strikes. It has been going on for a couple years. [laughs] It’s not making visible progress. While the Netizens can deliberate very meaningfully on the digital republic issues, the Uber issue still puzzles the Parisians.</p><p>Now, when I talked to the drivers, and I did in the past few days -- both the Uber drivers and the taxi drivers -- they all tell me that the main problem was that they don’t think they have the same information the government is having. One driver told me that they think that the government is only talking to the lobbyists in the private sector.</p><p>Or if the civil society can enter it, it’s just through one or two committee members who does not really have a representative power to the rest of the civil society.</p><p>While the civil society has solidarity and it links itself together and so on, because it doesn’t have the same decision information that the government has, there is no trust between people with asymmetry of information.</p><p>How do we solve this problem? How can we feel the position of each other?</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#voiceover-richard-gariott">
+              
+              
+              
+              
+              <p>We would all benefit if we all had a shared experience of this kind. Virtual reality is very well positioned right now. It’s starting to give truly immersive experiences and make you feel like you’re there.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#voiceover-spacevr-staff">
+              
+              
+              
+              
+              <p>The difference between a flat video and VR is the difference between watching a football game and being in the stadium.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#voiceover-jeffrey-mamber">
+              
+              
+              
+              
+              <p>It wasn’t until I experienced virtual reality that it became clear to me that it’s one of the missing pieces in the puzzle of how we get everybody to understand the beauty of space.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#voiceover-spacevr-staff">
+              
+              
+              
+              
+              <p>The overview effect has such a profound impact that once you’ve seen it, there is no going back.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#audrey-tang">
+              
+              
+              
+              
+              <p>There’s one saying in politics: "Where you stand depend on where you sit."</p><p>If we all sit in our respective drivers’ seats, so to speak, we of course argue for the thing that we stand. There is no neutral space and mediation space where we can see other people’s viewpoints.</p><p>This is why it’s so important to have Internet where we can, on the Internet, have a non-violent way for the civic society to participate in a multi-stakeholder dialogue, which used to be only between the government and the private sector, because the government can say, "A part of Internet is now a space of mediation where everybody can enter."</p><p>One of the very good examples is the WorldWide Views on the COP21. Last June, the same day, more than 100 countries worldwide had debates at the same time from the civil society, just citizens sitting down and look at agenda of the COP21 and see what they think about it, how they feel about it, and they are all aggregated on the Internet.</p><p>France is very special because it has 14 different debates going on at the same time, one for each region. But in Taiwan, although technically we only had the one debate, we actually had three. We had one in Taipei, one in Taichung, and one in Tainan, in the three different cities in Taiwan.</p><p>The trick is that for each city, we have a hall of about this size with 100 people. But then we installed two walls that are very large projector screens, so that when you look to the left, you see the other city people. When you look to the right, you see to the other city people.</p><p>It’s like the three cities are linked together. We stood together, and we danced to the same music, and so on. It’s as if that we’re in the same room, just a larger room.</p><p>Another innovation that Taiwan did was that in addition to the COP21 agenda, the civil society also proposed their own agenda about the climate, about local issues. One of the three mayors, Mayor Lai Ching-Te, have then agreed that this is a very good idea.</p><p>From there on, controversial issues according to the development needs which has ecological issues, must be deliberated in a very similar way involving the civil society, using a deliberative forum like this, and kept to the record.</p><p>This is why we use and we train professional mediators for this purpose, because only with professional mediators can we look at the government and the civil society, as well as the private sector, and share the early stage information so that people can participate with policies before they become problems, when they are initially just challenges.</p><p>This brings us to the world of today. This, from Wikipedia, is a map of Uber around the world. The red means they’re illegal. The green dots means the cities that they are legal. The pink, like in France and in Taiwan, means that they are currently in contention. They are controversial. We prepared this with the Wikipedia community last year.</p><p>Then we say that we must deliberate this, and people want to deliberate first about Uber and about AirBnB and then next about BitCoin. Then, the way that we do this is that we crowdsource the agenda from the participation for the Internet, and that we say we talk about very specific things, just private drivers without private drivers’ license taking passengers and charging them for it.</p><p>We don’t talk about the sharing economy, the Uber company, or the large narratives, larger values. We use an "overlapping consensus" way to focus on just one single issue.</p><p>Then, we publish the open data, and we guarantee that all the stakeholders, including Taxi fleets, Uber, the Associations, the Ministries, will sit down and talk like this for two hours, using the agenda crowdsourced from the Internet.</p><p>This is what we show to everybody in the same time, in the same hour of the day. People see on Pol.is one single sentiment from their fellow citizens. They can say yes or no. As they say yes or no, their position change among the people, so that initially there’s four groups of Uber drivers, taxi drivers, Uber passengers, other passengers, and they have very strong views.</p><p>But the good thing about this way of reflection is that it lets you see your Facebook friends or Twitter friends are all over the different camps. They’re not enemies. They’re people you know. You just didn’t know they have such ideas. [laughs] Those are not your enemies. Those are your friends. That’s one thing.</p><p>The other thing is that people’s position can change. As you answer questions, people can propose new sentiments that are more nuanced, more moderate, and then they get more consensus. They go to the middle, and they merge into shared groups. After three weeks of deliberation, we actually agreed on a lot of things that everybody across Taiwan could agree while they couldn’t in the first.</p><p>We published the open data for independent analysis from scholars and from the policymakers and from Uber themselves, and then we run a deliberation with all the stakeholders in the same room, looking at the consensus, this form from the Internet, and talk on only those points.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#voiceover-jaclyn-tsai">
+              
+              
+              
+              
+              <p>What we do not want to see, is by evoking the name of innovation, you do not pay taxes, or use it as an excuse to break laws.</p><p>I am delighted to see professionals of Taxis willing to work with the Uber for further dialogues. We certainly hope to improve the quality of transport in Taiwan with innovative methods.</p><p>I want to thank you all for your participation. Today, I am firmly convinced that we can find the best way to advance the quality of transport services in Taiwan. And this consultation mechanism can be a reference for the world. Thanks to you all.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#audrey-tang">
+              
+              
+              
+              
+              <p>That’s Minister Jaclyn Tsai, originally led IBM Asia’s law department. The thing is that after this kind of method, we extract promise from all the stakeholders. If their promise overlap, we have a bill right there. If we don’t, if it needs more clarification, help from the local government and so on, as it currently is, everybody know why UberX is still illegal.</p><p>There’s no lobbying. It’s totally transparent. Until the promise is met, there’s no legalization. The AirBnB people saw this way, and then they took the same deliberation process, except they encouraged all their members to join, and then they agreed on each and every consensus, so it could be made legal.</p><p>My point is that with this kind of empowered space, the private sector and the civil society can trust each other in this kind of space, and then they trust the government to propose the early stage idea and upload it to the public deliberation. The public petitioned ideas can also upload into the government, so it becomes a bi-directional link.</p><p>We know iterated, repeated bi-directional link are the foundation of trust. Without that, you do not have trust.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#voiceover-chandana-ekanayake">
+              
+              
+              
+              
+              <p>Tilt Brush was one of my favorite demos when I first got to try the Vive. I love it. It’s one of the best things I have done and like to show it off to people that never tried VR.</p><p>It’s mind-blowing. It’s so crazy. It’s more like sculpting in space than painting. It’s so bright and vivid in there. It’s like the Matrix, man. It’s hard to come back out of it.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#audrey-tang">
+              
+              
+              
+              
+              <p>Because of time, I have to rush this a little bit. But the point is that I was just talking with Blaise, and we thought in virtual reality a facilitator can talk with not just 300 people with telecommunication and telepresence. We can talk with 7,000 people, as we have here, because people can just put on their Google Cardboard or some other virtual reality headset, and participate virtually, as if they are there.</p><p>Blaise had this wonderful way of putting it, "shepherding," That’s how he put it. The facilitator can say, "These people are talking about a sub-topic, so I shepherd you into this small room, a virtual room."</p><p>Then you go there and deliberate and have consensus and bring it back, and then we can have a larger policy discussion, not just across the three cities in Taiwan, but across nations and across countries, as well.</p><p>Finally, I think this is about attention — The symmetry of attention. This is my last slide.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#voiceover-spacevr-staff">
+              
+              
+              
+              
+              <p>We won’t just be bystanders to history. We will feel like active participants, standing side by side with astronauts.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#audrey-tang">
+              
+              
+              
+              
+              <p>It is my wish that — this is also a French idea, from Lacan — this Borromean Knot means all the three sectors cannot do without each other. If one breaks, everyone breaks. We’re in the same earth together. This is my hope, that with the digital democratic tools, we can go closer and closer to this ideal.</p><p>Thank you very much. Shall I show your slides?</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#blaise-agüera-y-arcas">
+              
+              
+              
+              
+              <p>Thank you, Audrey.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <narrative><p><i>(applause)</i></p></narrative>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#florent-latrive">
+              
+              
+              
+              
+              <p>Blaise, you have started to explain to us how we worked with artificial intelligence, so you could start with your presentation now about the political consequences of all that.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#blaise-agüera-y-arcas">
+              
+              
+              
+              
+              <p>Audrey, thank you so much for setting us with a sub-optimal but functional situation, here.</p><p>I really only found out about the work that you are doing today, in our earlier conversation. I find it incredibly inspiring.</p><p>I think that, for me, what it really left is the sense that we need to have both shared architectures that are about the use of the Internet to empower people in political process. That means that there’s something that is centralized, and there’s something that’s decentralized, both.</p><p>You need infrastructures that are centralized in the sense, for example, that anybody can type a URL on their computer and get to the same place. That requires a degree of centralization.</p><p>The idea that the Internet is a kind of amorphous gas has not been true for a very long time. It isn’t, in fact, a way that the Internet can work scalably. At the same time, you have to have the agency to be able to participate as an individual.</p><p>If we really start to think about what I think the promise and the concern is about the day after tomorrow, a lot of it, in my mind, has to do with striking the balance between on the one hand, being able to work effectively collectively.</p><p>Even when we have profound differences of values, even when we don’t all agree on the principles and things like the kind of mediative process that you’re suggesting, I think are very powerful tools for doing that.</p><p>Yet, at the same time that we have this mediative and collective super-organism, if you like, I think it’s also vitally important that we preserve our own individuality and our own agency and our own power to be ourselves and to be alone. Without being able to be both together and alone, I think we sacrifice one of the two halves of what it means to be human.</p><p>I know that this was set up, in theory, as some kind of debate, but I think we’re in much more violent agreement than not, on all of these points.</p><p>I don’t know honestly how much value there is in going through the slides. I think probably the best thing that I can do is to really move to the parts of this that...Of course, the most visual parts will also be the most compromised by doing it this way, butI think it’s also the most interesting thing that’s in the slides.</p><p>This past summer has been really the season of machine intelligence doing art. I don’t know how many of you are aware of these developments. Those of you who spend a lot of time on text sites on the Internet have probably seen these things. Those who don’t may not have seen.</p><p>But it’s been a very, very interesting moment, because we think about creativity and about imagination and so on as being really core human properties that are very much not connected with computers. Computers can be tools, perhaps, but the idea of a computer, for example, being creative or having imagination seems crazy.</p><p>But as a computational neuroscientist, which is my original field, somebody who is not only interested in building things but in studying brains and understanding how brains work, we’re in Paris. You’re the people who wrote "L’Homme Machine" and books like this that really kicked off the enlightenment in many ways and that posit the idea that we are actually mechanisms.</p><p>We’re not some kind of abstract spirit. Our brains work according to physical processes. In some sense, of course everything that we do with our brains can be done with other physical substrates. To not believe that is to be a dualist. That doesn’t mean that there isn’t something remarkable and magical about being human and about having a mind.</p><p>But it does mean that I don’t think that we are going to have a monopoly on any of those qualities for the indefinite future. As we understand more and as we build more, we will find that all of those parts of what it means to be human are ultimately things that we can construct and create, as well as be.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#florent-latrive">
+              
+              
+              
+              
+              <p>An example of machine learning, doing art?</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#blaise-agüera-y-arcas">
+              
+              
+              
+              
+              <p>Yes. Let me skip all of the expository material, and find something along those lines. This is just a fun picture that may actually come across in the camera. This is a picture of Rosenblatt, who was a very early pioneer in computer science, who actually did attempt to implement the neuron-based computational model that von Neumann and Turing talked about, way back in the ’40s and ’50s.</p><p>This device is called the Perceptron. It’s actually a physical instantiation of a brain built using wires. Of course, this also shows you why that could not have worked, using that technology. He died in 1971.</p><p>This is maybe just interesting for a bit of historical color. One of the earliest data sets that was really used in a systematic way for testing various kinds of machine learning and machine intelligence is called MNIST. It was put together by the US’s Bureau of Standards for solving a very, very simple problem. Just for reading the numbers on the zip codes of postal addresses.</p><p>It’s really just designed for testing various different kinds of approaches to reading numbers. They commissioned a lot of schoolchildren and also teachers to write numbers again and again and again, in order to have enough data to train all of these kinds of systems and also to test them and see how good they were. This was the benchmark for many years for all kinds of machine learning approaches.</p><p>It got steadily a little bit better but still actually sort of crappy for many, many years, up until the point when we really returned to deep networks, networks that were similar in structure to the kinds of things that Rosenblatt had done, but with many more neurons and with the full power of all this training data. Then, suddenly, this problem was immediately solved.</p><p>The way that the solution to the problem looks can be visualized in these kinds of diagrams, which I don’t want to get too technical, but essentially, what it amounts to is models of neurons in layers, each one processing a patch of image and feeding forward the output of that analysis on that patch image to another layer. These models proceed in layers just like cortical layers, just like layers of cortex in the brain.</p><p>What I find really most compelling about these things is not only that they solve these kinds of simple problems better than any previous technology did, but also that they learned to solve them in ways that look very much like what you actually see when you put electrodes into the brains of rats or macaque monkeys or other animals and observe what happens in real brains.</p><p>These are obviously experiments with some ethical implications, but they’re also very important experiments if we want to understand how these things work. What you’re seeing here are the learned patterns for these artificial neural networks trained to recognize simple images.</p><p>What you see on the right are the so-called receptive fields of neurons early in visual cortex of a real animal. You see that the patterns are essentially the same. You can see this is a kind of example of convergence evolution, if you like, in which we design a system that is unconstrained with respect to how it solves the problem, but it has a brain-like architecture.</p><p>We look at a real system that has solved the problem with a brain architecture, and we see that they’ve learned how to do this in the same way. If you look at the responses of the neurons higher up in these artificial neural networks, you see sensitivity to more and more sophisticated forms of patterns and shapes and so on.</p><p>I know I’m providing a lot of very visual examples. We do obviously more things than just the analysis of pictures, but this is easy to show in slides. At least, it would be easy to show in slides. Let me show you what happens if you now take one of those kinds of networks and you reverse it.</p><p>What I mean by reverse it is you train a network to recognize what’s in a picture, but then instead of using it forward, you use it in reverse. You take a picture that is known...Let me skip this file transfer for the moment. Let me go to something else. You take a picture that is known, like this one. This is not a trick image. It’s just a picture of some clouds in the sky.</p><p>You feed them to a neural network that is looking for meaning in this picture. What is meant by meaning here is 1 of roughly 1,000 categories of label, including various breeds of dogs and cars and so on. Then you say, "Instead of just telling me what you see, why don’t you modify the image in order to enhance the things that you see? Show us what you see in the clouds."</p><p>If you do that, you begin to see some patterns emerge in the picture. Progressively, what emerges is something that looks, to my eye, a little bit like a sort of Buddhist fantasia with all kinds of crazy structures appearing in the clouds. Are you able to see this on the screen in enough detail to make anything out? These were fascinating and surrealistic images.</p><p>When we first saw them in the beginning of the summer, I really was blown away. One of the researchers who did this work, Mike Tyka, realized that what this procedure did was to add detail to images. You could try letting this deep neural network hallucinate or free associate by alternating this process with zooming in on the image.</p><p>This generates something like a semantic fractal, which looks like this. I was going to show you one other crazy hallucination that began with a surfer and ended with something very strange happening in the scene. Here’s the zooming-in video. We start with the clouds with all kinds of things hallucinated onto them.</p><p></p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#audrey-tang">
+              
+              
+              
+              
+              <p>Let’s show this in stereo.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#blaise-agüera-y-arcas">
+              
+              
+              
+              
+              <p>Now, if you had the goggles, and you were seeing this in your headset, this could be in 3D...</p><p>I find this utterly fascinating to watch. What you really are seeing...After the first few frames, it’s no longer about the original image in any way. It’s, if you like, just a fugue or a fantasia that’s entirely based on things that have been learned by this neural network from all the example images that it’s seen.</p><p>It’s a free-associational path through that space of ideas. I also think it’s important to emphasize that this is not somehow drawing from a giant database of images in order to generate this movie. It’s not as if there are 500 terabytes of images, and they’re being pasted on with a Photoshop-like operation at all.</p><p>The neural network that makes this is only a few million weights. In other words, it’s encoded in a little brain, if you like, that is about the same size as an ordinary, like as a single picture that you might take with your mobile phone.</p><p>It’s just that, instead of the pixels in that picture representing the intensities of the way light fell on one pixel of the sensor, they’re representing the weight of a particular neural connection between one neuron and another. If you come away with one thing from looking at this, what I’d like it to be is really that we start to have these brain-like systems.</p><p>I think that this is profound because everything that we have done in human history so far has really been born out of our own minds and our own brains. What we start to have now is a kind of meta technology that allows us to bring the same kind of power to bear to thinking that we have born to making.</p><p>Let me give maybe a simple analogy. We do something like cooking or combustion in our own bodies when we eat. The process of cellular restoration is about taking proteins and burning them to make energy for our own bodies.</p><p>But when we invented cooking fires and we externalized some of that capability, we were able to eat much better, and we were able to spend much more of our time doing things that weren’t just about getting food. In many ways, the invention of the cooking fire was really the birth of complex human civilization.</p><p>I think, in some sense, what we start to see here is the birth of cooking fire, but for thinking.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#florent-latrive">
+              
+              
+              
+              
+              <p>In fact, this technology, it’s important that you have talked, both of you, about values embedded in technologies. Sometimes, we say that technology is neutral. Is it the case or not? How do you think that we should work on technology to avoid that we face some crush, for instance?</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#blaise-agüera-y-arcas">
+              
+              
+              
+              
+              <p>I don’t think that technologies are neutral. There is a big debate in the US. It’s, of course, the only industrialized country that is having this debate about guns in which the people in favor of not having gun control say things like, "Guns are neutral pieces of technology, and it’s people who kill people and not guns."</p><p>Of course, it’s generally true that a person has to be pulling the trigger in order for somebody to die at the other end of the gun. But the gun is not a neutral technology. It’s a technology that is designed to kill people. There’s no other purpose for a gun.</p><p>As the makers of the technology, we absolutely have a moral responsibility to think about what that technology makes easy or hard, what is natural for it, and what’s not natural for it. Any technology that’s powerful, I think, can be used to do harm.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#florent-latrive">
+              
+              
+              
+              
+              <p>That’s a good example, because for the kind of technology you show us about pattern recollection or image recognition, right now, we see more and more of this technology used to recognize people, to distinguish between the black and white and the people who behave this way or this way. It’s many control technologies and not empowerment technologies.</p><p>How could you avoid that? You, because these technologies are coming from a huge corporation like Google. How can you and how can the government shape that kind of technology...?</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#blaise-agüera-y-arcas">
+              
+              
+              
+              
+              <p>The ability to recognize people from an image of their face and recognize a bunch of their characteristics, of the same kinds of characteristics that you or I would see when we look at a person’s face, is in itself a neutral technology.</p><p>I say that it’s neutral because it really is just about an algorithm perceiving things from an image that we perceive ourselves with our own eyes and brains. What’s not neutral is where that technology is put and what it’s used for.</p><p>For example, if that’s running locally on your own device...Let’s imagine for the moment that you have a retinal implant that runs the Face Net algorithm, which by the way is also one that our team developed. Face Net takes a picture of a face, and represents it as a small set of numbers that are unique to that face.</p><p>If the face is from another point of view or lit differently, it’ll resolve to the same numbers. This can be very, very useful if it’s implanted in your retina, and you meet many people and you forget their names, the way I do, because I could hear or I could perhaps see the name tag, the reminder, and this would make me much less socially awkward in a lot of different situations.</p><p>If, on the other hand, we take the same exact technology and we attach it to all of the cameras that are surveilling the street corners in London, then we have a massive surveillance technology for tracking everybody, wherever they go in the city. That’s not OK.</p><p>One of these applications is, I think, quite sinister and quite invasive of people’s privacy and agency. The other one is, I think, purely empowering for at least certain classes of people who meet a lot of others that are not very good with names, and has really very few downsides.</p><p>In this case, I think a lot has to do with not what the brain does, because it’s the same thing that our brains do, but where that brain runs and who owns the brain, and where does the output of it go? Those are exactly the same kinds of questions that arise from cameras.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#audrey-tang">
+              
+              
+              
+              
+              <p>Just a quick word. In the beginning of the free software movement, Richard Stallman who started this idea of free software, defined four different kind of freedoms about software.</p><p>The first, the second, and the third freedom is to take a program and to modify it, to distribute it. That became the open source movement, which now everybody knows about — open data, open source, and so on.</p><p>But the zeroth freedom that Stallman defined -- he called it freedom zero -- it means the freedom of doing things with software that affects primarily yourself.</p><p>Because he thinks if you have the software and its effect affects everybody, tens of thousands of people, it’s no longer freedom. It is power. A freedom has a very narrow definition that means the software’s decisions enhance yourself, but then it affects primarily you. This is the only way I would like.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#florent-latrive">
+              
+              
+              
+              
+              <p>We are very far from a decentralized organization, and everybody can own and control technology, but all this technology is centralized heavy by corporation or government both. We are very far from that.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#blaise-agüera-y-arcas">
+              
+              
+              
+              
+              <p>I’m not sure how far we are from that. I think that the situation is not necessarily as you see it, in the sense that, for example, an Android phone is an incredibly powerful computing device which, when you buy it, is yours. Anything, any software that you run on this device that executes locally is your software running on your data.</p><p>The fact that the last 10 years have seen a flowering of web technologies that involve services I think is...Many of these services do amazing things that we didn’t have before. I’m a very frequent user of Google Docs, for example. I find it amazing that I’m able to collaborate with somebody with a Google Doc across the world, and we can each see what we’re typing on this doc as we go.</p><p>This is a capability that either requires some kind of instantaneous peer-to-peer transport of the data between those devices or that they be stored on the server somewhere. Obviously, the things that come from it being stored on a server somewhere are very, very powerful. But that doesn’t mean that this is the only paradigm that gets to exist.</p><p>We already have vast amounts of computing power in our purses and in our pockets. A lot of the software does run in our purses and our pockets. I think this is frankly a learned helplessness more than it is a fact.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#audrey-tang">
+              
+              
+              
+              
+              <p>Again, just one word from me. We have existential proof in the form of a project that is sponsoring work with some free software people. It’s called Sandstorm. What it does is it flips the default. It makes it possible to think of the web like you install apps on your phone. By default, it’s secure, it’s sand-boxed. It can only run on the server you trust.</p><p>You still do the typing together, just like Google Doc, and I designed this spreadsheet with Dan Bricklin, called EtherCalc. It’s like Google Spreadsheet, but the difference is that it’s on a server that you trust, you control, and at any point that you can download everything. It’s called data portability, and then put it to the friend’s server. If your own computer has a hardware problem, you can migrate with no problem at all.</p><p>The point is that we changed the default. We flipped the default. Now with this way of doing things, we still go on coding, but now it’s secure and free by default. That’s my only point.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#florent-latrive">
+              
+              
+              
+              
+              <p>Both of you are believers in technology. You are strongly optimist about that. You think that we are capable of doing stuff, interesting stuff with that. If you have only one fear, something could go ugly with technology. What can it be?</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#blaise-agüera-y-arcas">
+              
+              
+              
+              
+              <p>I think that the most disastrous thing that I know of right now that is happening as a consequence of our technology is the destruction of our ecosystem, actually. There are other scenarios that we can hypothesize about in the future, but this is one that we know is happening now and is a direct consequence of our technology.</p><p>It’s a consequence of our wealth. We wouldn’t have these kinds of impacts on our ecosystem if it weren’t for the massive increases in output of farming and the discovery of fertilization from hydrocarbons and so on and so forth. All of these things have allowed us to explode our population in ways that would have been impossible otherwise.</p><p>There are more people rising out of extreme poverty now than ever. Even though wealth inequality is an enormous problem and is growing, it’s also the case that extreme poverty is well on the road to being eradicated, which is an extraordinary achievement. There’s much less suffering in the world now than there ever has been before.</p><p>At the same time, we are living unsustainably. My big fear is that we fail to use our technology and our governance to manage our own environment in such a way that we achieve a sustainable state. I think there’s no question that this is the biggest failure mode that faces us over the next century.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#florent-latrive">
+              
+              
+              
+              
+              <p>Thank you, Blaise.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#audrey-tang">
+              
+              
+              
+              
+              <p>Can I take two minutes?</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#florent-latrive">
+              
+              
+              
+              
+              <p>Two minutes.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#audrey-tang">
+              
+              
+              
+              
+              <p>Yeah, two minutes. Start counting...</p><p>I was just talking with Saskia Sassen about that on a radio show a few hours ago. She has this idea of expulsion. People just dislocate, because of the ecological impact and the governmental issues that Blaise just described. The fact is that they fell off the statistics. We don’t see them from the GDPs anymore.</p><p>We don’t see them from any kind of numbers anymore, because they stopped registering, they were dislocated. I would echo that I think the greatest danger is that we stop seeing, we stop reflecting, and that our vision we have for the future becomes a tunnel vision of a future, that only allows one possibility and excludes everybody out.</p><p>Now, I know that during tonight, everybody is reading poetry at Quai d’Orsay. [laughs] I have a very short poetry of a minute and a half that I’d like to read for you that talks about reflections. Again, we do this thing. I will be reading in English.</p><p>Through radio and television,</p><p>one person can speak</p><p>to millions of people.</p><p></p><p>Now, for the first time,</p><p>we can listen to millions of people</p><p>through the internet.</p><p></p><p>Like many of you, I was a digital migrant;</p><p>22 years ago, I moved into the internet</p><p>when I was 12 years old.</p><p></p><p>In the cyberspace, as in the physical world,</p><p>new migrants and natives have much to learn from one another.</p><p>Our particular approach is through Open Data, and Open Space.</p><p></p><p>Open Data turns raw measurements into social objects:</p><p>people gather around budgets, laws and regulations.</p><p>These become topics of discussions just like “today’s weather”.</p><p>Open Space blends our individual feelings into shared reflections:</p><p>within a reflective space, we gradually become aware</p><p>of ourselves, forming a crowd — the “dēmos” in Democracy.</p><p></p><p>Transparent, like a glass;</p><p>Reflective, like a mirror.</p><p>These are the two democratic properties</p><p>of digital spaces.</p><p></p><p>We, the early makers of digital democracy in the 21st century,</p><p>are like the early makers of reflecting telescopes in the 17th century;</p><p>we’re full of innovations and eager to explore the stars.</p><p></p><p>Personally speaking,</p><p>I’m very happy to learn that the Night of Ideas</p><p>is making an space of such innovations around the world.</p><p></p><p>For only through learning from each other,</p><p>can we truly enter an Age of Science —</p><p>then eventually going beyond it,</p><p>into the Age of Reflection.</p>
+            </speech>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <narrative><p><i>(applauses and cheers)</i></p></narrative>
+          
+        
+      
+      
+      
+    
+      
+        
+          
+            <speech by="#audrey-tang">
+              
+              
+              
+              
+              <p>Machine learning, and Human learning.</p>
+<p>Thank you for attending the night of ideas.</p>
+            </speech>
+          
+        
+      
+      </debateSection>
+      
+    
+
+    </debateBody>
+  </debate>
+</akomaNtoso>
+
+
