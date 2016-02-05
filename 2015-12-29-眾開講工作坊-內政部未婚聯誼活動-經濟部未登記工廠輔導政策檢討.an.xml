@@ -1,11 +1,9 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <akomaNtoso>
 <script/>
 <debate>
 <meta>
 <references>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/何袖綾" id="何袖綾" showAs="何袖綾"/>
-<TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/內政部" id="內政部" showAs="內政部"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/內政部同仁" id="內政部同仁" showAs="內政部同仁"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/劉意銓" id="劉意銓" showAs="劉意銓"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/劉智雯" id="劉智雯" showAs="劉智雯"/>
@@ -20,9 +18,8 @@ This XML file does not appear to have any style information associated with it. 
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/林怡怡" id="林怡怡" showAs="林怡怡"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/林漢彬" id="林漢彬" showAs="林漢彬"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/林純秀" id="林純秀" showAs="林純秀"/>
-<TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/經濟部" id="經濟部" showAs="經濟部"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/經濟部同仁" id="經濟部同仁" showAs="經濟部同仁"/>
-<TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/聯經數位" id="聯經數位" showAs="聯經數位"/>
+<TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/聯經數位同仁" id="聯經數位" showAs="聯經數位同仁"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/許世峰" id="許世峰" showAs="許世峰"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/許正宗" id="許正宗" showAs="許正宗"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/趙晏正" id="趙晏正" showAs="趙晏正"/>
@@ -255,7 +252,7 @@ join相關培訓都有機會參與，目前有協助台北市、台南市做利�
 <speech by="#回饋2">
 <p>太專業了。</p>
 </speech>
-<speech by="#聯經數位">
+<speech by="#聯經數位同仁">
 <p>
 初步理解這議題是農地工廠許多是未登記，無法有環保措施或基本設施無法做控管而導致一些問題，希望可以把他列管，但老實說這議題因為他涉及的不是一般大眾，是特定的民眾，我不確定他是否適合放這個平台做討論。
 </p>
@@ -282,7 +279,7 @@ join相關培訓都有機會參與，目前有協助台北市、台南市做利�
 有提到的數字結構化之後好像會比較理解狀況，11000真正輔導成功只有四千多，那剩下七千怎麼了？狀態是什麼？另外一條線是根本沒登記的兩萬七為什麼沒有進來？有什麼困難？把這些說明更清楚，對議題本身有更多了解。
 </p>
 </speech>
-<speech by="#聯經數位">
+<speech by="#聯經數位同仁">
 <p>
 聽完經濟部之後發現出來內政部問題很口語化，只是少了說明、再提供一些連結或參考資料，可是經濟部就是少了口語化，一般網民可能無法短時間就，或是要花長時間去看資料才能了解，可以加入剛剛會議對話內容，可以快速了解，方便更多人參與。
 </p>
@@ -301,13 +298,13 @@ join相關培訓都有機會參與，目前有協助台北市、台南市做利�
 <speech by="#唐鳳">
 <p>有人會因為交不出回饋金？到底多少錢？</p>
 </speech>
-<speech by="#經濟部">
+<speech by="#經濟部同仁">
 <p>中間就要付出，回饋金至少十幾萬跑不掉。</p>
 </speech>
 <speech by="#唐鳳">
 <p>所以加起來是好幾個十幾萬。五十到一百多？</p>
 </speech>
-<speech by="#經濟部">
+<speech by="#經濟部同仁">
 <p>不止。</p>
 </speech>
 <speech by="#唐鳳">
@@ -448,16 +445,16 @@ JOIN來看的還是一般民眾，的確這個議題應該鎖定專業的人，�
 主要是收集怎麼辦更好，但如果大家都覺得不要辦也可以暫停？所以主要就是參採join平台。會放在白皮書檢討報告裡面。關心的立委是這兩位，立委會反對是否通常有什麼原因？例如支持者反彈？
 </p>
 </speech>
-<speech by="#內政部">
+<speech by="#內政部同仁">
 <p>立委反對內政部辦理未婚聯誼的理由，可能是基於預算編列及使用之考量。</p>
 </speech>
-<speech by="#內政部">
+<speech by="#內政部同仁">
 <p>段是對內政部、文化部，因為文化部拍了鼓勵大家結婚的影片，他說人口政策是生育不是結婚。</p>
 </speech>
 <speech by="#呂家華">
 <p>有沒有可能把背景說明寫進去。</p>
 </speech>
-<speech by="#內政部">
+<speech by="#內政部同仁">
 <p>立委質疑的部分，不宜納入議題說明。</p>
 </speech>
 <speech by="#呂家華">
