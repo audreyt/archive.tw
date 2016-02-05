@@ -1,4 +1,3 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <akomaNtoso>
 <script/>
 <debate>
@@ -13,7 +12,6 @@ This XML file does not appear to have any style information associated with it. 
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/唐鳳" id="唐鳳" showAs="唐鳳"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/a同學" id="a同學" showAs="A同學"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/peggy-lo" id="peggy-lo" showAs="Peggy Lo"/>
-<TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/peggy-lo-2" id="peggy-lo-2" showAs="Peggy  Lo"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/劉英純" id="劉英純" showAs="劉英純"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/呂家華" id="呂家華" showAs="呂家華"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/徐淑芷" id="徐淑芷" showAs="徐淑芷"/>
@@ -282,18 +280,18 @@ This XML file does not appear to have any style information associated with it. 
 我相信卡片中所儲存的資訊大家也應該很關心，所以我們在整個內容當中，我們會說明卡片儲存的內容到底有哪一些資料，民眾最關心的是資訊安全部分，就資訊安全的做法，因為考慮到一張卡遺失，民眾會不會很麻煩，因此就身分證遺失的話，事實上對民眾更方便。盡量讓民眾知道晶片身分證的做法，因為有很多的反對意見是來自於對我們做法不明白，因此我們盡量就大家想知道或較有質疑的資訊盡量提出。
 </p>
 </speech>
-<speech by="#peggy-lo-2">
+<speech by="#peggy-lo">
 <p>最後列出來實際上會問大家問題，討論的內容是不是這一個部分？</p>
 </speech>
 <speech by="#黃旭初">
 <p>是。</p>
 </speech>
-<speech by="#peggy-lo-2">
+<speech by="#peggy-lo">
 <p>
 我快速唸一遍，唸完後請環保署、財政部快速看過，他們議題的設定，看起來是先說明eID會存什麼內容，以及大家關心的資安他們說會更安全，還有最常見的Q＆A，討論問題部分寫的是「內政部擬推動eID，eID 結合了國民身分證、自然人憑證及健保卡，並依國人自行決定是否再結合電子票證，您對本計畫上述內容有什麼想法或疑慮」也就是整體包含在一起問有什麼問題，另外也提到「如果有其他任何的建議，也歡迎一併留言讓我們知道」。
 </p>
 </speech>
-<speech by="#peggy-lo-2">
+<speech by="#peggy-lo">
 <p>
 平常網友也不會看這麼多，我先請教坐在我左側的環保署跟財政部，看完以上的東西，有沒有任何意願回覆？回覆什麼內容？如果不願意回覆，你覺得網友討論這個議題的困難點為何？請說明一下小小的想法。
 </p>
