@@ -10,7 +10,7 @@
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/環保署" id="環保署" showAs="環保署"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/科技會報" id="科技會報" showAs="科技會報"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/財政部" id="財政部" showAs="財政部"/>
-<TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/高分" id="高分" showAs="高分"/>
+<TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/王國政" id="王國政" showAs="王國政"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/黃東益教授" id="黃東益教授" showAs="黃東益教授"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/簡宏偉" id="簡宏偉" showAs="簡宏偉"/>
 <TLCPerson href="/ontology/person/peggy.sayit.mysociety.org/peggy-lo" id="peggy-lo" showAs="Peggy Lo"/>
@@ -27,7 +27,7 @@
 <i>(Part 1 - 開場報告)</i>
 </p>
 </narrative>
-<speech by="#高分">
+<speech by="#王國政">
 <p>開會時間:105年2月4日(星期四)下午1時30分</p>
 <p>開會地點:本會寶慶辦公區B136會議室(臺北市中正區寶慶路3號地下1樓)</p>
 <p>主 持 人:簡處長宏偉</p>
@@ -60,7 +60,7 @@
 <speech by="#唐鳳">
 <p>程序問題，今天的討論可以公開嗎？</p>
 </speech>
-<speech by="#高分">
+<speech by="#王國政">
 <p>先給出席者</p>
 </speech>
 <speech by="#簡宏偉">
@@ -293,7 +293,7 @@ eID有透過院長信箱或內政部，他有說他不會寫email或用這個網
 <speech by="#簡宏偉">
 <p>可以想一下。彈跳視窗的確會比較困擾。我的看法是不要干擾，不干擾就會願意，之後人家就不想來了。</p>
 </speech>
-<speech by="#高分">
+<speech by="#王國政">
 <p>
 內部機關調查的部分也是滿重要的，坦白說很多內政部的議題也是外部壓力才會po，例如婚姻媒合、eID，排雲山莊也是行政院要求，希望未來是政策形成前就把議題po出來，政府機關寧願被鄉民在不同平台罵，不會擔心外面發展成什麼樣子，很怕在這邊他需要去處理，社群好像就可以被當成不知道。內部問卷建議真的要做。
 </p>
@@ -338,10 +338,10 @@ eID有透過院長信箱或內政部，他有說他不會寫email或用這個網
 </p>
 <p>第一：逐字稿的文化法國是daily來做。</p>
 <p>
-第二，數位共合法，他們沒有虛擬調適案，法國變成一個立法案子處理，因為他們有網路部部長，英國跟美國不同，不管行政或立法主導，這個的東西目的是不把立法院跟行政院跟網路掛勾，把網路當成上下議院的緩衝區，審查網路法案是逐條來做，每個人可以提出不同法案法條的版本；例如大家看到這一條就是法國網民提的被放進實際的立法中。
+第二，數位共和法。相當於虛擬調適案，但法國變成一個立法案子處理，因為他們有網路部部長。和英國跟美國不同，不管行政或立法主導，這個條文的目的是不把立法院跟行政院跟網路掛勾，而是把網路當成上下議院的緩衝區，審查網路法案是逐條來做，每個人可以提出不同法案法條的版本；例如大家看到這一條就是法國網民提的被放進實際的立法中。
 </p>
 <p>
-院會版本送國會之前，也要在網路上逐條審查，行政體系本身也很害怕，如果每一條速國會法案一下沒法連結到關係人跟不上網的人怎麼辦，接下來六個月我會當他們的顧問思考如何處理這些事情。
+院會版本送國會之前，也要在網路上逐條審查，行政體系本身也很害怕，如果每一條國會法案一下沒法連結到關係人跟不上網的人怎麼辦，接下來六個月我會當他們的顧問思考如何處理這些事情，再提出可行性報告。
 </p>
 </speech>
 </debateSection>
