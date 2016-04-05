@@ -5,245 +5,245 @@
     <meta>
       <references>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/周占春" id="周占春" showAs="周占春"/>
+        <TLCPerson href="/ontology/person/::/周占春" id="周占春" showAs="周占春"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/陳瑞仁" id="陳瑞仁" showAs="陳瑞仁"/>
+        <TLCPerson href="/ontology/person/::/陳瑞仁" id="陳瑞仁" showAs="陳瑞仁"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/范光群" id="范光群" showAs="范光群"/>
+        <TLCPerson href="/ontology/person/::/范光群" id="范光群" showAs="范光群"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/林子儀" id="林子儀" showAs="林子儀"/>
+        <TLCPerson href="/ontology/person/::/林子儀" id="林子儀" showAs="林子儀"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/陳傳岳" id="陳傳岳" showAs="陳傳岳"/>
+        <TLCPerson href="/ontology/person/::/陳傳岳" id="陳傳岳" showAs="陳傳岳"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/盧仁發" id="盧仁發" showAs="盧仁發"/>
+        <TLCPerson href="/ontology/person/::/盧仁發" id="盧仁發" showAs="盧仁發"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/許志雄" id="許志雄" showAs="許志雄"/>
+        <TLCPerson href="/ontology/person/::/許志雄" id="許志雄" showAs="許志雄"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/曾勇夫" id="曾勇夫" showAs="曾勇夫"/>
+        <TLCPerson href="/ontology/person/::/曾勇夫" id="曾勇夫" showAs="曾勇夫"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/林明德" id="林明德" showAs="林明德"/>
+        <TLCPerson href="/ontology/person/::/林明德" id="林明德" showAs="林明德"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/楊仁壽" id="楊仁壽" showAs="楊仁壽"/>
+        <TLCPerson href="/ontology/person/::/楊仁壽" id="楊仁壽" showAs="楊仁壽"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/黃教範" id="黃教範" showAs="黃教範"/>
+        <TLCPerson href="/ontology/person/::/黃教範" id="黃教範" showAs="黃教範"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/郭瑞蘭" id="郭瑞蘭" showAs="郭瑞蘭"/>
+        <TLCPerson href="/ontology/person/::/郭瑞蘭" id="郭瑞蘭" showAs="郭瑞蘭"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/尤三謀" id="尤三謀" showAs="尤三謀"/>
+        <TLCPerson href="/ontology/person/::/尤三謀" id="尤三謀" showAs="尤三謀"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/陳長" id="陳長" showAs="陳長"/>
+        <TLCPerson href="/ontology/person/::/陳長" id="陳長" showAs="陳長"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/蕭新煌" id="蕭新煌" showAs="蕭新煌"/>
+        <TLCPerson href="/ontology/person/::/蕭新煌" id="蕭新煌" showAs="蕭新煌"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/黃瑞明" id="黃瑞明" showAs="黃瑞明"/>
+        <TLCPerson href="/ontology/person/::/黃瑞明" id="黃瑞明" showAs="黃瑞明"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/古嘉諄" id="古嘉諄" showAs="古嘉諄"/>
+        <TLCPerson href="/ontology/person/::/古嘉諄" id="古嘉諄" showAs="古嘉諄"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/王酉芬" id="王酉芬" showAs="王酉芬"/>
+        <TLCPerson href="/ontology/person/::/王酉芬" id="王酉芬" showAs="王酉芬"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/顧立雄" id="顧立雄" showAs="顧立雄"/>
+        <TLCPerson href="/ontology/person/::/顧立雄" id="顧立雄" showAs="顧立雄"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/翁岳生" id="翁岳生" showAs="翁岳生"/>
+        <TLCPerson href="/ontology/person/::/翁岳生" id="翁岳生" showAs="翁岳生"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/邱聯恭" id="邱聯恭" showAs="邱聯恭"/>
+        <TLCPerson href="/ontology/person/::/邱聯恭" id="邱聯恭" showAs="邱聯恭"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/林永義" id="林永義" showAs="林永義"/>
+        <TLCPerson href="/ontology/person/::/林永義" id="林永義" showAs="林永義"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/朱武獻" id="朱武獻" showAs="朱武獻"/>
+        <TLCPerson href="/ontology/person/::/朱武獻" id="朱武獻" showAs="朱武獻"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/江惠民" id="江惠民" showAs="江惠民"/>
+        <TLCPerson href="/ontology/person/::/江惠民" id="江惠民" showAs="江惠民"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/林國賢" id="林國賢" showAs="林國賢"/>
+        <TLCPerson href="/ontology/person/::/林國賢" id="林國賢" showAs="林國賢"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/黃瑞華" id="黃瑞華" showAs="黃瑞華"/>
+        <TLCPerson href="/ontology/person/::/黃瑞華" id="黃瑞華" showAs="黃瑞華"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/黃旭田" id="黃旭田" showAs="黃旭田"/>
+        <TLCPerson href="/ontology/person/::/黃旭田" id="黃旭田" showAs="黃旭田"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/呂太郎" id="呂太郎" showAs="呂太郎"/>
+        <TLCPerson href="/ontology/person/::/呂太郎" id="呂太郎" showAs="呂太郎"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/黃國鐘" id="黃國鐘" showAs="黃國鐘"/>
+        <TLCPerson href="/ontology/person/::/黃國鐘" id="黃國鐘" showAs="黃國鐘"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/朱坤茂" id="朱坤茂" showAs="朱坤茂"/>
+        <TLCPerson href="/ontology/person/::/朱坤茂" id="朱坤茂" showAs="朱坤茂"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/黃宗樂" id="黃宗樂" showAs="黃宗樂"/>
+        <TLCPerson href="/ontology/person/::/黃宗樂" id="黃宗樂" showAs="黃宗樂"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/朱楠" id="朱楠" showAs="朱楠"/>
+        <TLCPerson href="/ontology/person/::/朱楠" id="朱楠" showAs="朱楠"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/彭紹瑾" id="彭紹瑾" showAs="彭紹瑾"/>
+        <TLCPerson href="/ontology/person/::/彭紹瑾" id="彭紹瑾" showAs="彭紹瑾"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/楊思勤" id="楊思勤" showAs="楊思勤"/>
+        <TLCPerson href="/ontology/person/::/楊思勤" id="楊思勤" showAs="楊思勤"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/顏大和" id="顏大和" showAs="顏大和"/>
+        <TLCPerson href="/ontology/person/::/顏大和" id="顏大和" showAs="顏大和"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/李太正" id="李太正" showAs="李太正"/>
+        <TLCPerson href="/ontology/person/::/李太正" id="李太正" showAs="李太正"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/蔡明憲" id="蔡明憲" showAs="蔡明憲"/>
+        <TLCPerson href="/ontology/person/::/蔡明憲" id="蔡明憲" showAs="蔡明憲"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/陳玉珍" id="陳玉珍" showAs="陳玉珍"/>
+        <TLCPerson href="/ontology/person/::/陳玉珍" id="陳玉珍" showAs="陳玉珍"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/蘇永欽" id="蘇永欽" showAs="蘇永欽"/>
+        <TLCPerson href="/ontology/person/::/蘇永欽" id="蘇永欽" showAs="蘇永欽"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/吳志清" id="吳志清" showAs="吳志清"/>
+        <TLCPerson href="/ontology/person/::/吳志清" id="吳志清" showAs="吳志清"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/陳惠馨" id="陳惠馨" showAs="陳惠馨"/>
+        <TLCPerson href="/ontology/person/::/陳惠馨" id="陳惠馨" showAs="陳惠馨"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/鍾曜唐" id="鍾曜唐" showAs="鍾曜唐"/>
+        <TLCPerson href="/ontology/person/::/鍾曜唐" id="鍾曜唐" showAs="鍾曜唐"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/李鴻禧" id="李鴻禧" showAs="李鴻禧"/>
+        <TLCPerson href="/ontology/person/::/李鴻禧" id="李鴻禧" showAs="李鴻禧"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/許宗力" id="許宗力" showAs="許宗力"/>
+        <TLCPerson href="/ontology/person/::/許宗力" id="許宗力" showAs="許宗力"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/陳清秀" id="陳清秀" showAs="陳清秀"/>
+        <TLCPerson href="/ontology/person/::/陳清秀" id="陳清秀" showAs="陳清秀"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/江義雄" id="江義雄" showAs="江義雄"/>
+        <TLCPerson href="/ontology/person/::/江義雄" id="江義雄" showAs="江義雄"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/吳茂雄" id="吳茂雄" showAs="吳茂雄"/>
+        <TLCPerson href="/ontology/person/::/吳茂雄" id="吳茂雄" showAs="吳茂雄"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/林大洋" id="林大洋" showAs="林大洋"/>
+        <TLCPerson href="/ontology/person/::/林大洋" id="林大洋" showAs="林大洋"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/黃肇松" id="黃肇松" showAs="黃肇松"/>
+        <TLCPerson href="/ontology/person/::/黃肇松" id="黃肇松" showAs="黃肇松"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/李念祖" id="李念祖" showAs="李念祖"/>
+        <TLCPerson href="/ontology/person/::/李念祖" id="李念祖" showAs="李念祖"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/廖宏明" id="廖宏明" showAs="廖宏明"/>
+        <TLCPerson href="/ontology/person/::/廖宏明" id="廖宏明" showAs="廖宏明"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/尤美女" id="尤美女" showAs="尤美女"/>
+        <TLCPerson href="/ontology/person/::/尤美女" id="尤美女" showAs="尤美女"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/姜志俊" id="姜志俊" showAs="姜志俊"/>
+        <TLCPerson href="/ontology/person/::/姜志俊" id="姜志俊" showAs="姜志俊"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/吳啓賓" id="吳啓賓" showAs="吳啓賓"/>
+        <TLCPerson href="/ontology/person/::/吳啓賓" id="吳啓賓" showAs="吳啓賓"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/莊崑山" id="莊崑山" showAs="莊崑山"/>
+        <TLCPerson href="/ontology/person/::/莊崑山" id="莊崑山" showAs="莊崑山"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/黃正彥" id="黃正彥" showAs="黃正彥"/>
+        <TLCPerson href="/ontology/person/::/黃正彥" id="黃正彥" showAs="黃正彥"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/邵良正" id="邵良正" showAs="邵良正"/>
+        <TLCPerson href="/ontology/person/::/邵良正" id="邵良正" showAs="邵良正"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/黃武次" id="黃武次" showAs="黃武次"/>
+        <TLCPerson href="/ontology/person/::/黃武次" id="黃武次" showAs="黃武次"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/楊隆順" id="楊隆順" showAs="楊隆順"/>
+        <TLCPerson href="/ontology/person/::/楊隆順" id="楊隆順" showAs="楊隆順"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/李震山" id="李震山" showAs="李震山"/>
+        <TLCPerson href="/ontology/person/::/李震山" id="李震山" showAs="李震山"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/莊春山" id="莊春山" showAs="莊春山"/>
+        <TLCPerson href="/ontology/person/::/莊春山" id="莊春山" showAs="莊春山"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/簡錫堦" id="簡錫堦" showAs="簡錫堦"/>
+        <TLCPerson href="/ontology/person/::/簡錫堦" id="簡錫堦" showAs="簡錫堦"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/李進誠" id="李進誠" showAs="李進誠"/>
+        <TLCPerson href="/ontology/person/::/李進誠" id="李進誠" showAs="李進誠"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/吳運東" id="吳運東" showAs="吳運東"/>
+        <TLCPerson href="/ontology/person/::/吳運東" id="吳運東" showAs="吳運東"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/張作錦" id="張作錦" showAs="張作錦"/>
+        <TLCPerson href="/ontology/person/::/張作錦" id="張作錦" showAs="張作錦"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/城仲模" id="城仲模" showAs="城仲模"/>
+        <TLCPerson href="/ontology/person/::/城仲模" id="城仲模" showAs="城仲模"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/魏千峰" id="魏千峰" showAs="魏千峰"/>
+        <TLCPerson href="/ontology/person/::/魏千峰" id="魏千峰" showAs="魏千峰"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/謝文定" id="謝文定" showAs="謝文定"/>
+        <TLCPerson href="/ontology/person/::/謝文定" id="謝文定" showAs="謝文定"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/李遠哲" id="李遠哲" showAs="李遠哲"/>
+        <TLCPerson href="/ontology/person/::/李遠哲" id="李遠哲" showAs="李遠哲"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/王如玄" id="王如玄" showAs="王如玄"/>
+        <TLCPerson href="/ontology/person/::/王如玄" id="王如玄" showAs="王如玄"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/王錦村" id="王錦村" showAs="王錦村"/>
+        <TLCPerson href="/ontology/person/::/王錦村" id="王錦村" showAs="王錦村"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/李家慶" id="李家慶" showAs="李家慶"/>
+        <TLCPerson href="/ontology/person/::/李家慶" id="李家慶" showAs="李家慶"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/吳豐山" id="吳豐山" showAs="吳豐山"/>
+        <TLCPerson href="/ontology/person/::/吳豐山" id="吳豐山" showAs="吳豐山"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/林錦芳" id="林錦芳" showAs="林錦芳"/>
+        <TLCPerson href="/ontology/person/::/林錦芳" id="林錦芳" showAs="林錦芳"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/韋端" id="韋端" showAs="韋端"/>
+        <TLCPerson href="/ontology/person/::/韋端" id="韋端" showAs="韋端"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/莊碩漢" id="莊碩漢" showAs="莊碩漢"/>
+        <TLCPerson href="/ontology/person/::/莊碩漢" id="莊碩漢" showAs="莊碩漢"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/許慶復" id="許慶復" showAs="許慶復"/>
+        <TLCPerson href="/ontology/person/::/許慶復" id="許慶復" showAs="許慶復"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/張升星" id="張升星" showAs="張升星"/>
+        <TLCPerson href="/ontology/person/::/張升星" id="張升星" showAs="張升星"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/張世興" id="張世興" showAs="張世興"/>
+        <TLCPerson href="/ontology/person/::/張世興" id="張世興" showAs="張世興"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/張富美" id="張富美" showAs="張富美"/>
+        <TLCPerson href="/ontology/person/::/張富美" id="張富美" showAs="張富美"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/陳猷龍" id="陳猷龍" showAs="陳猷龍"/>
+        <TLCPerson href="/ontology/person/::/陳猷龍" id="陳猷龍" showAs="陳猷龍"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/陳錦隆" id="陳錦隆" showAs="陳錦隆"/>
+        <TLCPerson href="/ontology/person/::/陳錦隆" id="陳錦隆" showAs="陳錦隆"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/越方如" id="越方如" showAs="越方如"/>
+        <TLCPerson href="/ontology/person/::/越方如" id="越方如" showAs="越方如"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/黃文圝" id="黃文圝" showAs="黃文圝"/>
+        <TLCPerson href="/ontology/person/::/黃文圝" id="黃文圝" showAs="黃文圝"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/黃立" id="黃立" showAs="黃立"/>
+        <TLCPerson href="/ontology/person/::/黃立" id="黃立" showAs="黃立"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/黃榮村" id="黃榮村" showAs="黃榮村"/>
+        <TLCPerson href="/ontology/person/::/黃榮村" id="黃榮村" showAs="黃榮村"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/廖義男" id="廖義男" showAs="廖義男"/>
+        <TLCPerson href="/ontology/person/::/廖義男" id="廖義男" showAs="廖義男"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/劉光華" id="劉光華" showAs="劉光華"/>
+        <TLCPerson href="/ontology/person/::/劉光華" id="劉光華" showAs="劉光華"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/劉幸義" id="劉幸義" showAs="劉幸義"/>
+        <TLCPerson href="/ontology/person/::/劉幸義" id="劉幸義" showAs="劉幸義"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/劉瑞村" id="劉瑞村" showAs="劉瑞村"/>
+        <TLCPerson href="/ontology/person/::/劉瑞村" id="劉瑞村" showAs="劉瑞村"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/歐育誠" id="歐育誠" showAs="歐育誠"/>
+        <TLCPerson href="/ontology/person/::/歐育誠" id="歐育誠" showAs="歐育誠"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/魏早炳" id="魏早炳" showAs="魏早炳"/>
+        <TLCPerson href="/ontology/person/::/魏早炳" id="魏早炳" showAs="魏早炳"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/林益山" id="林益山" showAs="林益山"/>
+        <TLCPerson href="/ontology/person/::/林益山" id="林益山" showAs="林益山"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/華峰" id="華峰" showAs="華峰"/>
+        <TLCPerson href="/ontology/person/::/華峰" id="華峰" showAs="華峰"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/葉金鳳" id="葉金鳳" showAs="葉金鳳"/>
+        <TLCPerson href="/ontology/person/::/葉金鳳" id="葉金鳳" showAs="葉金鳳"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/蔡碧玉" id="蔡碧玉" showAs="蔡碧玉"/>
+        <TLCPerson href="/ontology/person/::/蔡碧玉" id="蔡碧玉" showAs="蔡碧玉"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/陳憲裕" id="陳憲裕" showAs="陳憲裕"/>
+        <TLCPerson href="/ontology/person/::/陳憲裕" id="陳憲裕" showAs="陳憲裕"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/陳運財" id="陳運財" showAs="陳運財"/>
+        <TLCPerson href="/ontology/person/::/陳運財" id="陳運財" showAs="陳運財"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/段重民" id="段重民" showAs="段重民"/>
+        <TLCPerson href="/ontology/person/::/段重民" id="段重民" showAs="段重民"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/林勤綱" id="林勤綱" showAs="林勤綱"/>
+        <TLCPerson href="/ontology/person/::/林勤綱" id="林勤綱" showAs="林勤綱"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/曾有田" id="曾有田" showAs="曾有田"/>
+        <TLCPerson href="/ontology/person/::/曾有田" id="曾有田" showAs="曾有田"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/李相助" id="李相助" showAs="李相助"/>
+        <TLCPerson href="/ontology/person/::/李相助" id="李相助" showAs="李相助"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/池啓明" id="池啓明" showAs="池啓明"/>
+        <TLCPerson href="/ontology/person/::/池啓明" id="池啓明" showAs="池啓明"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/黃朝義" id="黃朝義" showAs="黃朝義"/>
+        <TLCPerson href="/ontology/person/::/黃朝義" id="黃朝義" showAs="黃朝義"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/蔡秋明" id="蔡秋明" showAs="蔡秋明"/>
+        <TLCPerson href="/ontology/person/::/蔡秋明" id="蔡秋明" showAs="蔡秋明"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/王光宇" id="王光宇" showAs="王光宇"/>
+        <TLCPerson href="/ontology/person/::/王光宇" id="王光宇" showAs="王光宇"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/高育仁" id="高育仁" showAs="高育仁"/>
+        <TLCPerson href="/ontology/person/::/高育仁" id="高育仁" showAs="高育仁"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/江春男" id="江春男" showAs="江春男"/>
+        <TLCPerson href="/ontology/person/::/江春男" id="江春男" showAs="江春男"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/黃敏雄" id="黃敏雄" showAs="黃敏雄"/>
+        <TLCPerson href="/ontology/person/::/黃敏雄" id="黃敏雄" showAs="黃敏雄"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/常照倫" id="常照倫" showAs="常照倫"/>
+        <TLCPerson href="/ontology/person/::/常照倫" id="常照倫" showAs="常照倫"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/莊勝榮" id="莊勝榮" showAs="莊勝榮"/>
+        <TLCPerson href="/ontology/person/::/莊勝榮" id="莊勝榮" showAs="莊勝榮"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/高志尙" id="高志尙" showAs="高志尙"/>
+        <TLCPerson href="/ontology/person/::/高志尙" id="高志尙" showAs="高志尙"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/游乾賜" id="游乾賜" showAs="游乾賜"/>
+        <TLCPerson href="/ontology/person/::/游乾賜" id="游乾賜" showAs="游乾賜"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/紀俊乾" id="紀俊乾" showAs="紀俊乾"/>
+        <TLCPerson href="/ontology/person/::/紀俊乾" id="紀俊乾" showAs="紀俊乾"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/林輝煌檢" id="林輝煌檢" showAs="林輝煌（檢）"/>
+        <TLCPerson href="/ontology/person/::/林輝煌檢" id="林輝煌檢" showAs="林輝煌（檢）"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/吳景芳" id="吳景芳" showAs="吳景芳"/>
+        <TLCPerson href="/ontology/person/::/吳景芳" id="吳景芳" showAs="吳景芳"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/林堭儀" id="林堭儀" showAs="林堭儀"/>
+        <TLCPerson href="/ontology/person/::/林堭儀" id="林堭儀" showAs="林堭儀"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/蘇素娥" id="蘇素娥" showAs="蘇素娥"/>
+        <TLCPerson href="/ontology/person/::/蘇素娥" id="蘇素娥" showAs="蘇素娥"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/林輝煌審" id="林輝煌審" showAs="林輝煌（審）"/>
+        <TLCPerson href="/ontology/person/::/林輝煌審" id="林輝煌審" showAs="林輝煌（審）"/>
       
-        <TLCPerson href="/ontology/person/jrf.sayit.mysociety.org/丁原進" id="丁原進" showAs="丁原進"/>
+        <TLCPerson href="/ontology/person/::/丁原進" id="丁原進" showAs="丁原進"/>
       
       </references>
     </meta>
@@ -36883,7 +36883,7 @@
       
         
           
-            <speech by="#林輝煌審">
+            <speech by="#林輝煌">
               
               
               
