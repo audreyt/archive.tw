@@ -1,0 +1,333 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Theo Bass" id="Theo Bass" showAs="Theo Bass">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2016-07-30 Interview with Nesta</heading>
+        <speech by="#Theo Bass">
+          <p>I’ll go ahead. Is it OK if I record from this end?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes, of course.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>Great. I’ll start by asking you if you could start by giving me a bit of a note about the political context in Taiwan, and then some background about how g0v and why it’s formed.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>How far back should I start? 1988 or...?</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>Start with the beginnings of g0v and why it was formed. Don’t need to go into too much detail about the historic context in Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The g0v community started at the end of 2012 by a bunch of hackers, and one of which is my very good friend, Chia-Liang Kao. They initially started this initiative to build a domain name g0v.tw, that provides an alternate shadow government website for every national ministry, so that it solves the discovery problem.</p>
+          <p>The environmental agency, for example, that would be env.g0v.tw. Everybody can change the O in the browser environment to a 0, and then get into this shadow government which presents the same information, except open source, and with good visualization, interactive, and participatory.</p>
+          <p>After a couple of months, I joined working with the ministry of education’s dictionary data. We eventually covered pretty much all the agencies that we care about for administration. We have a community code that basically says all g0v projects must be released with open source and creative commons licenses.</p>
+          <p>This means that when a government is happy with our work, then they merge with our work, which they did. That’s a very interesting no-violence competitive way of working with the government; then in 2014, the Sunflower occupy movement happened.</p>
+          <p>Before the Sunflower Movement, our hackathons are usually proposed by non-government organizations, and hacktivists, and artist, and professors, and so on. After Sunflower, we now gets people getting on the podium, and doing a three-minute pitch, who are actually government officials themselves.</p>
+          <p>The roles have become fused at that point. Basically, it’s the government officials, participating as individuals, saying that they’re engaging volunteers to improve their function in the government.</p>
+          <p></p>
+          <p>In exchange, of course, they offer binding consultation with their political power, and offers to allow the civil society to control the future of those projects, and keep everything open source. This is open multi-stakeholderism, to put it in simply. That has been true since 2015.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>Interesting. I didn’t realize there was such a strong buy-in from government officials themselves. Interesting. Could you tell me a bit...what’s your role in the organization? Are you a volunteer? I know you are probably involved in lots of projects.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re all volunteers in g0v, it is not a formal organization. It’s just hackathons after hackathons. Anyone who shows up becomes a participant, and that’s about it.</p>
+          <p>I’m retired, so I have more time to put in into volunteer work than people who work with their day job and contribute after work on g0v projects.</p>
+          <p>So I may contribute more but I have no particular role.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>Tell me a bit about hackathons -- how to organize them? I remember hearing that you have 100 to 600 people.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s correct, yeah.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>A very large number of people. How do you go about organizing the skills, and how do you go about organizing people’s time? How do they work?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. I’m not involved in organizing the larger hackathons — including the initial one. They are organized by a group of five to seven people now. It’s classic open space technology.</p>
+          <p></p>
+          <p>There’s a very predictable pace about this: The registration opens one a predetermined day, and then it usually gets filled out by, I don’t know, six hours after opening. It’s very popular, and of course, it’s free of charge, but if you want you can donate to pay for the food.</p>
+          <p>Pretty much all the income that people donate ends up going to the food section, so we always have very good food, which is the only thing that people will remember a month after the hackathon anyway. Then at the beginning of the day, around 7:00 AM, people will start preparing the extension cords or connection equipment, batches, stickers, whatever, and travel toward the venue.</p>
+          <p>Then around nine in the morning, people will arrive at the venue which is Academia Sinica for the larger hackathons, and take some three to seven stickers that they think they fit their particular aspirations and/or skillset.</p>
+          <p>So the people would take their stickers, for example stickers that says law, and environment, and science, and storytelling, or whatever. Then they put them up on their shoulders — think of this as a tagging system of human resources.</p>
+          <p>Then after half an hour or so, people would go up to the podium, and then hook up their laptops and take three minutes each doing a pitch, basically saying, &quot;OK, I have this great idea, but I cannot do this alone. This is what I have. I would need two coders, two designers, one storyteller, and one public policy person.&quot;</p>
+          <p>Usually, there’s about 20 such pitches, after which we play musical chairs. As in classic open space technology, people flock to the projects that they like, but if they see an overflow of human resources, then they get redirected.</p>
+          <p>Then there’s two stickers, one being, &quot;I’m the first time here,&quot; and one being, &quot;I’m a veteran.&quot; Usually, people with this &quot;deer in a headlight&quot; sticker, meaning that they are the first time here, and get stuck in the middle of the room.</p>
+          <p>Then people with this &quot;Taiwan black bear&quot; sticker walks toward them, and then saying, &quot;Work with me. Talk to us what you care about. What’s your passion,&quot; and so on. They will end up being diverted into a project.</p>
+          <p>After one full day and sometimes two full days of hacking, there’s, of course, five minutes presentations. After each project presents what they have achieved over the one day or two day hackathon, they will agree on meet-up schedule.</p>
+          <p>Maybe every two weeks in some physical space, maybe every week, and maybe a combination of slide channels or whatever. Whatever they manage to agree. Then, or course, all of this is live-streamed and stenographed, and real-time transcribed into our chat channels which is our system of record.</p>
+          <p>People who discovered it after the fact, they can still join those projects. Then we have some low running projects. About half of the projects end up being not getting a lot of things.</p>
+          <p>By the next hackathon the human resource will be free to work on something new, but at least whatever they have produced, it remains on GitHub, and people can take it and run with it.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>I want to also ask you about some of the projects I just discovered within the links and the video that you sent. There were two interesting things regarding informing voters.</p>
+          <p>For example, there’s an interesting project around legislated records around finding all sorts of content about legislated record. Then about visualizing budgets in a way that makes information digestible and understandable, or showing there was some lack of transparency from the government’s part.</p>
+          <p>Could you tell me a bit about those two projects? I know that you sent notes -- you talked about it for ages -- I want us to hear in your words a bit more about the individual projects.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. They were both very well documented, so I would share my perspective on it. The voting one, which is vote.ly.g0v.tw meaning, the &quot;ly&quot; being the legislative, then being our parliament. It’s one of the g0v long running projects, and it started when the legislative system was not entirely open sourced.</p>
+          <p>It was IE-only for its video feeds. There’s no structured data, there’s only PDFs, pretty much like any other parliament before the open data gets into fashion. It started as a very coordinated effort, taking whatever other citizen participation efforts abroad, like the Akoma Ntoso format — I think the mySociety folks work with some South African folks on this, it’s the basis of the SayIt system, but it has a lot of other applications. There’s also the Popolo schema, and there’s... You knew all about these things perhaps.</p>
+          <p>The idea is that there’s already a vibrant community developing these standards. Most of the effort here is to write web scrapers, not so fancy work, that turns all the legislative records into something conforming to these things.</p>
+          <p>Our main contribution in here is not about the structured data, which is basically the same work in any other country, but a very strategic mergers of not only the parliamentary floor, or proceedings, or records, or what is said, but also their campaign donation records, but also their investment portfolio, and so on...</p>
+          <p>Usually, it would take three to four different civic tech websites to present this data, because they’re not fundamentally linked in a same government organ kind of way, but because of all the sibling projects in g0v around parliaments legislators are open source, so they could freely transclude each other.</p>
+          <p>It then became very quickly a handy voter’s guide, for people who want to choose among the candidates where we’re running, versus people who want to look up something for the first time running candidates. We provide our records and the discussion boards for each of these.</p>
+          <p>By voting season, people would go to here. For larger elections, maybe half a million people or something close to that amount. Then click on it and then choose the counties, cities, regions that they care about, and then it shows a lot of things.</p>
+          <p>Then it also makes each legislator or running candidates a social object, by having discussions, and Google searches, and real-time updates, subscriptions, whatever about it. This had buy-in from the central election committee late last year, late 2015, partly because the OKFN Global Data Index calls for open election data and valid data at that level.</p>
+          <p>They found that there’s already people in the civilian sector who already are very versed in this OK, Open Knowledge conforming implementations. They work to publish the platforms, and real-time statistics, and whatever, using conforming APIs. This becomes a news media by itself.</p>
+          <p>There’s also quite a few media sites building upon this, where they let people chose among controversial issues, like gay marriage or whatever that they care about, and then they show the positions that each legislator backed with the actual words that get spoken by those legislators on the floor about these issues.</p>
+          <p>Of course, this is collaboratively tagged by the NGOs who care about that particular issue. There’s maybe four or five of those issues around the candidate season. This has worked, both through the city-level election and national-level parliament elections. Does it answer your question?</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Great.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>The other thing that I’d like to say is that, while mySociety has several similar websites, I think they don’t have as many visitors as g0v does.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, the gamification is really our main contribution, not anything technical. We’ve made it into a game. That always works.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>I’m obviously asking to know about the Sunflower movement, and how g0v affected the protest.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>I want to ask you specifically about if you could summarize the tech stack which the movement is using, and how they’ve been able to use it -- the movement.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s what Clay Shirky described as &quot;situational applications&quot;. Every day we make applications in response to the demand of that day. Every day it’s a different technological stack. At the core, of course, there’s the parliament itself, industries around it, and because of that on the infrastructure level there needs to be electricity.</p>
+          <p>There’s electricity for generation. That’s the root of all the things. Then after which there’s the cable, there’s the layout, there’s IP over electric wires, there’s IP over WiMAX, there is IP over Bluetooth, there is IP over a lot of different things.</p>
+          <p>The idea is that this multiplexed network that provides a very high resiliency of any kind of spectrum period, at any given mode. By the middle of occupying our Chunghwa Telecom, which was the national telecom operator privatized 10 years ago, that’s something they never did.</p>
+          <p>They ran a fiber-optic line to a street with no address — which might be an interesting violation of their protocol, but they did it anyway — perhaps they really wanted to see high-quality live feeds instead of 480p-feeds.</p>
+          <p>After they run that fiber then we got a lot more uplink bandwidth, and then was able to offer 1080p-feeds, and some interviews with Al Jazeera, and so on. That’s the second part, the peaceful part of the occupy.</p>
+          <p>The first part, the more chaotic part of the occupy, was mostly defined by the topology of the parliament street itself. To avoid rumor to spread, we setup a LAN -- a local area network -- and we made projectors that projects whatever happens inside to the street, and whatever happened to the street to the inside, so as to not making the rumor spread.</p>
+          <p>Rumors spread anyway because people couldn’t hear that well, and they don’t want to open their phone when they hear a rumor saying there’s fire in the parliament or whatever, which is why we took a page from the Internet engineering community.</p>
+          <p>All the IETF meetings have those real-time stenographers typing in whatever captions to whatever they hear. Stenographic people as early as the second day of the occupy to type whatever they hear inside the parliament.</p>
+          <p>Then we ran the IRC channel, as a side channel on the projector on the street, so that people can very easily check with their eyes what’s happening. That actually did put a stop to rumors. Then what else? Because we have a transcript now, we were able to collect the transcripts for deliberations on the streets, and the one in the parliament.</p>
+          <p>Then we put them into hackpads, and then people take the hackpads and work on translations. People would write daily summaries and translate it to maybe 12 languages and so on. What else? There’s logistics, spreadsheet-based logistics of all the resources.</p>
+          <p>There were equipment and logistics of what you send where, when. When everything turned peaceful, this became an infrastructure of deliberation. That the seven or so sides, physical sides of deliberation each occupied a very different ideological camp, generally find themselves televised, and then transcribed.</p>
+          <p>Then like the projects that I mentioned, because everything is transcribed, people were able to include each others’ arguments even though they are physically on different side of the streets. It cross-pollinated all the ideological camps. By the end of the occupy, there are stronger, finer consensus emerged where there was none.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>How did you use Loomio, because I understand there was probably about half million people coming from the streets? How did you use this tool to create great deliberation? How did you use the outputs from those Loomio groups to actually effect some change in parliament?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>While we did provide public WiFi to the occupiers, that was very late in the process. That was the last three days of the occupy. Most of the time, we had a very high-speed intranet, but not such a high-speed uplink as I explained.</p>
+          <p>Which means that Loomio is only useful within the ICT team itself, instead of for the general public with sometimes running -- most of the time failing -- 3G connection. Loomio in its polling mode or decision-making mode is really to solve mundane everyday issues of the ICT team.</p>
+          <p>For example, how to tell people who print a badge of g0v and say that they’re engineers, but they’re actually not? It’s just they could walk the faster lane of neutral zone. That is to say the lawyers, doctors, engineers who protect the rights of people whichever camp they are in versus few engineers who volunteers to work.</p>
+          <p>They enable us to do away with those very bad ideas like asking for a national ID or something, and do something that prove that really works like asking, &quot;What’s 2 to the power of 16?&quot; That worked.</p>
+          <p>We used Loomio also for record-keeping of the deliberation, which is different. All the transcribed speech were kept on Hackpad. Hackpad, when everybody is editing, is great for troll management. A year after the fact, of course, it may get trolled and then nobody really goes back and check.</p>
+          <p>So we want somewhere static that we can keep the records of all those deliberations, which is why we used Loomio. It’s mostly outside of the Internet just as a record-keeping device during the occupy.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>I’ll get on little more about deliberation now. You mentioned in the beginning the consultations which you do in partnership with the government.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s true.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>One of the things that we’re interested in is, particularly for Nesta, is how you reconcile the logic of deliberation with large groups and a lot of policy-making. Whatever issue we think about deliberating here, there’s no obvious solutions.</p>
+          <p>It’s very difficult to get policymakers to give this idea a place in everyday processes, it’s too new and it creates massive and diverse conversations that the government can’t deal with. I wanted to know if you have any tips about how you go about doing scalable consultations.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. We have a two-day curriculum for this, which we train hundreds of public servants in. I can send you the whole curriculum. Just to summarize, the key point is that we work with the focused conversation method pioneered by some Canadians 10 years ago.</p>
+          <p>The idea is very simple. We do fact discovery, the objective part, first. We do not start by asking for, &quot;What’s your opinion on the draft?&quot; There’s no draft. We first ask for stakeholders to discover more stakeholders and share just objective facts -- what’s their experience like of this topic.</p>
+          <p>In this mode, obviously, it scales because when 100 people say the same facts, it’s just the same fact point. It’s strictly additive, there’s no room for fighting.</p>
+          <p></p>
+          <p>After the fact discovery, then we turn to the reflective part in which we ask only for people’s feelings. No suggestions or anything else. &quot;What do you feel about these objective facts that everybody can agree with?&quot; There’s no right or wrong feelings, of course.</p>
+          <p></p>
+          <p>I see it as a signal failure if people mix their feelings with their suggestions. Sometimes, people offer suggestions without backing it up with personal feelings and with the facts that led to their personal feelings.</p>
+          <p>Our methodology moves one step at a time. At the feeling stage, we only demodulate the feeling signals. Because it’s not voting, people don’t feel like they need to enlist tens of thousands of their companions.</p>
+          <p>If they do, and they shared the same feeling, it’s just one point on the feeling map, which is a multi-dimensional map that we visualize with two dimensions — to get a feeling of how polarized are people of this particular fact.</p>
+          <p>Getting people to nevertheless agree on the set of core feelings that everybody can agree on despite their apparent differences is the main work at this stage. We use Pol.is, a technology that scales to millions of people, with machine-learning based moderators. We don’t play attrition games with the trolls.</p>
+          <p>It’s basically enlisting all the participants to play part-time moderator. By the end of it, because we say only the feelings that convince a super-majority of people that’s included in the agenda of the next stage, people will strive to find eclectic, nuanced feelings that somehow transcend their differences. That’s the second stage.</p>
+          <p>The third stage, the idea or interpretation step, we do it in conjunction with the stakeholders themselves. We basically say, &quot;This how the society feels about this issue,&quot; so anyone who can come up with particular ideas that covers a majority of these feelings.</p>
+          <p>Again, this is not a vote or anything like that. It’s basically comparing other country’s legal systems in the same solution space, asking if we can copy and paste parts covering the most of these feelings -- the maximum consensus feelings.</p>
+          <p>This stage, we usually do it face-to-face. Because the fact checking and the reflections are all on the table at that moment, people don’t waste time trying to rally. They focus on just getting some solutions out.</p>
+          <p>Finally, we move to the decision stage in which there may be a referendum. Or they may be up to the parliament. It may be just the cabinet Ministers who says, &quot;It’s OK,&quot; then it’s OK. It depends on the level of the issue, of course.</p>
+          <p>The point is, that person making the decisions will take full political responsibility for the decisions knowing the popular consensus on the ideas, reflections, and the facts. Usually, they come up with something very reasonable.</p>
+          <p>Basically they are, &quot;OK, within the power of our ministry, we can take maybe 80 percent of the collective consensus. We will translate into code -- meaning a legal code.&quot; For the rest 20 percent, it may need a cross-ministry collaboration, or they would have to wait for the president’s call.</p>
+          <p>Sometimes, maybe 5 percent of it is would be against the current national direction, so the elected officials will have to say no, but at least they will have to say why. That’s it. Once you separate the stages, each individual stage is a solved problem. Most of the signal failure is just people confusing the stages.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>That’s interesting. Just to clarify, usually at the beginning of the consultation process, is that open to anyone? Does everyone know why you’re doing this consultation?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We identify the stakeholders that we know about. We send them invitation emails. We ask them to fill out the survey. They can recommend anonymously more stakeholders who may be interested.</p>
+          <p>Of course, the same form is published on our website and our Facebook pages. Non-stakeholders may still participate. We want to ensure that all the stakeholders are aware of this consultation happening.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>It’s published so that you would see all of the consultations?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes. We also publish the Pol.is data for the reflection stage, that is the feeling stage, the second stage.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>That was interesting. Is this applicable to everything, or do you think that there are issues which don’t benefit in public deliberation?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure, overly broad issues.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>What about the idea of consensus? What do you make of the idea that deliberation sometimes leads people to become more polarized? Is that what your methodology specifically aims to try to prevent?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>People are pretty polarized as is. Otherwise, there won’t be controversial issues, right? Sometimes, deliberation, if the time frame is too short, it brings out the worst of people. It’s true. It happens.</p>
+          <p>By declaring, &quot;We won’t conclude this stage until we reach a super-majority consensus feeling,&quot; we are basically say, &quot;OK, keep debating until you come up with something that you all came to agree with.&quot; That solves the problem.</p>
+          <p>Most of the pressure is created by a fixed time frame, or by an overly broad subject in which no overlapping consensus is possible. If you narrowed the issue enough, and then provide a long enough time — more than three or four weeks — then inevitably, they come to converge.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>Do you think consensus is desirable in all cases? You want to know when there’s agreement, but there may always be dissenting opinions. Is it really possible to convince everybody?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The technical term for the kind of consensus we want to reach is called rough consensus. Rough consensus meaning nobody is 100 percent happy, but people can build empathy for each other so that even though I may sacrifice a little bit, I understand that it’s better overall.</p>
+          <p>This rough consensus, of course, is never 100 percent. We never reach 100 percent. The most we did is 95% or 96%. The Pol.is designer told us explicitly, &quot;We are keeping the minority groups on the screen, so that if you have one group with tens of thousands of people and another with just five, it would still get represented as a circle and with a number five in it. It won’t get dwarfed and disappear into one pixel. It’s part of this design.&quot;</p>
+          <p></p>
+          <p>Yes, it’s very important that everybody understands the minority positions. It’s very important that the sheer numbers shouldn’t really affect anything. The way we calculate super-majority, when there are two groups, is all of the major group and half of the minor group.</p>
+          <p>So in a six-four split, the statement has to convince 80 percent of people. In an eight-two split, it has to convince 90 percent of people. Always more than half of the minority must also agree. This also makes it much harder for people to just ignore the minorities.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>Is it difficult to keep people engaged over courses around three or four weeks?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s not. People generally find it a very interesting game to play.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>Can you tell me something a little bit about the user interface of the tool, and how that encourages people to participate, and particularly how you can see views converging and diverging on the matrix?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Certainly. If you go to any Pol.is conversation, you see one sentiment of your fellow citizen. Of course, the first thing that you will see is whatever preparatory materials that we calculated to make it eye-catching for the first five seconds, and then provides just sufficient inform in the next 25 seconds.</p>
+          <p>We’re pretty scientific about this, in that we bring people who are not stakeholders and try to make them read through it. After which, you will see one sentiment from your fellow citizen, in which you can click yes or no, whether you agree or not, or you want to skip.</p>
+          <p>After you click yes or no, then your avatar in the two-dimension space, immediately after the one sentiment, begins to move among two to five groups of people. As you answer one statement, another one will appear.</p>
+          <p>As you answer more statements, the system gets more confidence in which group you are most similar to. The math for this is called principal component analysis. Any time the principal component changes, the x-axis gets redrawn, and the second principal component gets mapped to the y-axis in the multi-dimensional space.</p>
+          <p>We seed the initial nine statements using the initial input of all the stakeholders, like what’s their fighting points. After answering the first few, everybody can write in more eclectic feelings that they feel about this issue, in a free-form, open questionnaire. Whatever they write ends up being voted on by other fellow citizens.</p>
+          <p>If they want to sign in with Twitter or Facebook, they see the positions over their Twitter or Facebook frames, over the map. They discover that they are not actually enemies. It’s just they never talk about this over dinner.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>Can you tell me a bit about how these online consultations improve the legitimacy of decision-making by the government ministry?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It improves the decisions made by civil servants. They would need to inform, that is to say provide relevant information and expert assistance. Whenever they get asked questions, they must answer within seven days.</p>
+          <p></p>
+          <p>At the end of the day, they don’t make the decisions anyway, because Taiwan, like the UK, has an anonymous, professional civil servant system. They’re charged to provide the best solution they can think up, and the second best, and third best, and so on — but it’s up for the elected officials and the parliament to make decisions. That’s the Taiwan system. So the public servant’s role is the same, except that, of course, it’s provided not just for the elected officials anymore, but for the general public.</p>
+          <p>The elected official still has to see the consultation results of the general public and make the final decision. We’re not taking that part away. We’re just saying, between the professional civil servants who provides expert analysis, maybe they only knew half of the stakeholders. Maybe they didn’t actually know that much of the other stakeholders. This is a process to make them consider the impact along with everybody else.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>Everyone can see the voting pattern, if they want to?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, of course. Everything is open source.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>Has it any influence on the way in which the government then takes those decisions and acts on them?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes, it’s very hard for them to ignore the consensus made this way. We had an election. There’s a new president, there’s a new cabinet, but whatever consensus we reached, it’s very hard for the new minister to say no, because it’s not the result of the previous ruling party.</p>
+          <p>Up to now, all the consensus items that the previous administration did not get time to process get reaffirmed by the new minister, saying, &quot;I am not arguing against the people’s voice,&quot; so yes.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>It seems like public officials have found the g0v as neutral and worthy facilitator in this process. How do you think governments without active organizations, like g0v, might lay directives without this kind of active community?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s easy if they can find someone within the government structure who are not tied to one particular office, or ministry, or agency. The French has the Center of National Debate. At the moment they do it for construction development cases only.</p>
+          <p>Their staff is in government positions, but it’s collaboratively chaired by a head of the builder community and a head of the green community. So if you don’t have this kind of third-party, civilian sector, you can build one by engaging multi-stakeholderism within the government itself, and that also works.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>It seems like there’s a really active community, and there’s a lot of people and there’s a lot of hunger for participation and activism within the planning context.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Mm-hmm.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>Also one of the things which I find most impressive in the big context is you have a country, which is basically electrified, and you have all these amazing experiments, and you have the model in place for such an innovation to evolve.</p>
+          <p>I’m just wondering how, in other cases, say in the UK where we struggle a lot with getting people involved in politics, maybe Nesta can play that role in the UK.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That would be great. Another of our contributions, which I just sent to you, is what we call assistive civic technology. Meaning that, you mentioned people who are on Facebook or Twitter all the time and don’t have a fraction of the mindset to participate in the public space and so on.</p>
+          <p>There is another bunch of people, the digital have-nots, who will always want to participate if you give them the chance, because, in their life, there was no time or room for Facebook or for Twitter. I think starting with these people makes a lot of sense.</p>
+          <p>The same deliberative process, combining what we call mixed reality, face-to-face, and reflective spaces, and the four stages, was provided to the stakeholders of social housing — disaster victims, aborigines, homeless, mentally handicapped, physically handicapped, people who don’t get housing.</p>
+          <p>We have these people’s full attention, for obvious reasons, when we bring the process to them. I think that’s a very worthwhile first step. It’s very easy to prove, and it also bridges the digital gap, which is sometimes considered the Achilles’ heel of digital consultations. It might be worthwhile to start in this area.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>That’s really interesting. Also, it would be great to have a copy of that. You said there was a kind of consultation curriculum.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>It’d be great if there’s a copy of that and have a look-through, just to see the methodology you just described in more detail, but also in terms of the practical advice you give the public officials, it sounds really quite interesting.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. I’ve sent you a link to the curriculum and a brief memo.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>There’s a lot more to ask you. Let’s say a city wants to do something similar, in terms of encouraging greater public outreach and civic engagement, what are the practical lessons that you would suggest, and what are the main pitfalls that you would argue need to be avoided?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>When you say a city that wants to work, do you mean the mayor, the public servants, or the council?</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>Let’s say, take the lessons from the UK, it’s likely a ministry, or a ministerial select committee, or something a bit of a national level.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In two words: Engage early.</p>
+          <p></p>
+          <p>If you engage early enough, you can’t go wrong. If you engage when you have no idea how to solve the issue, then you can’t go wrong.</p>
+          <p></p>
+          <p>If you engage with already a draft, it would take very, very high-skilled rhetoric to make this work. That’s the critical issue.</p>
+          <p>Of course, the more pressure you get from your internal and external stakeholders, the better, because doing this process will relieve you of that pressure. If one ministry or commission is met with undue pressure, usually it’s not really targeted at that ministry — It’s the stakeholders failing to communicate with each other.</p>
+          <p></p>
+          <p>The more pressure you get from more directions, the more likely it will work. That’s about it.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>In a sense, it’s really important that participants have agenda-setting power.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Mm-hmm.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>They set the priorities for discussions, set the agenda for discussion.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes. In open multi-stakeholderism, it never works if the agenda-setting is just late-stage, or is fake, or something like that.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>That makes a lot of sense in the UK, since in the UK case we did have something called the public reading stage, which was where the draft is going out, and then it was read to the public, but they weren’t relating.</p>
+          <p>We had serious problems with engagement, and people felt that the whole process was pessimistic.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The zero option is not an option at that stage, not a real option, so people of course wouldn’t contribute their time, because they don’t get symmetric attention for their time.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>That’s great. Thank you, Audrey. I’m really appreciative of your time. You guys have got a lot of work to do in the next few weeks, so good luck. I will message you if we do write the blog about some of the stuff that we talked about, and I’ll send it to you first.</p>
+          <p>I think that you guys are doing such amazing and inspiring work. Keep it up.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Thank you. It’s fun, so we’ll keep it up.</p>
+          <p></p>
+          <p>Have a good localtime. Thank you. Bye.</p>
+        </speech>
+        <speech by="#Theo Bass">
+          <p>OK, bye.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Cheers.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
