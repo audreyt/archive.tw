@@ -1,0 +1,77 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Leila Collins" id="Leila Collins" showAs="Leila Collins">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2016-07-30 Ridesharing in Taiwan</heading>
+        <speech by="#Leila Collins">
+          <p>Tell me a bit about yourself — how do you get into this community of civic tech and open data?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I started working with internet tech since 1993, initially with Gopher and then with World Wide Web invited in 1994–95 switched to it. I started a few internet startups and worked as a web tech entrepreneur &amp; also with free software movement for 20 years, retired in 2013, and now works full-time on civic tech as a hobby.</p>
+        </speech>
+        <speech by="#Leila Collins">
+          <p>Does most of your work focus in Taiwan?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Most of my projects, such as the EtherCalc spreadsheet, and contributions to SayIt/Hackpad/Sandstorm etc., are international in nature.</p>
+        </speech>
+        <speech by="#Leila Collins">
+          <p>Tell me a bit about what was the problem you were addressing in Taiwan. What was the story of Uber in Taiwan? What was the concern Taipei had? The book needs to address in the format of: problem, solution, and results.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Certainly. The write-up on http://www.shareable.net/blog/open-data-hactivists-help-taipei-craft-regulatory-response-to-uber covered the “problem” part pretty well.</p>
+          <p>The “solution” part involves: Fact discovery through multi-stakeholder survey ; Feeling assessment through Pol.is interaction online ; Interpretation through face-to-face deliberations augmented with livestream &amp; text participation. Decisions is made by cabinet members informed by the results of the previous three stages.</p>
+        </speech>
+        <speech by="#Leila Collins">
+          <p>Would you like to expand on the decisions?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Ratified consensus 1 — Private cars dispatched through a digital platform should be legal. Cars dispatched through an app should not need to be painted yellow. That said, only taxis painted yellow can pick people up off the street.</p>
+          <p>Ratified consensus 2 — This is more nuanced and details will be more clear in a couple months. Building on the first consensus item, the group agreed that the government should encourage and or fund similar platforms run by coops for underserved areas, but the group had no clear consensus on whether the government should either a) subsidize the research and development of efficient tools to make the coops profitable or could b) work with the city government to offer tax incentives. Already, the Kaohsiung city said they would support local efforts; there are already ridesharing communities that can now operate for profit, so the government will help them to get more efficient with r&amp;d or directly subsidize them.</p>
+          <p></p>
+        </speech>
+        <speech by="#Leila Collins">
+          <p>How can ridesharing be profitable in under-served areas?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For example, one can use existing forums like LINE or Facebook Messenger to make ride-planning accessible. Through this, and with careful application of differential privacy methods, you can share traffic patterns and allocate the rides better.</p>
+          <p>There are lots of solutions in this space, it’s just a matter or balancing it with the local government’s plans. Nationally, in September it will be announced what actually gets subsidized.</p>
+        </speech>
+        <speech by="#Leila Collins">
+          <p>Are there other ratified plans that are not part of the vTaiwan consensus?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes. The new Administration came up with three tactics to convert UberX drivers to the legal local alternatives.</p>
+          <p>First — Working with the Ministry of Economic Affairs’ Investment Commission to cancel Uber Inc.’s foreign investment, citing their failure to declare as a transportation company;</p>
+          <p>Second — Working with the Ministry of Finance try to sue Uber Inc. for tax fraud. This is the tactic some other cities have done — saying they have part time employer tax responsibilities that they have not been doing;</p>
+          <p>Third — The Ministry of Transportation keeps fining UberX drivers for operating illegally — this works even under the deregulated app-based dispatch law, if Uber Inc. does not register as a local company.</p>
+        </speech>
+        <speech by="#Leila Collins">
+          <p>Do you think these tactics will work?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Taken alone, I think none of the three tactics would work by itself — either in Taiwan or in other countries — because the Uber App can just keep operating without being a local company.</p>
+          <p>However, there is a chance of working if all three are taken together and implemented efficiently.</p>
+        </speech>
+        <speech by="#Leila Collins">
+          <p>Are there anything from the Taiwan experience that you would like to share with other cities?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We made it a national issue, not just a city issue.</p>
+          <p>When we are planning the deliberation, UberX was only operating in Taipei. Since that time, UberX had expanded to cities around Taiwan, making it harder to reach binding consensus.</p>
+          <p>However, the current result is also more scalable, so for other cities, I think it is essential to reach a state-level consensus; it will work better if the result stays constant across elections.</p>
+          <p>For EU states, it may be useful to agree on the EU level, too. The “European agenda for the collaborative economy” is a good checklist to start with, but implementation will depend on each member state.</p>
+          <p>If an implementation is generally accepted at parliament level, it will discourage lobbying in individual cities.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
