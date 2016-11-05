@@ -1,0 +1,119 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/David Plouffe" id="David Plouffe" showAs="David Plouffe">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2016-11-04 Meeting with David Plouffe, conclusion</heading>
+        <speech by="#David Plouffe">
+          <p>I think Taipei, and really the entire country, is going to be such a great example of how ride-sharing can really help. You think about the government goals of stronger economic growth. Ride-sharing surprised me. Six years ago, we wouldn’t have thought we’d be here in Taipei talking to you, that ride-sharing can be a pretty important economic growth engine.</p>
+        </speech>
+        <speech by="#David Plouffe">
+          <p>But also, from a mobility standpoint... as it turns out, there was huge gaps in our transportation ecosystem. I certainly didn’t have a full appreciation for it until you begin to see the service really explode, and you see how it’s changing, in some way, how people move around.</p>
+        </speech>
+        <speech by="#David Plouffe">
+          <p>Millennials, if they had their choice, would rather not drive. This next generation, Generation Z, probably doesn’t want to have to learn how to drive, so we have to have enough transportation options, I think, to support those desires.</p>
+        </speech>
+        <speech by="#David Plouffe">
+          <p>And then what you get out of that is obviously what we all want, which is fewer cars on the road, and those on the road, have more people in them, and as many of those as possible be emissions-free or better for the environment.</p>
+        </speech>
+        <speech by="#David Plouffe">
+          <p>But I appreciate you taking the time. It was helpful to hear your perspective on this, and I hope that we can figure out a solution that works for the government, and works for us, and that’s generally what we’ve seen around the world, is this is not a divide that can’t be bridged.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+            <p>As a technical geek, I’m more interested in those <a href="https://blog.ot.to/proudly-brewed-self-driven-95268c520ba4">autonomous long-haul trucks</a>, and really, the flying cars -- the VTOLs in <a href="https://medium.com/@UberPubPolicy/fast-forwarding-to-a-future-of-on-demand-urban-air-transportation-f6ad36950ffa#.3w9u66seh">Project Elevate</a> that you’re bringing in.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>But these things have a distinctly different theme compared to what you just described, right? We don’t have people who drive helicopters for fun, a few hours or a few minutes during their business hours. It has to be something professional, that there really is no question around that, right?</p>
+        </speech>
+        <speech by="#David Plouffe">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>And then for professional truck drivers, we of course established a even more strict regulatory structure, and we’re not saying that people can just hop on a random truck and drive them home as amateurs, like &quot;anybody can drive a truck.&quot; I don’t think that’s true, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Even for automated truck driving, you’d still have to have the local part of it. Once they finish the highway, there has to be somebody who drives it to the local depot.</p>
+        </speech>
+        <speech by="#David Plouffe">
+          <p>Right now, the technology is more for the longer stretches of highway, yes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, so at least for the next, I would say, 5-10 years, we have to work on the way to how to switch from autopilot to the local roads.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Again, I wouldn’t really trust it to a random person who just want to drive a truck for fun, even though they may have an amateur driver’s license.</p>
+        </speech>
+        <speech by="#David Plouffe">
+          <p>I think that’s right, but I think there’s a big distinction between that and someone getting in their Toyota Prius, who may be a teacher, or a student, or a small business person and saying, &quot;Yeah, I’m going to make a little bit of money for a period of time.&quot;</p>
+        </speech>
+        <speech by="#David Plouffe">
+          <p>We need to finding a way to encourage that. There are some distinctions, I think.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, so what I’m saying is that in the long term, to achieve our emission-free goal, your next steps would be more robotic-based. I do agree, and I think we can come up with innovative regulatory structures to make that happen.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>But in that future, actually, the habit that you are now building, in the sense of trusting amateur drivers, is actually counterproductive to the future you’re describing, because at that time, we will need another professional class that can be the interface between the robots and the public.</p>
+        </speech>
+        <speech by="#David Plouffe">
+          <p>But I do think this period, just in terms of passenger transportation, to get people more used to not buying their own cars, not using as much, sharing transportation, getting used to carpooling, that’s clearly going to be an important bridge to autonomous driving.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes. But then, according to your plan, you will still need them to get professional licenses as either robotic operators or augmented pilots at that time.</p>
+        </speech>
+        <speech by="#David Plouffe">
+          <p>Well, we’ll see. I don’t know if that’s true or not.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s in your business plan.</p>
+        </speech>
+        <speech by="#David Plouffe">
+          <p>I don’t know if that’s true in cars, right? I think flying cars are a different issue than autonomous cars that are on our surface streets.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>So maybe they will become guides, like guided-tour operators?</p>
+        </speech>
+        <speech by="#David Plouffe">
+          <p>Well, the future’s going to be interesting, but what we know is right in front of us, is let’s make ride-sharing work here in Taiwan, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#David Plouffe">
+          <p>Minister, I appreciate the time.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m very happy that we get to exchange our views candidly.</p>
+        </speech>
+        <speech by="#David Plouffe">
+          <p>Yep. Always better than the alternative, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, exactly.</p>
+        </speech>
+        <speech by="#David Plouffe">
+          <p>All right. Thank you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Cheers.</p>
+        </speech>
+        <speech by="#David Plouffe">
+          <p>I do think there are some more details that we can work out. I will ask the local team to prepare materials and send them over to you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. Just note that everything you send my way will be made public.</p>
+        </speech>
+        <speech by="#David Plouffe">
+          <p>That’s fine.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
