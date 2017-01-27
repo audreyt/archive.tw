@@ -1,0 +1,204 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/全體" id="全體" showAs="全體">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/合成語音" id="合成語音" showAs="合成語音">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/周紹文" id="周紹文" showAs="周紹文">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/戴君翰" id="戴君翰" showAs="戴君翰">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/李建平" id="李建平" showAs="李建平">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/李雪津" id="李雪津" showAs="李雪津">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/林宗禧" id="林宗禧" showAs="林宗禧">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/林書漾" id="林書漾" showAs="林書漾">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/林正東" id="林正東" showAs="林正東">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/葉寧" id="葉寧" showAs="葉寧">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/蔡仲明" id="蔡仲明" showAs="蔡仲明">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/許展銘" id="許展銘" showAs="許展銘">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/賴致翔" id="賴致翔" showAs="賴致翔">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/陳彥佑" id="陳彥佑" showAs="陳彥佑">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/黃子維" id="黃子維" showAs="黃子維">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2017-01-27 PDIS 賀歲拜年迎新春</heading>
+        <speech by="#唐鳳">
+          <p>嗯？現在有在錄？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>各位電視機前的爸爸媽媽爺爺奶奶阿公阿嬤弟弟妹妹叔叔阿姨</p>
+          <p>大家好，我是唐鳳，很高興有這個機會跟大家拜年</p>
+          <p>今天呢，我沒有要用VR，也沒有要用3D投影</p>
+          <p>就是呢，跟大家講一下，怎麼樣做一道美味的開放年菜，討個好彩頭</p>
+          <p>話不多說，讓我們繼續看下去</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>首先呢，要做出好菜的第一道工序，不外乎是慎選食材</p>
+          <p>打好基底，任何在廚房發生的事情都要開放透明</p>
+          <p>才能夠經得起檢驗</p>
+        </speech>
+        <speech by="#林書漾">
+          <p>大家好～我們來看看今天為大家準備了什麼食材</p>
+          <p>青江菜 紅蘿蔔 芋頭 洋菇 茼蒿 高麗菜 洋蔥</p>
+          <p>開放式授權</p>
+          <p>結構化資料</p>
+          <p>Open API</p>
+          <p>以及一顆愉快的心</p>
+          <p>一起來準備這個開放政府</p>
+          <p>大、火、鍋</p>
+        </speech>
+        <speech by="#黃子維">
+          <p>欸～我來了！</p>
+          <p>……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>跟大家說一下，雖然開放是很重要</p>
+          <p>但是呢，保障人民的隱私權也是很重要的</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>（字幕：開放透明）</i>
+          </p>
+        </narrative>
+        <speech by="#葉寧">
+          <p>火鍋的關鍵就在於高湯</p>
+          <p>高湯呢，就是要使用洋蔥、胡蘿蔔、芹菜</p>
+          <p>一起熬煮，來個七七四十九個小時</p>
+          <p>然後最後還要用昆布、菜頭來增加高湯的深度</p>
+        </speech>
+        <speech by="#李雪津">
+          <p>等下等下～不對不對</p>
+          <p>我告訴你，我媽媽教我們家祖傳八百年的</p>
+          <p>這一個湯底裡面，一定要有蔥、薑、蒜、辣椒、花椒</p>
+          <p>要先炒過，再放那個中藥</p>
+          <p>八角、小茴、桂皮</p>
+          <p>然後把這些東西……</p>
+        </speech>
+        <speech by="#賴致翔">
+          <p>欸～爭什麼爭</p>
+          <p>別再爭啦</p>
+          <p>讓線上正在參與公共政府開放直播的網友來告訴大家</p>
+        </speech>
+        <speech by="#合成語音">
+          <p>爭什麼？參在一起做 JOIN平台 大火鍋不就行了</p>
+          <p>笨蛋</p>
+        </speech>
+        <speech by="#李雪津">
+          <p>他後面有說笨蛋嗎？</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>（字幕：公民參與）</i>
+          </p>
+        </narrative>
+        <speech by="#周紹文">
+          <p>嗯～這食材真新鮮，是誰負責的啊？</p>
+        </speech>
+        <speech by="#林書漾">
+          <p>欸，是我</p>
+        </speech>
+        <speech by="#林正東">
+          <p>哦～</p>
+        </speech>
+        <speech by="#周紹文">
+          <p>啊！這湯頭真甘醇，是誰負責的啊？</p>
+        </speech>
+        <speech by="#葉寧">
+          <p>是我！</p>
+        </speech>
+        <speech by="#李雪津">
+          <p>我！</p>
+        </speech>
+        <speech by="#葉寧">
+          <p>我！</p>
+        </speech>
+        <speech by="#李雪津">
+          <p>是我！</p>
+        </speech>
+        <speech by="#周紹文">
+          <p>But，火鍋最重要就是沾醬了</p>
+        </speech>
+        <speech by="#周紹文">
+          <p>所以我說那個醬汁呢？</p>
+        </speech>
+        <speech by="#陳彥佑">
+          <p>創啥？！</p>
+        </speech>
+        <speech by="#周紹文">
+          <p>呃… 沒事</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>（字幕：監督課責）</i>
+          </p>
+        </narrative>
+        <speech by="#蔡仲明">
+          <p>這個素食可以吃嗎？</p>
+        </speech>
+        <speech by="#李建平">
+          <p>那這個貓舌頭怕燙可以吃嗎？</p>
+        </speech>
+        <speech by="#許展銘">
+          <p>這個乳糖不耐可以吃嗎？</p>
+        </speech>
+        <speech by="#林宗禧">
+          <p>這個減肥可以吃嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>大家放心</p>
+          <p>我們火鍋制定的過程</p>
+          <p>不但從最先期就納入了各界的專業意見</p>
+          <p>而且呢</p>
+          <p>在過程裡面也會照顧到</p>
+          <p>各個不同的利益相關人群體聲音</p>
+          <p>只有這樣子才能讓全民的腰圍…</p>
+          <p>呃不…</p>
+          <p>幸福指數，達到最大值</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>（字幕：多元涵容）</i>
+          </p>
+        </narrative>
+        <speech by="#戴君翰">
+          <p>太好吃了！我從來沒有吃過這麼開放的火鍋</p>
+          <p>食材的料理方式都公開在裡面</p>
+          <p>參與的關係人都可以盡情的發言</p>
+          <p>再配合逐字稿的發布</p>
+          <p>可以讓外界了解料理的過程</p>
+          <p>為什麼？</p>
+          <p>為什麼要讓我吃到這麼開放的火鍋？</p>
+          <p>要是我以後吃不到怎麼辦啊！！！</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>沒有關係，不怕吃不到</p>
+          <p>現在就上 PDIS.tw</p>
+          <p>公共數位創新空間小組的網站</p>
+          <p>讓大家隨時都能更新開放政府的資訊</p>
+        </speech>
+        <speech by="#全體">
+          <p>PDIS祝大家</p>
+          <p>雞祥如意，雞年行大運</p>
+          <p>Yay~</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
