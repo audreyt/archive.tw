@@ -1,0 +1,512 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/陳澍" id="陳澍" showAs="陳澍">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2017-01-26 Facebook 陳澍來訪</heading>
+        <speech by="#陳澍">
+          <p>我跟許毓仁說，我們很支持你的開放資料、開放政府，也看將來有沒有什麼可以合作的，其實我們也有跟新加坡政府做一些類似的e-Government的部分，我之後也可以多跟你講。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是對哪一個單位？GDS？（ https://gds-gov.tech/ ）</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>不知道你有沒有看新聞，我們去年跟新加坡政府那邊有一個比較大的項目，叫做「Workplace by Facebook」。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>知道。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>簡單來講就是一個特別版的Facebook，針對政府的，一定要是新加坡政府的電子郵件帳號才可以登入到那個平台。而新加坡政府也很厲害，把整個新加坡的公務員團隊放上「Workplace by Facebook」。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以是託管在他們的機房裡？</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>我要再去請教我們的工程師，但肯定是雙方有一個解決方案。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>大家就不用上班滑臉書（笑），上班就是滑臉書。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>（笑）我們員工也有自己內部的「Workplace by Facebook」，好處在於大家知道臉書怎麼用了，所以對一些政令的傳達會相當好的，也可以自己設定比較小的群組，我知道臺灣自己有一套公務員通訊的平台。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>哪一個？為什麼我都不知道（笑）？</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>反正有人跟我提過，類似LINE。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>Juiker嗎？</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>啊！對，對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是Juiker等於你們即時通的部分而已。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>對，那整個「Workplace by Facebook」是包括所有的功能，就是平時用的群組、即時通(Facebook Messenger)，其實就是會有自己一個Facebook for work的帳號，這樣可以跟你私人的分開來，也不用擔心員工上班的時候會刷其他的東西。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是，理解。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>臺灣這邊有興趣，我也可以幫忙聯繫「Workplace by Facebook」團隊，如果你們覺得說可能一上來全國都用，可能會有挑戰，也可以做一些試點。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>不過因為我四個月前還在Socialtext，其實就是在做這個題目。當時我常說我們把訓練外包給Facebook，因為只要設計跟你們差不多，就免去訓練了（笑）。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們通常試營運，如果人太少的話，網絡效應出不來，所以大家就會覺得不太好用，因為找不到人，所以我們後來的想法都是跳過試營運，就是一下子最好有1萬人。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>如果你們可以一下子就上，那是最好的（笑）。因為新加坡當時其實也是慢慢來，就是先有一些部門試點，然後今年他（新加坡）的目標是2017年要把所有civil service的團隊擺上，可能有幾萬個公務員團隊；臺灣這邊……我只是假設如果有興趣，行政院可以先試。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你是說中央部會？</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>對，或者找其中一個部會先試，然後我們也可以再提供回饋，也可以看一下你們的評語。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個挺有意思。所以是每月每人1元？</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>其實Workplace不單是對政府，也有對商業的，對商業機構是要收錢的，政府那一塊我可以幫你聯繫我們Workplace的團隊，我相信我們不是以這個營利為目的的，當然裡面涉及到一些儲存空間，如果你們有更加多的需要，會有一些另外的支出。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好啊，這個我很有興趣，因為我進來就是想要幫政府做這個。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>是，是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我進來自己是用開放源碼的解決方案（ https://sandstorm.io/ ），也拼了一套，但是我覺得如果能夠多有選擇是很好的，至少談一談是沒有問題的。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>好的。我們這一個團隊是在新加坡，因為新加坡是亞太地區的總部，所以如果有興趣，我完全可以幫臺灣連結。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好，謝謝。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>我負責政策是香港跟臺灣，我自己不是工程背景的，所以有一些技術細節，可以直接跟我們那邊對洽。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>沒問題。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>我這一次來，我覺得正好有一個挺好的項目，想聽一下Audrey的意見。我那一天跟許毓仁說我們有「FbStart」，我也有跟余宛如有提到，因為他們也關注數位社群，他們都很支持。我們這一個項目其實是全球的項目，目的在於想聯繫到全世界各個地方的startup社群，然後也挑一些比較高品質的企業，臺灣叫做「草創企業」。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是，「新創企業」。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>然後可以加入「FbStart」的專案，同時也是全球的社群，在2016年的時候，大概裡面有九千多個人參加，來自不同的國家，其實我們今年想在臺灣正式把這個專案介紹給臺灣整個新創企業的社群，其實在這之前本來大家人人都可以上網去……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……有，前天有看過一則新聞。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>沒錯。我們今年會在臺灣找幾個在地的新創社群夥伴，他們會幫我們挑選一些臺灣好的新創團隊，他們會進入這一個社群。如果你被挑選中的話，一進入就會有一些benefit，包括我們每一年還會聘一個叫做「Facebook FbStart Apps of the Year」，每年會頒一個大獎，可能你有讀到報紙，2016年的大獎是臺灣的新創團隊VoiceTube，他們很厲害，他們後來拿到幾萬美金，有一些是現金，有一些是廣告的一些兌換卷，去支援到他們的行銷。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>我們很快會在台灣啟動這個FbStart的項目，也會請一些Facebook 的工程師來台灣給大家做培訓。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>所以如果平時有一些問題，那是很好的機會，就是可以有我們的工程師幫助解答，所以當然有一些好處，其實最重要的是有一個機會是進入這一個社群，新創團隊可以有固定的一些時間，可以跟我們的工程師好像一對一回答，我覺得這個是除了金錢上的幫助以外，可能是新創團隊最看重的，比如一個月或者是兩個月把問題集中在一起，這樣我們就可以幫你一起解決。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>所以這一些資源都會進一步提供給臺灣的新創社群，我們也沒有什麼上限覺得臺灣有五十個名額，沒有，我們會更專注在品質上。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>我也是這麼跟我們的夥伴說，如果他們有好的，多多益善，我覺得如果多一些臺灣的新創加入這一個社群，當然也多一些機會可以拿獎（笑）。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是啊！很有意思。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>另外最重要的一點是，我們也有看，包括蔡總統有提到「亞洲·矽谷」一些規劃，我覺得我們也可以作為「FbStart」的目標，其實「亞洲·矽谷」也是一樣的，如何幫臺灣的一些新創團隊，能和矽谷連結。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是的，是的。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>包括一些人的交流。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>其實最主要就是人的交流了，因為資金或法規，我們大概知道怎麼處理，但是人必須要雙方有意願。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>對，沒錯，是這樣。其實像交朋友一樣，如果你們的跟我們的工程師大家去連結在一起，你們也是朋友，如果你們有自己的一些想法跟問題，大家可以多交流。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>所以其實我們是搭一個平台，這個跟我們的mission也是一致的，Mark也一直講Facebook mission是keep the world connected and open，所以對新創社群來講，我們也希望可以扮演一個角色，可以連結不同國家的新創群體在一起。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>您剛剛提到就是說人才的連結就是透過開源社群這一些，因為Facebook在開源社群其實是非常重要的貢獻者，你們的React項目是所有這兩、三年來新的網站一定會參考的項目。那一個項目本來只有在網站上可以運行，我把它弄成在電子書EPUB3上也可以運行，在我做出貢獻時，跟Facebook工程師其實已經有相當有趣的聯繫。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>明白。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因此，我可能會多偏重講一些說，加入社群並不是為了省成本，也不是為了獎金，最重要是透過社群，多跟矽谷連結。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>對，包括access可以跟我們的工程師……不單單是問問題，可能他也會給你一些建議，就是多一些idea。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，你也可以提貢獻。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>是，也可以說臺灣的情況是這樣子的。因為我們在做很多product的時候，也會做很多localization的工作，本來他們也會希望能夠有一些feedback是從in-country，能夠有一些不同的……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，我認識幾個朋友，他們組織起來，把「自動翻譯」這四個字變成了「翻譯年糕」（笑），所以像這個也是一個貢獻，就是你在Facebook上面看到留言的時候，本來是自動翻譯，現在會變成翻譯年糕，所以其實Facebook真的在engagement上面做了很多工作。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>因為香港是我們的Greater China的hub，所以我base在香港，負責香港和台灣，但我基本上……因為臺灣事情也滿多的，所以我基本上每個月都會過來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你每個月都會來臺灣？</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>對，我儘量就combine一些活動、會議。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那跟2015年的狀況很不一樣？</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>對，我們其實越來越看重臺灣的市場，去年臺灣這邊也挺多事情，1月份的時候，先有總統大選，總統大選也是第一次在台灣啟動「選舉大聲公（Facebook Megaphone）」，提醒大家去投票，對我們來講我們是政治中立的，這個是鼓勵公民參與，因為投票也是民主很關鍵的一部份。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>當然。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>那個也很成功。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>我記得1月份是總統大選，2月份有台南的地震，我們也第一次在臺灣啟動「Safety Check」。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>「報平安」。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>對，「報平安」。我自己其實也滿感動的，我們Mark也有寫一個post，他說台南有地震，因為我們「Safety Check」，我自己有一些臺灣的朋友mark自己save，那也是第一次在臺灣啟動；當然我也跟很多朋友說「Safety Check」是我最不想啟動的一個。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對！備而不用。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>對，通常都是一些災難。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是這樣。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>我們當時也有跟行政院的應急救災中心聯繫。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>災防辦？</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>對，是，是。他們後來也找我們，我記得第一天還是第二天，一方面是捐款還有一些捐血，也幫他們出一些post，去幫他們boost，我們自己也有一個叫做「Facebook Safety」的page，也有很多粉絲，比如像尼泊爾的地震，都會跟不同的政府去合作，幫他們做一些災後正確的官方訊息發布的功能。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>2016年我們還有一些其他的活動，其中有一個叫做「#SheMeansBusiness」，第二個是官方的網站（指投影畫面），如果你在英文這邊選「中」，應該有一個中文版，這是鼓勵女性創業的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>挺好。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>這個「安氏姐妹」是臺灣的新創團隊，其實「#SheMeansBusiness」跟「FbStart」不同在於更強調一個女性的聲音，也會更強調marketing的那一塊，因為有很多女性的新創團隊可能有產品了，但是她們不知道要如何行銷出去，這完全是free的training，我們在台灣的partner主要是「Girls in Tech」，她們會幫我們organize很多現象的workshop，這個logo以後，下面的那一些是其他國家的一些partner。這個（指投影畫面）是在去年7月份放上網的一些logo，這個「飛燕計畫」是經濟部的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>挺好的。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>其實我們去年在臺灣做挺多事的呀（笑）！</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們在美國是不是跟Snopes、Politifact有合作一個項目？就是轉傳之前，跟用戶說有第三方指出這個是假消息。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>這個我們現在主要在美國跟一些NGO有在推，就是check一些fact，然後通過第三方，如果有一些dispute的content，大家會……因為我們不想去做一個judge……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……對，這我完全同意，完全理解……</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>……說這個是正確消息或假消息。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們在行政院也不想自己判定，不然變真理部了。但可以請第三方公正單位？</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>是。所以我們在美國有發表這個功能，逐步我們會推向全世界的範圍。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，因為臺灣本來就有這樣子一個專案，是社群自己寫了擴充套件，叫「新聞小幫手」。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個項目我其實不是主持，主持是另外一位。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>明白。喔！是g0v的一個網站？就自己靠社群去舉報這樣子？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是，但後面有一個類似維基百科這樣的編輯機制，就是說編輯群會彼此間彼此檢查。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>明白。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個還挺有趣就是因為在「分享」旁邊多了一個「舉報」。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>以我的理解其實你們……</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>……這個其實就是一個plugin？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，這是一個browser plugin，支援三個瀏覽器。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>明白。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為好比像Facebookfor Android或iOS就沒有辦法加進去。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>瞭解。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是後來發現說你們prototype新的這一個項目的時候，是從mobile開始的，就是說你share會有框框，剛好補上這一個的不足，所以其實我也想幫社群朋友問說，你們如果要逐步擴大到好比像臺灣或繁體中文的話，社群需要接什麼API……</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>……明白，明白。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>我們現在正在做這方面的工作，希望就是說過完年以後，我們其實現在在做漢話翻譯的一些工作，其實您剛剛提到的fact check只是其中的一部分；其實我們也覺得怎麼去幫助主流的媒體更好地運用我們平台去發布正確的消息，這也是很重要的，所以作為整個program的一部分，有一個叫做「Facebook for Journalists」，那個項目在美國其實也已經推出了，可能也有看到新聞，現在在做一些繁體中文翻譯的工作，那個project裡面就會有一些online training的部分，包括教媒體朋友如何做一些video，然後讓它在Facebook如何content更加吸引人一點，我希望春節以後可以有一些development。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好啊！挺好的。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>到時候一定會share給你們這邊，我覺得這個也很有意思，我們也在考慮怎麼樣多結合一些不同的資源。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，如果它不是已經存在很久，像Snopes的話，那它的公信力可能還不如Facebook本身（笑）。但是像Politifact或者是Snopes，或者是「新聞小幫手」都已經多年了，就是大家已經知道這一個品牌。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>是，明白；我也有看到新聞提到說行政院對於假消息今年也比較關注。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>在另外一個平台，那是在LINE，LINE更困難；怎麼講，就是我們外頭是看不到的，Facebook的話，至少轉傳時可以看到……</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>我們現在對一些內容農場也是靠社群來報告，如果發現就是說這樣情況的話，最嚴重當然會把整個page都move掉，這個是我們比較討厭、也比較反感這樣子的情況。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那當然。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>我覺得大家都是on the same page的，不管從政府來講或者從社群本身來講；我們也可能會有人今年到臺灣來，關於我剛剛說「Facebook for journalists」，也會再做一些培訓這樣子。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是啊！這樣挺好。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>就是這一個（指投影螢幕），這其實已經有英文版了，我們要再做一些翻譯的工作。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>也包含Instagram嘛！不只Facebook？</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>也有一些best practice是Instagram。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那挺好，挺好。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>對，都是一些e-Learning，我可能會找一個專業的，因為我們專門有一個team是media partnership，他們會去跟publisher打交道，我們可能會找一個專家過來跟大家面對面交流。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>如果Audrey有興趣，你也可以加入我們一起討論。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我是挺有興趣。好啊！不管是在謠言的部分或者是媒體培訓的部分，我想我們最大的問題還是您剛剛說的，漢化的問題，因為不管是自然語言的辨識或者是一些教程，如果沒有漢化的話，是不可能運行的。所以你們漢化到一定程度的話，真的可以引進。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>對，我們包括像之前「#SheMeansBusiness」，我們是專門做一個中文版，而且那一些case也是local的case，這樣的話，對本地的audience跟女性的企業家來講會更加有啟發，否則拿一個美國的案例來跟她講……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>「……那跟我有什麼關係？」（笑）</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>是，沒錯。包括「#SheMeansBusiness」那一塊我們今年也會繼續有一些其他的活動在推，其實我覺得這個也是數位經濟的一部分，因為大部分的參與者都是靠網上經營自己的business，而不是線下開一個coffee shop這樣子。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，因為我除了是數位政委之外，我也主管社會企業，社會企業在臺灣其實很重要的是，我們要讓大家覺得這是一種永續的，因為大家會加入社會企業就是想要對社會造成改變，大家最困難的是，如果還是用NGO募款的話，永續性會受到影響，所以我覺得這樣子特別好。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>我之前在Yale的時候，School of Management專門一個課程，關於NGO和「social innovation」，我記得那個教授很有意思，她很反感大家叫「non-profit organization」，因為他覺得說不是說做公益組織就不用make profit，單單好像這是募款，這並不穩定，也要去設計一個model，只不過賺來的錢可以serve more social good purpose。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是social impact或者是social return。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>是，這樣子沒錯。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們現在也在討論修改公司法，就是以營利為目的，就是加一個也可以有社會目的，也就是股東都知道加公司就是兩個都要兼顧。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>是。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>我都忘記說，去年我們4月份的時候……其實我們每一年4月會舉辦一次叫「Global Causes Day」，中文叫「Facebook全球公益日」，去年是我們第一次在臺灣舉辦，今年也會再做，這個也跟social enterprise有一點關係。（指投影螢幕）這是我們自己官方的page，2016年是4月28日，今年應該也是在4月，我們會把臺灣一些主要的NGO把它集中過來，就這樣一天我們會作培訓，跟大家講是Facebook for NGO，因為很多民眾未必會瞭解其實Facebook對NGO的作用。簡單來講，其實有三方面：</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>一方面是有一些emergency response，比如有一些disaster那一些，那比較好理解。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>另外一個是digital fundraising，就是我們教你們怎麼做一些digital campaign去raise錢，這個cost會比你在線下低很多，也是很透明的，在網上捐多少錢，然後通過什麼渠道，大家都會很明白。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>第三塊我自己覺得最重要的，也就是怎麼去raise public awareness，因為有一些NGO說一年兩次，很大的campaign去raise錢，但平時也不跟大家講他的mission是什麼。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就只有會員會收到紙本。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>沒錯，沒錯，所以我們覺得public awareness也要做。我們在去年4月28日辦的時候，參加的NGO會summit一些proposal說我的NGO今年想要做什麼，然後我們自己有一些judge，還會選出三名，然後給他們一定金額的ad credit，這樣可以免費幫助這些公益組織去FB上打廣告。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>今年我們也會繼續這麼做。這個跟您的social enterprise也是有關係。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對啊！挺好的，就是說這不只是做善事，是促進永續經營，挺好的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們現在是在討論一個法案叫做《數位通訊傳播法》。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>我有瞭解。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>您大概瞭解嘛！</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>NCC那邊在推。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，這一個法案裡頭其實有一個很重要的精神，就是把網際網路治理、多利益關係方的精神拿過來，以我的理解，你們在internet governmenance forum……</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>我們去年也有參加。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>其實非常積極的。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們希望把它變成比較制度化，就是說對所有網際網路或數位經濟相關的事情，我們都希望約集服務提供者、使用者及利益關係人來進行討論，那就不只是網路霸凌發生一件事我們討論一件事，而是所有的事情都這樣子討論；當然講到網路通訊傳播服務提供者，我想Facebook當然是利益關係方，所以如果這一部法照這樣通過的話，我想未來會有非常多會議形式，您可以參加。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>去年我們有參加NCC網路治理的論壇，我們也有一個專門負責community standard的，其實你知道就是說Facebook好像一個虛擬、很大的社群，我們有自己的社群守則來govern整個社群，而這一個社群守則裡面包括……也不是所有的東西都可以網路上分享，有一些是仇恨言論的、有一些涉及種族歧視，當然還有一些涉及到……我們也很重視gender equality，如果有使用者違反的話，我們也會去處理。有一個同事是專門負責community standard撰寫，包括update，他有來到臺灣，就是加入NCC的網路治理，我早上跟陳憶寧委員開會，也是匯報一些去年的工作，她說這樣的機會對臺灣來講其實很有幫助的，她也有講到為什麼要有一個社群守則。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……對，它不是像法令一樣。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我覺得特別好。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>是。然後我星期一、星期二有去參加TCA負責的iWIN的會議，我們也很支持，iWIN其實是很好的一個模式，我覺得在臺灣有一點介於政府跟NGO之間的全國性網絡，對我們來講，我們也希望有一個對口的這麼一個機構，而不是……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……而不是直接對新傳處，或者是直接對NCC，我瞭解。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>對！這是很好的一個架構，我們接下來2月24日我們會在華盛頓有一個「Global Online Safety Summit」，是我們自己的summit，但我們會請全球的NGO聚在一起，我們會負擔所有的cost，臺灣這邊有三家NGO機構會代表臺灣出席，iWIN在裡面，還有兒福、ECPAT（展翅行動），這些都是我們在臺灣長期的夥伴，他們能夠代表臺灣的公益組織，on the world stage，不但是我們自己的活動，因為也有其他國家的NGO出席，我覺得類似這種平台，我們很願意多創造這樣的機會。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那太好了。不但NCC按照這一部法案通過，我們希望秉持這個精神，未來行政院會引進多利益關係方模式，你們也會召集你們自己的多利益關係方論壇。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>坦白說在Facebook上，其實最有影響力的就是公民社會了，既不是政府、也不是大企業。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>是。包括我們對選舉、公民參與、公眾溝通那一些都是Facebook上面很重要的一個環節，蔡總統也是亞洲來講，領袖人物裡面Facebook用得很好的其中一個。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是，她非常會經營。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>她的團隊真的做得相當好。我也有看她去中美洲回來，有做360的那一個video。新加坡的李顯龍總理的facebook專頁也做得很好，印度總統莫迪也非常活躍，所以這一些都是很好的方向，我覺得臺灣在這方面也可以有一個role model的作用。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我一直覺得就是說，好比說數位政委應該是要交接的，應該要有一個叫做「social media engagement practice」，事實上我翻譯過美國那邊的文件給這邊使用，它是叫做……我看一下……這應該是一陣子之前的事情了，是一位教授，叫做「Michael Herz」，他就是訂了這樣子一個算是建議書吧！然後給美國的各級機關，然後裡面就特別講到，就是他的engagement的目的。（ http://www.slideshare.net/autang/ss-42792460 ）</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>明白。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>然後他認為應該是multi-channel。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>明白。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>當我們講Facebook，它不只是網站，也是Instagram、也是Messenger、也是很多別的東西，我覺得雖然臺灣目前還沒有把這個變成一個要點，但我覺得這個是歷史的潮流吧（笑）！不可逆的趨勢（笑）。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>臺灣這邊有興趣對於open government以及civic engagement進一步討論，可以幫你們一起來商量，因為我們在DC也專門有一個部門。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我個人很有興趣，雖然我目前業務上對於for journalism、謠言、social enterprise、gender equality這一些是比較有時效性，但是我對數位交接過程也是有興趣的。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>對，好的。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>我有一個小禮物，我們自己做的新年紅包袋，「F」跟「福」放在一起。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>還有六個表情的磁鐵（笑），真的很謝謝。</p>
+        </speech>
+        <speech by="#陳澍">
+          <p>小禮物，謝謝，謝謝。我們之後再email聯繫。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，隨時email聯繫，感謝。</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
