@@ -1,0 +1,1811 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Rufus Pollock" id="Rufus Pollock" showAs="Rufus Pollock">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Shuyang Lin" id="Shuyang Lin" showAs="Shuyang Lin">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Sylvie Barbier" id="Sylvie Barbier" showAs="Sylvie Barbier">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2017‑02‑08 Rufus Pollock visit</heading>
+        <narrative>
+          <p>
+            <i>( Whiteboard: <a href="https://ey.sandcats.io/shared/RB0Cywqou_WRw7W1dcybDItSyqV-qAZ3Dm9usvHUkmd">https://ey.sandcats.io/shared/RB0Cywqou_WRw7W1dcybDItSyqV-qAZ3Dm9usvHUkmd</a> )</i>
+          </p>
+        </narrative>
+        <speech by="#Rufus Pollock">
+          <p>I normally record myself too, but you guys are going to record it, right?</p>
+        </speech>
+        <speech by="#Shuyang Lin">
+          <p>Yeah. I just started recording.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Excellent, excellent. This is fine. It’s really good. The trip has been good so far. I’ve been in Taiwan now for nearly two weeks, actually over Chinese New Year. My Chinese skills are gradually developing. I can now order some food and things.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>That’s awesome.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I hope in a year’s time when I come back, I’m practicing quite heavily, that I would maybe be up to giving a lecture in Chinese. That would be a bit ambitious. [laughs] I went to Tianjin yesterday and gave a talk to the city government there.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I think it was great. I know the audience was already selected on the basis they could understand English, but if I could improve my Chinese, it would make a big difference.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Anything I can help you with?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I guess what we could start with is I’d love to hear a little bit from you, really, about what’s on your mind lately.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>What are issues or what are you really interested in at the moment or are you seeing as challenges that are coming up? What I’m interested in, my overlap, that’s what it is.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Challenges.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>And opportunities.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Hopes and fears. [laughs]</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Hopes and fears, yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’ve been here for four months or so. I’m the first so‑called anarchist minister, which is kind of an oxymoron. But really, what we mean is that I bring what we do in the open‑source communities ‑‑ which is a volunteer in the cat‑herding organization, kind of organization style ‑‑ into the administration.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s my anarchist principles: I don’t take commands. I don’t give commands. I only work with volunteers, so all my staff here are volunteers. Which means that aside from two executive secretaries, everybody else of the 15‑people or 16‑people team were originally working with different ministries.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>But because they’re interested in this work, so they sign up for what we call the PDIS, which is roughly modeled after the Policy Lab or GDS, whatever.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because the PDIS is not a officially ordained unit yet, we’re not at a stage as in Singapore where they have hundreds of people working at the Singapore GDS. Some PDIS members are career public servants in different ministries, who tell their ministers or deputy ministers that they want to ‑‑ instead of working on for example tax or other duties ‑‑ they want to work on open government.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then, I sign a letter of intent, saying that this person now works in the office.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Yes, I understand.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. For as long as I’m the Digital Minister, I have this temporary staff. This is very interesting, because in Agile software development, we have this concept of a on‑site customer.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If we are doing e‑government planning, what’s better than having those on‑site customers evaluating on behalf of their colleagues, that the system would actually work, or these open data infrastructures actually reduce their workload instead of increasing their workload, and so on?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We do all our system designs in this co‑design kind of way, so that we know for sure that their original colleagues will be up to this kind of design.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>That will be of value.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>So we’ve been experimenting with the 15 people team. Two, three designers now, about nine coders, and legal experts, and so on. It’s been good. Then, we were scaling this up as of this week, to this wider network, to what we call our &quot;participation officers&quot;. It’s similar to &quot;engagement officers&quot; in other jurisdictions.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That means, in addition to volunteers, every single ministry in the national government need to assign one to three people to work as officers to drive engagement with non‑specific people.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Engagement mostly starts online of course, because it’s easier to engage non‑specific people online. But, it also includes offline modes, like public hearings and other notes of consultation, and eventually collaboration.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For the largest ministries ‑‑ Ministry of Interior, Ministry of Health and Welfare, and so on ‑‑ they already have these kinds of systems in place, where they have facilitators and people who use data visualization, and other engagement tools.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For the more inward‑facing ministries, they don’t really have kind of this training, or even recognition for this kind of engagement. What we’re doing is building a learning circle, where we meet every week to discuss one topic pertaining to one particular ministry’s participation officer’s duties, then we get other participation officers to help them to get a user journey going, or a co‑design process going, so that they know for sure what to tell their ministries to implement it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The first topic, which was this Friday, was around &quot;internal join platform&quot;. We already have an external join.g0v.tw platform. Have you seen this website?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I haven’t, no.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Let’s give it a look. We also do a lot of telerobotics and virtual reality, but it’s not the current subject. The Join platform has four different sections. The first one is the &quot;Petition&quot; section, which is like &quot;We the People&quot; and it has a threshold of 5,000 countersignatures, and there’s a response process. You probably know the drill.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The &quot;Talk&quot; section is similar to regulations.gov in the US, where all the regulations, before its announcement, there has to be at least 60 days of public commentary period. Instead of posting just, say, a notice with an email address or telephone number, we now post every single one of it automatically to this public forum, where we engage in a discourse like in chat room discussions.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For example, the NDC is planning to have a Foreign Talent Act to encourage more foreign contributors. We post in both languages, the consultations, and then we get a lot of feedback, both in English and Chinese, as of how this should be implemented.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We can see the Ministry of Interior here, and the National Development Council, and so on. Each ministry has those participation officers, who then faciliates reflection on people’s input, and draw a consensus, and so on. This the consultative section.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In addition to petitions and consultations for every regulation, we also have a &quot;Supervision&quot; part. This part has not seen anything quite at the scale of the previous two sections, but we are going to post 1,000s of government projects here soon. Oh, the first one is the open data plan. How quaint.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In any case, every project here is allocated a multi‑year, or single‑year fund, which gets a visualization here. For example, this plan is about preservation of historical sites.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I randomly click on it, and then you can see very easily that it’s a four‑year project, and that we are on the year one of four. It’s expected to be completed somewhere over here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then it shows two charts of both the KPIs, the Key Performance Indexes, how it’s accomplished, and the budgets that it has spent, and then whether it’s updated quarterly or monthly. Then the details, like all these dates corresponds to the procurements that they did to accomplish this project. This then can connect to the open procurement part.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Anybody can then share their ideas, or discussion, or their five‑star rating. I’m not quite sure what the five‑star ratings are for. Anyway, this section at least assigns a single URL for each of those projects.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then there’s umbrella projects, like the Asia Silicon Valley as well as other major presidential promises. On the presidential promises, you can then see its budget drilldown. Have you seen Budget.Taipei before?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>No, you can show me it, as well.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Budget.Taipei is this whole new thing.</p>
+        </speech>
+        <speech by="#Sylvie Barbier">
+          <p>Yes, we’ve seen it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is the classical open spending visualization. Then you can drill down to each of those details. Then this corresponds to the original projects, desciring how the plan came from, and then it goes back to a discussion forum.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The main innovation here is to have each budget item be a discussion area, and then have the public servant carrying this to go here. They respond directly, instead of through an intermediary, which may have any kind of distortions.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>That’s fantastic.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s the main platform.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>A couple questions. One is are you guys building the platform? Who’s building this Join platform?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The National Development Council is in charge of doing this. The majority of the budget is actually not spending on programming, which is off the shelf nowadays, but is on training.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s on getting the public servants to see this as a important engagement tool, but, also, now they must essentially become their own investigative journalists. They need to respond in a way that people hold them to the same standard as media, which is not a very high standard, anyway. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What we’re saying is that they have to provide context, the narrative, the lead, and then everything, in order to get people the whole context, because people see one random sentence and then... So we give them journalism training as part of this plan.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>One of the questions, I suppose, then, mostly when I’ve seen other countries, one of the big challenges of doing what you just showed me with the project stuff is having the data linked up that way. Is that already there in Taiwan’s government budget? It already has that level of linkage? That data’s already well‑structured?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Because, for example, in the UK that doesn’t really exist.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. We took a lot of time on doing this. This is called the GPMNet, which is used to monitor government projects.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The fortunate part is that the National Development Council is a merge of two previous councils. One is for the audit projects, the Office of Research and Development. The other one is the Council for Economic Planning And Development, including presidential promises.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because they’re now merged together, they do have data for both sides of the things, on the planning stage and the execution stage. These are already structured data, and it’s already managed in a way that’s entirely paperless, so it’s very easy to say, &quot;Since everything unrelated to private data, this is open by default in Taiwan.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What we’re doing is, essentially, taking these from those relational databases and saying, &quot;Now they must be CSVs on the data.gov.tw platform.&quot; Once this goes here, then the Join platform consumes, every day, those open data, and then turns this into thousands of topic for public discussion.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Got you. It makes a lot of sense. That’s super impressive in the sense of how it is joined up. It’s great to see, over the years, how things are getting really polished and standardized.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>One of the questions would be about, then, in terms of your data. One of the things I see with a lot of open data projects ‑‑ I’ve been involved in many, obviously ‑ is data quality.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>One of the projects I’ve been involved in, I don’t know if you know, it’s the Frictionless Data. You know about that, then, the Frictionless Data stuff?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Mm‑hmm.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>You might want to bring it up, if you don’t mind. One of the things they are about is the data package model. I don’t know whether you guys are using that at all.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>You mentioned using CSVs. That’s, obviously, one of the things that we’ve put a lot of time into thinking about. One is that CSV’s an incredibly easy to consume format that most people use.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>CSV, the decked one, would be least exciting. If you go to the Specifications at the top and pick, for example, Data Package Specifications, that’s the one you probably want to look at.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’ve seen this one.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>You know this one, but things like that. I also wonder how are you finding it, getting people to produce high quality CSV data and to produce good metadata, be it data package, or otherwise? You don’t find that a problem?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It used to be, in the previous administration, the previous Vice Premier Simon Chang issued this open data mandate and everything. After I become a Digital Minister, because I was understudy to the previous ministers, I was aware that there were a lot of problem about chasing the sheer quantity of data sets, because then a lot of it are DocX files or ODTs.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>ODTs are technically XMLs, so they are two‑stars or even three‑star open data [laughs], published on the open data platform.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>As a natural language processing geek, these are actually useful. I wouldn’t say it’s not data, but it’s not in a data format that’s very easy to consume, because from one meeting to another, the markup is different.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I’m a programmer, myself, so I understand all those issues.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. One of the things that I did is to standardize on the Akoma Ntoso format for the transcripts.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I mean more on the data, rather than textual stuff, so more CSVs. I absolutely...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Numbers?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Yes. I know data can mean anything that was bits. I mean less textual, like meeting notes, and more things like spreadsheets, essentially, and tabular data.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>One of the things that we’ve been doing here is...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Have you thought of using the Data Package Specification at all, yet, for doing that?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, but we’re using JSON Schema. [laughs] After I become the Digital Minister for numeric data, what we’ve been doing here is to standardize GraphQL, OData, and the OpenAPI standard from the OAI. It’s a different route to get to frictionless data.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>One route is saying you have things in relational databases, usually SQL databases ‑‑ and then we provide those automated tools, so that they are published automatically as a package, and so on.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Then, from that, into API? Then, from that, into services?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, because services are just read and write interfaces to this data store.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Yes, but it’s a fundamental tenet of open data thought to not go API-first, because once you tend to go the API-first route, you tend to lose bulk access. You tend to have much more complex service architecture.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>You tend to start running together service obligations by running APIs and running together data provision obligations by writing APIs...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s exactly right.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>...and run together data provision obligations, which are distinct things.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I can argue both ways.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>They’re both valuable.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Switching to the API side, what we’ve been doing is that, because open data is &quot;format, license, and access&quot;, these three are actually orthogonal. You can have the best structured data, but under a non‑free license.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Or, you can have a free license, fitting the open definition, but with terrible structure. None of these would be called &quot;open data,&quot; because it has to satisfy those three criteria.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Strictly, the definition of open data is that it’s under a license that is open and it is machine readable.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I thought it must also provide access to people. (Seciton 1.2 of Open Definition)</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>No, that’s not a requirement. First of all, that would be incredibly difficult. Strictly, the machine readable definition can always be debated a bit. For example, you gave a really great example before. Is DocX a machine‑readable format, for example, for tabular data?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I would say no, it isn’t. It’s extremely difficult for machines, on a regular basis, to consume DocX‑encoded, like a Word document version of a table, because it will change all these semantics. The machine readable has some flexibility in it, but in general, the requirement that it be accessible to non‑technical people is not a requirement.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, I mean accessible, to non‑specific people.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>What do you mean by non‑specific?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Like you can click to download it, instead of filing a form and waiting for 17 days.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Oh, non‑specific, so there can’t be requirements like that, formalities involved. Yet, it should be automatedly accessible.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>&quot;Accessible,&quot; that’s the word.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Absolutely. You’re right. So open data, in the definition, says you must be free to access it. You must have an open license. You actually must be able to access it. You must be able to then be able to do whatever you like when you’ve got the data. The other aspect is the data must be machine readable.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, so: License, Format, Access.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Yes, that’s great.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The approach that I was explaining was that if we use an API‑based, API‑first approach, my current thinking ‑‑ which may change ‑‑ is I tell those people in the government that you can first forget about the access part. Then you start working only on format, which is government‑to‑government only, because then they’re interested in getting data that the other ministries’ people are interested in.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>That’s a very wise approach.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then they care about the data quality, because then it’s part of the daily work pipeline. If this breaks, their job is at stake.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I’ve always said that, &quot;Focus on the government as a consumer.&quot; The external users, they are important, but they’re much less real to an ordinary civil servant than their colleague next door, absolutely.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. Then the question they will invariably ask is, &quot;So, this OpenAPI format, does this mean that it’s world readable? Because our servers are not ready to be world readable?&quot; I always tell them that, &quot;No, you don’t have to. You can just spread to the two ministries around you.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s still an API, because it’s conforming to the OAI format. But it’s not open data, because it’s then not open accessible.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I understand. I just think the term &quot;OpenAPI&quot;...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s a dilution.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It’s a massive dilution, it just confuses people. It has almost no meaning, an open API.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s the name of the standard now. [laughs]</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Now they’ve made Swagger into OpenAPI. People have used open APIs for years. I don’t quite know what an open API stack is, and I know it’s a very nice term, but it is a massive dilution in this area.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly, of the term &quot;open.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It has almost no meaning in here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It means it’s machine readable and human readable.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>But APIs were machine readable.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This includes API documentation, the schema metadata.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I know that. I know what Swagger is because I use it. I’ve got it, but I’m just saying. I’ve got it, and there’s GraphQL coming along, which is completely different.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The question, I’m just saying that the &quot;open&quot; part of it is a massive dilution.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It is. It is.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It’s misleading people, so I would avoid using it, in general, if I could.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What else would you say for things like GraphQL and Swagger?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I would just say they’re an API definition language for people. I wouldn’t call it OpenAPI. First of all, it’s even worse here, because open APIs were traditionally used ‑‑ I still think badly ‑‑ to simply mean, &quot;Our API is documented.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>For a decade or more, 15 years, since Web APIs existed, people talk about, &quot;Google has an open API.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>But that’s the old days.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>They’re not just the old days. For the last five, 10 years, people said that. I would say that OpenAPI here, as an initiative, has been borrowing this term. What they’re really saying is, &quot;We’re going to take Swagger...&quot; Basically it’s an API definition language, and it’s got nothing to do with an open API, per se, in the traditional sense.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Also, open APIs, even originally, had no useful meaning. You could have an open API, which you charge for usage. The meaning originally arose because back in the old days, you had APIs ‑‑ or example SDKs or something ‑‑ where you might not even get the documentation without paying money. So the idea was that open APIs were APIs that were documented...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>And in a uniform way. That’s in the definition.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>And it’s free to get that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>But it wasn’t free to use. For me, that usage of &quot;open&quot; is massively misleading and diluting for people, so I just don’t use it. Words matter. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think we’re on the same page. When we say &quot;OpenAPI,&quot; we meant an API format that is open. That’s the definition part.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Let’s not say &quot;the OpenAPI format.&quot; Let’ just say &quot;the OpenAPI definition.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then this says nothing about the license nor the access.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Yeah, we have an API and it’s got a definition.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, it’s format‑only.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It’s not even quite format. This is why I’d be cautious. APIs as a simply data definition language... Swagger has got advantages. I’ve looked at a lot when we looked at data packages and other stuff.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>First of all, it’s generally JSON‑oriented, which may not be the only structure you have with your data. In addition, I’m just saying, having built...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I’m sure you built a lot of data platforms. APIs are great, but if you like one representation of your own, you might ship the data as bulk data to people. In many cases, for example, on spending data, APIs are completely insufficient.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>But Google Checkout is also an API, which is a bulk download API.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>But then, what do we mean by API? Google Checkout, as I understand as an API, is an API to make requests, to then be given a response.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>And the response is a zip file.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Right. But my point is to simply say we could use API as a data definition language. The request protocol is like &quot;GET, POST, PUT&quot; along with the actual data structure protocol. That data structure is very useful.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>But we’re getting into a lot of definition...</p>
+        </speech>
+        <speech by="#Sylvie Barbier">
+          <p>I think we have very few opportunities to meet each other, and I think you both are great minds and also with technical understanding of how these work. But I think one thing that is most invaluable is share a vision. How you get to that vision, everybody will find their own path. Both Rufus and you have, at heart, something very core and similar.</p>
+        </speech>
+        <speech by="#Sylvie Barbier">
+          <p>For me, this meeting is more about sharing vision, understanding each other’s vision, to then see, how can both, together, support or contribute to that vision.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, but the frame dilution, I actually care about that a lot. I really want to get this figured out.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>So if I may.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Behind Swagger and GraphQL, as well as OData, the most important thing is the schema, because they refer to a schema as their core data model. On top of JSON Schema, they have these metadata fields, where they associate, with each schema fields, a human‑readable, one‑line description to each column.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>My strategy so far was, just by pushing government‑to‑government API bridging, to get them then to build a JSON schema. If you had a JSON schema, the description languages that not only the engineers, but people across the other ministry can understand. Then, once they switch...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We already have a national mandate that says, if it’s FOIA and it’s in a data form, then it must be under this one, single license, which is what I just submitted to the open definition forum, which is the Taiwan open government data license, OGDL. It is compatible with Creative Commons attribution license through a switch-over clause ‑‑ we get this for free.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then the only other thing to fix is the general access, which then we have data.g0v.tw, which means that ministry‑to‑ministry data, they just need to check a checkbox. Then they will go there.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s already got a well‑known URL here. It’s just intranet only. Once they check that checkbox, the NDC people will then take care of putting this on data.g0g.vtw, in which case it becomes automagically open data.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Each unit can just say, &quot;we crawl this weekly,&quot; or daily or whatever. Then the &quot;GET&quot; part of the API automagically become open data, and in a universal structural way, because they already have this JSON schema documented. Then we can wrap this up in a data package presentation form for outsiders to consume.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This has been my road map, but I do agree that calling this open format or open definition language &quot;OpenAPI&quot; is a dilution of the term &quot;open.&quot; That I do agree.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Good. You really know your stuff. Having seen a lot of government stuff, I’m really impressed at how much you’re managing to roll through here.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Normally, there’s a lot of roadblocks. Six years ago, seven years ago now, I was involved just trying to get the UK government to publish consistent spend data. It went nowhere. [laughs] Six years on, the data is really poor quality and not consistent.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I’m really impressed. It’s great. This part that you’re doing here is crucial. The quality of the data is one of the main themes missing in many open data initiatives right now, many data initiatives in government. Whether it’s JSON schema or...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...or data packages. [laughs]</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>JSON schema is a great choice. To have any structure that’s consistent, validatable, and has some even human‑readable description as a bonus, is just great. The one thing I’ll add and I’m sure you know is that validating that is...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right. As of next month, this will be our procurement requirement, so that any mission‑facing part of the new procurement must now declare their JSON schema. As part of the procurement validation process, this now will be machine validated. We’ll run a schema validator, an API validator.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Unless it becomes green, they don’t get this part in their score card. If multiple vendors bid for government procurement, those with the validatable schema wins, basically.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I got that. First of all, this is great. I think the automatable...there’s some very minor questions there, but I agree on the open one.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I have used the term &quot;open format,&quot; in the sense that it has an open format and that it’s free to use, but I would reserve &quot;open&quot; for the whole bundle, just say, &quot;This is open.&quot; I would say this is like a well‑defined API or a defined API.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In that case, instead of &quot;open license,&quot; what would you say?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The license I would say an open license, but it’s a big thing. The thing is that open API has been so abused for so long. It’s been so used...,</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Say it was the open format. Would that make it better? Open license? Open format? Open access?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then taken together...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>You know what I mean? Since the license is so huge. The license is such a big right. For example, why I emphasize this is, while it’s not part and parcel, it’s not easy, if you have bulk access, and remember the fundamental requirements of open data are an open license, the right to use, reuse, and redistribute, bulk access, and machine readable access.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>If you have those things, ultimately you can produce whatever format you want. It’s true that, in practice, if the format isn’t... My point is, that this thing generally, with it actually having access, allows you to generate whatever formats you want.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Let me say why. Whether we get technical, I will say overall, open data is all those things. You can’t say open format. The thing is, nowadays, it’s not true.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>In a way, it’s like, &quot;Yeah, you could definitely say open format.&quot; You can say open format.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Open access has the academic meaning, but its meaning actually overlaps a lot, which was what we’re saying here.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>You could say the freedoms. If you wanted to be Stallman-like, it would be the data freedoms.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>[laughs]</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>You could also talk about freedoms act as freedoms, but yeah, exactly. I just say on the API stuff, it’s just open APIs have been so abused, and it needs to... On the point you said at the end about procurement, that is great.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>One thing that I think is important, that I think at the moment, is that sometimes it’s like Google Takeout. People think a little bit, that if they have access to the data or they’ve got a well‑defined API, it doesn’t matter whether they buy proprietary or not buy it proprietary.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I see this argument sometimes. For example, I see it in, there’s a vendor who supplies data platforms called Socrato. Socrato make a big play that, because they competed for years with CKAN. I’ve seen their pitches. They go on and on about how, &quot;Look, we...&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>They first of all try to pretend they’re open source, but then they’re not. When they sometimes say, &quot;Oh, you know, it doesn’t matter that we’re not open source, because everything is going open API.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>We’ve got this Socrato open data API. It doesn’t matter that you’ve got...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s much more writable. It’s much more readable. However, it’s still a black box.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>What does it matter? The truth of it is, first of all, APIs are quite brittle.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>If you look at, for example I’ve implemented S3‑based APIs for years, because everyone copied S3 APIs. If you look at the stack for Boto, and you look at Google, it’s a very, very powerful, rich company. They struggle to make it compatible with the Amazon API. You have a dominant position. Boto attracts, and obviously Google trying to have that storage system be compatible with S3 or with so on.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It’s a struggle to do that. APIs ultimately, first of all, if you get very rigid about APIs, for example you talked about your scorecard. There’s a good aspect of that, but there’s also a bad aspect which is you can write API at procurement time, that turns out to be wrong on an Agile basis a year later.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s parts of a project, as I showed, so that each component...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>They can evolve.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What I’m saying is that, the individual sub‑components, as we are now essentially mandating decoupled architecture for procurement. So already, the back‑ends, the middle tier and the front‑end must talk with APIs.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If they’re very brittle and they break, the whole service breaks. It’s sensitive to keep this...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I got that, but what I’m offering, what I’m just saying is basically there can be a tendency when you also have this API focus, and people talking about open APIs generally that they still have to think that the software stuff, like you were talking about, the black box doesn’t matter.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>In my experience, it does matter, a lot. It also goes back, the other reason I’m a bit concerned about APIs, why I get on a bit...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, that’s fine. I do agree.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I bet a lot of governments now, the last 6 to 12 months, who are going, &quot;Oh! API-first. We don’t need to do bulk data download.&quot; No one wants it. We just want to do APIs first.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>That’s the way to deliver services. I’ve seen it in Finland recently, and so on.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That is the trend.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>There’s a trend in this direction.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s a trend.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Personally, I am quite concerned about it. First of all, it leads to a point where you don’t need bulk data. No one’s asking for it.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The best story I have on this one is always, a little bit, was UK government was releasing data, and they released, for example, financial data. A lot of people used the data, for example, The Guardian used it, and other people...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Then, they did a police one. They decided they wanted to release police crime data. They said, &quot;Well, this one? One of the things last time was, we didn’t have enough traffic on our...not enough people came to our website, so we’ll build our own map.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>We’ll go take the data and build our own app. It was very successful. Millions of people visited. Obviously it completely substituted for other third‑party usage. It’s similar on the API a little bit, obviously government does need its own APIs, but as you go the route of API, you tend to neglect basically the shipping the bulk data, and also you tend to crowd out the use of it, in certain ways.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>One of my points is, once you’ve got bulk data, you can build APIs. We’re being a little bit...but in terms of the principles, so go back here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What you’re saying is that, if we say import and export, which means bulk, essentially, what’s the term for that? It’s not portable data, because &quot;portable data&quot; are more like My Data, it only means personal.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I guess, as a designer, with this architecture...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Rufus Pollock">
+          <p>One design you could think about in the technical architecture, and sometimes a little bit artificial, but if you’ve got a database here, which is normally your internal read‑write database. It’s going to be Oracle or something in some ministry. One model you can have is like, &quot;Hey, basically we put it into a read only replica.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It depends on your model ‑‑ Read API, which is you pull the data into your own local database, so you don’t endanger the SLA on the main one. Then, you’ve got the world out here.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The thing I try to emphasize is saying, &quot;Hey, rather than doing that directly, why don’t you...?&quot; This should really be bulk export into this database. That bulk export also goes to that, say, S3. Then, from here, you pull it into your read API.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>One of the nicer things about that is, you have a nicer sandboxing and partitions. For example, you can then open source stuff. You can say, &quot;We’ve published from,&quot; whatever. You talked about the NDC, every week, pulling in the new version... That should go to S3, or whatever your flat file, or whatever your structured data storage is.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Then, the part of it that pulls it into to run an API, you’ve got a nice partition line, here, a nice service break line where you can, A, test.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>You can also give out the software if you’re doing that. If other people want to run APIs, also a point about that, and this is actually the one. So that’s point one. The other point is, what’s the logic of open data?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Open data makes sense because it’s cheap to give out data. It’s not cheap to write APIs. That way, you can...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Well, if it’s machine-written, is it still expensive?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>In my experiences, orders of magnitude more expensive. You need sys admins and DevOps people. Having to run a bunch of APIs, they go down...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You mean, creating new APIs. OK. But S3 is a very uniform API.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>S3, my point is that, the cost of raw data read, let’s be clear what we mean by APIs. There’s a knowledge API, which is thin layer format. Otherwise, we’re overusing the word API.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Agreed. It’s the same format basically for any...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>There’s a web API. Could we just not use that term, API? Let’s call that a format.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s just fine. Which is why I ask, if I can switch to say &quot;open formats.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Perfect idea.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>But my point is that, this system down here, which is an API, running APIs they need a DevOps person, they go down, they need to deal with spikes in traffic. The cost of running web servers for APIs, if you just look at even AWS pricing models, the cost of running S3 will be 10, to 100, to 1,000 times cheaper than running a server to serve an API to a reasonable amount of traffic.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>So, the cost implications. Generally, it’s not necessarily reasonable to say people should have free APIs. That APIs should be costless. Most people, most companies in the world, they charge for API usage at some level.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It might be that you get, 10,000 requests a month free, it might be 20,000, but at some point you pay for requests.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What you’re saying is that API has his cultural connotation of &quot;Freemium&quot; in it.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It should do. That’s not just that it’s accidental. That’s a good idea, because as an economic model it has a cost.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s called the &quot;API economy.&quot; Go ahead.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Rufus Pollock">
+          <p>APIs, basically the cost per request is not trivial. Whereas, relatively the cost of serving off S3 is again not truly zero, but it’s very, very low relative to the cost of serving each API request.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>On this I have something to say, but please continue.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>[laughs]</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The point I was saying, at some point they might converge, that’s fine.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>In my experience, when you go to, whether it’s governments or even corporations, running those APIs has a significant cost ‑‑ possibly running to tens or hundreds of thousands of dollars a year ‑‑ versus providing raw bulk data, has a cost in the dollars, or hundreds of dollars, or even cents. That difference is very significant.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>One of the reasons I was explaining is, the logic of open data makes sense, because it’s reasonable to go to government and say the cost of supply of this data is essentially zero once you’ve produced it.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Whereas, that is not true as a cost of supply over an API, not zero.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Over individual, granular, APIs.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Granular APIs. Just to be clear, I don’t consider S3 an API in that sense. It’s just basically a basic bulk file download tool. Otherwise, we’re just starting to confuse our term API.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I know that you could say...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>But what you store on S3, may also be either individual records, or even the granularity itself...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>You could split it into the individual records. Even there, I would offer it is better, compared to running an API.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>First of all by the way we’re getting a little bit technical here, but to explode the query space and the official API into a completely rarefied form, to basically cache onto S3, generally has a huge space explosion complexity.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It depends. It varies. I’ve done this with open spending.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s my favorite style.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>We have a queue, right? You can reify the whole queue. We’ve done, and you can look at the space constraints...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s because of the disk cost. It’s now essentially zero, compared to the bandwidth.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Yeah. What I’m saying is, even then you can have enough explosion in the size of your cache space, that you don’t do it. That’s why. The point is, in general, is yes you could.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Even then, the functionality of API first is that disc. How do I put it? Normally, once you’ve put that, let’s say you did take your cache, your whole structure in API, onto S3.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>You normally got a problem, because it becomes almost unusable to people, because they need something like an API to find the stuff [laughs] inside your S3. I’ve got you. That’s what we do in open spend.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>By ID, by user, whatever, right?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Yeah, you can cache onto S3. That wasn’t what I meant by bulk download. That leads the way of now designing APIs, which is you could bulk cache off S3. But we’re now talking about just doing it, how we actually implement an API.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>My point is though, going back, open data makes sense as bulk.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Which one in the picture?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>This one. This, and maybe if I could actually get one more sheet. Can I get one more sheet?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>If you’re to draw this, you’ve got this database, and I’ve spent most of this conversation having a very detailed discussion about APIs. This is, I drew this for the Finland guys, last autumn, as well.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I can send you the drawing.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(drawing sounds)</i>
+          </p>
+        </narrative>
+        <speech by="#Rufus Pollock">
+          <p>This one is like...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(drawing sounds)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Yeah?</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(drawing sounds)</i>
+          </p>
+        </narrative>
+        <speech by="#Rufus Pollock">
+          <p>This is just what I see happening, is people starting to do this. They’re basically architecting their systems to go straight into their read only APIs, via non-clearly-partitioned, open data bulk store. I think that’s an error, because as that happens this system will atrophy.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>If you do it, with this model, you’ve built a system where you are first of all eating your own dog food. You don’t get access to the original raw database. You have to run off your open data store, so you end up, you force your government IT system to eat its own dog food from open data.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>You don’t have this risk that the bulk open data, and the data they’re getting live from API, end up getting out of sync. It also means that, if the government ever went away, we’ll simply deprecate that API or stop maintaining it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The data’s still there.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The data’s still there, but even better, if this stuff was properly designed, anyone outside government can sit and let you pick up your open source stack, and boot their own API. If you have API limits, for example, you might well do if it gets very popular, it costs a lot to run an API.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Someone in your government might simply say to you, &quot;God, we’re spending $1 million a year running these servers!&quot; That’s too much. We’re going to start throttling it or whatever. Other people outside government can go and start taking your API, but they offer it for pay, or for free, or they run it on Sandstorm, which I noticed you have.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I knew the Sandstorm guys back in the day, in Berlin. You can go boot this stuff yourself, and so it enforces a nice service architecture, and one that’s reproducible in or outside of government, because you’re always running through your bulk open data export rather than off your original, raw, gov‑only DB.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s exactly right. I agree with the whole argument.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>You’re a rare minister, by the way.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Rufus Pollock">
+          <p>I haven’t met that many people around the world that have this conversation within government at this level.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I do completely agree. If I may just recap a little bit. First, we don’t call this scenario open API. We stop calling this open API. We say, this is a government, for example this person may very well be another government. Let’s call this another ministry.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In this scenario, which is, they have a well‑defined whatever, API, to connect to one government database to another government service, which then talks to people. This makes it a round‑trip whatever.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then, when we say this, what we’re also saying is that this, because it’s well‑structured ‑‑ it’s got a JSON schema, whatever ‑‑ we encouraged them to run a API proxy here. So that it can do a lot of extraction and transformation...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Absolutely. It’s also a great point you just made, here, which is by having the open data in whatever structure format, you can boot up. Sometimes you may even want to have a proxy or sometimes you might want to boot an entire stack that runs a different type of API, because it has different performance requirements, different structure, or whatever.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>By the second year of this integration running, we expect that the revision here will be relatively solidified. Then, once it does that, we basically take a snapshot saying, &quot;OK, now we know these views are free of privacy issues, FOIA‑compatible.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then the checkbox, what I mentioned before, can be checked. Then, we take this, and then make an open data repository out of the now‑frozen part of this. Then this switches to this scenario, where it’s not depenent on the original data store anymore</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Even better, this one should not be coming from their API that you take the frozen, if possible.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Whichever way...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What we’re saying is that because this is frozen, we can take the DDL of here, and then we say, this, the DDL, it’s now the canonical metadata.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Now, it goes here. Because the DDL is an exact mirror of this, the proxy can just reconfigure their upstream sources here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That requires zero line of source code changes.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Absolutely, and that is perfect. By the way, you just made me think. I don’t know whether it makes sense, but the idea is that the schema is clean, and maybe you could call this stuff clean API. When it goes public, then this is open data API, or open API.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>This is clean API. It’s well‑defined. It allows for clean government where different people can...everything’s tidy, but it’s not open.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In Taiwan, we have two words. We have 公開, which is the freedom of information access, which is read only, and we say 開放, which means it permits derived work.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We have two words for this. So when we say 開放API, it implies an open format with an open license. For a &quot;clean&quot; format we would probably say 結構化. Maybe that’s...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>...confuse it with open in any way. In English, &quot;clean&quot; is very different from &quot;open&quot;, so you probably weren’t saying...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>By the way, we don’t have the &quot;free software&quot; ambiguity in Chinese. (自由 is &quot;freedom&quot;; 免費 is &quot;gratis&quot;.)</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>No, open software.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, open also works for software here. (開源軟體 for &quot;open-source software&quot;)</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>That brings me back, actually to one other thing. Maybe, a challenge you’ll have. Which is, it sounds like you’re doing it all really well, you’re doing alright. For example, when you say that NDC’s spending most of their money on training.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>That’s totally right. The training is going to be more important, and tougher, than the software. The one thing, and I mentioned this just in having thought a lot about the data package.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>What data package represents is, for me, first of all it’s basically borrowed from elsewhere. Nothing here is technically original, it is borrowed from packaging and software that’s based on the node package model.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It was over the last 10 or 12 years, and it’s also an effort to be Zen. Basically, as a specification, it was an attempt to take everything out rather than to add anything in. It’s very different from linked data or Symantec Web which, I am not a huge fan of now, because no developers use it.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The thing I just want to mention about it though, that’s come up a lot, which is the challenge. One of the things, the data quality you mentioned, was just how we fill descriptions in...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...the DDLs.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The DDLs. One of the things that we’ve done a lot is that, maybe in one big push now you get a lot of JSON schema. One of the challenges I see is that a lot of the time, the people who really will know the metadata information will be civil servants who are not technical.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I’m not saying it will happen here, but one day sometimes there’s a big push. People will write a format, they’ll do all this work now. But then in three years, as the schema evolved, you’ll get someone who, &quot;God, I don’t even remember how we edit this JSON schema.&quot; They work in Excel, whatever they work in.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>One of the things we’ve thought about a lot in Data Package ‑‑ and isn’t quite resolved but is in progress ‑‑ is for example how to have a version where you can write the metadata in, for example, Excel as part of defining your spreadsheet, and then have it automatically come out into the data package JSON, whatever you have, or even have that be a first‑class version of Data Package.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It’s something that I care about. We don’t need to talk about it in technical detail but just to think about, which is doing some of your user research as you go along on how, particularly practicing the change problem, right now everyone is agreed on an API, but imagine you had to add some new fields.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>You may have already done that work, but how will that work? How will someone who is not technical in one of the ministries deal with that problem?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>So you’re proposing to establish a standard operation procedure for ALTER TABLEs.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>For ALTER TABLE. Particularly, to take example, one of my learnings ‑‑ and I’m sure you know already ‑‑ is that whereas ultimately nontechnical people can just about grasp the concept of best data in Excel, most of JSON is foreign.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Certainly, JSON is very picky, like you need quotes here and there. You know that, but I’m saying it’s a machine exchange, but it’s not a language. I’m saying this to someone who originally thought maybe five years ago, &quot;Oh, I could get people to write JSON who are not...&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s easier than XML.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It’s easier than XML, that’s for sure.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Rufus Pollock">
+          <p>That’s not saying a lot.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I don’t want to say too much now, just as a flag to you to think about it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Well, you already know Sandstorm.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Yeah, I know Sandstorm. What I know is that it’s invented by this protobuf hacker.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right. It’s Kenton’s work. We actually commissioned Kenton to build what they call a powerbox, an intent‑based, open‑format‑based exchange between the Sandstorm‑hosted apps, and also with the external world.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What we paid him to develop, which was just finished now, is a way for a grain ‑‑ which is the technical term for a microcontainer, a single‑document container running in Sandstorm ‑‑ to serve an HTTP proxy so that if it wants OpenID login or a process that feeds its spreadsheet updates to external services, now it can do that as of this week.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What we are saying ‑‑ and we are getting far more technical than usual, but I think it’s important ‑‑ is that the spreadsheet that we use internally, and inside our institutional platform, is EnterCalc. I happen to be the maintainer, so I can get whatever features in.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What we are doing here is essentially saying that any metadata maintenance, which is often collaborative, you can not only share access to internal stakeholders, but because it is capacity‑based architecture, you can also do a bulk download.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you do a bulk download, it basically packages everything written, because that application services are mounted read‑only. By definition, any file that’s writable would be specific to this instance. So it’s data portability. If you click this arrow and you migrate somewhere else, then you automagically get data portability.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>But all this is manual. As we see in Blue Buttons and other any manual steps, many people would overlook its existence. Not many people would know how to use it. Even if they can bulk download everything.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Right. You need an actual API connection.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right. This is the webkey. You can grant others read‑only access to this metadata table, or write‑only access if you have set this up. What I’m saying is, back to this original drawing, if you maintain DDL in Data Package or in other description format in spreadsheets...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>...exactly. I think doing one based on spreadsheets would work, because we’ve got tabular data here and on the Data Package Spec group who were getting close to something. There’s loads of ways, you could serialize JSON. You could get really generic and do JSON in spreadsheets. Particularly if you’re doing tabulative data, there’s something probably nice.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. That would be perfect. You could use collaborative spreadsheets.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The point here is, for your data definition language, thinking about doing it this way... it would be interesting to collaborate on, because we don’t have yet a perfect answer.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I think part of it is the process could be used while you’re using Data Package from others, you could use a similar process, but getting the pattern for that, maybe patterns here are a better concept for it.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Getting a pattern for how we do that well, and doing it in a way that was actually being road tested in a government by civil servants would be very interesting. One of my favorites, I don’t know if you have it now, but if you just look up bad data, and you look at...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>( Website: <a href="http://okfnlabs.org/bad-data/">http://okfnlabs.org/bad-data/</a> )</i>
+          </p>
+        </narrative>
+        <speech by="#Rufus Pollock">
+          <p>Look at the second... This one. This was just a fun project at one point, but was just an example of how people do this.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>If you scroll down, this is one I wrote because I did it. This one is one of my favorite... They seem to have...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>403 ?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Yeah, they’ve now obviously prevented login to that anymore.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Wow, this is bad data for sure.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Rufus Pollock">
+          <p>This is my favorite. They even changed this because this me just proxying it, but first of all they have 65 separate files. They have 25 different data structures for the PSVs, but the one I really liked was this one.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>This was my favorite of all time, because they saved this as a CSV and it was actually a 401 page. The woman uploading it to the website hadn’t realized that she’d saved her 401 access denied HTML page as a CSV.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The best part was at the bottom, if you scrolled all the way to the bottom of the file you can actually see her name. She hadn’t realized that she saved her access denied page as the CSV file for the site.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>One of the things, having worked with people in government, I know that the simpler that we can produce these DDLs, the simpler we can make these steps and test them.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>For example here, they have no tests, clearly that the data publish each month...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes. The NDC already is working on automatic checks for simple things like this...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The other thing you’re probable encountering is the human aspect of data maintanence.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>This has been amazing because also I’m aware of time, and we all run out of time.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s OK. I have until either 11:00 or 12:00. I don’t know what’s your next...?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>We have to go back to work a quarter‑to, roughly.</p>
+        </speech>
+        <speech by="#Sylvie Barbier">
+          <p>11:25 I think?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>11:30.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We have another 30 minutes.</p>
+        </speech>
+        <speech by="#Sylvie Barbier">
+          <p>11:30.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>One of the questions it gets is on the open software side, and you know my bigger thing that I’m interested in, and obviously this is very interesting, but my really big interest is how do we make an open world?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>By an open world I mean a world in which all public information, and by public it has be non‑personal, I don’t mean government.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>So all movies, music, research, software is open, and innovators and creators are recognized and rewarded. That’s the world I want to see, and obviously that would mean all software, all stuff like that is open.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. All my work is under Creative Commons Zero.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I know you are, but the people we have normally, if we ever tried to persuade government about that at the moment for example, they’d be like, &quot;Well how do we pay for music? How do we pay for movies, or how do we pay for this software, or how do we pay for the chip designs?&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We pay for their time. It’s a solved problem.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Right. What we need to do is systematically pay people. One question I have at the moment, I’m talking quite a bit, is let’s say about one area that government does control its IT spending, it buys IT.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Another area that it does looks by which is outside of your area a bit more, but is it buys drugs through its health service. Right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yup.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>In both of these areas at the moment, to look at IT, and it buys software, most governments still mainly buy closed‑source software in terms of the proportion of spending.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We now mostly pay to rent, but yes.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Exactly, you buy from SaaS providers, but you buy from closed SaaS whose software is closed...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>OK, not you, but speaking generally.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The majority of the spend, maybe not the majority of the use by the way, there is a lot of open source software use, but the majority of the spending is on closed software.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>By definition, almost. Yes. [laughs]</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It doesn’t have to be.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If they don’t have the budget for Oracle, of course they would use PostgreSQL... [laughs]</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Let me give you an example of why I care about this. For example CKAN as you know is this open data portal. Now CKAN has been very successful. Hundreds of governments use it.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The number of them who’ve actually contributed to core development is about two, which is the US government and the UK government, and the Canadian government.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>One of the big challenges with CKAN has been finding people...There is many people who now go and do even get winning projects and contracts and deliver it, but that money doesn’t necessarily flow back to core development.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>You probably know with EtherCalc. Think of the things you could do if...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. At PDIS, we do have full‑time staff to work on EtherCalc integration to Sandstorm, or fixing bugs.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>And that’s unusual. One of the things I’ve seen is that’s often not very systematic.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It will happen when you needed some new feature...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>There’s often not a lot. Particularly core things that may support your features, like, &quot;We need to rewrite this. We need to upgrade to Python 3.0.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Well, it’s usually outside government’s scope. They don’t do that for Oracle, either.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>They do. They pay that for Oracle in their subscription fees. They do pay that. They just don’t think they do.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>My point is to say we’ve got to change that. We’ve got to define openness systematically. Being honest, the current open‑source business model doesn’t work. It gets by, because open is such a good model for producing software. At the same time, while it is better in terms of feature addition, community participation, in terms of funding, there is a real problem.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>One of the things I like to be saying to governments is rather than just paying for features on open source or occasionally procuring it, can you start creating open funds?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>An open fund would look like this. You take the IT budget of, say, national government. You say, &quot;OK, let’s just start with 10 percent. We’re going to put 10 percent of that money into a fund.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It goes into a fund, and then what we do with that fund is we don’t use it to buy or procure things during the year. All that happens is that at the end of the year, we look at what we’ve used that’s open software and we take that fund and we give it out, proportionally roughly based on use and value ‑‑ very crudely estimated. We don’t get too obsessed about value.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Maybe we only use one Drupal instance, but it was a really big one, versus we installed 20 WordPress instances, but they were small. We start using this fund on a transparent and semi‑automated basis to open projects.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>What does that do? First of all, it starts paying based on usage, and for things you’re actually using. The money doesn’t go for just new features. It goes to pay for that...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It goes to basic maintenance.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Right, and it means you don’t have the Heartbleed bug. You have basic support. Second, it means also there’s a real problem for open source software ‑‑ marketing. Generally, it can’t afford the sales and business development.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Often what will happen, and I’ve had this experience with CKAN, &quot;Great, I can go and get a deal one year, but three years later, I’ll have a load of competition.&quot; That’s good, because that’s the whole point of open source.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Three years down the line, anyone can supply CKAN. However, I’m competing in that first deal with Socrato.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Socrato will come and say, &quot;Look, we’ll get you a whole instance for free. We’ll make it beautiful. We’ll import all your data. We’ll come and have three executives give you a pitch, we’ll spend tens of thousands dollars, maybe, up front, and we’ll give you a really cheap instance. It will cost $10,000 this year.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The fact that in two‑and‑a‑half years’ time, when your contract runs out and you’re now locked in, you’ll get charged 10 times as much. I’ve watched it happen. New York City, first time around, $15,000. Two years later, $100,000 was their price. I remember arguing with the guy. He would say, &quot;But they’re just so cheap.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I’m like, &quot;Can’t you use CKAN?&quot; He said, &quot;Oh, well. I’ve just got it through procurement. I didn’t want to deal. You guys don’t look as professional as they do.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>While I introduced Sandstorm internally, I did get visits for Facebook for Workplace. I’ve got other visitors too ‑‑ it’s all on my public website ‑‑ doing exactly the same pitch. I’m very well aware of this.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>One day, you will leave office, and so you’ve got to try and put in place changes, at a system level, that will live beyond you. One of them would be things like this fund.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Because by doing it, what it would allow is open companies, for example, to come and say, &quot;OK, we’re willing to do some of the up‑front business development to get in the door with Taiwan.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>&quot;Because we know, if our software is being used, even if someone else is the SaaS maintainer next year, that money...&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Remember, in this fund, it doesn’t go the person running the service this year. It goes to the underlying software. It doesn’t go to the SaaS provider, this fund. It goes to the actual underlying software team maintaining it.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>These ideas are kind of old. There’s various ideas for these. I like to call them also &quot;open offsets,&quot; like carbon offsets. You’re using carbon dioxide. You may pay an offset on your flight. Similarly, if you’re using open software, but you’re not really paying for it, then you should offset your use.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>And then you can renew the commons, so it’s sustainable.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, I’ve made that argument many times. [laughs]</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Exactly! My question is, is there a way to persuade you guys, say, &quot;Look, we tried this experiment.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I would pitch it to them, not on the explanation I’ve had, but to say, &quot;Look. Look at OpenSSL and your Heartbleed bug. That caused vulnerabilities for you. It’s not that it’s more vulnerable than closedware software, but what was missing was you weren’t paying a regular license fee every year to make sure it gets quickly patched.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>&quot;We want you to start putting in place this fund, so that the software we use, which was hugely high‑quality and high‑value that’s open software, does see regular license fees. So this fund is there to really provide regular support to those companies and organizations to maintain this material year after year.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes, sure. I agree 100 percent. I’m a long‑time donor to the Software Freedom Conservancy. I was at your position [laughs] arguing for the same things.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>As I see it, this is an incentive non‑alignment here, especially for the public sector. People made similar pitches to Apple, and I used to work with Apple ‑‑ until just four months ago ‑‑ for six years as an independent contractor.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For Apple to open‑source Swift, for Apple to donate to OpenSSL or WebKit or whatever, there’s a clear incentive alignment, because then Apple don’t have to maintain this whole thing anymore. Then subsidizing one or two core members to maintain interoperability...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Right.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...is clearly in Apple’s interest. Otherwise, they’d have to develop the same stack themselves, which is not a very interesting kind of work.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>But for government, the incentive is not the same. For Google and Apple, supporting commons like this is a net cost‑saver for them, and actually a huge one.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Just be careful. It only works because they’re massive, abusive monopolists.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It only works because you’ve ended up with these massive monopolies. It was like AT&amp;T.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Well, governments are monopolists of violence...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I agree, but I’m just saying works there is that government doesn’t have such a stake in the same way Google are so dominant that they will subsidize some kinds of software. They won’t subsidize software that competes with them.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>What I’m saying is, &quot;No government is relatively as big as Google in the particular software verticals that Google operates in...&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Which is the incentive alignment issue.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Which is the incentive alignment problem, because then it’s not seen as crucial to government’s core promise to their people. What we’re trying to do here is to, is the idea that I am trying to introduce, what we call &quot;Process as Commons.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t have time to get into details, but the whole idea is that the government does have an incentive in establishing legitimacy, which is getting the policy‑making process as transparent as possible, so that people won’t see the government itself as a black box and go to the streets; this is what they call a &quot;democracy crisis&quot; nowadays.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>One of the ways to fix that is to adopt the ICANN, IETF kind of a multistakeholder model, an open governance based on discourse...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I’m not actually an open governance guy, by the way. Open Knowledge is not open in that way...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure, sure, sure. I understand. IETF is not an open government organization, either.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>No.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>But what I’m saying is that, they get the same kind of legitimacy as even the UN has, because they conduct all their business in a transparent way.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It’s also because they’re geeks.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s true... [laughs]</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It’s also they work in a very technical, narrow area, in which consensus is... much of the reason governments have so much a harder problem, and it’s important that we, as geeks, remember this, is because governments deal with issues in which there’s much less... IETF debating about Internet protocols, even there, geeks can get very angry with each other and have forks.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>In government, you’re dealing with issues of a much less informed population, dealing with issues in which there’s much less consensus sometimes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes, but I trust citizens more, which is why we’re doing this consultative process.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This consultative process gives legitimacy to the government‑initiated policies for things like Uber, which is basically a PR, or what I like to say, a memetic issue. If we don’t get this kind of transparent and accountable process, Uber will automatically seem more legitimate, just because they have better marketing. So we did this work.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Wow, that’s fantastic.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>[laughs] What I’m saying is that doing this work, for example for Uber, we used this open‑source platform...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The Pol.is thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>With the Pol.is system. Then we can go back to the Process as Commons idea, saying, &quot;You know, the reason we get this to work is because we have this democracy‑enabling infrastructure in the commons. So we need to invest to bring Pol.is on Sandstorm, and you can call it whatever.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This process needs to be trusted by people. Otherwise, we have another voting machine crisis. Technology is part of democratic process.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I’ve talked about this in my big debate with Tom Steinberg. I’ll draw a diagram maybe.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Just to finish this one sentence. Then we get incentive for governments to fund infrastructure work, because now it’s part of democracy infrastructure, not just IT infrastructure. That’s my main thought.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>So open...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(drawing sounds)</i>
+          </p>
+        </narrative>
+        <speech by="#Rufus Pollock">
+          <p>Basically, you can tell we should really have Sylvie drawing here. These are terrible drawings.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, it’s fine. I’ve got it. [laughs]</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I have a long piece. I don’t know if you can bring up here?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, sure.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>There’s a post that would be great to read. It’s called &quot;Managing Expectations,&quot; and then type &quot;tech&quot; and &quot;open&quot; or something, &quot;tech open.&quot; Hit that. I think it should...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This one?</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>( Website: <a href="https://blog.okfn.org/2012/07/24/managing-expectations/">https://blog.okfn.org/2012/07/24/managing-expectations/</a> )</i>
+          </p>
+        </narrative>
+        <speech by="#Rufus Pollock">
+          <p>Yeah, that second one. No, sorry, the first one. I misread the first list. It’s the first one.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>You can read it yourself. Basically, when I first went around in UK, I’d say five, six years ago, 2010, this woman came up. She said, &quot;Look, I’ve heard stuff about government 2.0. It’s about open data, it’s about participation.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>One of the things I would be skeptical is like this drawing. You can read this afterwards. Can we get back to the drawing just for a moment?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Which one?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The drawing on your...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, OK. Just a second. OK, right. &quot;Open data is necessary, but not sufficient.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>But also there’s an orthogonality. Basically, what I’m trying to draw here, there’s open information.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, it satisfied one pillar of an a working open government, transparency.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Yeah, but also I’m not necessarily that interested in open government. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s fine.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Or, I’m skeptical about open government. What I would say is, if you read the article, people are interested in better governance. I think that’s hugely important. I am very interested in it.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I just think the role of open information, transparency, is actually relatively small and I think the technology is relatively small. I think the problems evolved in governance are hard problems that technology has little impact on.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>They are problems of collective action. They’re problems of informing yourself, of which...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s more of culture and education.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>No, it’s culture and education and a collective action problem and a principal agent problem.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Maybe culture could help solve it, in the sense that if we all were pro‑social in a very strong sense, but there’s no magic fix. There’s no technology fix for those things.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. I think we need about five generations to get there.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I would say it’s not generations. It’s to do with maybe then changes in the way that we behave.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It comes back to this project I’m doing on society, that we don’t have time to go into today. One of the things that I wrote in that post in 2012, about managing expectations, was be very realistic about what tech will do.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>For example, I see a bunch of the funders in this space, who funded Open Knowledge, who are all into transparency and accountability. They’re like, &quot;Why are we not making all this difference to accountability?&quot; I’m like, &quot;Well, why was it ever going to do it?&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I’ve done activism for 15 years. I did a lot of activism around IT. My experience was, yeah, I could email people rather than write a letter. It was some help, but a campaign on issues was this part.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The irony was once you could email, everyone else could email. I remember all the representatives would say, &quot;Now I get hundreds of thousands of emails. I don’t even read them anymore. [laughs] You have to come visit me to have me listen to you.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>So the challenge I wrote here is I think open as participation in governance is hugely important. The role of tech, I think tech can have an impact here (open governance), but the impact here (open data) is big.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The other thing I’m trying to get as a story made into is that, for me, what I say about open world, I want a world in which all information is open. That means all movies, all music, all apps, all algorithms, all designs, etc.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The reason I’m particularly interested in that, is not specifically because I think of its impact on governance immediately. It would have an impact, because government information would be open, as well. We’d be able to see what we’re doing and may be able to hold them to account better.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then there’s at least a foundation on which the other side is built.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Exactly, it’s a foundation. It’s a foundational stone, but it’s almost a joke ‑‑ Open Knowledge without open minds has little impact. The open minds part is very hard.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s exactly right.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Right! However, you’ve got to get more of them interested in the open world.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Why do I want an open world? Not especially, and I’m not saying this, I don’t want this because of government.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, I agree.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It’s because this transforms the economy, and that has an impact on inequality.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because it removes artificial scarcity.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>On top of it, it removes non‑artificial scarcity, because it’s an enabler of many other sectors.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It’s more than that. The information age has two big impacts. One is non‑rival goods. I’m going to use tech terminology, because you get it. The other is what I’d call platforms, otherwise known for many hundreds of years as marketplaces, but people now call them platforms.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s a non‑discriminating marketplace.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Right, but it’s why all the debate about Uber... when I go to lots of countries, people go, &quot;Uber’s so new and it’s so digital.&quot; It’s got nothing. It’s like a marketplace. It’s like the market in Lyon in 1250.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The only thing new is the portable GPS device.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Yes, exactly, but these two things then combine with a choice. What then comes in is a big choice here. That choice is open versus closed.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>This part already happens. The top part, this is just technology, if you like, or more the structure of the economy. The question is this choice.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I’ve drawn this diagram badly, but you’ve got the choice, plus the tech change. If you put them together, they give you two different worlds. I’ve drawn this diagram in Denmark a couple of months ago and did it better.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The point is, if we go the open route, we get innovation, we get freedom, etc. But we go the closed route ‑‑ and this is what’s important ‑‑ most people in government, in my experience of your colleagues, don’t get that the change of the information age, it isn’t about the fancy gizmos. It isn’t about the AI. It isn’t about virtual reality.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s about we stop playing zero‑sum games with a competing mindset.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Right. That goes both ways. The problem with this is you take non‑rival and platforms and you combine them with closed, you get massive inequality.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It’s not like the old world. This is a world in which one person gets everything. As we said, we get monopoly, basically.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, plus you get scalable surveillance for free.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Right, but forget even surveillance. Just think about Uber, eBay, even Android if you like, Wikipedia. This is a world of where there’s one thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure, it’s network effect taken to extreme on any particular field.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Right, but two effects there ‑‑ the network affects the platforms. The non‑rival good is the left‑hand side, which is the infinite economy of scale. One of the things is this choice.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Going back here, the point is that the open world, it isn’t so much about governance. It’s about if you transform the economy in this way, it’s kind of like if socialism with capitalism got together and had a child.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, it’s a shift in the human condition.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Yeah, capitalism and socialism had a baby. It’s like suddenly we’ve got the best of both worlds. We could have the innovation. We could have market‑based innovation, but we could have it all be open. The underlying good that we’re producing, the information, is fully open.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>That’s why, also, this phrase I want to and share with you, if there’s one thing you take from this talk. We talked about brand. We had a very good concession that way, on &quot;open,&quot; you get this.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I would offer to you, by the way, not to use the word &quot;commons.&quot; I’m being provocative, but I’ve done loads of stuff. I did stuff from commons, as well.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The word &quot;commons&quot; is associated with physical commons, like fisheries or land or the atmosphere.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s like intellectual &quot;property.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The thing is, the commons of land is a mirror image. If this were a mirror...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(drawing sounds)</i>
+          </p>
+        </narrative>
+        <speech by="#Rufus Pollock">
+          <p>...of the commons of information. The thing is this is scarce, and it is overused. This is abundant and under produced.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes. What would you call it?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>We don’t need to worry about the technical term. Because when we’re talking about what world we want, often like what you were saying, you think like, &quot;We wanted a commons.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Even earlier on you mentioned very commonly that many people don’t...They’ll even have events, like there’s one in Poland, the thing for the commons. Or like, we want digital commons.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I’m like, the commons, it brings all the wrong intellectual associated. I would say, just, we constantly say, &quot;I want an open world.&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>That is the t‑shirt brand. We want an open world. Because we don’t get into the detail of the commons which also is controversial to people.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Basically, instead of saying &quot;process as commons&quot;, do we say &quot;common processes&quot;...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>What the process is...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What about &quot;open processes?&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>...which are shared narratives.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It doesn’t dilute. It’s open, including API and source code.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>The source, I’m not so concerned there. The process is quite technical, so calling them commons wouldn’t matter so much.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>You’d say, &quot;What world do you want?&quot; You might say, &quot;I want a digital commons.&quot; Instead say, &quot;I want an open world.&quot; I even start to use the word &quot;open&quot; systematically. I don’t even say, &quot;Open source software.&quot; I say, &quot;Open software.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We do that here too. (開源 instead of 開放原始碼)</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Exactly. My point though is, what is the definition of open world?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>This is what we as a community and a set of movement, an open movement, you need to be clear and get is, that across the world we could go anywhere and say, &quot;What’s an open world?&quot; I’d say, &quot;What’s an open world?&quot;</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>They’d say, &quot;An open world is a world in which all public information is open, blah blah blah.&quot;</p>
+        </speech>
+        <speech by="#Sylvie Barbier">
+          <p>Just one quick thing. There’s that leadership program. We’re running a leadership program.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I have emailed you.</p>
+        </speech>
+        <speech by="#Sylvie Barbier">
+          <p>If there’s anybody that you recommend, that you think...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You’re probably already in touch with the Open Culture Foundation.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Yes, those I’ve dealt with.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You’ll want to contact Whisky Chang, of course.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Whisky Chang?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You probably want to contact him.</p>
+        </speech>
+        <speech by="#Sylvie Barbier">
+          <p>If we didn’t have...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Opendata.tw. Here is his contact.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>If you know anyone in particular in g0v, I’m particularly interested in people who are civil servants who might come. It’s invite‑only in the sense, it’s got limited space. I will run it. It’s highly interactive. It is about this stuff.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s our public system architect, designer and everything.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Sylvie Barbier">
+          <p>Come, please come.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It’s on Saturday, 10:00 till 5:00. Here in Taipei. Write down the time.</p>
+        </speech>
+        <speech by="#Sylvie Barbier">
+          <p>This Saturday.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This Saturday? 10 till 5:00.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>10:00 AM to 5:00 PM. It’s open‑leaders.com.</p>
+        </speech>
+        <speech by="#Sylvie Barbier">
+          <p>Yeah, that’s our website.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Who’s coming?</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>There’s several people from the OCF, and several others. There’s a couple of entrepreneurs. There are some people from the NTU, National Taiwan University. There’s also at least one civil servant.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because we have some informal connections to young public servants who focus very much on this thing.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Could you mail them alternatively?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Our youth councilors, too. They may be interested.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>That would be amazing. Could you do that today by any chance? Because it’s getting close to...</p>
+        </speech>
+        <speech by="#Shuyang Lin">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We just wasn’t sure who else is coming.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>It’s not going to be a public event. Many people must be in the policy, PhD candidate, deputy CEO of the Open Culture Foundation, which is obviously... OK. Thank you so much.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No problem.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I’m here until next Wednesday. Next Tuesday, Wednesday. If tere’s anything you want to follow up on let me know. This has been very, a privilege to meet you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. Let me just say a final thing.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Lovely.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t see myself as a government person. [laughs]</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>No, I said governance.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Governance, even. What I’m trying to say here is that this is what everybody agrees, that we’ll get here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Many people base their argument on solving inequality, which is I think the main motivation for your speech.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In Taiwan, it’s maybe not the best angle.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>No. I’ve already got that. I think what I would say...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because people here are...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>...there will be innovation too.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Innovation. Here that word sometimes implies something competitive. It’s part of our education curriculum. We’re fixing that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>However, for the current generation... [laughs] That’s the old argument between Eric Raymond and Richard Stallman.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>ESR wanted to argue that open source makes better innovation. Period. But the FSF doesn’t like this argument because they want to focus on equality of access and software freedom.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What I’m saying is that, historically in Taiwan and around East Asia, the innovation part...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Is the stronger one.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Is the much stronger one.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I did write freedom, innovation, healthy and wealthy. I agree.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I think the challenge of both for us is how we go outside of the tech sphere.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Ultimately to build an open movement of the current, you need to go beyond... We need to reach out. That’s why for example, inequality seems to be quite a powerful message globally.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Globally of course. Especially In Europe.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>I suspect that it may not be here right now, but I think it will be in 20 years.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Definitely. It was so good to meet you.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Very good to meet you. Thank you.</p>
+        </speech>
+        <speech by="#Sylvie Barbier">
+          <p>Great fan of your work. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Thank you. [laughs]</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Real pleasure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Real pleasure.</p>
+        </speech>
+        <speech by="#Sylvie Barbier">
+          <p>We’ll be in Taiwan probably...</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>We’ll be back. Sylvie’s Taiwanese.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If we can solve the DDL Data Package generation together, that will be great technologically.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>You have our email, so we can just keep emailing.</p>
+        </speech>
+        <speech by="#Rufus Pollock">
+          <p>Thank you so much as well. It’s a pleasure to meet you. Maybe we’ll see you on Saturday, who knows?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK.</p>
+        </speech>
+        <speech by="#Sylvie Barbier">
+          <p>Thank you.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
