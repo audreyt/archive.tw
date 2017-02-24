@@ -71,7 +71,7 @@
           <p>（簡報第8頁）這個是現行的系統架構，可以看到右上角的部分，會有OHS、WG，這個是說明這一張圖裡面縮寫代表什麼意思，像「OHS」指的是Oracle HTTP Server，主要是Web Server，是以Apache當作底層的架構。接著「WG」是「WebGate」，作為single《06：07》攔截session的軟體，作為一個plugging安裝在OHS上去。接著是「Weblogic」是AP Server，就是家華《06：14？？）運作的平台。接著是「OAM（Oracle Access Manager）」，Oracle推出套裝軟體，作登入的認證跟授權。接著是「OID」是一個LDAP的Server。接著是「Oracle DB」。</p>
         </speech>
         <speech by="#CHT Dev">
-          <p>使用者在登入的時候，輸入網址之後，其實會打到四台，會經由Noblance（音譯）去sharing loading，打到四台Web Server，並且Web Server裡面都會各自有一個OHS Server，以及Weblogic Server。</p>
+          <p>使用者在登入的時候，輸入網址之後，其實會打到四台，會經由load balancer去sharing loading，打到四台Web Server，並且Web Server裡面都會各自有一個OHS Server，以及Weblogic Server。</p>
         </speech>
         <speech by="#CHT Dev">
           <p>實際上登入的流程之中是OAM在做，所以OAM這邊規劃兩台，並且有做Cluster。因為帳號的來源是OID，所以也有做兩台，只是獨立的兩台去做LDAP，並且有DB。這邊主要系統的DB是Oracle DB。</p>
@@ -262,7 +262,7 @@
           <p>總比完全爛掉好（笑）。</p>
         </speech>
         <speech by="#CHT PM">
-          <p>（笑）對，因為A是最完美的。</p>
+          <p>（笑）對，因為AA是最完美的。</p>
         </speech>
         <speech by="#唐鳳">
           <p>好，那有沒有（問題）？</p>
@@ -337,7 +337,7 @@
           <p>所以它沒有測試環境這個概念？就好比AA我們可以說台中停止application，我們拿台中來測之類的，但是目前沒有任何類似這樣的架構？沒有？不存在？</p>
         </speech>
         <speech by="#唐鳳">
-          <p>所以即使專門為了stagen（音譯）或測試機，我們也應該做AA，對不對？從某個角度來講（笑），或至少AS。</p>
+          <p>所以即使專門為了staging或測試機，我們也應該做AA，對不對？從某個角度來講（笑），或至少AS。</p>
         </speech>
         <speech by="#唐鳳">
           <p>我問問啦！沒有問題，這樣看起來很正確、很完整，謝謝。請繼續。</p>
