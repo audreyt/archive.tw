@@ -1,0 +1,2375 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/CHT Dev" id="CHT Dev" showAs="CHT Dev">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/CHT Op" id="CHT Op" showAs="CHT Op">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/CHT PM" id="CHT PM" showAs="CHT PM">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/NEC Dev" id="NEC Dev" showAs="NEC Dev">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/于志維" id="于志維" showAs="于志維">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/李雪津" id="李雪津" showAs="李雪津">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/楊蘭堯" id="楊蘭堯" showAs="楊蘭堯">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/消防署" id="消防署" showAs="消防署">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/莊明芬" id="莊明芬" showAs="莊明芬">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/鍾福貴" id="鍾福貴" showAs="鍾福貴">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/雲辦" id="雲辦" showAs="雲辦">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2017-02-14 雲辦EMIC廠商會議</heading>
+        <speech by="#唐鳳">
+          <p>我們一向準時開始，所以就準時開始。我們等投影機開機的時候，我們跟大家說一下今天紀錄的原則，投影機調好之後我只會拍這邊（指投影螢幕），不會拍到大家的臉，所以請第一次發言的時候，大概講一下說是哪一個單位、怎麼稱呼，開完會之後，我們會把這個給我們的速錄師做成逐字紀錄，做成逐字紀錄之後會寄給所有人，大家有十天內的時間修改它，任何覺得不適合被媒體知道都可以拿掉——包含這一句話——我們會在十天之後公布在網站上，也會把大家初步編輯之後的逐字稿在公布之前先給另外兩位政委，因為理論上這並不是我的領域，是吳政忠老師希望在上次協商會之後我來做這一件事，所以我整個處理的過程會紀錄給他知道，所以先請大家知道這一個狀況。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>接下來，在報告之前大家有沒有想提的？或者是直接進入報告？好，那就直接進入報告。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>防救災雲的辦理情形及後續的規劃，因為在2月9日及去年12月底都已經報告兩次了，我想今天的機會讓給各個承商來作報告，所以我是不是就跳過？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好啊！沒問題，下一位是NEC。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>我們等一下報告的程序就從入口開始，由CHT報告安控案，接下來是EMIC，最底層是基礎案，就是分成這三個來報告。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好，沒問題。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>政委好，首先是（簡報第2頁）Agenda，我這邊主要會有三個範圍：第一個，先說明承攬範圍；第二個，承攬狀況之後狀況說明；第三個，未來建議及做法。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>（簡報第3頁）首先先看到承攬範圍的說明，我們會說明到專案範疇及系統的現行畫面，讓大家瞭解一下，接著是對於現行的系統架構，我們也有畫架構圖，以便讓大家瞭解。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>（簡報第4頁）範疇：主要是在維護安控系統的穩定性，並且在災害應變開設期間，我們人員會進駐，以確保不會中斷，使系統都能使用。並且，在專案期間會進行系統優化調整，讓我們的效能能夠儘量達到最好。時程：其實是從去年9月16日至去年12月31日，所以將近有四個月的時間。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>（簡報第5頁）因為時間只有四個月，當時做的方式主要是偏向於對於做系統的調校，程式的部分我們沒有特別動它。這個（投影畫面）是系統畫面，這裡所說的「系統」是消防署防救災入口網站，Url是「Portal.emic.gov.tw」，只要一打這個網址之後，就會跳到下面的首頁，這個是應變中心登入的。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>登入有兩種方式，第一種是左邊的，用「我的E政府」帳號登入，登入就會連結到E政府；另外一邊是右邊的「機關帳號登入」，正常來講我們都是比較負責「機關帳號登入」，因為帳號來源是我們自己的OID LDAP，使用者在輸入帳號密碼之後就會到後端的LDAP認證，確認可以登入之後就跳到下一頁。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>（簡報第7頁）這是應變中心的主畫面，各使用者應其需求而點到不同的項目。（上述）是整個負責登入的流程。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>（簡報第8頁）這個是現行的系統架構，可以看到右上角的部分，會有OHS、WG，這個是說明這一張圖裡面縮寫代表什麼意思，像「OHS」指的是Oracle HTTP Server，主要是Web Server，是以Apache當作底層的架構。接著「WG」是「WebGate」，作為single《06：07》攔截session的軟體，作為一個plugging安裝在OHS上去。接著是「Weblogic」是AP Server，就是家華《06：14？？）運作的平台。接著是「OAM（Oracle Access Manager）」，Oracle推出套裝軟體，作登入的認證跟授權。接著是「OID」是一個LDAP的Server。接著是「Oracle DB」。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>使用者在登入的時候，輸入網址之後，其實會打到四台，會經由Noblance（音譯）去sharing loading，打到四台Web Server，並且Web Server裡面都會各自有一個OHS Server，以及Weblogic Server。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>實際上登入的流程之中是OAM在做，所以OAM這邊規劃兩台，並且有做Cluster。因為帳號的來源是OID，所以也有做兩台，只是獨立的兩台去做LDAP，並且有DB。這邊主要系統的DB是Oracle DB。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>（簡報第9頁）接著說明這個是這四個月來營運狀況的說明。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>（簡報第10頁）我們接手之後，我們評估後提出以下幾點，就我們來看是比較不建議的地方：</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>第一，所有主機皆在同一網段，有安全疑慮；</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>第二，兩台OID各自獨立安裝，並在本機安裝單獨DB；</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>第三，四個AP Domain各自獨立，因無Cluster，所以之後的管理可能要四次，如果有做Cluster的話，我們可以由統一的單位去管理；</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>第四，OS使用的帳號不統一；</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>第五，主機OS均為Windows。就我們的經驗來講，還是建議以Linux為base的OS。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>（簡報第11頁）接著是維護期間的時間整理，主要有三點：</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>第一，OID原本有預設密碼到期時間，但是當初可能交接的時候沒有很清楚交代，所以有遇到一個密碼到期時的問題，忽然很多人遇到密碼到期，所以我們後來調了，讓它的到期時間修改；</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>第二，消防署跟我們反映使用者在使用上不定時出現Bad Request的問題，我們也是找了一些資料，然後去做OHS的參數修改，從去年的11月修改之後，目前沒有這一個問題；</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>第三，系統效能的參數，之前都是預設值，後來做了很多次的壓測，去調整了系統參數，也增進了系統效能。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>（簡報第12頁）我們說明一下壓測的歷程，我們負責的部分比較單純一點，其實只有使用者看到的首頁、登入，及登入到的系統主頁，我們沒有包含後面應用程式的布署。所以就我壓測的時候，我分為兩個步驟：一個是使用者看到登入畫面，可能什麼事都不用做；接著是使用者真的輸入帳號密碼之後，最原始六快磚的畫面。主要的壓測就是這兩個大項目，因為這兩塊基本上就可以包含到所有的項目。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>我們說明一下我們使用的壓測軟體，使用的壓測軟體是OATS（Oracle Application Testing Suite），並且我們的壓測時間是從10月12日開始，因為10月12日之前，大大小小有很多颱風，所以剛好沒有辦法在那邊測，所以幾乎是從颱風季過了之後再開始測，並且一直測到11月29日，差不多這個時間。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>（簡報第13頁）我等一下會首先說明使用者流程，也就是使用者看到的登入畫面，因為這邊只包含到使用者連到網路，因此包含的項目只有網路、OHS及安控的程式，第一個步驟不會包含OAM，所以我分為兩個步驟來測。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>首先，我們測試的系統是OHS，並且我那時模擬的是，每秒三百人開啟的登入畫面，我不做登入，只是一直打，然後持續五分鐘。在測試初期，因為我們的經驗比較多是在Linux上，所以我們一開始初期設定的參數調整，其實是屬於MPM_worker的參數設定，但後來我們測了之後，一直覺得為什麼沒有用，所以我們後來又找了相關的資料，才發現到其實在……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……Windows上根本不是用MPM_worker。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>（笑）</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>對，他要用MPM_winnt，所以我們後來也調整了。下表可以看到，假設我們設woker，即便調到8,000，測試期間也不會改變，是1至60秒（參照簡報是記載67秒），但是我們一調了winnt之後，我們調到350，當然可以再往上調，但是測試的結果，基本上以這一個條件下，response就是1、2秒的時間就已經達成。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>所以這一個OHS測完之後，目前我設定值就先停到這邊，繼續測下一個步驟，有包含OAM的地方。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>（簡報第14頁至第15頁）這兩張表則是我壓測軟體所跑出來的報表，有興趣可以看一下。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>（簡報第16頁）OAM才是比較主要的部分，我們的測試腳本主要分為兩個項目，第一個項目是2,000人於5分鐘之內，全部登入一次完畢，所以平均下來可能是7人/秒，只是第一個腳本是2,000人登完就不再做事，然後真的有在做事情的是後面另外一個步驟，也就是在2,000人登完之後，再繼續以500人的30秒登入完畢，並且每人重複30秒，30秒再重複登入一次，主要是這一個作業。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>下表主要會分為兩個大章節，可以看到秒跟人數會有落差，我在測試初期可能不會以那麼大量的人數來打，所以我一開始在測的時候，是5秒鐘20個人，我們先看1至3這邊，比如第一個項目是5秒鐘的20個人時，我們打到1,200人次，等於我壓測幾次，那個時間是1秒鐘到70秒，變成沒有錯誤，後來在相同的條件下是5秒20人，但是我的人次打到2,000的時候，其實就會有一些錯誤產生。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>所以那時候就懷疑OAM這一套系統在當初的狀況來講會有兩個瓶頸，一個是每秒多少人登入是一個瓶頸，一個是總登入人次也會是問題產生的可能點。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>所以第三次我們調整之後，相同的條件是「20人/5秒」，然後接著總人次是2,000人，這次我們在測的時候，時間已經大幅縮短，登入時間變成1至3秒，並且無誤。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>接著是我們又進行了「編號4」、「編號5」另外的一些步驟調整，然後我們再測，「編號4」、「編號5」的話會比較偏向於真的有按照這一個測試腳本來測，「編號1」、「編號2」、「編號3」主要是以壓測人次來打，「編號4」、「編號5」之後才會按照上面的壓測腳本來做，而且是「17人/秒」，那時測的最大值是「17人/秒」，調整前「17人/秒」的登入動作可能從1秒鐘至2分鐘都有可能，並且錯誤的次數很多，可以看到總人次因為有錯誤，而且回覆的時間也慢，所以總人次只有7,000多，但是調整之後的相同條件下，response就回覆到1秒，並且總人次變成1萬6,000人。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>（簡報第17頁第21頁）這幾頁是壓測軟體所產生出來的報表，我們不特別說明。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>（簡報第22頁）這裡有列出一些參數的調整列表，第一個Bad Request，當初使用者有反應使用者用一段時間之後會有Bad Request出現，這個時候我們調整OHS，讓HTTP Header能夠變得更強，預設是2048及4096，我們多加一個「0」，讓它多了10倍。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>（簡報第23頁至第24頁）接著是OHS及OAM，我們有去調整CPU、Weblogic的參數及OAM一些軟體裡面的設定值。我們也有去調整LDAP使用多少的CPU。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>（簡報第26頁）我們會建議我們的做法，以系統架構來講，改為三層架構，能夠提升安全性。OID設為Cluster，並且與OAM使用相同的RAC DB就可以了。接著是安控系統布署的AP Domain都設為Cluster，然後能夠統一管理。OS改為Linux，並且統一安裝帳號，以及建立異地備援的機制。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>（簡報第27頁）接著是我們建議的架構，基本上不會差太多，只是說我們會切三層式的架構，每一個階層間都有firewall，OID會變為Cluster，並且使用相同的DB，以及我們的安控程式會讓管理者有單一的管理界面，報告完畢。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>不知道雲辦或其他朋友，有沒有問題？</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>（與會者皆無問題）</i>
+          </p>
+        </narrative>
+        <speech by="#唐鳳">
+          <p>如果沒有問題的話，我大概有三個問題：</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>第一，先回到「建議系統架構」這張投影片，其實這就是那張圖，除了異地備援沒有畫上去之外，所以是異地備援這一整套在另外一個機房弄一次？</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>對，就是會建造一個能夠（被打斷）……</p>
+        </speech>
+        <speech by="#消防署">
+          <p>……其實應該說異地備援可以考量AA或AS的架構，一個是在台中完整起來，但是相對會貴一點，如果採用租用雲端的架構，平常是小的，特別的時候是放大，但是考量異地不一定有這樣環境的時候，可以用AS的架構，就是台北一份，出事的時候可以在異地端起得來，但是要考量是在OS層整備或者是DB層做，何時作sync，其實AS反而相對要考量的比AA更多，但是也是牽涉到未來資源從地層規劃到上層AP層。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們這樣做完之後，理論上就是我本來的第二個問題，就是AP層或者Web層理論上都是elastic才對，就是你不用的時候，你三台都當機也不會怎麼樣？</p>
+        </speech>
+        <speech by="#CHT PM">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>理論上是這樣。</p>
+        </speech>
+        <speech by="#CHT PM">
+          <p>是，實際上也是這樣。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以你們打算用什麼？</p>
+        </speech>
+        <speech by="#CHT PM">
+          <p>只要有一台起來就好了，平常的時候。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>應該說這張圖比如以台北的整個環境。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是啊！我的意思好比Web2、3、4都爛掉了，理論上如果你在上面那一層會dispatch，所以什麼事也不會發生？</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>對，假設真的是2、3、4都掛，因為1還有承受量，如果少量的話，就……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……那當然，因為平常沒有發生災害。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>意思是如果我們改成按時租用的話，平常2、3、4都是關的，對不對？</p>
+        </speech>
+        <speech by="#CHT PM">
+          <p>是可以排……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是elastic的意思？</p>
+        </speech>
+        <speech by="#CHT PM">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是平常不開，或者甚至你provision的時間如果很短，甚至那時候再來provision都不會發生什麼事。</p>
+        </speech>
+        <speech by="#CHT PM">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>理論上是這樣子？</p>
+        </speech>
+        <speech by="#CHT PM">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>OK。（簡報第27頁）所以這邊的1、2、3、4只是你希望機器數量跟目前一樣，這個是邏輯上重新排列的概念，並不是一開就要開4台的意思？</p>
+        </speech>
+        <speech by="#CHT PM">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是說台中是一台、一台，你也可以做到AA？</p>
+        </speech>
+        <speech by="#CHT PM">
+          <p>對，可以。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>總比完全爛掉好（笑）。</p>
+        </speech>
+        <speech by="#CHT PM">
+          <p>（笑）對，因為A是最完美的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好，那有沒有（問題）？</p>
+        </speech>
+        <speech by="#雲辦">
+          <p>台北、台中目前是failover。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>跨網段。</p>
+        </speech>
+        <speech by="#CHT PM">
+          <p>沒有，沒有，我們不是以class來做……應該是說我們AA不是做兩邊綁class，對，是這樣，我們是用別的方式來做。</p>
+        </speech>
+        <speech by="#雲辦">
+          <p>不是啦！我的意思是說，通常本地備援的時候，你有辦法設class，但是如果是異地的話，一般來講，你沒有這樣設class？</p>
+        </speech>
+        <speech by="#CHT PM">
+          <p>對啊！對啊！</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>異地AA應該是在DNS層解決它，就是離台中近，DNS就解到台中去。是嗎？</p>
+        </speech>
+        <speech by="#CHT PM">
+          <p>是的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以我的意思是說，這個架構看起來離AA比較近，離AS比較遠，離AS還要再弄一套，就像你剛剛說的。</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>對，AS還要再弄一套，而且在DB層怎麼樣把資料sync一致，也是一個issue。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>如果是AA，你做streaming replication就好了？</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>對，但是要考量到DB的，台北跟台中的資料是否要一致，即使一致還是什麼時候一致，這個需要考量的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們通常的建議做法是什麼？因為台北、台中沒有什麼latency可言，你們可以只有一個寫入端，就是寫入到同一個，另外一個是read only這個是一個辦法，另外一個就是multi master，Cluster應該也不難，所以你們應該都處理過？我可以假設你們都處理過，還是其實沒有？</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>還是要看條件啦！畢竟還有硬體、軟體那一些。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那當然，我的意思是即使現在台中Web、AP、OID都只有一台，那也不阻擋我們測AA？</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>不是我們兩邊馬上size一樣大才能測AA，這樣ok嗎？</p>
+        </speech>
+        <speech by="#CHT Dev">
+          <p>恩。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>第三個，這個架構你們剛剛講沒有改到程式碼，像我之前看了EMIC程式碼，有建議細修一些LDAP pooling的設定，事實上你們評估完之後，看起來沒有什麼需要，4台機器本來就可以撐本來那個腳本的容量，所以就不太需要再改code，這個是目前的初步結論？</p>
+        </speech>
+        <speech by="#CHT PM">
+          <p>其實應該說這一個案子我們接了4個月，之前有處理過，現在還屬於一個未招標的公告階段，未來如果我們能進去的話，其實那一層的程式碼是有準備說如果需要的話……因為OEM也要升版，我們相信程式碼可能也要有一些要修改，所以是要翻掉的，但是目前4個月確實是有做一些參數的調整。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為你們還不在一個可以改code的位置上（笑）。</p>
+        </speech>
+        <speech by="#CHT PM">
+          <p>那4個月改，我們也會滿擔心的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，理解。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以它沒有測試環境這個概念？就好比AA我們可以說台中停止application，我們拿台中來測之類的，但是目前沒有任何類似這樣的架構？沒有？不存在？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以即使專門為了stagen（音譯）或測試機，我們也應該做AA，對不對？從某個角度來講（笑），或至少AS。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我問問啦！沒有問題，這樣看起來很正確、很完整，謝謝。請繼續。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>主席、各位長官大家好，我是NEC，我今天針對應變暨資料服務平台部分作說明。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>大綱的部分分成三塊，第一個部分是承攬開發範圍說明，第二個是維運狀況說明，第三個是改善做法與建議。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>（簡報第3頁）這是整個雲端計畫裡面不同的區塊，我們今天所要承攬的部分即「應變服務平台」，裡面有整個資源應變中心所有需要的部分，等一下會有一些說明。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>（簡報第4頁）整個案子分成三個階段來建置，在101年9月份決標，全案的經費是8,500萬元，由台灣恩益禧得標。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>（簡報第5頁）這個是我們在應用系統使用到的一些基礎環境架構部分，我們每一個AP大概都使用到2台或4台的主機，圖片上或許小一點。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>（簡報第6頁）這個是使用到的資源清單，左邊大概是應用系統的名稱，所有的都是在Windows的作業系統，裡面使用到的機器數量，包含CPU數、Memory、Disk都記載在這裡，這個是總計的數字，所以總共適用到49個主機、214G的CPU、396G的Memory及9,800的Disk空間。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>（簡報第7頁）剛剛有提到我們分成三個階段來完成應變暨資料服務平台，第一階段有三個系統，第二個階段有八個系統，第三個階段是五個系統，分別在102年至104年三個階段完成整個系統的建置。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>（簡報第8頁）剛剛有講到我們的應用系統是資源應變中心，等於是生命週期裡面的作業，所以我們不同的階段都有不同的AP，包括一開始災害發生的時候，我們要作應變中心開設的動作，開設完畢之後，一開始可能會有長官蒞臨工作會報的作業。接下來可能開始陸續有災情進來了，所以我們會有災情查報、災情管制的AP作業。當然在災情裡面，除了防災人員作災情通報之外，我們也跟119做一些災情的介接，包含了有民眾網路通報的部分，災情也會進來；我們也有跟企業來作一些災情的介接，他們會將災情適時提供進來。當然有一些從新聞上看到的，也會從這裡納入。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>在這個階段之後，接下來有一些災情的搶救跟現場狀況的回報，這個部分我們大概會有一些任務指派，請相關單位來處置，這一些相關單位處理完畢之後，這一些相關單位處理完畢之後，會透過這樣的系統回覆。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>監看的部分我們會收透過不同的管道，包含環保署的平台，把相關的監測資訊、警戒資訊收納進來，讓應變中心的同仁可以參考。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>後續的人命搜救、維生搶修的作業，告一個階段進行之後，有一些統計數字的回報，因此在通報表的單位當中，各單位不同的主管機關會把相關的數字，每三個小時彙整到通報表裡面，再陳報到災害應變中心，我們也比對系統來support這樣的作業。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>後續可能有一些現場疏散撤離、收容安置的動作，我們也有相關的系統去support現場，像警察人員去做現場撤離的動作，或者是應變中心收容處所的開設，去把這一些災民收容進來，我們有這樣的系統來處理。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>到最後整個損失統計、訊息發布，也是透過相關的統計資料提供給後台，後面有一個災害情報站，民眾給災害情報站情報，然後會來作通報。到最後整個專案結束之後，我們系統裡面有一些相對應的應用系統來運作。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>我們也support三層級不同的操作，包含從三百六十八個鄉鎮市區到二十二個縣市政府，最後到中央政府。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>（簡報第9頁）目前在整個EMIC裡面，有跟不同的系統跟單位來介接，第一個是自建的部分，因為有幾個縣市是自己去建所謂的應變系統，沒有使用中央的這一套，我們還是有跟他做一些資料上的介接，包含台北市、新北市，沒有做一些專案開設撤除資料的介接，一些災情資訊，也會通過這一些管道進來，還有剛剛提到的災害發生通報表，通過這一個管道送進來。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>119是另外一個消防的體系，在災害期間也會接到大量報案的電話，這個部分的災情也會透過介接的管道納入到EMIC。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>在企業當中是有統一速達、中興保全、究心公益科技有共同介接，會把應變期間將災情送給我們。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>通報表剛剛有提到不同的主管機關負責不同的業務，每三個小時的時間點裡面，通報表要也報進來。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>另外，在環保署的資源交換平台，裡面有一些監測跟警戒資訊，我們也會再跟他做即時的介接，在這個系統裡面呈現，這個是在EMIC收納別人資料的部分。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>在EMIC同時在這個地方會產生三種資料，會把它放到兩個Open Data平台，一個是政府資料開放平台、另外一個是內政資料開放平台，目前產生的三種資料，包含了災情、避難收容處所開設情形、災害應變中心開設情形，我們剛剛講到收了這麼一堆的資料，把它歸納彙總之後，每二十分鐘之後會有一個CSV的檔案定時產生出來，放在這一個平台上，供需要使用來作接取。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>而避難收容處所開設情形是，我們系統裡面有跟衛福部作避難收容處所資料的介接，例如端是目前六千六百多個避難收容處所，我們應該每天會有一個時間去把異動的資料收納到我們系統裡面來，這個部分來的資料是所有避難收容處所的一些基礎資料，像位置、收納人數、適用哪一些災害類別等等，收進來之後我們會作加值，就是目前是不是屬於開設的狀態，因為災害來的時候，有一些避難收容處所會開設收容災民，我們會把開設狀態加值到避難收容處所的屬性裡面，再把資料公開到政府資料開放平台，讓有需要的人可以下載下來，（讓民眾）是目前全國大概會有哪一些避難收容處所正在開設或者已經撤除等等。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>最後一個是，包含中央、縣市、鄉鎮，如果有開設應變中心的話，要把開設情形開出來。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>（簡報第10頁）這個是災情的部分，剛剛有提到不同的管道，包含119、防災人員、企業、民眾通報災情，等收了進來之後會有一個排程機制，20分鐘就產生一個CSV格式。因為這個是CSV檔案的sample。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>（簡報第11頁）應用的部分目前有NCDR跟運研所，就我們所知，這兩個單位確實有這一些資料在系統當中做一些加值的運用。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我可不可以就這一張先問幾個問題？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>不好意思，因為這個是這次會討論這個案子最主要的原因，就是包含台水、台電的介接，及這個資料如何做更友善的呈現，而不只是列出純文字，所以一樣有三個問題：</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>第一，我實際看了一下目前的資料，不太能說是CSV，anyway，是用空白格的，他的資料可用性有一點奇怪，所以我問一些很細的問題，不好意思。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好比第一列叫做「0213路上交通事故」，那個是固定的title嗎？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>不是，那個是目前中央災害應變中心如果有開設專案的話，它的專案名稱。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>喔！那如果你有兩個以上的專案？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>目前我們的系統架構同時間只能一個。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>喔！你們一次只能一個災害？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>只能有一個專案開設。如果要開設的話，要陸續先把這個撤掉之後，再開另外一個。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好，瞭解，謝謝（笑）。所以它有一點像title的感覺？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是這一個「0213路上交通事故」，事實上我們當然知道很嚴重，可是它不可能包含2016年的資料，它資料集裡面還是有2016的資料？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>應該這樣講，「0213路上交通事故」是昨天晚上十點鐘的專案。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我知道，滿嚴重的。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>因為我們系統裡面，三層級都可以開設專案，鄉鎮可以開、縣市可以開、中央可以開，可是因為有一些層級開設專案之後，通常有一些不會做關的動作，就長時間擺在這裡，所以去年最後一個颱風是艾利，他們就擺著都不關了。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>我們再往下抓開設期間的時候，我們就從中央往下看，中央看縣市再看鄉鎮，我們是抓目前所有開設中最早的……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……我有聽懂了，我們剛剛在看的時候，就覺得非常詭異，怎麼會有2016年的資料。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對，因為有某些專案沒有關，所以可能是在去年的9月、10月，或者是更早，所以你會發現為什麼會拉到這麼久以前的災情。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以我也沒有「0213路上交通事故」title開的時間點，如果有的話，我就可以從那邊抓就好了。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>那個應該是在應變中心開設情形……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……瞭解，瞭解，但是就是要自己用大腦去join它（笑）。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是。主要是因為某些層級開了之後，就不去關它。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>理解，理解，這個是使用習慣的問題。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>經緯度即使是只有點的部分，也有一些自建系統是「0,0」，這個就表示自建系統裡沒有geotag的能力，是這樣嗎？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對，通常看到那一些比較怪異的座標，大概都是介接進來的，我們看到「0,0」，這個座標顯然是沒有。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>或者是在臺灣以外的，為什麼會跑來這裡。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>有時我們在地圖上看，有些點怎麼會跑到海中間或者是非洲……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……對，是。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>那個可能因為接進來的時候，他給出這樣的座標。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以你們不會主動去通知你們給的座標格式有誤，或者是日期有誤？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>介接的部分大概是進來是什麼，我們就呈現什麼。因為我們當初其實在介接的規範有特別說明這個部分希望能夠給正確的，因為我們基本上結進來……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……對，因為我有看程式碼，就是完全沒有檢查（笑）。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>因為當初在介接的規範裡面……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……沒有寫這個。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>有希望他們提供給我們，所以我們認為應該會提供正確的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對不起，一直問很細的問題。所以同樣的就是說，如果他的發生時間，我看到一些來源，其實有經緯度，好比像桃園市龜山區的停電，很奇怪都發生在整點的時候，9點發生或10點發生，或者至少在整分的時候，可是理論上發生的時候，登入就這一個解析度嗎？或者是用介接時間來算？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>我們那個畫面，就是新增的畫面，點開的時候其實是系統時間，但是使用者可以自己去調整它，有時災情發生可能是十分鐘之前發生的事，他可能現在才做登入，可是他要……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……那就不可能精確到秒嘛！</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>甚至也不可能精確到分鐘？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>那個其實是使用者可以自己改。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我理解。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以這樣的意思就是說，你們系統對系統的介接，剛剛不是有好幾個嗎？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>理論上那應該是用他們的登錄界面才對？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對，對，如果是接進來的話，就是他給我的時間。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以我看到這一種很奇怪的，或者都是在整點的，就是之前來用你們的系統，或者是在他的登入系統裡面只有十分鐘的解析度，那這一件事也不會特別去盯就是了？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為我後來看到有些有更多資訊是在純文字的部分，就是會在純文字的部分會說幾路、幾號，或者是路段什麼時候到什麼地方，但是geometry是一個點，所以這就表示資訊流失，對不對？就是它本來是有路段的，甚至一段到二段，但是在你們這邊是點跟經緯度。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>應該這樣講，我們提供的定位方式其實有點……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……點、線、面三種，可是面幾乎沒有人在用。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>不用說面，線都很少人用。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對嘛！謝謝。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>因為大家點一個點就過去了，大概地圖上有一個位置就行了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>OK。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>然後在描述裡面再用文字描述……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對啊！</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>這個其實就是使用者，因為我們沒有強制做這樣的介入，我沒有辦法說從文字解析因為這個是面，所以強制你一定要做成面的標示，這個辦法沒有辦法從文字描述。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是，因為如果只是像路樹倒塌，我覺得無所謂，可是如果好比從一段到三段，這個應該要是線段才對。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>這個就取決於使用者要如何去做輸入。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>理解。所以以目前台水的部分來講，停水已經接進來了？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>停水部分，我們之前有跟台水開過會，他們有給我們一個sample，我們有試過，但是後續目前還沒有……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>沒有機器對機器過來？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對，沒有進一步新的東西出來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好啊！我想會後sample再看一下好了，我自己來問台水。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好，到這邊可以了，請繼續。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>（簡報第12頁）因為我們的系統大概在104年下半年開始繼續陸續上線使用，也經歷了幾個颱風，到了104年最後一個颱風，我不記得哪一個，反正10月份有一個颱風結束了，我們有跟署裡面討論，系統歷經了幾個颱風以後有做一些調整，包含了「待辦事項提示調整」，我們在主畫面右上角有一個所謂「待辦事項提示調整」，也就是是不是要填書報表、是不是有災情案件指派給你要作回覆，大概有六項。這個部分本來在文字後面有一個括弧的數字，也就是通報表填報，後面有一個「3」，表示有三個表還沒有回覆；災情指派後面有一個「5」，表示有五件還沒有回覆。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>本來是有上述的統計功能，這個部分對系統的效能還滿吃資源的，要很即時計算這一些。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>有聽懂。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>而且是依照登入的人是哪一個單位，並不是每一個人看到的數字一樣，因為有的人要辦理的事項要計算，所以滿吃資源的，所以我們就有跟署裡面討論，因為使用者說看到3、5、8，其實對他來講沒什麼意義，只要有或者是沒有就好了，所以我們後來就改成紅綠燈，紅色就是有、綠色就是沒有，如果是有、沒有，這個判斷就比較容易，比較不吃資源。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>用EXISTS subquery就好了，比較不吃計算資源。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>另外我們也在這邊可以開關，也許有時認為提示的這一列不需要顯示，就可以把它關掉，關掉之後就不用做統計的計算，系統效能上就ok，這個是第一個調整的部分。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>第二個部分，我們針對SQL的部分檢視，把有問題或者當初下的不是那麼好的語法挑出來優化，當然是透過一些工具，去看我們調整完的指令是不是比之前有效，如果有的話，再把它換上去。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>另外，像剛剛提到Open Data第一個欄位有一個很長的一串數字，那個是所謂災情的案號，那個是透過Stored Procedure去決定怎麼樣產生案號。這一個案號在取得的時候是做table lock的動作，後來我們認為這樣子會常常造成lock的現象，也就是改成low lock，發現改完這樣之後，確實有比較好，這個是有做一些調整。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>接著是資料庫存取的部分，Isolation Level的設定，我們把它改成read uncommitted，也做了一些調整。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>接著在通報表的部分，我們有提供給外部一些介接，取通報表的統計數字，這部分我們也有做Cache機制，如果是在短時間內重複取同樣資料的時候，就可以從Cache抓給他，就不用再去資料庫重新撈了，我們有做這一些調校的部分，這個是在104年10月至12月。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>（簡報第13頁）在壓力測試的部分，我們有針對系統裡面幾個作業有分別不同的情境下去做的，可以看到有七個系統，依照整個義務面的作業流程，去設計操作模型，每一個系統我們大概看到右邊是模擬了兩千四百個使用者，單一系統是兩千四百個使用者同時下去進行操作，然後持續的時間是三十分鐘做壓力測試，每一個操作時間是以六十秒來作區隔。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>（簡報第14頁）以這樣操作的情境所做的壓力測試，你看到下面這一頁，左邊是主機端出來的數字，主要是看Fail Hits、Total Hits，右邊是我們做的Jmeter的壓測工具，壓出來的結果大家可以看到右邊，登入的部分我們可以看前一個topic講過的，主要是看kp的部分，平均維持滿快的，大概是三秒以內就有平均回應。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>（簡報第15頁）這個是個別不同的系統，用兩千四百個下去壓每一個系統，我們整個再全部壓測，那整個壓測就會有多少人、每個系統分配多少人數的議題，當初在署裡面有根據整個實際發生災害時，全國會使用的防災人員統計數字給我們，就是八千一百一十六人左右，這個數字署裡面統計給我們的。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>我們就把這八千一百一十六個人依照去年梅姬颱風，我們大概算了一下每一個系統使用的次數，把這個比例算出來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個次數是人次嗎？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是操作的次數，是人操作的次數，就是點擊。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是假設每一個人點的每個系統差不多的分配？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是。我們就依照這個比例，把這八千一百一十六人分配到這一些系統裡面去，就是最右邊這個欄位，加起來就是八千一百一十六人，分配到不同系統有兩千多、一千多，也有幾百個。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>（簡報第16頁）我們依照這樣的結果，把這所有的系統同時間依照這一些人次去做壓測，持續的時間也是三十分鐘，我們看到上半段是主機端的，看到Fail Hits是不高，大概是零點五幾，有些都是零。下半段我們CLIENT的Jmeter，整個AP……因為資料太多了，total的平均數字算出來，大概是二點五秒，是小於三。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>等一下，為什麼這一頁可以這樣看？災情管理的那四台，應該是一樣的設定，對不對？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這四台應該是當作identical environment來看待？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以這樣的意思就表示它有一個ceiling，差不多到九千個Hit。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>一旦over那個ceiling的時候，看起來系統會開始爆炸，如果他的軟體完全一樣的話，應該是這樣看。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們還有沒有再往上測？就是你看八萬一跟八萬四的時候，它沒事，九萬二的時候，Fail 三十八筆，這樣就不linear，除非是那一台的configuration跟別台不一樣，不然就表示這一個系統有一個閾值。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>還是我理解錯，這是不同的電腦？那一台CPU比較少，所以這個是應該的？（笑）</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>硬體支援是一樣的，軟體也是一樣的，設定也是相同的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以你還有再加，好比像多壓一點到災情管理去測它的預知嗎？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>目前就是用兩千六百五十六個下去做。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以等於四台都吃掉兩千六百五十六？還是不是？是兩千六百五十六分到四台？所以每一台分個六百多這樣子？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>因為前面有一個VIP，所以有F5自動配。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>F5自己配，所以有人運氣不好，骰運不好就會多分幾個？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是，是，主要是看怎麼配。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那這樣的話，我會覺得說，就是你不多拿個，好比像兩、三倍去測，你就不知道那個九萬是運氣不好，還是真的就是九萬會開始爛掉。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對，這個可能就是再去測。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好，沒關係，請繼續，不好意思打斷你。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>這個大概是這個部分。（簡報第16頁）這個是在1月份做的，剛剛前面這邊忘了（說），這個大概是11月份做的，最左邊可以看到日期。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>（簡報第17頁）105年中央災變總共開了六次，第一次是0206震災，再來後面是尼伯特，再來是莫蘭蒂、馬勒卡連著那一個禮拜，就是中秋節的時候，大概有六個。最右邊有看到這六個開設的機會裡面，有看到災情筆數，「0206震災」是一千兩百多個，「尼伯特」是三千兩百個，「莫蘭蒂」八千七百個，「馬勒卡」是四百六十，最多就是「梅姬」，有兩萬五千多筆，「艾利」因為擦邊過，在我們的系統裡面沒有……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……沒有開設。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>沒有人登打災情。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>有開設，沒有登打。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>大概是這樣子，給大家參考。「0206震災」、「艾利」的使用者沒有反應什麼問題，這四個中間有反應一些問題。我們簡單來講，大部分看來是資料面的調整，也有一些是系統的問題，我們當下做即時的處理，這一些問題都處理完。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>（簡報第19頁）我們看到「ZK升級測試」的部分，因為署裡面未來有一個計畫，希望能夠做成手機……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……手機登打。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對。署裡面有請我們做ZK的設計，因為ZK自己有說在8.0開始……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……開始做RWD。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>有support。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們有跟ZK簽約嗎？還是只是用ZK OSS而已？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>我們有跟他簽。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>我們在這邊有實際上升級到8.0.4，這個是原本，我們就拿同一個作業來看，這個是工作會報的作業……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……然後就會破百。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>它的界面是原本長這樣，我們升級到8.0.4之後就會變成這樣（簡報第20頁），版面上有一些很奇怪的東西跑出來，這個是在桌機上看到的，就是跟前面那一頁的解析度完全一樣。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>沒有啊！這只是CSS的input option的display attribute，改一行就好了。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>瞭解。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>然後我們再把這個瀏覽器去設置。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>我們設成iPad。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對啊！</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>主要是下拉式選單的部分。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對啊！跟左邊編號下拉式選單沒改到。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>再跑到iPhone就會像這樣（簡報第22頁），我們的建議是這樣，雖然很低，但是還是需要橫的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是，因為它的字就這麼多。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>沒有縮小。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>字還是這麼小。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是啊！</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>所以對user的操作是滿方便的，（簡報第23頁）我們有提幾個建議：第一，8.0.4有一些樣式會亂掉。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個就改一行。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對。如果真的要做RWD，因為RWD主要是支持行動裝置，是不是長的畫面要跟桌機上使用一樣，可能會跟使用者操作行動不是那麼適合、貼近，所以也許在畫面上要做一些調整，要比較小尺寸的螢幕上，比較容易查到要的東西跟操作，這個是我們的建議。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>（簡報第24頁）最後改善的部分，我們還要持續配合專案開設、署裡面的定期演練，持續做一些系統的優化，消防署在未來有計畫做一些盤點系統的升級，我們當然也要配合後面這些的應用程式，應該有機會去作調整，也許有一些要測試或修正，我們會全力來配合。這個是今天的說明。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>謝謝，那我就繼續問了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>第一，往外的頁面，www.emic.gov.tw，也就是不用登入就可以看到的外網，這個東西也是同一套嗎？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>這個部分不是我負責的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以這個是災害情報？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>可是我這邊看到的資料都是EMIC系統的那一些資料。</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>這個部分我來說明一下，因為當初有跟情報站有談，資料來源是我們這邊，所以我們有寫了web service。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>喔！所以是……</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>那一塊塊需要的就是copy我們……我們吐資料給他，他show在畫面上。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以這一個東西並不是經過Open Data？</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是專門開了一個類似專門給他們用的東西，是這樣子？</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好比我這邊按交通狀況，我就會看到更多交通狀況，這個更多交通狀況其實在後台是有copy你們的API嘛。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是這幾個區塊的內容。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>可是因為我這邊看到，HTTP request只有到gateway的dataservice.aspx，帶的參數是你們的interfacing getpicture.aspx，意思就是說你們為他們可能接的都單獨寫了aspx？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>不是，我們都是JAVA程式。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>也就是說，我現在看到的還是他們的service proxy？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對，他們應該是包了一層。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那你們JAVA給他的是什麼？JSON或XML或CSV？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>大部分都是XML，少數一些是JASN。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>OK。這個中間除了我看程式碼之外，沒有別的文件嗎？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>我們當初跟情報站有一些spec。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>只是沒有放在說明文件裡……因為我沒有收到（笑）。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是，會後會再提供。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>瞭解，所以說是存在一個Web Service的，只是目前只有一個consumer。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>每個服務可能都有一個。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，我理解，你們各有一套Service？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但目前只有emic.gov.tw這邊在call你們的？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>沒有別人call？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>沒有別人。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好比他們多要一個，你們就開一個view給他？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>然後這中間的spec是他開給你們，或者是你們開給他？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>我們會先討論，他大概希望取得什麼樣的資料，我們這邊是每一個他要的都有，如果都有，我們就重複，可能有一些我們沒有的話，好比就會從那邊取得，如果需要我們提供的話，我們就會討論好從哪一些資料。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就專門寫給他？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對。他要丟什麼參數進來，我們要吐什麼資料，大概都會討論。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>瞭解，你剛剛目前提到spec，這個spec是用什麼語言寫的？中文嗎？（笑）</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>當然。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>（笑）因為我說是只有中文，它是一個word檔，或者是機器可讀的API spec？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>沒有，就是類似word。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以他們那邊改了系統都要跟你們開會，就是說不可能bypass掉你們自己去抓raw data，你們跟他唯一的端口就是這一些Web Service？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以反過來講，如果現在是別人，NCDR之類，要拿這一些Web Service，他們需要做什麼？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>因為我們有一個資料服務平台，這個Service丟到這個服務平台就可以丟了，只是因為現在這一些Service是我們跟他們在用，不需要外部使用，所以沒有掛到資料平台上。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這裡指的是包了第二層的API proxy嗎？一般網路上的人也可以呼叫的的API？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>Web service是內部的，所以前面URL的前段可能是外面URL的……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……是內網？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對，對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為這個東西我看是GET only，它沒有寫資料回去，對不對？還是它也有POST/PUT？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>它沒有。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以這個是民眾看的，等於所有的request都是GET，理論上你們約好了，好比這邊一分鐘才會更新一次的，應該就可以cache一分鐘之類的，運氣好的話。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>我們是希望它能cache，可是因為當初在討論的時候，他們這邊不想存資料，所以變成只要user有一個Hit，它就叫一次後端。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，因為我這邊看Cache-control: private，意思是我每一次載入，後端就會query。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這樣何苦呢？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>因為我們有建議希望它存，如果它發現短時間取向的資料就不要再來問。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對啊！</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>其實我loading會很重，可是他們有一些考量，可能每一次Hit就來問我。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我可以問是什麼考量嗎？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>這個我們不知道為什麼。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你不知道為什麼？</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>不好意思，我說明一下，因為這個問題我們在署裡面有討論很多次，基本上我們怕每一個Hit都來跟我們要……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對啊！是啊！</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>我們也希望署能夠響應要求，但是對方廠商覺得他們用這個方式，對他們來講……我們也不知道他們的原因，對他們來講程式已經寫好、不願意變動，類似這樣的問題。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以這個不是政治問題嘛，對不對？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為理論上你們domain name都是emic.gov.tw結尾，所以他們並沒有任何依法不能存資料的這種狀況。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這還是要cache，不然的話，你們的loading是只會多，不會少的。</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>我們報告的地方，後端我們有些自己做了cache，因為怕我們的系統給他們拖累了，所以部分的東西有些cache……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……對，因為你剛剛測的這個是寫入端的八千人或者多少人。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是隨著臺灣上網人口增加，讀取端只會多、不會少，那個不是你們可以做的事情，所以你們也同意說，理論上不應該是你們來cache，應該是讀取的那一端要來cache才對。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>我們有這樣建議過。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>第二個問題：你們被讀取的這一些資料，既然我網頁上都看得到，其實並沒有任何道理不能是開放資料，對不對？當然不會有個資、營業秘密及隱私的問題。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以有一個可能性是，你們針對你們所提供的每一個資料，在你們建議cache的頻段，好比像每分鐘或者是每二十分鐘，你們產生出一筆Open Data，就像剛剛災情通報的Open Data一樣，放到災情平台，請EOC去跟開放資料平台抓，就會自動cache住，你知道我的意思嗎？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>瞭解。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那這樣的架構有人提出來過嗎？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>跟主席報告一下，像有些路徑，其實我們也是從氣象局那裡來的，其實理論上再去要就好了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以你們完全沒有加任何東西？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>因為氣象局先提供的那個環保署CDX，我們再從CDX，其實是第二手、第三手，其實源頭一定是……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以縣市政府你剛剛講的那一些登報系統，CDX也會有嗎？還是那個就不會了。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>那個就不會了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，所以你們也有第一手的災情資料。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>裡面EMIC系統，產生的大概是災情的部分，也就是通報表裡面的一些相關數字，那個是來源端。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>其他看到像發布的警報資訊或者是淹水，那個源頭都是給機關負責的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>總之，後者沒有必要從你們這邊拿。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>也不是沒有必要，因為我們不是第一手，我們也不是主管這個資料，如果資料有問題的時候，來找我們，我們也很困擾，因為我們不是……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>同意啊！同意啊！可是你這邊是第一手的，產生開放資料，應該不成問題嘛？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是，是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以我覺得需要盤點的是，有哪一些是EOC有跟你們拿，而你們目前在內部開放資料集裡面還沒有放的資料，那一些資料都轉成開放資料的話，理論上你們可以0 Hit，就根本不會動到你們的後端。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>理論上成立嗎？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>OK，好，這個是第一個問題，這個是讀取端。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>寫入端有另外一個 NDA.emic.gov.tw/dim，它是使用者可以自己登打，所以它只有三個，就是苗栗、嘉義及桃園？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>剛剛看到的是民眾參與NDA的網站，那個是提供給民眾來作災情通報的，這個是由縣市決定要不要開，目前是只有剩三個縣市開，他也可以決定關掉，所以可能下一年就發現有一個縣市不見，它關掉了，服務要不要開是縣市決定的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，我理解，所以意思是這三個縣市目前……</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>……有開。現在你看到的三個，就是三個縣市。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是這個是寫入端，就是它會寫進你們的DB？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以我們還是有一個Web寫入，它只是不在剛剛的那一個網頁上，在另外一個？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這一個寫入的Web Service有spec嗎？也是一個word檔？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>因為這個是我們自己做的，我們其中一個子系統。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以這個東西就是你們的子系統自己畫出來的？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是，是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>可是它不是ZK啊！</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對，它不是ZK。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以就是專門為了民眾寫的。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對，為了民眾。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>做了一個非ZK形式的。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>總之你們做了基本的登打系統，這個登打系統因為是系統的一部分，所以我們如果要改成，好比像一個API寫入，它是完全在你們控制裡的？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是我們完全要把HTML網頁寫成API Form，那種最樸素機器寫入用的，理論上你們不用問任何人？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>OK，好，那這是第二個問題，所以寫入分別是這樣。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>最後一個是整筆匯出入，目前你們自己在這邊登入剛剛那些災害，它有點像整筆匯出，從上次關掉到這一次還沒關掉的區間，就是剛剛Open Data的那個部分。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>目前是從事件開設最早的那一個到現在。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>OK。所以其實這一個東西平常會造成你們的資料壓力嗎？還是還好，你提到舊的這一些人跟你接？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>目前是還好。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為用的人沒有那麼多。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對，他們傳的頻率也沒那麼高。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>OK。所以就是說，整筆匯出的這一個部分，目前不造成你們的壓力？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>整筆匯入的部分呢？也就是機器對機器的部分？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>機器對機器，那個是不定時的，他們有觸發這個……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……多的時候很多。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對，當然颱風期間就很多，像最近這一段一定是沒什麼。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，但是我意思是說在寫入滿載的時候，你剛剛測的時候是人進去登打的，那機器呢？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>機器部分沒有針對這個部分注意。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>OK，因為以前壓力沒有大到這個地步？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是。因為量也沒有大到……剛剛兩萬多筆裡面，也許不到十分之一……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……喔！所以只有不到兩千筆是機器對機器？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對，大部分還是從……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>大部分都是人的登打？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>然後裡面相當少部分是剛剛網友自己登打，這個也是有嘛？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>那個幾乎沒有。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>幾乎沒有人在用這個界面？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>幾乎沒有。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我剛看起來，它還可以上傳MP4（笑）。</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>去年幾個颱風，透過這一個NDA進來的，我的印象中幾乎沒有。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>OK，所以不太有人真的用手機拍了一部電影然後上傳？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>因為它有限制檔案大小，所以也沒辦法拍一部電影。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>30Mb，如果壓縮率高也可以傳微電影了（笑）。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>不過我要講的是說，在批次寫入你們系統跟匯出你們系統，兩個你們都不覺得是壓力的來源，就是以目前的用量看起來都還好，然後這兩個東西如果要做成更結構化的方式，都是你們自己開發就可以了？</p>
+        </speech>
+        <speech by="#NEC Dev">
+          <p>對，如果是我們的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>瞭解，謝謝，我問完了，不曉得有沒有別人想要討論什麼？我們還有一個簡報對不對？我們先進入下一個簡報。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>主席、各位長官大家好，接下來就是由中華電信來報告一下我們基礎服務平台，也是整個雲端基礎建設的一些建置部分及架構。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第2頁）我們大概分成四個部分：第一個是跟雲端相關的整體服務規劃及建置；第二個是針對Cloud BOSS自動擴展，所謂的「自動擴展」是有需要的時候，可以依照需求直接產生更多的VM來作一些流量分流，我們有針對這個部分來介紹；第三個部分是HGR服務介紹，介紹一下未來可能租用雲端的服務方式，所謂的「HGR」是「HiCloud Government Region」，High Cloud的部分有牽一區特別專屬專用為政府而建置的；第四個是對自建或者用租用的雲端方式來做一些比較表，請各位長官提供一些意見。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第4頁）整體服務規劃的部分，第一個是我們當初建置這一朵雲的目標是易用、高品質、彈性擴充，因此我們建置的地層是以High Cloud為一個模範的範本來進行經驗的複製，所以不管是在軟體的容易使用上，或者是在硬體的採購上，都是用一些比較大廠知名品牌，有一些雲端經驗方式來建置，為消防署建立一些底層的服務，讓支撐的系統能夠順利運行。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第5頁）我們建置的地方是在「東七機房」，也就是在松德路，這一個機房是經過ISO 27001、ISO 20000-1及其他環境認證部分。建置在安全的機房之後，消防署的人員就可以遠端使用雲端服務連進來，其他一些人員也可以藉由網路的方式連進來。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第6頁）這張是我們整體網路規劃的架構，規劃方面第一個是高可用度、安全，所以我們可以看到幾乎是兩兩備援的方式來建置一套系統，頻寬是大頻寬，遠端有一個異地文心，走的是縱深防禦的架構，我們等一下也會對資安有些介紹。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第7頁）這個是我們的SLA，所以可以看到在服務可用度的部分幾乎都是1＋1，不管是在OS層、在底層或者是應用層都是做一些高可用度的規劃架構，讓不會因為單點失效而產生系統的困擾，還有一些RTO、RPO的規範。資訊安全的部分有做一個COC的監控管理，一旦有一些緊急事件，會做一些email或者是簡訊的告警。我們還有做一些門禁管制、人員管理及專案管理，這邊提供給各位長官參考。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第8頁）服務水準協議，我們都是採用高可用度的網路設計架構，網路的部分是採用1＋1，在Virtual Port的部分也做一些網路的串接，所採用的Router或Switch都是國際知名大廠。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>第二層是虛擬機（VM）的部分，VM為了保護有高可用度跟SRM，所以不管是在單一虛擬機器的故障或者是卡板上的故障，又或者是遠端發生一些問題的時候，要移植到遠端做立即啟用的時候，在虛擬層的部分也有做一些保護。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>第三層是SLB，在單台或者是單點故障的時候，可以利用這樣的特性來偵測是不是發生故障，而把流量導到另外備援的點或面去。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>第四個是有做異地的備援跟設計。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第9頁）在整體資訊安全的部分，我們以ISO 27001及20000管理的架構，會成立一個SOC的中心去做蒐集，所以可以蒐集各項設備的log，會做整個的判斷，如果有需要的時候，可以發布訊息，然後告警使用的機器。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第10頁）建置的部分我們是用所謂的縱深防禦架構，也就是多層次式的，第一層建立一個IPS，然後有一些基礎的D6S功能，所以可以阻擋一些IP等惡意部分，我們可以在第一層的部分先阻擋掉。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>第二層是在Firewall跟SLB的部分，所以這層也可以是不友善的IP來源或者是特定的區域，我們可以用IP層的方式來對他們管理。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>最後的部分是我們把這一些資料收到SOC中心，然後做整體的整合判斷，看看是不是有一些攻擊的趨勢，或者是白人有一些特定的方向，所以可以根據這邊來做一些判斷。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第11頁）我們有建主機房跟異地備援機房，所以是兩座儲存設備，可以作為發生災難時確保業務還是能持續運作。我們中間會做差異的資料備份，每日會去除重複的快照備份，以節省儲存空間。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對不起，打斷一下。「主機房」的這兩個意思是類似AA的狀態嗎？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>其實主機房應該是一整座大的，然後他作RAID，應該說這應該只是示意圖。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>他們的意思是在做red？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那這樣的話有測過異地嗎？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>有，每一年都會做一個異地備援的演練。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是如果主機房被炸掉了會發生什麼事？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>我們是沒有模擬被炸掉（笑），就重大災害啦！然後會在特定的時間搬到異地機房去。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是人工改類似DNS的做法嗎？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>對，有些部分還是要手動，NDS應該是手動的一部分。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以一次從這邊知道被……我們不要說炸掉，被斷電（笑），到這邊recover大概要多久？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>三十分鐘。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>滿長的，裡面有多少時間是手動的？</p>
+        </speech>
+        <speech by="#CHT Op">
+          <p>其實SI按下一個按鈕之後就自動開始切換，手動的部分就是要去修改負載平衡的部分，他也知道，可能是有疑慮，所以我們現在是用純手工切換，就是外部的DNS這樣。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以意思是手動的部分可能一分鐘不到？</p>
+        </speech>
+        <speech by="#CHT Op">
+          <p>對，剩下來的就是……因為那邊的VM是在關閉的狀態，要把它叫起來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就要二十五分鐘？</p>
+        </speech>
+        <speech by="#CHT Op">
+          <p>對，因為是有分階段性，本來要先開第一批再開第二批……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>開機就要二十分鐘？等於整套系統？</p>
+        </speech>
+        <speech by="#CHT Op">
+          <p>對，有分階層式的開機，可能要等這個階段開完之後再開下一個階段，大部分花在開機的時間比較久，沒有錯。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我是不知道災害後三十分鐘會怎麼樣，但是當時的spec是說這樣可以接受？</p>
+        </speech>
+        <speech by="#CHT Op">
+          <p>對。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>當時RTO是訂在三十分鐘。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>然後開機就要開二十幾分鐘？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>開機會考量到ADBD應用系統寫了某一個順序，某一些人起來之後……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……可是這是全自動的，不是嗎？就是說你會起來知道它active……</p>
+        </speech>
+        <speech by="#CHT Op">
+          <p>對，它會去偵測，然後再開。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>然後你們沒有所謂sleep to disk或這一類的東西？就是snapshot是一個running stare，而不是一個cold boot，你知道我的意思？</p>
+        </speech>
+        <speech by="#CHT Op">
+          <p>對，不是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>通常我們的做法是資料備份之後，把它開起來，然後snapshot包含memory的狀態，然後把它freeze起來，就跟我們電腦沒電的時候一樣，然後醒來的時候你等於是memory多少就讀多少，然後就開機了，這樣不應該超過一分鐘才對。</p>
+        </speech>
+        <speech by="#CHT Op">
+          <p>就是在SI另外一端是屬於完全關機的狀態。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，可是當時這樣設計有特殊原因，還是就是因為三十分鐘可以交卷就這樣子？</p>
+        </speech>
+        <speech by="#CHT Op">
+          <p>SI這個系統在這一個狀態copy去另外邊，另外一邊就是屬於沒有在開VM，設計就是這樣子。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>瞭解，謝謝。請繼續。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第12頁）那資料中心就是我們東七機房，東七機房是一個綠能中心的規劃，所以有建置在高密度的一些機房跟冷熱的通道分離。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第13頁）第二個部分是介紹Cloud BOSS。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第14頁至第15頁）在自動擴展的部分，主要是要分好幾項，有一些要注意的事項是虛擬主機是關機的狀態，我們同仁有做一些實際上的演練跟操演來完成這樣的簡報，所以在布署測試這邊有一個非上線的服務主機，我們要製作一個Template，然後申請Outo Scaling，然後最後會跟SLB產生一個串聯。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第16頁）這一次最小虛擬主機是一台，我們最大可以擴充到五台，所以在最不忙的時候是一台，在最忙的上線是五台。CPU如果低於百分之三十，就會自動VM縮掉，如果高於百分之七十就持續架起來。偵測的gap是五分鐘。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第17頁）這個是這五台機器。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第18頁）最小設定是一台，所以目前可以看到的是一台的狀況。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第19頁）如果CPU達到一百的時候，我們可以看到會自動開機。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第20頁）因為前三台CPU的壓測軟體，即第四台還沒有開的狀況下，除起來是百分之七十五，還是高於百分之七十的，所以還會再開一台，此時開了五台虛擬機，但只有三台虛擬機使用率百分之百，它算一個CPU的平均值來判斷要不要再開。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>可是你不是說我們這幾層裡面也許開機就要超過五分鐘？還是事實上是沒有？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>政委的意思是實際的狀況沒有？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們現在是在說AP層CPU高，你說AP層就要多開，是不是？是每一層分別Cluster？</p>
+        </speech>
+        <speech by="#CHT Op">
+          <p>對，沒錯，分布圖來看。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是當它一開就會先算CPU使用量，好比AP還沒有開起來，因為我程式還在跑，但是我的電腦已經開起來了，所以這個時候會有一陣子CPU會……</p>
+        </speech>
+        <speech by="#CHT Op">
+          <p>喔！它有一個持續期間。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>瞭解，如果它正在開AP，那幾分鐘不會算？</p>
+        </speech>
+        <speech by="#CHT Op">
+          <p>對，比如說五分鐘持續到一百的時候，我們就會開到一百。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>瞭解，瞭解。所以它只要開這整個service的這整個過程，不要一直CPU 100%，就不會有錯誤判斷的情況。</p>
+        </speech>
+        <speech by="#CHT Op">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>請繼續。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第21頁）這次是以CPU當作一個判斷的基準，所以計算的方式是CPU使用率的加總，我們可以來判斷未來是不是要做Auto Scaling，其實不管在高或低，都是類似這樣的算法，要建議的是，像剛剛講的是，在AP層或者是DB層可能要確認一下，為了的劇本是不是能夠適用，其實是我們更需要考量的。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第23頁）這個我們就不多作贅述。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第24頁）這個是可以自助申裝的功能，主要開發CloudBoss的系統有這樣的功能可以幫你做整合的判斷，然後做一些開機的動作。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第25頁）第三個大項是我們介紹HGR的服務，就是未來租用一些雲端服務的介紹。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第27頁）「HGR」是「HiCloud Government Region」 ，提供一個私有虛擬的VPC及上網服務，所以是一個CPPC的架構，並不是我們一般看到功能上的架構。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第28頁）提供這一些功能，包含一些基礎功能，像也有防火牆的服務，CPPC提供每一個用戶的專屬虛擬防火牆，所以可以自成一個虛擬的私有網路，也提供一個負載平衡及自動擴展，當然這一些是軟體式的。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第29頁至第30頁）當然申請情境其實可以用自助的服務管理來申裝，所以機關人員如果有申請帳號的話，就可以自己上來告訴系統說要申請哪一些需求。申請完之後，幫他申裝一個VM之後，就可以透過一些比較private的方式來作一些所謂的建置，不管是AP或者DB。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第31頁）如果建立好之後，使用者就可以透過這個上網，這個是簡單的情境。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第32頁）架構是各個政府單位的管理者，其實都可以租用這樣的服務，透過我們的自助服務管理系統。我們不管提供了虛擬的防火牆、虛擬負載平衡、虛擬主機，都可以透過一個自助的申請，申請到他所需要的，大部分都是以by小時來計費。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>底層的部分就是我們所用整個大資源，但是就個別用戶來說，是一個虛擬的小私雲。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第33頁）這個是簡單的計價提供給各位參考。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個部分是什麼時候開始？因為我們目前是在用國發會框的那個，那個是他們自己的，等於是用你們的IDC，但是是一塊固定的。因為我想要開一個Cluster，他說CPU快要用光，所以只能用2CPU，不能用4CPU比較好，所以事實上快用光的？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>是。國發會那一朵是屬於自建雲，這邊比較屬於租用的部分，是by 小時來計費。其實目前已經可以提供適用了，所以如果政委有興趣的話……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……已經可以用了？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>可以試用了，我們還沒有提供正式租用上線的服務，因為它畢竟跟HiCloud是同一個系統，只是給政府機關使用。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>瞭解，因為我們自己在架好比像Sandstorm Cluster或者是未來的Kubernetes Cluster，如果目前用國發會iaas的話，它目前已經快沒有了，不能給我們測了，我們很多劇本沒有辦法測。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以如果可以的話，我們先在這上面測測看，我們比較知道你們那一些parameter比起GCE或者是AWS大概長什麼樣子。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我想我們會後就馬上來聯絡，主要在做這個的，反正都來了，就PDIS三樓的朋友們。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以如果未來要測這種比較一下子起十台或者是五十台的劇本，目前這個已經都可以做了？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>理論上。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>當然是在測爛掉不會怪你們的情況下（笑）。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>應該說還是有整個的開機時間，所以五十台這麼大量的開機數在這麼同一瞬間開……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……就很難講。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>但是如果政委願意，我們是願意一起合作，因為我們沒有做過這麼大量的壓力測試。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那這樣很好啊！因為在這樣的前提裡面，就變成是等於HiCloud是你們已經有了，只是這一個Virtual network是新的。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>其實這一個是為了政府機關，它切一塊出來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那像切出來的，有異地備援嗎？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>為什麼還沒有開始對外正式上線，其實我們異地備援大概年中之後才會建置完成，所以這一塊希望等那一塊有了之後再正式發。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>喔！不然我看你其他功能都有了。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>OK，好啊！所以那到年中就封測一下。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>如果最近要測可以先測，因為elastic這些功能是政委要的，隨時可以測。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>然後費用是比照雲端的共同採構，這邊的算法跟工業局的算法，不只是現在一樣，未來也都一樣，是掛鉤的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好啊！那我們就來測它，請繼續。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第35頁）最後講到雲端方案比較，剛剛講到像署方或者NDCD屬於代維代建，也就是中華幫機關建一朵獨立的私雲。第二個是我們有一些出租的服務，像HGR跟HiCloud，其實這兩個看起來都會是一致的。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>其實在提供的服務深，兩個是沒有差別的，但是在一些客製化的服務上，好比我們要做更充分的使用，或者是我們有一些獨特的需求，是有一些客製化的，像快照服務及備份服務，在備援的部分，這邊是文心機房，（HGR）我剛剛提到目前還在計畫中。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第36頁）在經費的部分，代建代維是一次的支出，HGR是用租用的方式。其實如果硬體撐得夠久，比如十年才換一次，相對反而會便宜的，但是用HGR的好處是，租房子可以一直住在一個新的，也就是資源足夠的使用VM上，所以這邊是每一年需要編一些經費，但是確保使用支援上是完整獨立且符合需求的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>不會撞天花板，這個很重要（笑）。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>沒錯，是沒有天花板的。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>客製化的部分，有一些私雲是我們可以配合它的政策來作所有的管理，不管是27000或者是其他的政策，其他的就要按照HGR跟HiCloud的方式往下走。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們就拿消防雲來講好了，這個經費本來已經花下去了？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以意思就是說，即使我們現在到這裡，也不能折舊賣回（笑）？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（笑）應該是，要問那一邊的，應該是不行。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>但是因為折舊年限在今年也差不多是第五年了，所以可以考量未來是不是採用租用的方式。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>現在大概用一半了？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>百分之七十、八十。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>喔！真的？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>對，因為是以五年為評估基準的話，已經快要用到了，只是通常過了五年之後還可以再付一些保固費用，可以繼續使用，相對便宜會是在這一段，就是過保固期。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是當我們已知，又要擴充它的量，又撞到天花板的時候，我們不妨把一些elastic的部分往這邊建置，那這樣這兩個中間等於是只能透過公共的網路？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>網路或者是VPN。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>也可以VPN？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>可以走GSN VPN。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>都是還在GSN VPN裡面？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>其實兩邊各串一條GSN VPN，到中間那一個大網路下就通了，因為我們會給你一個特別的網路編號。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個跟網段規劃是沒有關聯的，就是說事實上我這邊出來，我等於Join這邊的VPN。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>從這一台機器的角度來看，這邊有很多台機器，這邊有動態的一至三台都無所謂？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>相對還是要考量，應該是說兩邊串起來之後，兩邊的網段不能重複，因為網段是自己的，所以IPv4幾乎是不會撞到的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>幾乎是不可能撞到的？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>對，幾乎啦！但是還是兩邊測一下。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>當然要測一下。然後latency應該也都還好，因為infrastructure都你們？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>對，其實應該真的……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……等於intranet。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>而且就台北、台中，甚至高雄也就這麼大。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>他的route也不可能經過任何你們不認識的人。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>是，而且propagation delay也不會太大。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對啊！臺灣就這麼大、光速就這麼快（笑）。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>請繼續。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>像剛講到負載平衡設備，像署這邊是實體的設備，不可否認實體的這個還是效能上好的，這建議在中小型的一些分配上，虛擬化是可以做到的，雖然是一個設備，未來當然HGR如果對大客戶，比如租用了幾百台，要做虛實整合也是有機會的，但並不是現在說要建一個什麼就建什麼。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>知道。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>防火牆也是一樣，虛擬化跟實體設備。因為現在有ASIC晶片來講，這個虛擬化用CPU還是較弱的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那當然。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>是的。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>資源擴充性，也就是剛剛講天花板的部分，就是要符合ISO 20000的精神，每一年都做一個資源容量的評估，來評估明年、後年的用量，HGR就是有需要的時候來做，技術門檻是需要一組人來維護，相對這成本是高的，這就是一組團隊，反正就是維護同一個，所以相對付的租金是低廉的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以等於是年中做完，然後明年開始賣？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>其實單台已經可以賣，但是我們不敢大聲張揚，是因為異地備援還沒有，所以我們還是想要做一個完整的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們測的時候沒有SLA的，這個我理解（笑）。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>費用應該可以抵免……我們再談好了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>沒有SLA的話，可以打折嗎（笑）？</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>其實CPU費用都是on demand，但是軟體的license會有困難。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們就是用Oracle，還有用什麼？</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>這個部分就會有問題。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是就是Oracle，沒有別的？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>是。但是Oracle的license，並不是租用只用那個時候，Oracle本身不能租用。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>不是啊！可是我們沒有要放DB層，不是都是Web App層嗎？</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>我要怎麼解釋呢？就是說比如像剛剛講的on demand要開五台，等於你的license是要買五台，不能只買一台。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>喔！你的意思是Oracle DB有五個concurrent user。</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>是的。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>因為現在很多是算CPU來計價，當你擴到五個的時候，是不是要考量相對的license。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>Client那邊的CPU？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>對。或者像剛剛講的Oracle DB要擴，會要by CPU或者使用人數的算法，當初在算簽約的時候，可能要算好做這個……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們現在是怎麼簽的？用Oracle，是使用人數還是？</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>事實上Oracle是整個專案，我們跟他講有多少的CPU，所以是算這個專案。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是轉包的？</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>喔！這個quota，瞭解。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以意思就是說我們如果片面改變deployment mode的話，要重新談判的意思，這樣嗎？</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>因為以雲端的角度來講，OS之上的license都是客戶自己的，我們本身並沒有辦法提供這部分的租約。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>瞭解，並沒有Oracle壓一個給你們，然後你們從中間抽……</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>是的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以跟AWS還是不完全一樣（笑），好，瞭解。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那未來有這個打算嗎？或者其實沒有？你們只是把最底下做好？</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>以目前的角度，Oracle這部分的license比較不好談，如果像SQL Server這一部分的話比較容易。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>SQL Server，因為綁在Windows裡面一起談。</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>是的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>如果我們Web Application不用Oracle，其實以災防雲來講，就沒有別的專屬軟體了，J2EE都是開放的軟體。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>OK，那HGR部份就來把Oracle拿掉（笑）。</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>（全場面面相覷）</i>
+          </p>
+        </narrative>
+        <speech by="#唐鳳">
+          <p>本來的後端還是可以繼續用Oracle，並沒有任何原因要拆掉。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是給大眾使用的前端，可以read-only API export，import進open source的storage solution。不是嗎？</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>我的意思是，整個primary storage還是Oracle，難道可以說雲端的部分不用到？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我如果在HGR寫的web app，用的都是在剛剛機房代維代建裡面，原本後端系統提供的JSON API或XML API。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這邊即使有寫回去，也是用JSON API或XML API，這樣不能算是Oracle DB的client吧！</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>這我理解，但是對Oracle來講，你東西裝在哪裡，他很怕你偷用，所以到底license放在什麼機器上……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……對，意思就是HGR的software stack裡面，我完全不放任何Oracle DB的client。</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>那當然沒問題。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>然後要寫入跟匯出的時候，所以我剛剛才問這邊，就是機器對機器的寫入、匯出。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>第一個問題是，是不是他們批次匯出會有壓力，他們說沒有。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>如果這樣的話，理論上是可以Oracle都還放在代維代建這一區，我們只是把web app移到HGR去，對不對？</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>但是登錄都是在WebLogic上啊！不可能把AP離開WebLogic來建置。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以呢？</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>我的意思是說，只要你的AP是跟著WebLogic跑的話，你那個地方的Oracle client license是跑不掉的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我同意啊！這個我都同意。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>應該這樣講。這邊分三層，一個是不用登入就可以用的EMIC portal那邊，那邊是最容易的。就是general-public這邊，那邊愛移多少就移多少過來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>第二個是WebLogic的部分，WebLogic好比後段登打，其實你的用戶就這麼多。我們也覺得這個performance已經不會再有預期外的spike，因為臺灣縣市數不會再變十倍。在這樣的情況之下，我們不用動WebLogic登打的那一端，我們只要動consuming這一端。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這樣的話，WebLogic加Oracle一直停在這裡，但是我們需要開發公眾可用的東西，我們就往HGR，這樣應該沒有license疑慮吧！這樣應該不算DB access。</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>這個時候要用Freeware或Open source都可以。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好，瞭解，謝謝。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>（簡報第38頁）剛剛講到共同供應契約提供的HiCloud CaaS跟HGR差別的話，共同供應契約目前以租用HiCloud的方式，提供的是一個CasS的架構，就是所謂傳統的公雲，我們這邊提供的是VPC，就是所謂的虛擬的私雲，所以不管從firewall以下，其實都是獨立的一台，網段也是獨立的，所以是比較有自主性架構的雲。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>像CaaS的部分，要共用實體防火牆跟負載的平衡，限制上因為多住戶之後，因為大家都屬於不同的機關或者是不同的組織，這個時候限制就會比較多，所以這個是HGR的好處。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>為什麼建議對內資訊系統？我不能拿它來做public facing？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>其實也是可以，應該說基本上這兩個訂價上會有差別，CaaS會比HGR便宜一點。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>I see。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>如果只是單台架構，並不牽扯到整個group的網路架構，其實租一台虛擬機。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我就在CaaS租一台就夠用了。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>是，如果這邊有一整區就比較合適，因為這邊要租的東西，其實相對比較多，因為還有虛擬的匝道器。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我知道，我知道，因為非連GSN不可，這個是他的設計目標。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>我們其實最希望連GSN，因為政府機關比較放心。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是啊！但是我的意思是，它即使在GSN裡面，還是可以用gov.tw對外提供服務。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>可以，這沒有問題。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>只是稍微貴一點，但是其實並沒有performance或者任何其他的penalty。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>對，VM層是一致，只是這邊架一個VM可能可以對外，這邊架一個VM，要在專屬的防火牆再設。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對啊！再開什麼的。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>對，會感覺在自己的區網裡面，在那邊是一個公共的pool。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是我的意思是，IP packets實際進來的時候……</p>
+        </speech>
+        <speech by="#于志維">
+          <p>……沒有差別。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>完全一樣？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>對，完全一樣，完全沒有差別。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是同樣的東西吧？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>同樣，瞭解。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>那大概到這裡，不知道各位長官有什麼樣的問題？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我大概都問完了。</p>
+        </speech>
+        <speech by="#楊蘭堯">
+          <p>我這邊還是有一個建議，剛剛提到HGR，既然叫做HiCloud，是給政府機關專用的話，就不應該再區分給內政部消防署或國發會或者是其他的機關，應該是把它想像成一個政府機關大的pool來看，剛剛有提到代維代建，會有一些限制，像當初買的這些，假設是一千code的話，那一定隨著業務的成長，一定會不夠的，就像政委提到的，這個不夠了，有什麼方式？就是再來買更多的機器support，再來可能就是要用HGR，所以中華電信未來就是要去考量以政府機關來看，把它視為一體的，假設支援不夠了，我來用HGR，如果但大家用的都是HiCloud，我是不是可以用API的方式，去把這邊的資源，比方我需要再五十個code，我即使做SLB自動擴展的話，我就是利用它這邊的資源過來，費用的話，一樣是我，可以依照看你們是怎麼樣的計價，機關就是這樣子計價，我覺得這樣對機關來講，彈性才會做到雲端的特性，這個是第一個建議。</p>
+        </speech>
+        <speech by="#楊蘭堯">
+          <p>第二，價格的部分也是對政府機關，不管是網路的費用或者是租用的費用，剛剛提到這個是比照共同供應契約，可是我們知道共同供應契約，我們也談過很多，共同供應契約計算計價的模式太複雜了，好比我們有一個基本的firewall的網路流量是多少，可能還有一些限制，就機關來講，去估算的話，並不是那麼容易，所以這個也是我們一直講的，我今天假設去租用一個VM的話，假設我就是報一個價格，對外的頻寬就是100M，firewall就是沒有限制，或者是anyway，等於不要有很多這種額外計價的模式，這樣對機關來講，去估算它的成本（才比較好算），當然我們講雲端是by use去計費，可是有時對機關來講很難去要花多少。</p>
+        </speech>
+        <speech by="#楊蘭堯">
+          <p>假設下一個月突然有一個時間，可能費用突然增加很多，這個是比較難去預估的，因此我一直希望假設我今天就用租用這一個VM，是不是很容易計算VM一個月大概是多少錢，其他一些限制，當然限制越少越好，我們站在的立場，我們希望未來也是能夠像GSN，像網路的租用等等，就用這個來計算，對機關來講是好的。</p>
+        </speech>
+        <speech by="#楊蘭堯">
+          <p>因為鍾副總在這邊，所以我也提出我們這邊希望後續能夠讓各機關，假設HGR OK的話，我們希望朝這個方向來做。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>不過您剛說的是簡報提的那一些計費方案，像七種太多，然後希望再簡化嗎？我看起來常用的都有了。</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>比方像每日八十元，只是裡面又再細分成滿多的，好比policy可能限制只五十條而已，我如果設定超過設定五十條……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……按照policy去收你錢。</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>對，又要再增加多少錢。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是這樣子。</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>我的網路流量多少，如果的話，又要再增加多少錢。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>其實應該說當初雲端需求是on demand，我們從最小的，切成多少塊，你們要多少，我們就租起來，就像剛剛講的有的機關要租二十小時的網站，這樣的計費方式比較不好去預估，我們可以針對這一種二十小時開機做一個，但可能只是兩、三個小時做的測試，我們還是提供一個彈性的模式，也就是分一些簡單的錢，然後就做起來了，或許我們未來的計費模式可以朝剛剛講的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>有一個always on，然後你打一個固定的折數，大部分的時候你有賺，小部分的時候你有虧的情況去賣（笑）？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>一般的operator都是這樣，如果可能的話。</p>
+        </speech>
+        <speech by="#李雪津">
+          <p>其實提醒一下國發會，我們以前已經講了很多，GSN其實已經不太符合現在政府的應用，尤其是雲端服務或者是雲端方案裡面各個系統，就好像其實你要游泳池的水，但是你卻拿一個小水管給人家，所以我會覺得事實上你也沒有辦法……因為中華電信是廠商，你也不能叫廠商說：「你就弄一個東西，政府都用中華電信。」也不能這樣做，因為我們的共同供應契約裡面也不是只有中華電信一家在提供這樣的服務，他們這樣做，基本上假設也一些部會是比較大的，我隨便舉例，像經濟部跟它所屬，假設有一天經濟部要去規劃說要買中華電信的這個服務，所以你也沒有辦法說一個，然後整個政府都要用。</p>
+        </speech>
+        <speech by="#李雪津">
+          <p>所以，我會建議說你們回去研究看看，類似像當年做GSN的做法，大概去估計一下，有多少機關是要委託你們來作為一個總的去跟中華電信議一個service，然後這裡面好比總的是多少，我們也知道政府機關……像消防署只有災害來的時候，突然間非常需要量很大，平常可能根本沒有在用，但是其他的機關可能有其他的狀況，例如災害防修過了以後，好比是農業比較多，像農損什麼的，就要用得比較多。</p>
+        </speech>
+        <speech by="#李雪津">
+          <p>所以，不管是藉由你們自己主管的聯誼會還是什麼，你可能要先去評估一下你們大概需要什麼規模的，你們可以洽中華電信或者是洽其他的供應商，其實就是價格跟服務的問題，如果中華電信的服務比較好，或者是把它當作延續性的另外一種型態服務，我覺得很多機關很樂意採用啊！你可以代表這一些機關，你當然可以用公文或者是什麼東西，你可以代他們做這樣的議價，到時候這個經費分攤的，或者是到科技預算，或者你們自己所掌控那一部分的資源裡面去弄一塊來做這個，因為這就是基礎環境非做不可的事情。</p>
+        </speech>
+        <speech by="#李雪津">
+          <p>所以，我會建議就是說，國發會講得很好，但你們要想的是從國發會去推動政府機關雲端應用的角度，而不是叫中華電信說給我一個政府的合約，然後其他廠商要跳腳，將來是不是要放進供應契約我也不知道。</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>為什麼會有這種專區，其實這個就是Amazon EC2會開政府專區，其實是類似的，因為政府很多往往考量，其實跟一般的商用是不一樣的，有關於安全的問題，或者是有關access跟policy這一些東西，所以在裡面來講，我們都會認為就像JSN的概念一樣，我們必須要跟現在目前的商用獨立出來，而且是CL的，所以這個地方一個政府專區的概念。</p>
+        </speech>
+        <speech by="#鍾福貴">
+          <p>但是以我目前最大的痛苦是，政府很多大型資訊系統是有Oracle的，以我來講，這是整個雲端化最大的障礙，一方面我們要想辦法把我們的技術，就像剛剛講的我們要花很大的力氣掌握它，但是從一般雲端化的角度來講，Oracle其實讓我很難去做，對不對？所以在這種情況下，能夠適合的一定是這一種虛實者，就像大的data base一定是用IDC，然後其他這一些不需要的，像Web這一些東西，就是儘量用雲端化，大概現在目前的模式是這樣子。</p>
+        </speech>
+        <speech by="#李雪津">
+          <p>應該要引導各機關這樣做才對。</p>
+        </speech>
+        <speech by="#莊明芬">
+          <p>我們最近有一個雲端機房整備的計畫，我們到後來會研議一些比較未來性的方向。</p>
+        </speech>
+        <speech by="#李雪津">
+          <p>是啊！你要知道現在有這樣的產品，你們國發會才要真正好好認真去做一點功課。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以有沒有機關單獨在你們Cloud BOSS可以跑的情況下，自己先跑來做elastic deployment？用公有雲做嗎？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>目前有試用的，但是其實都是自己中華電信去承接一些政府機關案子，它可能來做一些試用，那是可以的，像剛剛講的Auto Scaling在國發雲上也有做一些，所以整個功能上是一致的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>功能是一致的？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>只是在production system上，你們還沒有合作的機關？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>應該是說還沒有付費的機關。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>都是在測試的階段？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>即使你們推出了這個，是大家一定都會來買Government Region，還是有些用HiCloud就好了？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>其實也可以選擇用HiCloud就好了，因為效能上用Hinet或GSN是一樣的。用GSN的原因，是因為管制方式是一致的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>如果這個並不是mission critical system或者大部分是read only系統的話，其實用GCE或者是用EC2或者隨便用哪裡都沒差嘛？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就跟任何的provider一樣？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>沒錯，沒錯。其實也像剛剛高分提的，我們機房也希望多個雲，就是不同領域的雲，是未來能夠透過高分講的API有一些介接，雖然不可能管別人的，但是有一些串起來，朝高分的方向努力啦（笑）！</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以Cloud BOSS目前有driver可以更高一層abstraction，不管是Kubernetes或者是Docker Machine或者是什麼東西去drive它嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好比像Amazon EC2好了，好比我們通常做container virtualization的話，如果是Linux的話，可以一台八個vCPU，但是事實上它算成可能十五台container都丟在它裡面。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>它已經快要用完的時候，我就旁邊再開一個，因為container可以有一個running snapshot，所以丟過去又繼續跑，等於這個VM層往上用軟體在做一個container虛擬層。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這一件事發生的時候，會需要往下call你們的API，叫他多開一台機器，目前有沒有機關或者任何使用者已經這樣在用？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>目前還沒有，實際上用的人應該還沒有。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好，我們自己寫（笑），這樣我大概瞭解，謝謝。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以大方向，我綜整一下我剛剛聽到的，如果綜整有問題的話，不管哪一邊都跟我講一下。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我聽到的是，我們先從功能面來講，就是說EMIC目前的功能是正常的，假設不要比梅姬颱風大的情況下，它是可以運作無虞的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是如果比梅姬颱風大的用量底下，我們其實目前沒有那麼確定裡面的某些單獨的元件會發生哪一些事情，按照剛剛壓測的那個數字來看。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以，如果有可能的話，有沒有可能把它提到梅姬颱風區分的……各系統分配到的壓測百分比還是一樣，但是總數變兩倍或者五倍，然後去看一下它的天花板到底在哪裡，如果有可能的話。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為最近沒有太大的災害，所以先測測看，這樣我們才知道是哪一層會出問題，這個是一件事。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>第二件事，我聽起來機器整包匯出，就是往Open Data的這個部分，目前有兩個。一個是往Open Data，一個是往EMIC.gov.tw，有使用者看一次，就撈一次的Web Service，這兩個其實並沒有道理是不一致的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>最可能的做法，是這邊有沒有任何的資料是Open Data沒有給的，我們這邊就全部轉成Open Data，這樣我們才有足夠好的理由跟consumer說：「你們讀Open Data就好，不要再用這個API，這個API要慢慢廢掉。」</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為這一種私有的API，最怕就是你只有Word的documentation，當下一手要接管的時候，根本不知道要怎麼管，也沒有往Open Data讓不特定的第三方來保證資料品質。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以如果資料品質壞了，除非像我剛才點到，剛好看到這一筆沒有出來，我也不知道是不是因為它壞了，或者是那部分其實沒有資料，其實是無法區別的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>如果都用Open Data的話，我們就用標準國發會Open Data資料檢測的程序來做就可以了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>請看是不是能夠幫忙評估一下，看會花多少力氣做這一件事，大概是這樣。這個是整包匯出的部分。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>還有整包匯入的部分，我剛剛聽到的是說，只有大概十分之一左右是機器對機器匯入，其他都是手動的後台系統去登打，這一件事不管是手動登打或者是機器匯入，目前的資料正確性及一致性的這一些檢測都比較少，就是說如果一個路段毀損，然後一個點在台灣外面，或者是不小心回到未來，我們都沒有在管它？</p>
+        </speech>
+        <speech by="#于志維">
+          <p>時間有。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>時間有。但是如果它登打的時候，是登打十分鐘以前的事，像我剛剛看到都是在整點以前發生的，這個我們也不能管它的。</p>
+        </speech>
+        <speech by="#于志維">
+          <p>就是以界面輸入為準。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，就是選零分零秒，你不能說零分零秒錯，就好像經緯度你不能說（0,0）錯……等一下，其實經緯度真的沒有道理不檢查啊（笑）！</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是說如果經緯度在臺灣外面，這樣真的對嗎？</p>
+        </speech>
+        <speech by="#消防署">
+          <p>我們跟政委說明一下，因為我們現在用的定位方式是……假設來自（0,0），我們只好回頭用他給的地址來定位，目前定位的方式是提供什麼API，我們只能有這一個方法，就是檢查到（0,0）或者是負值。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對啊！</p>
+        </speech>
+        <speech by="#消防署">
+          <p>或者我們設一個不是在臺灣的某一個，我們就用他給的地址再重新估計。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對啊！</p>
+        </speech>
+        <speech by="#消防署">
+          <p>可是我們現在經驗上來講，其實不一定定得到……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……定不到的時候，你應該退件，告訴使用者沒填或者是定不到。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>不是，透過介接管道進來，已經沒有辦法再……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……喔！M2M的時候。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>界面部分我們是有做另外一層，就是TGOS API如果沒有，我們會再回到行政區裡面，至少會訂到那一個區中心點的位置。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這就是為什麼我看到一堆經緯度一樣，但是地址不一樣的資料（笑）。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>對，因為沒有這一個座標，我只好回頭去找行政區的中心點當作他的座標。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>可是這個資料的可用性真的（笑）……就是說我如果現在不是看通報，而是要plot一個在GIS圖上的話，我就會看到市中心出現一大堆事情，然後在道路大的轉折點上出一大堆事情，道路中間什麼事情都沒有，對不對？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我如果真的要這樣plot，點會長這樣。就是地址不在門牌資料庫，也就是新的區段或者是區域重新劃分，這個是最常見的狀況。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>對，TGOS最常說找不到這一件事。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以我的意思是，資料可用性的這一件事，難道我們不能回過頭要求嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好比機器對機器對接，這邊我只要檢測出兩筆錯的，我整包給你拒絕掉，然後限你什麼時候改善或之類的，就是不能往上游要求嗎？</p>
+        </speech>
+        <speech by="#消防署">
+          <p>依照我們的經驗，使用者大概對坐落的位置沒有這麼care，但是重點是災情送進來，如果退回去會很困擾，很希望一定要出現在那一個畫面，至於位置是不是精準，他們也許不是這麼care。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>甚至訂錯，他們也不care。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>有時你會發現地址其實是有差別的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>他們只要認為差不多，也許不是這麼care，但是那一筆災情有沒有送進來就很care，所以如果擋掉會很頭痛，為什麼送不進來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>有一點像是當作簡訊集成平台在用，那個地理資訊只是碰巧有，壞掉也無所謂，這樣嗎（笑）？</p>
+        </speech>
+        <speech by="#消防署">
+          <p>也有些訂得滿準的，就是看使用上的……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>理解，我看到即使用線段都是少數的，面只有十一筆，事實上大部分的人沒有很把它當一回事。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>可是這樣子就造成我們不知道哪一些是系統在介接的時候的問題，也就是這個系統本身就沒有給出好的資料、更新資料，哪一些是使用者習慣不好，我們都沒有在追。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>對，我們目前是可以區分哪一個這一筆資料是key進來或者是哪一個單位送進來的，這個部分可以區分的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以我的意思是說，如果要增加geo data的可信度，你會覺得怎麼做比較好？</p>
+        </speech>
+        <speech by="#消防署">
+          <p>如果是要增加檢核不是不可以，但是基本上一定要讓它進來，因為不進來會造成很多的困擾。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>放在中心點的時候，我們可不可以給他一個資料品質，好比像誤差值之類的，讓大家知道這個是猜出來的？</p>
+        </speech>
+        <speech by="#消防署">
+          <p>是不是猜出來，我們也不曉得，我們是從結果去推。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，我的意思是，臺灣的縣市中心點就是那幾個。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>沒有，行政區。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>喔！如果行政區都落在中心點，你可以知道落在中心點就是錯的。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>應該這樣講，我們的操作方式是定位之後回來，第一層沒有，再去訂行政區，這個是我訂出來的結果，使用者有機會搬動它，只是給你說在這裡。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是如果沒有搬動它，你應該可以多一個欄位說fuzzy取出來的之類的。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>可以提示沒錯。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是我現在從data.gov.tw的資料集裡面看不到，等於是要用heuristic去猜。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>對，目前沒有。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我覺得還是需要提示耶！我不是說提示的精確度都要到多精細，我可以接受同一行政區、同一縣市的誤差範圍，但是還是需要一個精確度標籤，不然的話，我們再做plotting的時候會非常困難。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>一堆路段的東西都是點在同一個點上，首先畫面上看起來就很奇怪了，點的時候會真的蓋掉那些實際有點的位置，這樣的Open Data，我們實際做的時候做很多清洗的工作，我會希望還是把至少那一個fuzziness把它標出來，這樣我們在清洗的時候，至少知道哪一些該清洗，這一些沒有清的話，最好不要直接放界面之類的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我可以這樣講嗎？這樣會很困難嗎？</p>
+        </speech>
+        <speech by="#消防署">
+          <p>我想跟政委說，因為災情在進來的時候，其實是透過各縣市的防救災人員key。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，是人key。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>當災害發生的時候，其實是非常緊急。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>同意啊！</p>
+        </speech>
+        <speech by="#消防署">
+          <p>量非常非常大。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>同意。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>所以我們在界面設計上，儘量會他們方便使用，因為太多的這一種結果，會造成可能大量資料的……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……理解啊！所以我們剛剛是說就不檢核了，是這邊的可用度再加一個標記而已。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>後面再做一些後續的處理去看整體資料量的問題，然後再檢討後續的……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以目前他的檢核有透過HTML5的API去抓電腦在的位置？</p>
+        </speech>
+        <speech by="#消防署">
+          <p>目前沒有。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>如果我要拖大頭針是最快的，也就是災害發生跟登打比選行政區來講，我只要做一個geo position就知道我人所在的行政區，所以那是前線人員在登打，那個大頭針比較容易準，或者其實也不是，登打的通常都是坐在辦公室裡面，畢竟離前線非常遠了。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>不同的縣市有不同的做法，有些是授權給鄉鎮村里長，不同縣市不一樣。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>OK，你們在規劃手機版的時候，我的想像是要照顧在那一些前線用的人，因為如果都到應變中心就有桌機了，打字比較快了，所以當初要做手機版，難道不是為了輸入嗎？還是為了讀取，輸入不是那麼重要？手機想像的用法是什麼？</p>
+        </speech>
+        <speech by="#消防署">
+          <p>其實手機的想像是在前線在處理的時候，希望能夠把資料拿來送。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以是閱讀？</p>
+        </speech>
+        <speech by="#消防署">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>登打的部分不需要那麼在手機版？</p>
+        </speech>
+        <speech by="#消防署">
+          <p>也會。但是災情的登打其實是非常複雜，因為選項非常非常多，如果透過手機來登打，目前其實是會有困難的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>有困難的，因為我看那一頁要捲動。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>對，要填的選項非常多，所以我們在規劃的是手機上做初步登打，後續再來做。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就像有點民眾的那一個，只有三欄或者是四欄的狀況。</p>
+        </speech>
+        <speech by="#消防署">
+          <p>對，基本上是這樣。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>至少把那一句話，語音輸入進去了，經緯度至少不會錯，因為他人在現場，其他回來慢慢改？</p>
+        </speech>
+        <speech by="#消防署">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以這個也有想進去？</p>
+        </speech>
+        <speech by="#消防署">
+          <p>是的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這樣的話，我想問說RWD，你們ZK測過之後，ZK升版之後，也不會自動變成RWD，這樣勢必要重新設計。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我剛剛是說今年以讀取為主，但未來寫入、登打也要做，所以這個東西，是不是一次設計的時候，就把它設計成API first，也就是API進、API出，然後不管是手機或者是別的，只可以用client-side ，不可以用server-side HTML畫界面，也就是server不要出HTML。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>依你們現在的寫法，Server只要一出HTML，未來手機的大小改變，或馬上要變成一些新的display出來的時候，你還要再改後端。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以如果手機的界面，跟server中間的聯繫不要用API之外的管道，這樣我們可不可以說RWD就往API first的方向來設計，ZK就放著，反正桌面可以繼續用，這樣可以嗎？</p>
+        </speech>
+        <speech by="#消防署">
+          <p>好。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>最後關於elastic機房的部分，我實際測HGR開機要多久之前，其實很難有一個很精確架構的預估。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以我想這個就是先測測看，我們測到一個程度再回來算這一個事情。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>既然現在說Oracle都不加在新的這一區裡面了，就像剛才顧問說的，我們也可以問Google彰濱機房的報價，看公有雲能不能用，這都是可以調配的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好，那全部就是這樣子，謝謝大家。</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
