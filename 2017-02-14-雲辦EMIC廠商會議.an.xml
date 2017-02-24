@@ -852,25 +852,25 @@
         <speech by="#唐鳳">
           <p>可是我這邊看到的資料都是EMIC系統的那一些資料。</p>
         </speech>
-        <speech by="#鍾福貴">
+        <speech by="#NEC PM">
           <p>這個部分我來說明一下，因為當初有跟情報站有談，資料來源是我們這邊，所以我們有寫了web service。</p>
         </speech>
         <speech by="#唐鳳">
           <p>喔！所以是……</p>
         </speech>
-        <speech by="#鍾福貴">
+        <speech by="#NEC PM">
           <p>那一塊塊需要的就是copy我們……我們吐資料給他，他show在畫面上。</p>
         </speech>
         <speech by="#唐鳳">
           <p>所以這一個東西並不是經過Open Data？</p>
         </speech>
-        <speech by="#鍾福貴">
+        <speech by="#NEC PM">
           <p>對。</p>
         </speech>
         <speech by="#唐鳳">
           <p>是專門開了一個類似專門給他們用的東西，是這樣子？</p>
         </speech>
-        <speech by="#鍾福貴">
+        <speech by="#NEC PM">
           <p>是。</p>
         </speech>
         <speech by="#唐鳳">
@@ -1032,13 +1032,13 @@
         <speech by="#唐鳳">
           <p>你不知道為什麼？</p>
         </speech>
-        <speech by="#鍾福貴">
+        <speech by="#NEC PM">
           <p>不好意思，我說明一下，因為這個問題我們在署裡面有討論很多次，基本上我們怕每一個Hit都來跟我們要……</p>
         </speech>
         <speech by="#唐鳳">
           <p>對啊！是啊！</p>
         </speech>
-        <speech by="#鍾福貴">
+        <speech by="#NEC PM">
           <p>我們也希望署能夠響應要求，但是對方廠商覺得他們用這個方式，對他們來講……我們也不知道他們的原因，對他們來講程式已經寫好、不願意變動，類似這樣的問題。</p>
         </speech>
         <speech by="#唐鳳">
@@ -1050,7 +1050,7 @@
         <speech by="#唐鳳">
           <p>這還是要cache，不然的話，你們的loading是只會多，不會少的。</p>
         </speech>
-        <speech by="#鍾福貴">
+        <speech by="#NEC PM">
           <p>我們報告的地方，後端我們有些自己做了cache，因為怕我們的系統給他們拖累了，所以部分的東西有些cache……</p>
         </speech>
         <speech by="#唐鳳">
