@@ -1,0 +1,298 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/戴君翰" id="戴君翰" showAs="戴君翰">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/林書漾" id="林書漾" showAs="林書漾">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2017-02-14 雲辦EMIC會前會</heading>
+        <speech by="#唐鳳">
+          <p>這一張圖，是Rufus Pollock上次來這邊的時候，我們一起腦力激蕩出的一張圖。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>當時我只是跟他討論一些設計上的考量，沒有提到消防署跟災防中心的兩個系統，但是我們在大略瞭解系統前提的情況下，無論如何還是設計出來了，今天我們只是再次快速走一遍，確定這個圖還是正確的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>EMIC以我的理解，消防署有權去主動通知大家、通知其他機關現在發生了什麼災害，然後災害的搶救狀況、前進指揮所的朋友上來登錄災情，這一條線的上半部是他的系統。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這一個系統是NEC在營運，但是後來因為portal.EMIC.gov.tw登入的部分performance不是很好，所以那部分請中華電去調校了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>總之，這個系統其實概念上非常簡單，就是集成跟所有災防有關的資訊，他們通通丟到DB裡面去，再給有不同權限的人登入之後，從後台去察看跟他有關的部分，然後分發給地方政府、民眾或者一些CBS之類的，也都可以訂閱說我想要哪一些特定的訊息。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>他當然也有一些大眾可以看的界面，所以如果我們到EMIC網站的話，就可以看到他們事實上是有外面可以看的界面，不只是後端的東西，就是不只有管理界面。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這裡我們就會發現說，首先會用純文字，這裡可以看到，它也不是很結構化的資料，只能知道大概是怎麼回事。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>然後下方會把所有相關的朋友們受到的訊息通通都po在這裡，我們發現目前收到了兩則，全部就這樣，這就是人類可見的部分。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>反正就是長這樣。</p>
+        </speech>
+        <speech by="#戴君翰">
+          <p>他的更新速度要很快？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>沒有耶！其實這區都不是自動的，是人去上稿。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>像震災，震災就很大了，不是嗎？同樣的也有補助、服務措施，所以簡單來講，就是維護一個非常類似hackfoldr的東西，結構上高達九成九相像的東西，而它的主要資料就是有時間碼的HTML。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>當然在發生好比像颱風的時候，會有從氣象局那邊來的颱風動態圖，會把他收到的這一些hub裡面的東西，然後按照跟這個災害最相關的tag，但是我不確定是tag或者是income source去作分類，所以你會看到一個類似dashboard的東西。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>總之，我們這次的business requirement是這樣的：上一次風災的時候，林全院長去視察，然後發現說道路斷掉的資訊、停水的資訊及停電的資訊，它沒有辦法接過來到地理資訊界面。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們看到水電維生管線這一欄是空的，事實上當時真的有發生，只是不知道因為格式沒有接好還是什麼原因，所以沒有從台電、台水那邊接到圖台來。</p>
+        </speech>
+        <speech by="#戴君翰">
+          <p>發這一些資訊是自動發嗎？比如台電那邊，一定有人手動key這一個東西？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那當然。</p>
+        </speech>
+        <speech by="#戴君翰">
+          <p>問題按下發送的時候，是focus出去到這幾條線，然後這個是其中一條，是這樣嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對。但是當時建立這一個系統，原因是希望EMIC系統是「N到1到M」的系統，意思就是台電也好、誰也好，只要到這裡就可以作必要的轉發，在發送的時候就可以說想要誰知道，或者是在這邊自己判斷這個有用，我還要另外轉發給誰。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>實際建置出來之後就發現，那一些「N」根本不理它，自己還是去跟「M」聊，為什麼「N」還是繼續跟「M」聊有幾個原因：</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>第一，「N」往「1」的部分沒有那麼結構化，基本上就是你們看到的這樣，所以如果「N」跟「M」都希望要結構化資料，他們並沒有辦法說我的EMIC裡面包一個JSON，然後來收geotag或什麼別的東西，所以「N」就會直接跟「M」講了，因為EMIC沒有什麼用。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>另外一件事是，從「M」的角度來看，有些會跟這一個「1」收滿多錢的，簡訊也好或者是其他東西也好，這邊都要花不少錢，才能發到「M」去，反而地方縣市的話，跟「M」有時候談到更好的條件，地方縣市的消防局這些，當然是最大的「N」，當最大的「N」都已經直接跟「M」結合了，「1」的意義就變得非常小，對「M」來講，不接這個「1」，也接得到「N」。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>總之，「N到1到M」，我上次問說如果把這一個轉送的服務整個抽掉，會對下一次颱風有什麼影響，消防署的人想一想說沒有什麼影響（笑）。</p>
+        </speech>
+        <speech by="#戴君翰">
+          <p>所以當初成立這一個「1」的目的是？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個所謂的「災防雲」，就是message bus，所有關於災害的資訊都在這裡，所以要做任何事後分析跟ETL，這邊等於是最全的資料。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是事實上不是，就是遭到了bypass，有些資訊來源自己先對外，之後再來EMIC登錄。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>院長上次不是很滿意，因為發現台水、台電的「N」沒有完全接過來，而且最大的問題就是，有接過來的部份，還要自己在腦裡看著地址去還原到圖上，就是跟颱風動態圖完全沒有對應。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這是有一個圖台的，理論上在後台是可以用疊圖的方式放上去，但是從民眾的角度來看，並沒有任何類似這樣子的東西。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>以上是EMIC的故事。</p>
+        </speech>
+        <speech by="#林書漾">
+          <p>沒有EMIC系統之後的解決方式是什麼？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>不是，EMIC一定要有啦！只是「N到1到M」的訊息轉送那一部分，一次災害，現在通常都是送個位數，有的時候根本沒有送到「M」。</p>
+        </speech>
+        <speech by="#林書漾">
+          <p>所以呢？</p>
+        </speech>
+        <speech by="#戴君翰">
+          <p>是要救他們嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個是我們下午會知道的事情。</p>
+        </speech>
+        <speech by="#林書漾">
+          <p>下午要討論要不要拔掉？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>可能還沒有那麼快討論這個，只是先理解實際狀況。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>總之，這邊存在另外一組人，NCDR，他們自己會寫程式，不需要找廠商，所以他們就常常收到地方政府的一些需求……</p>
+        </speech>
+        <speech by="#林書漾">
+          <p>這是NCDR首頁嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這是首頁，然後按到災害情資平台，榮獲金質獎……</p>
+        </speech>
+        <speech by="#戴君翰">
+          <p>那感覺是一張圖（笑）。</p>
+        </speech>
+        <speech by="#林書漾">
+          <p>這不能按嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>不對啊！在desktop上可以按啊！對不對？我在desktop上有按進去啊！明明就可以啊！</p>
+        </speech>
+        <speech by="#林書漾">
+          <p>按「瞭解更多」可以按。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好，很好（笑），沒有關係，我們手動打。（輸入）有了，明明就有了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以就是有一些這種預警的，然後本來是所謂的監測模式，好比像月降雨統計或者是什麼颱風路徑統計，有的沒有的東西。2月沒有颱風之類的，它有一些這一種東西，還有一些降雨指標，如果颱風來的話，會有一些警戒、土石流這一些東西，在災害快要來的時候，就是地方會連到這一些網站上去看，但是我們就發現幾件事情。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>第一個，圖雖然看起來滿專業的，但是在這邊仍然是不同的tab，所以如果是一個縣市的話，進來就是要cycle through一些tab。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們從這邊可以看出來，至少他們很會寫程式，當院長說我們現在要把路況或者是什麼東西疊到這一張圖上才有意義的時候，從消防署的角度來看，他們現行的EMIC系統很難直接implement這一件事。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以我現在的想法是，他們的後端都還是各自的後端，他們的KML或者是他們的圖台至少是用一樣的底圖了，如果這樣的話，理論上只要給經緯度、座標或者是任何geodata過的message data，這兩邊的呈現應該是要相同的，如果不相同的，那就是圖台的問題。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以只要EMIC這邊先把他的訊息匯出成data package，然後讓NCDR consume，這樣理論上對於公眾來說，NCDR的前端應該可以完全取代EMIC的前端，那EMIC的前端可能就是重導向或者是一個Reverse proxy，或者隨便怎麼樣，總之你來EMIC.gov.tw的時候，你看到的是NCDR寫的前端。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>至少在套圖以及基本開發上面，NCDR的前端能力應該是沒有問題的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>當然NCDR本身也有自己接取的資料，並不是只從EMIC拿資料，他可以拿很多別的資料，他做資料的時候，也本來就和CAP protocol相容，跟Google Alert或者是一些國際的防災pipeline有合作。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以現在就是說可以繼續保持對外的API，只是我們在EMIC資料過來的時候，可能要預先定義好一些field，過來的時候，好比不只是有timestamp跟free text，也許就開始有它的polygon……我們任何從他們那一些純文字的警報訊息裡面，看起來是NCDR用得到算是geo或者算是time的interval，我們都可以試著把它加到裡面去，但是一開始不用全加，一開始仍然只是一個append-only log就可以了，但是NCDR這邊要能夠代表EMIC去做EMIC的公眾網站。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以，如果必須要在EMIC的domain提供給人公開看的情況下，我們應該仍然能夠透過一個proxy去把它呈現成EMIC網站的一部份。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>反正各位可以看到這個跟我們處理「vtaiwan.org.tw」是完全一樣的狀況。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但現在這兩個都不是我們開發的，所以我們只能提供評估，今天其實只是先瞭解實際狀況。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我目前腦裡的圖示是這樣子的，這樣子才有可能消防署還是繼續maintain他們的後端系統人力。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>像給防救災的前進指揮所用的界面，我們都沒有要拆掉這一些，我們只是要讓目前讓人看起來沒有幫助的，一直給你2014年資料的這個前端，去用NCDR的技術美化。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我覺得NCDR也不用多寫什麼，就是用他現有的這一些網頁，只是有一個view，而這一個view是EMIC覺得可以，消防署給人民知道這一些是對的view，從某個角度來看，NCDR變成EMIC的廠商，但是他們不用簽廠商約，也許只要這邊丟到Open Data的portal，這邊consume Open Data的protal，然後show出來，以及這邊願意加一個proxy回來，或甚至是把這一個view變成一個Open API，然後這邊用自己的圖台畫出來，隨便啦！我不是很care，就是說有某一種方式讓他們兩個不是契約關係，而是Open Data介接關係，他們還是可以合作。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為如果想讓這兩個網站直接合併，據說從來沒有人協調成功過，所以我也沒有想要這樣做。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>以上可以說是採用技術手段解決政治問題的方法。</p>
+        </speech>
+        <speech by="#林書漾">
+          <p>想要請教一些問題，這樣看起來NCDR是provide raw data到API的那個……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……NCDR本來就有他的raw data，EMIC有提供它蒐集來災害情資的資料。NCDR的那一些raw data，還有是水溫、氣象，那個是氣象data，跟災害無關的是sensor data。</p>
+        </speech>
+        <speech by="#林書漾">
+          <p>這一些data是否可以（表示）造成災害等級？是否現在有災害發生是EMIC去……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……一定是消防署的系統去公佈這個叫不叫災害。</p>
+        </speech>
+        <speech by="#林書漾">
+          <p>他們做的事情是把raw data的資料pass在網站上，然後再show出來？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>目前不是，目前EMIC就是一個……</p>
+        </speech>
+        <speech by="#戴君翰">
+          <p>……EMIC來自各個地方的消息它蒐進來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>然後它會做一些人的判斷，這個是一個災害、災害的名稱、災害等級、誰應該收到，它還是會調度。</p>
+        </speech>
+        <speech by="#林書漾">
+          <p>所以它蒐集的東西是raw data？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>它蒐集的東西是一些訊息。</p>
+        </speech>
+        <speech by="#戴君翰">
+          <p>各地的回報。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對。就是有時間碼的純文字。</p>
+        </speech>
+        <speech by="#戴君翰">
+          <p>可是它的input是SMS，那還可以……</p>
+        </speech>
+        <speech by="#林書漾">
+          <p>對啊！</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>沒有，這個只是舉例，它的input很多是直接跟別的gorvenment對接。我要講的只是說它的交換格式是像SMS，不是真的用SMS傳過來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是有時間碼純文字，或者是有時間碼能夠附圖片的純文字，或者是有時間碼的HTML，目前看起來是這一些。</p>
+        </speech>
+        <speech by="#戴君翰">
+          <p>內容非常沒有規範的東西？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，每一個產製者想必都有它的規範，但是以我的瞭解EMIC並不要求。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>他們據說跟台水、台電談的是，是不是都可以附一個KML，然後就是有某種約定的格式，他們想辦法把它弄出來，可是因為好像他們也沒有溝通得很詳細，所以到底是不是KML我們也不知道。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>為什麼要KML，是因為他們的圖台natively可以處理這個格式，想必是這樣。</p>
+        </speech>
+        <speech by="#林書漾">
+          <p>所以判斷的一定是EMIC？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>目前判斷界接的人一定是消防署的人，但理論上這不一定要是EMIC做，EMIC就是一套系統來管理這一些災害情報。</p>
+        </speech>
+        <speech by="#林書漾">
+          <p>可是EMIC是消防署的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對。</p>
+        </speech>
+        <speech by="#戴君翰">
+          <p>現在的情況是想要EMIC開Open Data出來手上拿到的停水停電資訊，可是他們不是沒介接到這些嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，所以我們要直接跟廠商和來源談。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>其實我過年的時候，看了NEC跟中華電提供的全部EMIC程式碼，還幫他們修了LDAP pooling的bug（笑）。</p>
+        </speech>
+        <speech by="#林書漾">
+          <p>所以這個是你過年的活動？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，這個是我過年的活動，就是修bug。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>總之，它是用Hibernate，其實有一個還不錯的serialization pipeline，所以在Hibernate的過程裡面batch export並不是那麼難，要改哪幾行我都標好了，只是說他們願意不願意這樣做而已。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這一案我不是督導政委，雖然兩位督導政委都說全權給我負責，但是我畢竟跟EMIC和NCDR的朋友都不熟，所以想先聽他們的角度，來看這樣處理行不行。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>他們目前是一個arbitrary的區分：災害發生前是防災警示，防災的時候NCDR是可以看訊息、發布訊息之類，但從災害發生進入救災的時候，就只有EMIC portal是canonical，不過NCDR仍然提供資訊，結果就是外面看到兩個差不多的系統。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我不是很理解這樣區分的意義，事實上應該沒有任何人理解這個意義，但這樣子已經很久了。我們接下來就是要解決這個問題。</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
