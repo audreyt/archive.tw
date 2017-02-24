@@ -68,7 +68,7 @@
           <p>（簡報第7頁）這是應變中心的主畫面，各使用者應其需求而點到不同的項目。（上述）是整個負責登入的流程。</p>
         </speech>
         <speech by="#CHT Dev">
-          <p>（簡報第8頁）這個是現行的系統架構，可以看到右上角的部分，會有OHS、WG，這個是說明這一張圖裡面縮寫代表什麼意思，像「OHS」指的是Oracle HTTP Server，主要是Web Server，是以Apache當作底層的架構。接著「WG」是「WebGate」，作為single《06：07》攔截session的軟體，作為一個plugging安裝在OHS上去。接著是「Weblogic」是AP Server，就是家華《06：14？？）運作的平台。接著是「OAM（Oracle Access Manager）」，Oracle推出套裝軟體，作登入的認證跟授權。接著是「OID」是一個LDAP的Server。接著是「Oracle DB」。</p>
+          <p>（簡報第8頁）這個是現行的系統架構，可以看到右上角的部分，會有OHS、WG，這個是說明這一張圖裡面縮寫代表什麼意思，像「OHS」指的是Oracle HTTP Server，主要是Web Server，是以Apache當作底層的架構。接著「WG」是「WebGate」，作為single sign on攔截session的軟體，作為一個plugging安裝在OHS上去。接著是「Weblogic」是AP Server，就是各應用系統運作的平台。接著是「OAM（Oracle Access Manager）」，Oracle推出套裝軟體，作登入的認證跟授權。接著是「OID」是一個LDAP的Server。接著是「Oracle DB」。</p>
         </speech>
         <speech by="#CHT Dev">
           <p>使用者在登入的時候，輸入網址之後，其實會打到四台，會經由load balancer去sharing loading，打到四台Web Server，並且Web Server裡面都會各自有一個OHS Server，以及Weblogic Server。</p>
