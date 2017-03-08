@@ -21,6 +21,7 @@
         <TLCPerson href="/ontology/person/::/文化部" id="文化部" showAs="文化部">
         </TLCPerson>
         <TLCPerson href="/ontology/person/::/經濟部" id="經濟部" showAs="經濟部">
+        </TLCPerson>
       </references>
     </meta>
     <debateBody>
