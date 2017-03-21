@@ -6,7 +6,9 @@ my ($r_user, $r_body, $r_date);
 my @parsed;
 open my $fh, '<:utf8', "wiselike-2017-01-30-backup.txt";
 while (<$fh>) {
-    if (/avatar image.(.+) asked .+:/) {
+    #• Anonymous asked Audrey Tang:
+   #Werjer Ting's avatar image.Werjer Ting asked Audrey Tang:
+    if (/(?:avatar image.|• (?=Anonymous))(.+) asked .+:/) {
         if ($r_user) { push @replies, { user => $r_user, date => $r_date, body => $r_body }; }
         if (@replies) {
             push @parsed, { id => $id, title => $title, user => $user, replies => [@replies] };
