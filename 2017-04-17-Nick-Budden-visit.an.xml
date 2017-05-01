@@ -1,0 +1,420 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Nick Budden" id="Nick Budden" showAs="Nick Budden">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2017-04-17 Nick Budden visit</heading>
+        <speech by="#Audrey Tang">
+          <p>Just in case you need to show anything, there’s an Apple TV in this office Thanks for visiting.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>Yeah, thanks for taking the time. I don’t want to take too much of your time.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s fine.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>The reason why I wanted to come in and meet you is, as foreigners starting a company in Taiwan, we get asked a lot, by a lot of people, &quot;What’s going on in Taiwan? What is the tech community doing?&quot; Any time that we have friends from abroad who have friends of friends coming in, they always introduce them to us and they ask us these questions.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>We try to get them the best answers that we can, but we’re a little bit ‑‑ when I say &quot;we,&quot; I mean mostly me ‑‑ out of touch with what’s going on. We just want to give them better answers.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I could give you a quick briefing. [laughs] There’s the Foreign Talent Act. You’re aware of that?</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>Me and my cofounder of the company, we under the entrepreneur visa here in Taiwan, so we know about that. We know about the NDF, becoming LPs.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This one?</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>I’m not sure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s called the Draft Act for the Recruitment and Employment of Foreign Professional Talent.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>This I actually get asked about a lot, visas for foreigners, that sort of thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s two‑tier. There’s foreign professional talent. There’s special professional. [laughs] The idea for the special professional, the consultation’s already done. We’re ratifying it very quickly. This week I think they’re going to send it to the legislation. This basically summarizes everything.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>I’ll Google this later. What was the name, so I can look later?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The name’s the Recruitment and Employment of Foreign Professional Talent. The consultation website is join.gov.tw.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The story here is we’re working on the definition of so‑called special professionals. These are people who get paid reasonably well, on the top quarter, or if they got recommended by one of the institutes, or as senior executive or manager, or anyone who works in the focal industries.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Digital economy and technology management, and high‑tech and e‑commerce pretty much covers everything that’s start‑up related.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>I’ll look through this...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s the story.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>Anything that I can find online and Google, if you just mention the name, I won’t waste your time.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. There’s the ASVDA, if you’ve seen the website.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>I have not heard of that either.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Asia Silicon Valley Development Agency. This is relatively new. It’s basically a showcase website with two main topics, the IoT innovation R&amp;D for one, and then start‑up entrepreneurship ecosystem for another. There’s quite a few news outlets here that announces the organizational structure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We hired a bunch of very seasoned Silicon Valley people and held them at...</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>Here?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Based in Taoyuan actually</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>But in Taiwan?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>But in Taiwan, of course, based here. I am part of the supervising committee, but they work at arm’s length as an independent agency. We just review their quarterly results around these matters, which you can find online. That’s the other part.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What else? There’s also the NDC investment fund around early‑stage start‑up and also social enterprise. It used to be a SBIR. It used to be a reimbursement subsidy‑based plan, but now it’s an investment plan.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>This is different from the NDF thing?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>NDF?</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>The National Development Fund, they became an LP and GD1 and 500 Startups.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>It’s a different thing?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s a comparable, but not the same fund, for social enterprise. A company that also solves social problems or people on mission of solving social problems that happens to earn sustainable money. That’s more of my purview. The NDF wouldn’t be my purview. It would be NDC’s purview, but those are in the NDC band, the social enterprise unit. That’s pretty much it.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>Something related, I say that I get a lot of foreigners asking me, which happens a lot, but there are these people, too, to ask about the g0v grants? When I Google g0v grants, it’s all non‑English. What’s the gist of...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s reasonably machine‑translation friendly, though. It’s just grants.g0v.tw. It’s an early prototype fund. There’s the spring term, there’s the autumn term, and then people propose things that solve social issues and problems using technology. This is the nominations, and I think five of them got funding.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is entirely not government funded. All the funding sources came from non‑governmental side of things.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>These are the judges and that’s pretty much it. It’s just a way to get a lot of early‑stage projects started at g0v. Many of them didn’t get continued because it’s difficult to keep them as weekend projects, especially after they are really serious, so they just set up this way to grant. This is not investment, nor is it subsidy. It’s just a grant.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You can see the winners for this season...</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>So translation’s reasonable?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s pretty good, the line bot about rumors online. The test transparency of workplaces, like the job searches, like Glassdoor. There’s the micro climate sensor and prediction system for agriculture. This aims to provide an API for the judicial branch, for all the judges and prosecutors, all the documents to have an API.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s also looking through the national archives using OCR and text mining to find anything and everything related to Taiwan. There’s the Open Platform as a Service Platform for civic tech developers. There’s also the councilor member voting guide. The translations are pretty reasonable.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>Some stuff.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s like 95 percent or something.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>I’ll be able to figure it out. The second from the left, we worked with him.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, yeah.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>One other thing, just at a high level, people ask me a lot what is Taiwan government’s work with the tech ecosystem. Besides specific programs, what would you tell them for the tech ecosystem?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For tech ecosystem, quite a few things. I’d probably point them to the Digital Nation plan, which is on the BOST website. It’s an eight‑year plan with pretty reasonable anarchy, and it’s all in Chinese. Yeah, something like that. Some of them make sense, some not at all.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>A digital nation plan?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s just called &quot;A Digital Nation: an Innovative Economy,&quot; literally. The BOST is our Board of Science and Technology. This is an eight‑year plan, and the moniker is DIGI+.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>This seems like this was what I was curious about. I’ll try to have a look at this later.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you look for DIGI+, which is the abbreviation, I think you’ll find more material. It’s not a very Google‑able term though. We took part of the DIGI+ and put it into the special budget called [Chinese] , the Forward‑Looking Infrastructure Plan.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>It sounds like a big plan, but what would be the bullet points?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The bullet points, there are five here. From the left, the first one is about cybersecurity. It’s about making sure that all the connected devices, including IoT, are reasonably trustworthy. It’s becoming a large concern here. It also covers the broadband access.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>4.2 is about equality, so that all the counties and townships which currently doesn’t have high bandwidth connection, like 100 Mbps or more, does get that. Also, on the schools, they’re supposed to get very high bandwidth, good enough for VR‑based classroom development. The first two are really basic infrastructure stuff.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The third one is about open content development. This is interesting, because it’s the first time that we put Creative Commons, open content, and so on, distinct from open data. Previously, it was this huge open data plan.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>You mean of government content?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, exactly. We have this public TV, and we also have the National Palace Museum and so on. They used to spend a lot of time doing digitization of their assets and also make &quot;Teenage Psychic&quot; HBO films.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>I saw that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>They put a lot of love into it. The byproducts of doing this work, like 4K or all sorts of pipelines for providing closed captions, motion capture, or VR devices, all these things are not kept after each theater film is made.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This proposes to not only make the byproducts, like the high‑quality picture database or whatever open data, which means Creative Commons, open content for everybody to use, but also the pipeline itself is to be made open source.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Meaning that the entire processing pipeline of something going in and then a 4K film goes out, every part of it is going to be published as an aid for the private sector to try to get into 4K or 8K production.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is not just for films, but also for National Health Museum and other digitization of museum products, so that people can have a virtual museum. This is like the Smithsonian or the British Museum thing, where not only we’re digitizing the museum artifacts, but also turning the process of digitization itself into an open source project or artifact. This is the third part.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The fourth part is about building a common API‑based economy for government services. Whereas before, each part, like the weather bureau or the ministry in charge of interior of firefighting, of all sorts of geographic data, disaster recovery data, and so on, each one would keep them in the data silo.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you want data out, then they sometimes burn you a CD‑ROM, and there’s really no high‑velocity way to exchange these data, partly because they were just using PC‑era software.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In part four, we’re repurposing a lot of existing systems and adapting them into this OAS standard, an open API ‑‑ it used to be Swagger ‑‑ standard, so that they can handle high‑volume throughput and display such data in a common platform.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We already have a prototype here in the form of NCDR, the National Science and Technology Center for Disaster Reduction, where they aggregate all the geo data at the moment, and then display it, such as rainfall, such as air quality, such as volcanoes, for what it’s worth, and typhoons, while there’s currently no typhoons.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>Is this prototype available for a little while? I’ve seen...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A couple years.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>...on g0v.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The NCDR also works with g0v people for crowd‑sourced disaster reports, and also the air pollution part. There’s a g0v project called AirBox that expands its reach.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The whole idea is to have this free, scalable infrastructure, in which we can just post up pretty much everything related to disaster and recovery online, and then build the ecosystem out of it. That includes pretty much everything that’s related to the environment, so this is about services.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We also have other local governments propose similar ideas based on open data and open API, so that they can work their local entrepreneurs on their city services. Government would sponsor all or part of the project money for it. That’s the fourth pillar.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The fifth is about machine learning. This is an interesting plan that hopes to reshape the senior high school and upper level of education to incorporate more machine learning into it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This includes having a common GPU computation platform available for all the schools to use, also integrating robotics and AI into all kinds of different fields, so that the curriculum gets boosted to redesign, so the students learn with the machines.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This, of course, includes very basic things, like all the high schools have sufficient computer facilities to use this kind of GPU‑based learning. These are the more hardware investment‑related parts within the Digital Nation eight‑year plan that we try to speed up, so we complete it in three or four years as a special budget.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s the main view ‑‑ cyber security, equality of access, open content, common API‑based services, and then collaboration between different schools, but also between human and machines, are the main ideas.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>Maybe this is a dumb question, but this is a proposal or this is a &quot;we’re doing this?&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The administration says we’re doing this, and then we allocated some amount of money, 880 billion NT dollars. But the legislation, because there’s a special budget, are now running six public hearings to make sure that this actually makes sense.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The digital part is the least controversial part, but there’s also four other parts that are more controversial. But I think, all in all, they’re probably going to get passed somewhere this session, in which case we expect to have the budget to start running these projects this September, if all goes well.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>Thanks for the answers.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>I had one other question. How can people help, either individual people or groups of people?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s quite a few ways to help. We have this join.gov.tw platform, where we try to put all the regulations 60 days before its announcement online. As you can see, the Foreign Recruitment Employment Act is actually bilingual for the consultation. We did get a lot of very good opinions here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For people who can work with machine translation, you can go to join.gov.tw and look at the public consultations and let us know how we’re doing. If your work pertains to one of the major projects, there’s also the supervised part, which also starts as a g0v project, and now it’s national.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For example, there’s one around the collaboration with civil society on an open data plan. That’s the first topic. If you click &quot;supervised,&quot; you can see the road map, and then let us know how we’re doing and where you want to see it going.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is not just open data or digital‑related. If we look at e‑plans, there’s pretty much everything ‑‑ industry, operating, every cultural, ultra‑high definition television, or whatever. Feel free to let us know how we’re doing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s also an e‑petition part in this same website, where if there’s 5,000 people countersigning anything, then our ministries must respond within 60 days. Nowadays, I’m personally supervising the discussion.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>By countersigning, you mean if someone proposes legislation and you get people saying...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Not necessarily legislation. It could just be an idea. Sometimes it is legislation, like public servants can legally form unions. Of course that is one thing, but sometimes there is just pointing out an issue and asking the government to take a hard look at the issues.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For example, there is one. At present, Taiwan high school students generally lack of sleep, the go‑to‑school‑time should be late. [laughs] This is not really about regulation, per se, but just pointing out a social problem, but it did get a lot of people countersigning it, 6,000 people.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The key to just to have a really good OG image, and then it will get viral. Of course, they provide the arguments. Then you see the ministry of education will work with the proposal and the counter‑signers to make sure that everybody understand what’s going on, and so on.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They did get some expert hearings, and finally they agreed. They set up this recommendation to all the high schools, so that each high school can actually delay the come‑to‑school time for their senior high school students.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>Are they going to do it?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, they’re doing it, so it’s pretty good. All the schools will say, &quot;Without a ministry’s blessing, we wouldn’t want to do something. Even though technically we can, we don’t really want.&quot; Now the Ministry of Education says, &quot;Oh, yeah. It’s a good idea, and every school can implement it however they want,&quot; and so they’re now doing it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is a pretty good platform that we’re trying to get more popular. Propose ideas, review the soon‑to‑take‑effect regulations, or to oversee the long‑term projects, these are the three functions of this web page.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>You’ve given me enough things that I can go home and Google this. This stuff is really hard for me to find on my own. It’s hard for me to...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because it’s all in Chinese.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>Yeah, I don’t really know...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>But you can start with our website, with is pdis.tw, which, for once, is an English website.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>PDIS?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Public Digital Innovation Space. We try to list everything that we do here. It also links to Join In and so on.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>I’ll send this to some people, too.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right. Also, our conversation, after a few days of you editing the transcript, appears on the tracks system, because all the meetings that I’ve held as minister, all the visits and everything, is published data.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>Just out of curiosity, are you getting anybody in government to do that? I don’t mean forcing them to, but has anyone picked that up?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. The whole idea here is to build an accountability trail. We started working with the e-Sport case just as a demo. This is, unfortunately, in Chinese, but let me translate this.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because East Port doesn’t really have a ministry to look after them, we worked with three different ministries, each doing one different thing, one about academic, one about conscription, and one about regulations of subsidies of investments. We convinced those ministries to do policy making in this radically transparent, before‑decision fashion, and they agreed.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>They’ve had a pretty consistently positive reaction?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, exactly, because that solves two problems. It solves the problem, first, internally, because sometimes you get one official come to a meeting and commit to something, but then they go back and tell their staffs a different version of things. Maybe not out of malice, it’s just they didn’t remember it very well.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The person doing this doesn’t have the context of discussion. They just saw the meeting’s conclusion, so they did something wrong, then got public flack for it, and so on. But with real‑time transcripts, they have access to the full context.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The external benefit is that, because we publish not at the end of it, but during every month, so that people on the PTT, on the Reddit‑like discussion boards, they also saw this discussion and found out, &quot;OK, we’re trying to find a solution to this and none of us really found a way.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>One of those expert, anonymous netizen would just write an email to me saying, &quot;This has been solved by basketball players a few years ago.&quot; [laughs] I’ll just channel them to the next meeting. This is an actually pretty good way to do this policy‑making.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re using the vTaiwan platform to work with other ministries to convince them of this way of policy‑making. So far, there’s quite a few ministries which agreed to work with us. The funny thing with vTaiwan is that it’s not government‑sponsored. It’s a private sector, g0v project, and the government ministries just put their proposals there.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Actual case of running it is actually becoming every Wednesday, and not here, on some civil society gathering place. If you’re interested, also you can come to our every Wednesday, 2:00 PM, vTaiwan meeting.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>Is that a google &quot;Wednesday 2:00 PM vTaiwan&quot;?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, you will find something, or you can take a picture. [laughs] It’s easier that way.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(pause)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>That’s where we’re working with civil society on what people want from the procedure point of view. This is where the Uber case, the Airbnb case, crowdfunding, and teleworking has been worked on.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>Uber’s coming back. This is where that process kind of...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, exactly, the day they started. Everything has a time line. We started with a Pol.is sentiment‑gathering platform, so that we’d get everybody’s disagreements, but also agreements. Then we started review stuff ‑‑ passenger protection, driving interests.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>That covers a lot of bases there.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>[laughs] Oh, really? These folks collectively determined the agenda, thousands of people really, that we used to negotiate with Uber. Because a lot of them here are actually Uber drivers...it’s just my friends, so you have overlapping friends. A lot of them are Uber drivers. Even Uber drivers themselves actually prefer a legal working environment with taxes and insurance.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Uber just finally caved in to this consensus and agreed to operate under these terms. Yeah, this is where it gets decided.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>I’ve got some reading and googling to do, but I have the right direction now. Thank you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK, cool.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>Thank you for the time. Thanks for taking some time.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Mm‑hmm.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>You have a very comfortable office, actually.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, my 3D printer is right here.</p>
+        </speech>
+        <speech by="#Nick Budden">
+          <p>Yeah, and this whole setup is a lot more relaxing than most places.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK, cheers.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
