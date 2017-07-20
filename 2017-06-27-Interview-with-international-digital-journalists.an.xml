@@ -2,13 +2,23 @@
   <debate>
     <meta>
       <references>
+        <TLCPerson href="/ontology/person/::/Asaf Ronel" id="Asaf Ronel" showAs="Asaf Ronel">
+        </TLCPerson>
         <TLCPerson href="/ontology/person/::/Audience Member" id="Audience Member" showAs="Audience Member">
         </TLCPerson>
         <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
         </TLCPerson>
-        <TLCPerson href="/ontology/person/::/Jimela" id="Jimela" showAs="Jimela">
+        <TLCPerson href="/ontology/person/::/Fred A. J. Sengers" id="Fred A. J. Sengers" showAs="Fred A. J. Sengers">
         </TLCPerson>
         <TLCPerson href="/ontology/person/::/Juergen Kahl" id="Juergen Kahl" showAs="Juergen Kahl">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Kenton Chance" id="Kenton Chance" showAs="Kenton Chance">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Kidera, Momoko" id="Kidera, Momoko" showAs="Kidera, Momoko">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Matt Jaffe" id="Matt Jaffe" showAs="Matt Jaffe">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Ximena" id="Ximena" showAs="Ximena">
         </TLCPerson>
       </references>
     </meta>
@@ -19,7 +29,7 @@
           <p>The government websites here all ends in gov.tw, right? It’s the government website.</p>
         </speech>
         <speech by="#Audrey Tang">
-          <p>They ‑‑ well we, actually, I am still a participant in g0v ‑‑ we replaced the &quot;O&quot; to a zero. So that for whatever website that you don’t like, you just replace the &quot;O&quot; to a zero and you get into this shadow government website that offers the same data and the same information, just in a more interactive and more useful way.</p>
+          <p>They ‑‑ well we, actually, I am still a participant of g0v ‑‑ we replaced the &quot;O&quot; to a zero. So that for whatever website that you don’t like, you just replace the &quot;O&quot; to a zero and you get into this shadow government website that offers the same data and the same information, just in a more interactive and more useful way.</p>
         </speech>
         <speech by="#Audrey Tang">
           <p>And for our g0v work, we often just relinquish our copyright completely. So by the next procurement cycle, the government can just take this &quot;fork,&quot; well, we call it &quot;forking,&quot; like taking the government data and doing something experimental, something different, and then merge it into the government’s service.</p>
@@ -172,7 +182,7 @@
         <speech by="#Audrey Tang">
           <p>Any other questions?</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Fred A. J. Sengers">
           <p>This subject must be of some kind of worrying for you, because you want to open up the government in a new way, and the technical means are here, but there’s also a dangerous side about this. You must be aware of this problem, even if you don’t know the security stuff.</p>
         </speech>
         <speech by="#Audrey Tang">
@@ -190,10 +200,10 @@
         <speech by="#Audrey Tang">
           <p>What I mean is that all the technical contributions that I make, which is all public, can be used by both representative democratic, and centralized democracy, and not-at-all democratic countries. They may interpret it in a different way. I’m OK with this, is what I’m saying.</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Fred A. J. Sengers">
           <p>It’s a reality of life.</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Asaf Ronel">
           <p>Can you quantify this new approach? The younger generation, how they’re more involved in politics. Can you use some numbers as to success?</p>
         </speech>
         <speech by="#Audrey Tang">
@@ -220,7 +230,7 @@
         <speech by="#Audrey Tang">
           <p>If you go to join.gov.tw, there are numbers for you to list. Not just petitions, but also regulation announcements, and also those large‑scale projects. That’s ongoing projects. These are all subject to civic participation.</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Asaf Ronel">
           <p>Can you give an example for a law or something else concrete happened as a result of a online petition?</p>
         </speech>
         <speech by="#Audrey Tang">
@@ -253,11 +263,11 @@
         <speech by="#Audrey Tang">
           <p>Even though at the end of two months the petitioner didn’t survive to see the result, but it was pre‑announced, so that he left knowing that this will pass, and this was indeed passed.</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Matt Jaffe">
           <p>This is a broad question. I don’t intend it as a leading question. What’s your sense of the state of democracy in the United States right now, and what’s happening with Trump and the resistance to him?</p>
         </speech>
-        <speech by="#Audience Member">
-          <p>There’s anger, but not necessarily results at this point, and the inability of the two parties to really speak to one another.</p>
+        <speech by="#Matt Jaffe">
+          <p>There’s anger, but not necessarily results at this point, and an inability of the two parties to really speak to one another.</p>
         </speech>
         <speech by="#Audrey Tang">
           <p>Really? Because when I participate in the Personal Democracy Forum just a few weeks ago ‑‑ the PDF. It’s a hash tag ‑‑ in New York, what I got there was the sense of there is a consensus of that we need to listen to people with opposing views to find the values that we share. That was the theme for the conference.</p>
@@ -277,16 +287,16 @@
         <speech by="#Audrey Tang">
           <p>What I got from PDF was pretty positive, I would say, but, of course, it could be sampling biased. I don’t really know.</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Matt Jaffe">
           <p>That may be, because it’s not happening, on a legislative basis, at least. There’s a sense among people to try to find some commonalities, but I’m not sure that’s necessarily happening within Congress.</p>
         </speech>
-        <speech by="#Audience Member">
-          <p>There have been a lot of studies have show that the polarization of the politics in America is greater than it’s been at any time in modern history.</p>
+        <speech by="#Matt Jaffe">
+          <p>There have been a lot of studies showing that the polarization of politics in America is greater than it’s been at any time in modern history.</p>
         </speech>
         <speech by="#Audrey Tang">
           <p>The sampling bias I referred to is because it’s called a Personal Democracy Forum, so people who attend are, by default, people who don’t rely on Congress that much, anyway, to begin with, so I don’t really know. I don’t have this much involvement in the congressional politics in the States, so it’s impossible for me to make an informed answer.</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Kidera, Momoko">
           <p>Another question on what is not, actually, related to digital. What is your position on same‑sex marriage in Taiwan? What significance would Taiwan have if the country becomes the first Asian country to admit same‑sex marriage?</p>
         </speech>
         <speech by="#Audrey Tang">
@@ -313,7 +323,7 @@
         <speech by="#Audrey Tang">
           <p>She said, &quot;The bill is not the end of it. It’s just the beginning of dialogue with people, with different life experiences.&quot; I think that’s very well‑presented.</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Kidera, Momoko">
           <p>What’s the international significance of Taiwan being the first country in Asia? Will it make Taiwan’s image better?</p>
         </speech>
         <speech by="#Audrey Tang">
@@ -322,7 +332,7 @@
         <speech by="#Audrey Tang">
           <p>Also, learn from people who’s already moved far beyond us in this constitutional issue. It gives us more to talk about. While I couldn’t really fly to Madrid, I did report two talks for that.</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Asaf Ronel">
           <p>Do you think that Taiwan innovation in general and this type of government innovation can help Taiwan overcome part of the international isolation it suffers? If so, do you use it and how?</p>
         </speech>
         <speech by="#Audrey Tang">
@@ -382,8 +392,8 @@
         <speech by="#Audrey Tang">
           <p>We’re now explicitly saying, as much as possible, we’re now using multi‑stakeholder approach for the innovation with private sector and for inclusion with the civil society. That is the main direction. Of course, if you go into the details, there’s many other details as well, but that’s the main idea.</p>
         </speech>
-        <speech by="#Jimela">
-          <p>Hello, I’m Jimela from Mexico. Is it important of a country to have a digital minister like you? Do you see in Latin America a need for the digital minister?</p>
+        <speech by="#Ximena">
+          <p>Hello, I’m Ximena from Mexico. Is it important of a country to have a digital minister like you? Do you see in Latin America a need for the digital minister?</p>
         </speech>
         <speech by="#Audrey Tang">
           <p>Right. It is a great question. I’m a minister without portfolio, meaning that I’m a minister without ministry. Digital is by definition a very cross‑ministry business.</p>
@@ -423,7 +433,7 @@
         <speech by="#Audrey Tang">
           <p>This is very useful in a demonstration kind of way, regardless of where on earth that you are. Whether it takes a minister without portfolio or some advisory council or a digital service unit, I think that’s up to each country to decide.</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Asaf Ronel">
           <p>More general question. The entire world is going through much upheavals past couple of years and many people blame technology causing the background, the basis for these upheavals. Are you optimistic about the way technology is changing our lives? If you can elaborate about as to why it is or why not?</p>
         </speech>
         <speech by="#Audrey Tang">
@@ -465,19 +475,19 @@
         <speech by="#Audrey Tang">
           <p>The Facebook News Feed Eradicator basically just turns the newsfeed off, but you can still go to groups and follow and participate in chats and whatever. You only see the things you expect, instead of something unexpected covered in the news feed.</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Asaf Ronel">
           <p>Block the overflow?</p>
         </speech>
         <speech by="#Audrey Tang">
           <p>Yeah?</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Asaf Ronel">
           <p>Block the overflow?</p>
         </speech>
         <speech by="#Audrey Tang">
           <p>The what?</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Asaf Ronel">
           <p>Overflow of information.</p>
         </speech>
         <speech by="#Audrey Tang">
@@ -489,13 +499,13 @@
         <speech by="#Audrey Tang">
           <p>There’s all sort of psychological devices that one can use to try to not get oneself contagious. That’s the personal way. The more deeper way, still, is in the media literacy, which is part of the curriculum.</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Kenton Chance">
           <p>What role do you see social media playing going forward in strengthening democracy or even turning countries into democracy, or maybe changing the political system?</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Kenton Chance">
           <p>I’m biased towards democracy because my personal view is that this is one of the better system that we have to work with.</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Kenton Chance">
           <p>Some people might have different views, so that’s why I phrased it that way. Essentially, what I want to know is what role do you see social media playing in changing realities of what most of the world considers to be a better political system?</p>
         </speech>
         <speech by="#Audrey Tang">
@@ -528,13 +538,13 @@
         <speech by="#Audrey Tang">
           <p>Just like any other where it’s an epidemics or virology, it is just as it is. I don’t think any strains of DNAs or RNAs carry any morality. It is just a fact that we’re dealing with.</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Matt Jaffe">
           <p>Can you speak about media literacy? What form does that take in the schools? What are the key performance and message they are trying to get out?</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Matt Jaffe">
           <p>It does seem like a very important thing as I don’t think people don’t really question sources of their news information. It seems that it’s essential to almost try to convey at a young age that media takes many forms and we don’t necessarily certainly take it at face value.</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Matt Jaffe">
           <p>What are some of the key elements that you’re trying to convey?</p>
         </speech>
         <speech by="#Audrey Tang">
@@ -610,13 +620,13 @@
         <speech by="#Audrey Tang">
           <p>This is the whole point. All the textbook need to be re-designed using these three fundamental items in mind. I can of course go into a lot more details, because I was part of K‑12 curriculum committee right before being the digital minister. But I’m still very passionate about my previous work.</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Juergen Kahl">
           <p>Maybe a rather strange question, but if you were asked to advise the KMT what they should have to do to regain public trust and support?</p>
         </speech>
         <speech by="#Audrey Tang">
           <p>It’s a great question.</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Juergen Kahl">
           <p>What would you suggest?</p>
         </speech>
         <speech by="#Audrey Tang">
@@ -655,7 +665,7 @@
         <speech by="#Audrey Tang">
           <p>Are there any more questions?</p>
         </speech>
-        <speech by="#Audience Member">
+        <speech by="#Kidera, Momoko">
           <p>Can I ask you, what made an anarchist to join the government and become a minister?</p>
         </speech>
         <speech by="#Audrey Tang">
@@ -691,7 +701,7 @@
           <p>Can you give your email?</p>
         </speech>
         <speech by="#Audrey Tang">
-          <p>Yeah, sure. It is audreyt@ui.gov.tw. That’s my official email. Feel free to ask me anything. I’ll answer publicly.</p>
+          <p>Yeah, sure. It is audreyt@ey.gov.tw. That’s my official email. Feel free to ask me anything. I’ll answer publicly.</p>
         </speech>
         <narrative>
           <p>
@@ -699,7 +709,7 @@
           </p>
         </narrative>
         <speech by="#Audrey Tang">
-          <p>So, all the transcripts and whatever this is in https://pdis.nat.gov.tw/.</p>
+          <p>So, all the transcripts is in <a href="https://pdis.nat.gov.tw/">https://pdis.nat.gov.tw/</a>.</p>
         </speech>
         <speech by="#Audience Member">
           <p>Is it on a personal blog?</p>
