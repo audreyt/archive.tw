@@ -1,0 +1,59 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/賴怡忠" id="賴怡忠" showAs="賴怡忠">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2017-08-03 賴怡忠來訪</heading>
+        <speech by="#賴怡忠">
+          <p>我在這裡先向政委詢問有關中國的創新發展。</p>
+        </speech>
+        <speech by="#賴怡忠">
+          <p>你的瞭解是什麼樣？我知道他們有很厲害的年輕人。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是。</p>
+        </speech>
+        <speech by="#賴怡忠">
+          <p>這個空間有多少？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>他們的市場是非常大，但在裡面發展出來的模式，不一定能直接賣到其他地方。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是在內需市場發展之後，還是可以做模式輸出。像特定的AI技術，把那個技術授權出去，並不是整個商業模式出去。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我想只要有生態系出來，雖然未必那麼容易擴到其他的地區，但我認為這一個模型事實上是work的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>在那個網路環境裡面，使用者對於數位環境穩定性也有基本信任，雖然是有言論審查，但可以保障他們用網際網路付錢的時候，不會當機。在某些城市的服務穩定程度、信任度是有的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>至於他們靠APP或其他網路技術創業，實際上可以賺到錢。即使沒有開放接取網際網路，也可以活得很好。</p>
+        </speech>
+        <speech by="#賴怡忠">
+          <p>印度呢？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>印度已經有很多人當上矽谷的執行長或者是VP。從這個角度來看，其實是跟全球是對接的，並不是以本國的經濟，而是以各個地方的軟體人才或者是技術。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>印度培養出一定程度的軟體技術人才，並不一定要留在印度，只要能夠連結到當地的研發能量就可以了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>他們發展跟矽谷的關係，已經到第三代以上了。當然最近像以色列在某些地方，例如資訊安全，那個連結也是非常強的。</p>
+        </speech>
+        <speech by="#賴怡忠">
+          <p>好，謝謝。</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
