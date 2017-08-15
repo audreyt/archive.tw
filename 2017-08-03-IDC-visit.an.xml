@@ -1,0 +1,841 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Sandra Ng" id="Sandra Ng" showAs="Sandra Ng">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Sherry Wu" id="Sherry Wu" showAs="Sherry Wu">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Will Hsu" id="Will Hsu" showAs="Will Hsu">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2017-08-03 IDC visit</heading>
+        <speech by="#Sandra Ng">
+          <p>我們知道政委現在從事開放政府的業務，我們也可以分享一些案例，除了開放這一塊，想要問一下政委近期有沒有比較關心什麼議題？比如跟IT的新應用，或者是在其他的國家比較有興趣的？</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>我們現在有一個「數位國家方案」，裡面我負責的比較是數位治理，所以其實很感興趣各種應用，不管是collaborative software，或者是應用機器學習，或者是應用其他的tool在政府的治理。</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>這一個發展方案裡面有分幾個不同的小組，我當然是在最上面協助院長督導，但我自己關注的主要是數位國家分組，也就是政府自己的治理，等於對於政府本身如何應用科技，如何讓公務員少做一些重複的事情，而且可以早一點下班，也就是不要有穀倉效應、跨部會間訊息更同步，這個是我主要的工作。</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>其他法制方面的調適，因為我們現在的法制很多是監管的思維，像FinTech或者是autonomous vehicles，是當初制定法律的人沒有想到部分，這個是先用沙盒的方式，也就是叫做「創新實驗條例」，先從FinTech開始，讓大家能夠break regulations，看是六個月或者是十二個月，我們再檢討法規看是不是要修正，等於是有系統的違法。</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>接下來在無人載具上也會有同樣的概念，所以我們是很有系統去做法規調適的工作。</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>除此之外，當然cybersecurity也很重要，open data是對外、internal data governance是對內，其實網路安全是這一個基礎，這四個是我目前比較關注的，其他也大概都有參與一些。</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...shall we speak English instead?</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>OK. Good. I have a number of different slides. I’ll just, based on what you just said, focus on...I think the slides will make sense, and then you can tell me if you have a question. Maybe I start with this first to give you an understanding of how we think about digital transformation.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>You talk about internal transformation within the government. IDC, we started this about three years ago. DX is digital transformation, and we use a framework, and the framework is basically these five things ‑‑ leadership, omni‑experience, information, operating model, and work source.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Whether you’re a government entity, you are enterprise or industry, or you are a whole country, a nation, you basically have priorities, and you can go through this five. There is no order. Our recommendation is obviously to do all the five, but it doesn’t mean that you do all five at the same time or the same level of priority.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Clearly, when I look at Taiwan and the Taiwanese economy, there is already some leadership. It’s clear that you want to be digital economy. You want to build that competitiveness. Omni‑experience, if you look at from a government standpoint, is how you engage the citizens, and then bring the private sector into play. Information is how you then do open data, and then cybersecurity.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Operating model is, like you say, break down silos to avoid repeated tasks, and automation. Work source is bringing in new ideas, which your office is doing that, and then also talent into the civil service, into the government. Those are the broad‑brush five areas.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you prefer, we can have the entire conversation in English. I’m more used to it anyway. [laughs] What do you mean by change management being the single largest obstacle?</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>This doesn’t matter what kind of organization, government, industry, or company. What we have noticed, that the number one reason when they start digital transformation, and along the process, they just stop or they fail, is because the mindset.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Change management is changing to digital mindset. People are not prepared to make that change. That is the number one...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This refers to the management of expectations of people’s imaginations, of people’s habits?</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>All of the above. Depending on the company, it could be the management, or in the country, the government, they don’t think about digital transformation. They don’t believe that, or they understand it, but they don’t know how to drive forward, or it could be the citizen, the people.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>It could be the industry leaders. They are very old school, and they say, &quot;Well, everything is fine. I’m still making money. Why do I need to digitally transform?&quot; That’s what we mean by...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is about overcoming inertia, in other words?</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Yes. These are the top traits. I just want to show you the framework, and then I want to go to this next portion so that you understand how we look at digital transformation.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>This is a playbook that we use when we sit down with any of our customer who come to IDC and say any of the following. One could be, &quot;We just started digital transformation. We need help. We’re not sure how to execute it.&quot; That’s one type of customer.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Second type of customer is, &quot;We have already started, but we are stuck, and we need you to help me get unstuck.&quot; That could be a second situation.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Third could be they find resistance. The resistance can be from top management or ministers. It could be from the working people. They are facing a lot of challenges on how to scale up digital transformation.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>We actually use this playbook. I can spend a whole day talking about this thing, but the first step is, basically, what does digital transformation mean to you.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>We feel this is important because a lot of companies, a lot of countries, they say, &quot;Yes, we believe in this. We want to do this,&quot; but when you ask them to explain their vision and strategy, then you realize that it might just be lip service. They are not actually putting money and public money, so we cannot go through this process.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>For example, if you can look at number eight, who are the DX champion and lead champion. You need to find the people within your ministry, and this could be senior people, it could be junior people. The different steps that we go through to help. Maybe this one would be good to pause here.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>You say that one of your initiative is to work with the different government departments and trying to make sure that we remove the silo, bring in new thinking. Is there any area that you find it challenging? Anything that you’re working on that maybe I can share some examples with you?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>So far it’s pretty smooth. I worked with a Silicon Valley firm, a pretty large consulting firm for this kind of integrations, so I used to come up with this kind of slides all the time for Fortune 500 companies.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s bought by a larger group called Bedford, PeopleFluent. It’s mostly focused on HR transformation using digital tools. There’s a so‑called Mirror Suite, where they enable cross‑departments to look at each other’s work progress and so‑called working out loud model of cross‑organizational. One of our philosophies when doing this kind of transformation is that we skip the pilot.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Instead of saying just one unit or one department, instead we appoint champions to every department, and at least deputy department lead level and buy‑in, so that we can immediately form a learning circle between all the departments, instead of having some being the pilot and others doesn’t even know that this transformation is going on.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The first months after I become the digital minister here I have all the ministries, their CIOs ‑‑ deputy ministers, that is ‑‑ to appoint a senior member in their ministry. They could come from the IT department. They could come from the communication department. They could come from the research and development department. It doesn’t matter.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We try to bring those, about 40, what we call participation officers, or POs, into a single chat room, like Slack, but it’s internal and cybersecurity verified. Share the same comment board and share the same iteration cycle, where we meet every month to decide where to focus our energy this month, in a democratic way.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then we meet every Friday for workshops to meet with the stakeholders and identify the issues that we really need to address using either the e‑petition platform or some other platforms. So far, I think there’s very little resistance, because it’s democratic, so it’s those POs who voted for the things that they want to address.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We do find some difficulties in scaling change ‑‑ that’s number eight for you ‑‑ because while these 40 people are empowered to make real changes and so on, when they are back to their ministry they have to also scale this, like a fractal, to look at their lower units and organization levels.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Basically, they have to do in their ministry what I have done in the national government. So far, we’ve seen that mostly the ministries who face ordinary people, the Ministry of Health and Welfare, of Interior, of Transportation and Communication, these ministries have a lot of buy‑in because they have to really embrace digital transformation to face people.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Citizens?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Citizens. When they are internal, like if they are just offices for accounting, or for HR, and they are mostly serving the public servants, themselves, then they don’t have this much of a pressure to embrace digital transformation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There is a significant difference in adoption rates in the internal‑facing and outward‑facing ministries. That’s my observation so far. If you have any thoughts on that, they would be very welcomed.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>A lot of it, it’s the mindset. From our experiences, the example that I can give you, it’s not a government example, but you can actually learn, is if you look at restaurant or fast food, it’s a franchise model.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>You think of a franchise model. They don’t own these franchisees, so they need to influence the franchisees without owning. Owning is easy, because you say, &quot;I’m the boss. I’m the paymaster. You just have to do what I say,&quot; but franchisees are different because they share the royalty.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>What we have actually seen, some of the best practice to get them to come on board is basically to show them that if you don’t make this change, then this role is going to go away, just like the franchisee model is going to go away.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>This is the very extreme example, whereby you push them and say, &quot;If you don’t do this thing, your role is going to go away,&quot; or &quot;Your department is going to go away, so you need to be part of that.&quot;</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>The second approach that we have seen is to show them the final customer. In your case, it would be the citizen and the resident of Taiwan. Say that these are the ultimate people that you need to serve, even though you don’t directly serve them.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>You serve somebody else who will then serve them. These are the people that are making the change. If you don’t respond to the change, then these people, who are your customers, cannot do what they do, and so therefore you will become obsolete soon.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Those are the kind of models that we have seen. I use the franchise model because I feel that, unlike a company, franchise owners, they always have a hard time, because they feel that they need to influence, as opposed to control.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>We have done with a few, this kind of model, with a fast food and quick service restaurant. That’s one way of two different ways that we have. What we have done is really to influence them. The other one that I’ve seen is in Southeast Asia, like in Malaysia, Thailand, the Philippines, and Indonesia. There are quite a lot of conglomerates. These large conglomerates, they are multiple industries.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>It’s a little bit different from Taiwan, whereby typically a company is a single industry.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>In these conglomerates, typically they’re in plantation, they’re in retail, they’re in banking, they’re in telco. Typically, two and more industry in the same group. When the founders first started, she might start plantation, then go to telco, and then you go to retail.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>In that kind of model, even though the HQ own all the business unit, unlike the franchise models, but because over the many, many years they add different industry, the CEO of each business unit has a lot of control. I always told them that they are the king of their empire, because they are one.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>They also, actually, give a lot of resistance. This is like your different ministers.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s like federations.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Correct, it’s like maybe the plantation thinks, &quot;I’m in agriculture. Why would digital affect me?&quot; but in your retail, you’re very competitive, so I embrace it faster.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>The way that some of these companies have done is they actually start with talent management. They say talent affects everybody, whatever the industry is. This new generation of people, because the older generation are going to retire and they’re going to have to go, so we have to deal with this new generation.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>If you don’t transform, then it’s going to be very difficult for you to attract the new generation because this new generation of employees, they will only want to work for organizations that are digital. The new generation all think like that, which is why some of this business units, when they start to post job openings, they realize that they get zero CVs.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Then you begin to open your mind and say, &quot;We have to change, because even though we are running good business, everything is all good, but then we need people. We start having all these job openings. If there’s no CV, then how are you going to find?&quot;</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>It’s like if you have three CVs, at least you can find somebody from the three, but you’ve got no CV. It’s a problem.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Talent was one thing that we did. That’s how we feel that you need to basically say, &quot;If you don’t change, your reputation is old school, then you cannot hire new people and you cannot bring new blood into the company.&quot;</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>That is the other one that we have seen from the work that we have done. Does it make sense to you?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course, but how does this, let’s call it the federated model, shape their job openings so that the talents seem them as digital? It is partly, of course, still internal governance work that it has to really embrace digital transformation, but on the other hand, it is entirely internal.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>How would a prospective young person know that this industry, plantation, or whatever has changed?</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>No, no, no. Part of digital transformation is going out, and talking about it, and evangelizing it. It’s not true to say that because people who actually go through digital transformation or kick start digital transformation, they know that even though the work is internal transformation, they have to go out and talk about it.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>When we work with companies that have started digital transformation, we realize that their head of digital or the head of IT, whoever that is responsible for digital, or it could be the CEO, they are always very willing to come out and speak, because they want to tell the world about the transformation and the digital experiences that you’ll deliver.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>We want to change the branding and the mindset. That’s...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think this is great. This is why we tell those participation officers, even if they come from an R&amp;D or IT background, they really still need to learn communication and learn how to frame their communication phrases so that it maximize their impact and engagement. Actually, we’ve hired experts to teach them about this communication.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What are some suggestions that you would have to bring people who are not trained in a communication background or in a background to actually deliver?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course, as you said, the head of IT or head of digital, it’s easy for that one single person to go live stream for all the time, like I did, but how do you convince the ministries or the organization units? Because it could be seen as increasing their risk when they’re not good at it yet.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Basically, if risk is an important thing to them, the more they talk about it, the riskier it is. One of the things that we have done is you need to train them that from a digital standpoint, digital a lot got to do with the social platform, and you’ve got to be comfortable with that. It’s all media and communications training, where you say you have talent that you brought in.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>The basic communications and media training doesn’t change, but what you need to tell them, that they need to be very comfortable. For example, maybe we have in a YouTube channel, or maybe we do a video blog post. These are the kind of things that the people who previously were not comfortable with, you need to train it, and you need to show that.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Typically, what I have seen is that it’s usually not the digital officer or the IT. For you to do it, you’ll be like, &quot;Of course.&quot; You’re comfortable. This is what you do. How can I be like that?</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>It would have to be someone who’s typically senior and would have come from a traditional background, but you have actually converted, or the person says, &quot;I agree with you.&quot; Then that person becomes the role model. That’s how.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, the champion.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Exactly. You need a senior person that is traditional, but you managed to convert him or her, and then you train him or her in a social media savvy way to do all this video. I’ve seen some companies whereby the CEO, the founder, they’re very traditional, but they begin to do that. They go in a YouTube channel. They talk about it. They write blog post.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Or when they do a town hall for the employees, they actually change the method. They say, &quot;Instead of doing this town hall, which is face‑to‑face all the time, I still do that, but now I have also a video channel that I can broadcast, so you don’t actually have to be in the office or in the same location. You can actually see me from a broadcasting.&quot;</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>All these different platforms make the other people feel more comfortable. It’s like, &quot;Actually, it is fine. This is the new way.&quot;</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Of course, if you manage to bring in the young talent into the company, and they are so used to that, then these other people will see this, &quot;Yeah, it’s going to be business as usual,&quot; they become more and more comfortable.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Some companies actually bring in a pool of young talent to just do that. Their job is to go to this different ministry or department to just do that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We have about 20 people here that’s doing this.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>They go around, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, and we’re very fortunate that our President and our Premier are both very welcoming this kind of digital communication. As we know, that the Premier, Lin Chuan, has appeared on multiple live streams and video blogs. Both of them have a very successful Facebook campaign going on.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We do have the role models, as you’ve described. I’m more wondering how we can get people who are more internal facing, instead of external facing, to see that this is also business as usual. It is not some special event that you plan that happens once a year, but that it could actually happen every week without exposing them to the risk.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>You have to change the process. What we have seen is changing the internal process.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Your style, where you talk about where you, through whatever Slack‑like collaboration platform, or equivalent, and then you collaborate. Then every Friday you have a meeting, so it’s a weekly...</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>For you, you are very familiar with agile and design thinking, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>You need to actually bring that into the environment. That’s what we have seen. Have you come across the Estonia case study?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>They are very big into going out and promoting it. They go and talk about it, because sometimes when I talk about Estonia, people will be like, &quot;What are you talking about? Which country are we talking about here?&quot;</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>They are actually quite good at going to big conferences to talk about it, and they’re also very open to working with other governments and other ministries to collaborate and to do sharing. In this digital world, that’s what you need to do.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>One idea that we have worked with some of the companies is, like in this B2B environment, which is internal, you bring people have gone through that process outside of government, in the community, private sector or other government, and then bring and show them. Or you bring your people to them and show how it’s done and the benefit. We have actually seen that before.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Singapore Smart Nation plan, a lot of the other Southeast Asian countries, like Indonesia, and Malaysia, and Thailand, they typically come to Singapore and try to learn. They try to bring their people.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>The other thing that we have also learned, and this is more private sector, so I don’t know how from a security and how does it apply. We have also seen companies where they have exactly this traditional model, and then it changes people mindset.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>They select these people, and they rotate them. Every six months, it’s a minimum of six months, they bring these people into a environment whereby this environment has a lot of startups. I don’t know in Taipei, but in China you have the SOHO offices whereby it’s a building and it says all startup. You can rent it by the hour, by the day, whatever, typically, entrepreneurs and startup people.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Some of these big brand companies, they actually bring the traditional people, and they rent space there, and say, &quot;Every day, instead of coming to this, our office, now you go to that office. You still do exactly the same thing, but now you are doing it in a different environment.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re doing that. Next month, starting...actually, I’ve been doing this, myself. Every Wednesday I go to this startup place, a co‑working space, and bring with me some ministries who have some engagement and let them see that this is how the startup world works.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re scaling this up every Wednesday, maybe next month, at the Taipei Air Force square. That is going to be focused on social innovation, but still a lot of startups and a lot of young talents. I’m going to have my office hour there and bring the other ministries along so that they can actually know.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What I think is different is that in this model it is every Wednesday or every Friday. It’s one or two days per week. In your model, you’re referring to full‑time for six months.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Yes, minimum of six months.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s like a fellowship in reverse, right?</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Correct. It’s not attaching to the startup company. They are not attaching to the startup. They do exactly what they do...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s osmosis. [laughs]</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>They want to immerse them in that environment until they become like, &quot;Oh, actually, it is not that bad. It is quite good, and I see all the benefits.&quot;</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>The big brands are actually beginning to do that. You see something like P&amp;G, Marriott, they all go into this. Typically, they say they will bring the most traditional, the most conservative, the ones that have the most difficult mindset to change. They will bring them first. They are telling them, &quot;Your job is exactly the same. You do exactly the same thing, but now I just give you a different office environment.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is very impressive. I’ll have to check it out.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Maybe this is what you’re going to do. Once a week may not be enough. They may also see it as just an excursion.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If it’s once per week what we see is that they do build some personal connections, and then there’s, at least, their affinity for this kind of thing, and they are no longer resisting to it. On the other hand, that kind of culture is hard to bring back to their own organizational unit, because for most of the week they’re still doing it the traditional way.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It makes alliance, it makes people more friendly, but it doesn’t really transform their workflow. It becomes a extra workflow that’s more efficient for some cases, but it doesn’t really change their core or their workflow.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Maybe you want to try this, because if you rotate enough, over a period of time you would have exposed them. Every group is actually at least a six month, because we believe that, at least the large branding, you need six months.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Some of the brands that tell me, say, &quot;After six months they still don’t get it, then it’s time to churn them out.&quot; I don’t know about government, but private sector they can do that. They say it’s time to churn them out.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They move an entire office, like 20 people, or 50 people, or something?</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Correct.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s great.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>This is a very new trend that I’ve seen. Some have worked, and then there are ones that after six months cannot change their mind. Then they know that these are the ones to phase out, because they say you either have to embrace it, or you have to leave. This is a private sector mentality.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We can promote them to senior advisors, or whatever.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Sandra Ng">
+          <p>Something that they don’t have to do that. That’s what we have done. What else do you want to cover? There are other examples I can talk about.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I actually talked with the Singaporean officers, some of their people working on this kind of a transformation. The social department staff actually came to our hackathon Wednesday, and we compared a lot of notes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They also say that the Singaporean digital service, not only do they use Facebook for work, but also have something like our participation officers in every department, in this kind of horizontal organization.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There is a difference because, according to them, at least, the Singaporean GDS has only the digital part, which means the more algorithmic, the more data‑oriented part, but it doesn’t really do the design thinking part or service design part, which is actually very different disciplines.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In a typical software startup, of course designers, and software people, and PMs work together. It’s very natural, but in government it’s very different job trainings, and if you don’t say they have to work together, they don’t. That’s what those Singaporean counterparts have told me.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m looking at point 10, saying design thinking and speed. I wonder how you connect those two, because, of course, design thinking allows very fast iterations.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Especially in a government or a traditional business thinking, if they don’t have customer demands that changes weekly, then it’s actually very easy to convince them to use analytics and data, but hard to convince them to use design thinking, interactive design, and user‑centric design, things like that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What are your experiences in introducing it?</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>You are right there, if you look at within the Singapore government, the administration, that this is not something that they have really placed a lot of emphasis, because they are putting more into open data economy, AI, robotics, and industry use case and technology.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The coding part.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>They try to place more emphasis on that. In fact, when they look at the talent, they actually don’t list designers as one...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly, that’s what I have heard.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>They actually don’t list designers as a pool of talent that they need. They talk about engineers. It’s true that the emphasis is less on that.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>The only department that I’ve seen that is directly linked to the government that actually implement this is GovTech, G‑O‑V T‑E‑C‑H, because GovTech and IMDA came from IDA.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>It’s the Ministry of Communications, and then IDA is basically the Infocomm Development Authority. Because first they combined with the media, so IDA combined with the media, IMDA. They then have now, GovTech, and then IMDA.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>GovTech is the main implementer for the Smart Nation program in Singapore. One big part of the initiative is around innovation, which is why they a bought a lot of startups.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>For that group, this design thinking is where I’ve seen take place, but it’s not widespread. It’s only in one place. As a government, this is not a top thing that they say and focus. If I would say of all, GovTech would be the one.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>A*STAR is basically their research and engineering. One is it’s a lot of focus on true R&amp;D. The agile thinking is somewhat, you have to in doing that, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>I would say these are the only two that we have actually seen that agile thinking, because they don’t really have a digital minister. They have a department now, which is under the Prime Minister office that is representing digital.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>They’re actually leading the Smart Nation program. That’s what they do. From a government standpoint, this is the one. It’s difficult because it’s self‑conditioned. Basically, if you look at this design thinking, it’s self‑managed team. You don’t have to make it perfect, and then you just keep on reiterating and reiterating. Government always feel very uncomfortable with that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, because before I entered the cabinet I worked with Apple for six years, so I’ve got this design thinking indoctrinated.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Sandra Ng">
+          <p>I’m sure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Apple, unlike other Valley companies, design is on the top, then the engineer, and then project managers. It’s exactly the reverse of many other companies.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because the PDIS, the Public Digital Innovation Space here, our first hires are a interaction designer, and then next we have a service designer who came from RCA, from the Policy Lab in the UK. Then we expanded by having a lot of service design methodologies.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We found that for citizen‑facing ministries, this is actually easier to sell than data analytics because it is instant. Just by engaging in design thinking, and design workshops, and so on, there’s a lot of rooms for citizens with no special training to participate and see that participation actually makes a difference the next week, instead of with big data or analytics.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>It takes a while, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It takes a while. Open data, it really only benefits people who already have technical expertise, so it’s seen as part of the people serve the whole people, but a better service design, of course, affects everybody.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is what I’m thinking now, is to have service design as the main thing to convince the ministries with, but also then build a workflow that enables open data automatically. That’s what we’re doing. We don’t see a lot of governments doing this. As you said, this actually is a way that requires a very high‑level political will to happen.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Government is definitely not at the forefront of this. Clearly you are familiar, like you say, because of your Apple background and Silicon Valley background. Then I would say Under Armour, the whole connected fitness user communities.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>For example, one thing that I know, in Singapore Changi Airport, which is obviously our airport. Changi Airport is, as we all know, the world’s number one airport. It’s very well known, and things like that, so they’re always trying to look for new things and new creativeness.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>One of the things that they are working on right now is the whole Under Armour concept, so they want to build this user community. A lot of companies have customer database. We all have our own customer database, but the Under Armour example, it’s not about customer. It’s about user.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, it’s about a relationship with its users.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Exactly, but you can look at their database of 180 million users. Some of them are Under Armour customers. Others are Nike, Adidas, New Balance, whatever.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>It’s not just only their own customer, but the CEO, Kevin Plank, belief in that is because having a user community will allow them to get a lot of insights about sports apparel users, not necessarily just Under Armour.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>If you follow that concept, then your design thinking works. If, from a ministry standpoint, from a government standpoint, you say, &quot;Creating this platform of users,&quot; which will include your citizens, your foreigners, but they are residents in Taiwan, so they have their PR status here, as well as other potential, either citizens, residents, or people that can actually have a positive impact in Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Estonia did it very well with their e‑resident.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Exactly, I was just going to go there.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is brilliant, because even people who are not planning to have a Estonian company nevertheless find it cool to engage.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Yes, exactly, and then you have that community that you can collaborate. I don’t know whether you know the most recent story about Estonia is they just connected with Finland, because they want to go big into EU, and all this.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The X‑Road programme.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Exactly, so if now the X‑Road is connected to Finland, then it doesn’t stop them to connect to Denmark, and Sweden, and whatever.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Your idea of having designer, I feel, is very unconventional for Taiwan, because Taiwan is a very engineering mentality, too. Forget about administration everywhere.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s been about hardware engineering.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Exactly, so design is not your traditional DNA in this country.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, it’s not.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>It’s good to get that, because I think most of the funding today is anywhere on the engineering, on the hard skills, so the designer part will really be a good one.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>I would look at Under Armour. When I sat down with Changi Airport and trying to work with them on this, I say, &quot;Look at the Under Armour model,&quot; because their aim is 6 million. Under Armour’s 180 million.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>I say, &quot;You need to look at not only tourists that come to Singapore, people who transit in Singapore and just use your airport, but you also need to expand it to people that you want to attract to come to Singapore or through Singapore, because that will be your new market,&quot; which is like the e‑residency. That angle will actually help the design thinking approach.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Basically, expanding. Not just serving citizens, but all potential stakeholders and establishing a stakeholder network to serve as the community, as you said, for innovations. I think that’s a really, really good insight.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>That is one that I would recommend, because then it opens up. Clearly for you, you are very innovating, cutting edge, so you want to look at all the cutting‑edge stuff. The Estonia is one. The other one that you talk about, cybersecurity, I thought would be interesting to talk about.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>At IDC we have been working on security for quite some time, but now we are getting into what we call digital trust. This is really about how, as a country, if you look at open data exchange now, a lot of countries, when they think about cybersecurity they think of it from a technical standpoint.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>You also need to look at on the trust that your citizen and your user have in your platform. Digital trust also should include the whole experience, like the connectivity, whether Taiwan has a lot of apps, whether users are comfortable using application.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Whether our websites have SSL, and things like that...</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Things like that. I feel that a lot of countries, their focus, when they think about cybersecurity, they only about the technical. They never think about the whole experience and the trust level that your residents and your citizens will place, and that is important.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>They are connected. For example, China. China’s a very good example. It’s a very extreme example. Digital lifestyle, very high. They are the world’s largest e‑commerce market. Digital payment with their mobile platform, definitely world class. Everybody knows about it. China the benchmark.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Digital trust is actually quite low, because the trust in the system is not that high. It’s not the lowest, because even though they don’t trust the system, but because their mobile app experience and their digital experience is very good, it actually bring up their digital trust.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>They have got so comfortable now that they are fine to do mobile payment and digital payment, even though they don’t completely trust the system. That’s the new element that we’re looking at.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They trust it won’t go down, basically.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Yes, exactly, but then they don’t really trust whether people look at their data, and things like that, but now they are also willing to give data. Alibaba is collecting all this data. WeChat is collecting, Tencent is collecting all this data.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>At the back of their mind, they are also thinking, &quot;I don’t really trust the government,&quot; but then they are giving all this because they are so comfortable with digital services. My point is that when you look it, I think digital trust is a better way of focus when you want to look at your priority and your investment.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>How do you quantify that? Do you compare things people are willing to do online as opposed to offline?</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>There are different matrix. Obviously, you need to look at the technical side, from a security. You need to look at the trust at the government and institutions, so banks, and all this. How much do people trust this institution, and that’s where your regulations come in.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>It’s also how you nurture the application economy and mobile penetration. You see, you have to look at app economy, mobile applications, which previously, when you think about cybersecurity, you don’t think about the experience there.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>The more pervasive these things are, that means the more exposure the citizen and the resident have of these things, the more comfortable they are. Maybe they don’t really trust the institution, but because they are so comfortable, your digital trust index goes up.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>My point is you need to look at all these factors. This is a new research area that we’re talking about, so maybe the next time I come back I can give you a better picture. Our current thinking is you need to look at technical. You need to look at regulation. You need to look at your institution, reputation, and how you govern them.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Then you also, at the same time, have to look at how pervasive your application economy, how much investment, how you nurture the economy and digital payment.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Completely. Three years ago, when people are experimenting in Taipei on i‑Voting, for example, they very quickly found out this is not a technical issue. It’s not just about open source. It’s not just about the algorithm, whether its mathematically proven code or not.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s about whether people trusting paper more than computers to cast their votes, and with good reasons, because with paper you can see the paper trail, and with computers you really need put a researcher to verify the platform. It is a social issue. That, I agree completely.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you do this voting over time, as part of the app, or whatever, every day, literally, then maybe people get roughly used to the idea that for those non‑critical, not presidential votes, of course, but maybe for participatory budgeting, they’re OK to use digital voting.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>If you look at the Estonian example, you can get there, even for presidential election voting.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. I mean their constitution was written after the Internet. [laughs] They’re ahead in this regard.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>If I learn from the Estonian example, and the China example, too, is that if you create and nurture an app economy, as an example, using i‑Voting, if you create enough of them, and all the residents and citizens are so comfortable with an app environment, then they will see i‑Voting as just one...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Just another application.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Exactly. Their behavior automatically will change. The point of this whole digital trust is that you need to consider all of these factors and get to that point, as opposed to just focus on cybersecurity and security technical elements.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s not as though you mentioned Estonia and China, because there are ways of generating this trust in our world, and it’s completely different. Estonia does it by publishing a transparent trail to every single individual, how their data is being used so they can audit any time they want.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That builds trust, because with paper you can’t do that. It’s about digital personal data control. On the other hand, in China it’s because with paper the state knows everything, anyway.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Well, sure, it doesn’t really matter whether you use digital or paper. Of course, in Taiwan we can’t do that here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We do have to learn a lot about the Estonian model, including user control over personal data, before we actually advertise everything as digital. That I completely agree on.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Is there anything else that you want to chat about? Is there anything?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s pretty much it. I learned a lot. Anything else you would like to talk about?</p>
+        </speech>
+        <speech by="#Sherry Wu">
+          <p>We’re curious, for your team, is there any consultant group or any consultant service that you outsource? Just curious.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You mean how we operate? We do, of course, do a lot of work in collaboration with, for example, the Institute of Information Industry and so on, who provide the role HR, our resources, when we want to get something done.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>When there’s a regulatory reform, for example, we also contract out to legal researchers and also to think tanks to make sure that the regulation reform is actually conformant with international trends. That’s mostly handled by the Regulatory Reform Center of the National Development Council.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Our in‑house team, which looks really quite crazy here in <a href="https://pdis.nat.gov.tw/who-we-are">https://pdis.nat.gov.tw/who-we-are</a> ...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>...are in the administration.</p>
+        </speech>
+        <speech by="#Sherry Wu">
+          <p>I’m sure it’s intentional.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It is. The team works here in the administration, and on the third floors. As I mentioned, this is more about agile, more about design thinking, which usually, in my experience, doesn’t work when it’s outsourced. It really has to be part of the organizational DNA, but for everything else we do work with outside collaborators.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>On that, you don’t know what you don’t know, meaning that you are thinking, &quot;OK, I want to make this change,&quot; X change, or Y change, &quot;and I need to arm myself with enough information.&quot; Where do you go and look at?</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Would you depend on your agile team? Do you depend on your own team, or you won’t?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We do do this kind of public consultations with both the e‑petition platform. There’s hundreds of petitions going on that informs the direction of our work. Also, public consultations of upcoming regulations is like the regulation.gov, of course, but with a public discussion board. There’s hundreds of them right now.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then for things that has already passed, things that are already part of the department’s work, you also get here. For example, this is the open data collaboration plan. You can see all kind of long‑term care, the Taoyuan Airport, whatever.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then if you click on it, this is actually the same data as the internal auditors of where monies are spent, of which contracts we handed out, and everybody’s free to have a discussion here. The idea is that on the ideation stage, on the discussion stage, and on the implementation stage, each we have a separate forum for the citizens in general to give us ideas and feedback.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We are bound to respond within 60 days for each of those forums. Yeah, there’s hundreds of those topics going on consistently.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Are you familiar with IDC? We didn’t talk about it.</p>
+        </speech>
+        <speech by="#Sherry Wu">
+          <p>We can do it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Are you familiar with...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m broadly aware, like Wikipedia article‑level.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Sandra Ng">
+          <p>Obviously, we can cover from a local perspective. Basically, we’re global. Our HQ is in Boston. We’re a information provider, and technology is obviously our strength and our focus, which is why we’re familiar with Silicon Valley, and Apple, because obviously, they are one of our customers.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Basically, our model is that customers come to us when they want a wealth of information that they themself cannot, obviously, collate. That’s the main model that we have. If you go to www.idc.com, there’s a wealth of information, but you have to be a client, obviously, to be able to open up. Everything that technology touches, we cover.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Where our strengths are, our capabilities are one, we go into industry. For us, industry is a very big focus, like financial services, manufacturing, data, blah, blah, blah, and government.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Public sector is one of the industry that we cover, so we have experts in the government/public sector area, which is why Smart Nation and Estonia are given all this information, so industries is definitely one.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>The second is our country infrastructure. In our sector, we have the largest in‑country, because we believe that you need to be in the country, in some cases, in the city, to really understand and to stay abreast of the trend. Those are the two‑key thing.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Digital transformation is a very big thing in the marketplace, and we actually started quite early in the journey to go out to provide a framework.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Today in our database, we have more than 3,500 organizations, including government, around the world that have come to IDC to get an understanding of their current digital maturity index, so where they are today in terms of how mature or not mature, so that it gives them clarity on at least where they are, and then what is the goal for the next 2 years, 5 years, 10 years, whatever they want to do with this.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Those will be the big area, and from her perspective, because of the role, I am actually one of the global leads for digital transformation. That’s why she thought it would make sense maybe for us to just have an interaction. Those are the different things.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Obviously, we help ministries, governments, and companies. When you say when you want to have a regulatory change, or when you say, &quot;You know what? Fintech or financial is colliding with payments and with Internet, and then with retail then, how does this collision work? What does it really mean?&quot;</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>That’s the kind of stuff that we actually provide. In the future, if you see that there’s any gaps or if you have questions, then either Sherry or Will will be the right people to...We always love to have interaction.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>I’m an analyst, so that’s what I do.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We both learned something, I hope. [laughs]</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Of course. Definitely. It’s good for me to actually understand. The designer part is what is very cool, that you can really do this, because it’s a complete different DNA of Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Regionally speaking, we do need to move higher in the value chain anyway. The higher you are, the closer you are to the users. It’s not like we can avoid the trend, but we can accelerate.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>The good news that you said earlier is that none of the governments have really done this.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>You could be at the forefront of it, to be able to talk about Taiwan and design. Once you do that, I can see the private sector coming in, like they’re not so focused on US in the past. Maybe it’s time for them to look at it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Even the term surface design, saying that anyone who practice is effectively helping defining it, is what we’re thinking.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>In the engineering world, when you tell them designers, they always think about fashion design and interior designer. They don’t think about it as design thinking.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly.</p>
+        </speech>
+        <speech by="#Will Hsu">
+          <p>In Taiwan, we also have more digital transformation focus. In the regional, discussions were mentioned an award to who is the enterprise who are transform to the digital.</p>
+        </speech>
+        <speech by="#Will Hsu">
+          <p>This time in Taipei, we have five winner, as discussions were mentioned, so we’ll give an award. Not only providing the information but discussions were mentioned.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s great.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Thank you for that. That reminds me. We just launched just this year, so tomorrow is actually our event where we are going to award five winners in Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Awesome.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>We do our part in trying to recognize organizations in terms of their digital transformation efforts. Obviously, these efforts need to translate to real business performance, so we are doing this around the region, and obviously, Taiwan is one of the markets. They all will then meet in Singapore to compete for the regional award.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It means a lot, that then you get your city agenda of the digital transformation going forward in the region. I’ll keep an eye on it.</p>
+        </speech>
+        <speech by="#Will Hsu">
+          <p>Thank you so much.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Thank you very much for your time.</p>
+        </speech>
+        <speech by="#Sherry Wu">
+          <p>Thank you.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Appreciate it.</p>
+        </speech>
+        <speech by="#Sherry Wu">
+          <p>Some example, we cooperate with global clients. For example, if they have certain topic that they’re interested, we just create a project for two or three months to deep dive to those topics for a while.</p>
+        </speech>
+        <speech by="#Sherry Wu">
+          <p>We can get cases for China, Singapore, and US, to bring them some thoughts for how they should proceed. We also can hold a workshop internally or externally with the related stakeholders, as well.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Cool. I’ll keep this in mind.</p>
+        </speech>
+        <speech by="#Sherry Wu">
+          <p>Thank you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Thank you.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>How long have you been in this role? You say you were in Silicon...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Since last October. Almost a year now.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Coming up to a year.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s a fun job. [laughs]</p>
+        </speech>
+        <speech by="#Sherry Wu">
+          <p>It’s a cool office.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>You can do all the new and creative things?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. It’s like an infinite lab of sorts.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Exactly. Basically, you’re given free rein to...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. To see whatever that we would like to digitally transform, and just try them out.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>That’s a good role to have. [laughs]</p>
+        </speech>
+        <speech by="#Sherry Wu">
+          <p>Quite flexible, and a lot of influence along the...</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Good. Thank you.</p>
+        </speech>
+        <speech by="#Sherry Wu">
+          <p>Thank you very much.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>It was good meeting you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You, too. Thank you.</p>
+        </speech>
+        <speech by="#Sandra Ng">
+          <p>Thank you. See you next time. Bye‑bye.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
