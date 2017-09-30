@@ -1,6 +1,5 @@
 #!/usr/bin/env perl
 use 5.12.0;
-use YAML::XS 'Dump';
 use XML::Simple 'XMLin';
 my $url = shift or die "Usage: $0 <hackpad-url>";
 my $xml = `curl http://pad.archive.tw:8080/$url`;
