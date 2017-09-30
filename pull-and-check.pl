@@ -16,7 +16,7 @@ my $baseURL = "https://raw.githubusercontent.com/$1/$branch/";
 
 while (1) {
     if (`git pull` =~ /up-to-date/) { sleep 60; next; }
-    my @xmls = grep { chomp; -s } `git show --pretty=format: --name-only HEAD | grep .an.xml\$` or exit;
+    my @xmls = grep { chomp; -s } `git show --pretty=format: --name-only HEAD | grep .an.xml\$` or do { sleep 60; next };
     for (@xmls) { chomp; system($^X, "upload.pl" => ($baseURL . uri_escape($_))); }
     system "rm -rf /var/cache/nginx/*; service nginx reload";
 }
