@@ -15,8 +15,12 @@ my $baseURL = "https://raw.githubusercontent.com/$1/$branch/";
 `git config core.quotepath off`;
 
 while (1) {
-    if (`git pull` =~ /up-to-date/) { sleep 60; next; }
-    my @xmls = grep { chomp; -s } `git show --pretty=format: --name-only HEAD | grep .an.xml\$` or do { sleep 60; next };
+    my $pulled = `git pull`;
+    unless ($pulled =~ /Updating ([a-f0-9]+\.\.[a-f0-9]+)/) {
+        sleep 60; next;
+    }
+    my $from_to = $1;
+    my @xmls = grep { chomp; -s } `git diff --name-only $from_to | grep .an.xml\$` or do { sleep 60; next };
     for (@xmls) { chomp; system($^X, "upload.pl" => ($baseURL . uri_escape($_))); }
     system "rm -rf /var/cache/nginx/*; service nginx reload";
 }
