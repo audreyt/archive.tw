@@ -16,7 +16,7 @@ my $baseURL = "https://raw.githubusercontent.com/$1/$branch/";
 
 while (1) {
     my $pulled = `git pull`;
-    unless ($pulled =~ /Updating ([a-f0-9]+\.\.[a-f0-9]+)/) {
+    unless ($pulled =~ /([a-f0-9]{7}\.\.[a-f0-9]{7})/) {
         sleep 60; next;
     }
     my $from_to = $1;
