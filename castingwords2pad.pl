@@ -1,8 +1,8 @@
 #!/usr/bin/env perl
 use utf8;
 use 5.14.0;
+binmode STDOUT, ':utf8:eol(LF)';
 print ~~<>;
-binmode STDOUT, ':utf8';
 my %names;
 while (<>) {
     utf8::decode($_);
