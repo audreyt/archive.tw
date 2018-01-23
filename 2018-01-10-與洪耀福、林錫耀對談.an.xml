@@ -1,0 +1,49 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/洪耀福" id="洪耀福" showAs="洪耀福">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/黃子維" id="黃子維" showAs="黃子維">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-01-10 與洪耀福、林錫耀對談</heading>
+        <speech by="#黃子維">
+          <p>有一件事想要麻煩秘書長，因為唐鳳有一個主要業務是社會企業，社會企業坦白講還在初期的發展期，所以社會的能見度都偏低，我們是有一個想法，不知道可不可行，因為好像每個禮拜中常會都會請政務官報重大政策，如果有機會的話，是不是可以讓唐鳳去？</p>
+        </speech>
+        <speech by="#洪耀福">
+          <p>我來排一個時間，儘速在過年前。</p>
+        </speech>
+        <speech by="#黃子維">
+          <p>因為那邊地方首長都在，也讓大家都認識。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為我們5月5日、6日有一個大活動，所以這一件事如果在那之前，也就是各地大概都知道，那也是滿有幫助。</p>
+        </speech>
+        <speech by="#洪耀福">
+          <p>簡報的資料都準備好？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個活動有跟卓秘書長稍微講過。</p>
+        </speech>
+        <speech by="#洪耀福">
+          <p>所以這個禮拜、下個禮拜都可以。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>都可以。</p>
+        </speech>
+        <speech by="#洪耀福">
+          <p>隨時，我們歡迎你來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>謝謝。</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
