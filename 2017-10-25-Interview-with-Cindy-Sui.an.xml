@@ -1,0 +1,478 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Cindy Sui" id="Cindy Sui" showAs="Cindy Sui">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Lisa Lin" id="Lisa Lin" showAs="Lisa Lin">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2017-10-25 Interview with Cindy Sui</heading>
+        <speech by="#Cindy Sui">
+          <p>Do you come here often, everyday?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes, practically every Wednesday all day. Even during the weekends, it’s just near the JianGuo Flower Market. It’s just over there. It’s a ten minutes walk from my place.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>Very convenient.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, so I just walk here.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>You make yourself available to the startup founders in case you want to discuss anything?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>And complain about the government?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right. This is not just the startup hub. We actually have different institutions, the information industry institutes, the young startup, young entrepreneur institutes. A lot of NGOs that actually work with the government very closely on startup policy, also station their staff here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s in my office room. It’s me and four people from those different institutes. They can have one-stop connectivity to the people, actually in charge of the startup policy. The idea is that we make the policy making transparent so people can participate in the policy making process instead of government dictating everything.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>That’s great. So there’s really no minister’s office here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That is exactly right. It’s everybody’s office.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>Audrey, can you tell us what are the main problems in Taiwan when it comes to building a community that’s friendly towards startups?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Traditionally, Taiwan is very good at hardware, semiconductors, peripherals, and so on. This requires a very disciplined, also capital intensive way of thinking about things. But nowadays we also have a younger generation who are good at design thinking, good at user experience, and so on. But there’s a lack of inter-generational context during their school, during things like that for them to connect with the existing hardware-oriented community.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A lot of the things that the government is doing is just to mix these generations together and have them incorporate newest technologies like AI and things like that that is new to both generations so that there won’t be one generation knows everything about something then the other one just has to listen and so on.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We are collaborating in this kind of cross-generational culture. This is kind of why Taiwan builds this culture around social innovation, about solving common social problems so they will not be seen as contesting but as collaborators.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>If you were to name three main problems facing Taiwan’s startups, what would they be?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The first one I think by far is the unclear indication of regulations for a lot of those things that are not described or determined by law because we have a law system that really doesn’t say a lot about new form of things. Now we have a sandbox.org.tw website so that startup people can just apply there describing their business model.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Instead of being very ambiguous, people will just get a timely response from the NDC and also from the MoEA about regulatory applicability. This is what we’re trying to solve is the regulatory uncertainty.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>If you don’t mind, can we talk about the three main problems first? Then you can talk about the three main solutions.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>If you could just quickly sum up what the main problems are in Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It used to be the three problems that we face, when I was an entrepreneur, are the unclear application and regulations. That is by far the largest one. In addition to regulation, the difficulty of retaining and getting the foreign talents to join, this is another very clear issue.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The third issue I think would be the the risk-averse attitude of many people, instead of engage in this kind of risk-taking thinking. So three things: Regulation, talent, and culture.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>I’m sorry, you said a foreign talent, but I thought there’s also a lack of local talent in software engineering or in business startups that kind of thing. So why only foreign talent?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Look, there’s plenty of local talent, it’s just that if they’re risk-adverse, they tend to work with established large companies. All startups are risky, so this is about talent going places where there’s less risk.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You played the devil’s advocate, you ask me questions about an engineer having parents, having a spouse that needs them to explain why they engage in startup. This kind of approach is not that we don’t have talent, it’s that they work in more risk-adverse ways and this is one of them.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The foreign talent part is especially because there’s been described as a brain drain in Taiwan where talents in Taiwan often go to other places and even form international startups with their international friends.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s very rare to see this kind of things attracting the foreign talents to Taiwan because of regulatory challenges, the like of the so-called gold card for extended stays or like with healthcare and things like that. But now the legislative just passed a law that address these issues (Act for the Recruitment and Employment of Foreign Professionals).</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>If you don’t mind, could I ask you to repeat the three main problems?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure, sure.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>Let me add one more because I know on the phone you mentioned capital, the lack of investors, VC involvement a big problem, so regulation, talents, capital?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think that’s part of the culture. The VC ecosystem, I think that goes well on track.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>If you could use the word venture capital that would be great because some of our viewers don’t know what VC means. We are the medium for everyone, not just high-tech people.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, right. Maybe I’ll just say regulation and foreign talent, just talent and then capital. I think...</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>And risk-adverse, that was really good.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I will just say the lack of a VC system is actually the root cause of people not engaging in risk-adverse behavior.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>So it’s actually four problems, right? Regulation, too much regulation, too strict regulation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, ambiguous regulation.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>Lack of venture capitalists investors environment.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>Number three...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Foreign talents...</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>...not enough talent, brain drain basically, not enough the kind of talent that we need.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>And number four a risk-adverse society.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Culture. Sure, sure.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>Is that OK?</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Yeah, OK.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>Audrey could you sum up for us, what are the main problems that startups in Taiwan face, what are the key challenges that they face?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>By far the first one is regulatory uncertainty about uneven education of existing laws. I think the second one is about talent, about the relationship and retainment of foreign talents, some people call it a brain drain in Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think the third is a venture capital ecosystem that still needs... Let’s do it again.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>OK, I’ll ask again. So Audrey, what are the main problems that you see startups in Taiwan face?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Many of them face uneven application of regulations, so the first by far is regulation. I think the second one is the relationship with foreign talents and the retainment of local talent, so there’s that. Some people call it a brain drain here in Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The third is, I think that venture capital’s ecosystem is still being formed, so there’s not so much capital that’s been put strictly into startup ecosystem. I think the fourth is the general culture of being more risk-adverse and not rewarding people who want to take risk enough.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>So that’s not conducive to having an environment that’s similar to the Silicon Valley where people just create, innovate and take risks.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s exactly it.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>Can you? They cannot hear my question, can you say that? What does that mean for Taiwan that it wants to become more like Silicon Valley?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>First of all, I think we’re working on a lot of sandbox laws and also the Act for the Recruitment and Employment of Foreign Professionals. We actually have special laws that’s just passed legislation that address these issues.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>As for the ecosystem, I think it’s for everybody, not just the government to build. One of the thing the government can do is that during education, to make people more creative, work across discipline and across generations.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>One of the key ways to work across generations to solve common social problems, such as the SDGs, trying to solve common social issues.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>The question I wanted to ask earlier was when you talk about the four big problems, regulations are not enforced in a proper way, I guess?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They’re enforced kind of ambiguously, selectively or there’s no consistent interpretation.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>When you name all these four problems, regulation, capital, talent, and risk-adverse society, what does that mean for the startups? How hard is it for them? Can you tell us what is it like for them being here?</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>That is not easy.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>You can sum it up because the interview is about you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>Based on your experience on startups, what is...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It really differs a lot field by field.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Yeah, field by field.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think most of them are affected by regulatory inconsistency interpretation, so that’s why it’s the largest problem. Some fields like capital. Some fields don’t want to engage in risk behavior in startups and some parts like...</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Maybe software? I think the challenges faced by software startups here might stand as a good example for all the four problems that Audrey just mentioned.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>When you talk about the four main problems, how does that affect people who want to build a startup here?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For example, we have a Uber-like app, it’s called FindTaxi. When the startup just gets formed, it’s unclear whether they can operate legally or not. The Ministry of Transport and Communication eventually agreed that they can work under certain business model, but it took a long while. During this time, nobody really know whether they are legal or not.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because of this, there is real difficulty in attracting venture capital, attracting things like that because nobody will want to invest in a business that’s questionably legal, but they’re really solving a social issue, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Once they become legal, they also face the challenges because when they want to grow their size of teams and so on, many talented software engineers already work on very established companies and a few people would want to do startups, but there is no culture to encourage them to do such a behavior. I think that’s the main difficult issue here.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>In general, is it much harder to do a startup in Taiwan than in Silicon Valley?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think it is much harder pretty much everywhere in the world compared to Silicon Valley.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>It’s unfair to compare like this, but you asked the question directly. I think it’s easy to start a company and do a startup here. People here actually are very willing to do startups. The factors we’re talking about is the things that’s preventing them into being successful SMEs.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Many of them get acquired or gets dissolved and people join established companies. They still learn something. The people who engage in startups are doing it for their self-actualization really, and that part is always there. For the startup to grow into corporate SMEs, we really need to overcome these hurdles.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>These hurdles, it’s not specific to Taiwan, but we are working on removing them here.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>Tell us more about that. Tell us how the government and Taiwanese society is working to remove the hurdles.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The regulatory inconsistency, I think, is the National Development Council. They have embarked on a program that says basically if the law doesn’t say it’s forbidden, then it’s allowed.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If there is any interpretation that is inconsistent or disagreed with each other, they have now a one-stop shop where you can just post your issues and then they will promise to resolve it in a timely manner, so this is being taken care of.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Also, for really regulation breaking disruptive technologies, we now already have a thing called sandbox that’s just passed by legislation. We’re looking forward to driverless vehicles sandbox or even a general-purpose sandbox that’s being rolled out just before the end of the year.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>To sum it up, how are you dealing with the four problems that you mentioned, if you can quickly summarize it? Regulations, capital, talent, and also the lack of a risk-taking culture.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re solving it through a more consistent interpretation, a more... Let’s just do it again.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>I’ll ask again.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>If you could say it in simple terms and quickly if you can, how would you sum up how Taiwan is tackling the four main problems that you mentioned? Talent, regulations, capital...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In any order I prefer? [laughs]</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>It doesn’t have to be in order. [laughs] Capital, whatever the main problems are.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Taiwan government is establishing a more consistent interpretation platform, where any startup founder or team can say, &quot;I want this regulation to be clarified,&quot; and we respond in a timely manner. We also work with the community in Taiwan on such regulatory adjustments.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>As for the capital issue, I think this is about a ecosystem that is building, but we’re working very closely with VCs so that when government invest in something, we don’t do it alone. We’re trying to bring everybody together.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>As for foreign talent, we just passed a...That depends on the type of area, right?</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>We just proposed. Sorry. As for foreign talent, the Legislative Yuan, the legislative body just passed a foreign talents act, that addresses specifically the issues that foreign talents tell us during the public consultation, the real issues that they face when they’re working in Taiwan, so that is also being taken care of.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>As for the culture, I think that takes a long time, but we’re working on the basic K-12 education to emphasize a cross-discipline, a more autonomous education. That will take some time, but I think people are generally seeing it as an encouraging direction.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>Thank you very much.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Thank you.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>Can I talk to Audrey about radio a little bit?</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. I still have to wear this?</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>No, no. I’m just going to record it from here. Thank you. Sorry because I cannot put the mic close to you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s good.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>I’m actually quite curious about your background because I think your background also drives your motivation to help Taiwan, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>What was it like for you growing up? You were a junior high school dropout.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>How did that happen? Why didn’t you like the schools here? Is that part of the problem with Taiwan startup company, the education system?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>When I was 15 years old, that was 1996, I discovered this World Wide Web thing and found that my textbooks were all out of date. Surprisingly, when I told my teachers I want to quit school and start my education, I had to emphasize all my teachers agreed with it, which is why I become a optimist to this day.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This strange condition of discovering World Wide Web I think is very specific to the ’90s. Now there’s people grew up with Wikipedia, they grew up with their sources on the Internet. The teacher’s role has already changed because the students will fact-check their teachers using their mobile phones and such.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t think the lack of access to Internet is the problem in Taiwan. Taiwan actually have very good Internet connectivity. Now days I thinks it’s mostly a more siloing effect of people doing education going to schools.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Nowadays, they have to enroll into one or the other discipline and to choose one or the other major fields they want to study, and one or more things they want to pursue, but always kind of exclusively with other things.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Nowadays, I think not just with the K-12 as we discussed, we are also looking into the university laws to make sure that people can engage in an academy and without locking into specific majors and even they can go into the private sector or civil society to work for a couple years and then going back to a university or a college and still get a diploma that’s much more well-rounded.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think we’re doing all these reforms as we speak.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>Is that going to be enough to turn Taiwan into something similar to the Silicon Valley? To be very innovative, to be very creative, to be very risk-taking?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, I think we’re going to be more risk-taking. For solving certain social issues, Taiwan people actually have a much better direction toward the common good, to solve them together such as misinformation online and things like that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sometimes the problems are created by Silicon Valley, not solved by Silicon Valley. I think we have pretty good solutions to those issues also.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>In the next few years, do you think we can expect very creative startups to be coming out of Taiwan, maybe the next Facebook or Instagram?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, Taiwan has always and already produced very innovative startups, but I think we’re going to see more of them growing up and being seen as more visible internationally.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>You mean they’re going to be going global?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s exactly what I meant.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>But to do that, what kind of help do they need?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A few things. First, they will need connections to the global social innovation community, to the global impact investors, to the global community. Which is why we’re doing a regional social innovation forum next year to attract the best social impact investors and everybody concerned with social innovation to Taiwan to see those amazing things that local startups are doing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then of course we also need connections to the Silicon Valley innovators to share into their latest technological AI breakthroughs and things like that, which is why we’re sending PhDs and also post-docs to Silicon Valley to work there and then bring the insights back home.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re working on a lot of those programs.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>As you told me on the phone, you can deal with regulations as you’ve just described to us. You can inject a lot of capital, billions of dollars in capital, from the government world. You can create a venture capitalist community here and you can also send talent abroad.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>But perhaps the most challenging thing is changing society’s mindset, the risk-adverse mindset. How do you think Taiwan can do that?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think just giving the startups more visibility and also letting them have direct ministerial access, I think, also help things because then it helps mainstreaming their startup behavior. When people see it as just something that everybody can do and also, they don’t have to risk everything, they can just do it for a few years and then maybe join a larger company or go back to school.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>All this is very mobile. When people see it as part of their life’s course, then we get more people joining the startup. It’s not like once we join startup, we’re eternally a startup people or eternally entrepreneur. This kind of siloing, class-based behavior or thought is something that people predefine themselves in certain ways before.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Nowadays we’re engaging much more flexibility and letting the whole society know that people are engaging in this flexible behavior and also, it is the norm now, it is not just for some wacko startup entrepreneurs.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>You’re going to lower the risk for everyone, is that what you mean?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s exactly...</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>The money will come from the government, so if there’s a failure, the government loses the money, not the individual or the family?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, as with any other impact investment in general there is successes and there’s failures, but if the failures, the postmortems are shared with the community, with the whole society as we see in sandbox and loss here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Even failures are actually just paying the tuitions for the next startups tackling the same problem. This is what ecosystem means is people solving similar social issues, taking different angles and different startups. Most of them fail, but those failures then become the lessons learned by the whole community when they’re doing more social innovations.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>But a lot of parents don’t want their kids to fail and they don’t want their kids to go into risky careers, how would you address that point?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think when people say failure, they think them-self as failure, but when in the Silicon Valley we see, I just pivot, there’s no failure. It is this specific project that failed, but it’s not me who is a failure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s very difficult for people who just engage in the same work the entire career, just own the same company to realize that in the future, even now, many young people are just changing different projects practically every year.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Some of them will be successful, some of them will fail, but the person always learns something because of it. By making this visible and by making this inter-generational, that is saying to have the older generation also having something to contribute in those startup ecosystems, I think the whole society learns that this is just a much better way of doing business and then plan their life’s career.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>Changing the mindset, changing the culture?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>Starting from the young generation all the way up to the older generation?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes, across all generations.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>Great, thank you so much.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Thank you so much.</p>
+        </speech>
+        <speech by="#Cindy Sui">
+          <p>Thank you.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Thanks a lot.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
