@@ -1,0 +1,1023 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/張芳睿" id="張芳睿" showAs="張芳睿">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/曾于珊" id="曾于珊" showAs="曾于珊">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-01-05 曾于珊來訪</heading>
+        <speech by="#曾于珊">
+          <p>大部分的人在PDIS上，我看到的人，他們也是跑來跑去？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>今天有一半的人都在這裡（空總社會創新實驗中心）。因為今天是協作會議，所以我們直播組、主持人團都在這裡，他們10點就會開始。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>就是健保案？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，就會開始討論健保案。雨蒼是說你可以旁聽，如果你可以一面畫個時間軸，或者是寫些observation notes，這個會很有幫助。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>會。我是比較兩個平台，因為我不是來自電腦計算的背景。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我也不是，我是念哲學的（笑）。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好。但是我會覺得因為大部分的人，可能會對於數位型態的民主會採比較批判或者是直接否定的態度，我是比較屬於中立的，我希望沒有帶特別的observation，我就是一張白紙。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>Sure。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>我想要比較你們做的兩個平台，「Join」跟「vTaiwan」，還有Decide Madrid，你們同樣都是用開源軟體，但是是不同的license。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以我會覺得滿有趣的，就是到底怎麼樣。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以你有去瞭解巴塞隆納的Decidim？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>有，我之前是有去訪問，但是我最後是選擇Decide Madrid，因為馬德里政府比較穩定，相對於巴塞隆納那邊。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>比較不會莫名其妙就有人被抓去關、有人流亡？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>對。</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>（張芳睿加入談話）</i>
+          </p>
+        </narrative>
+        <speech by="#唐鳳">
+          <p>曾于珊在解釋為什麼她最後選馬德里，沒有選巴塞隆納，因為她的研究對象不會被迫出國、被關起來或內戰之類的。巴塞隆納的狀況比較特別。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>對，就是他們掌握權是在市議會，所以是少數，他們要推新政策的話，是會有比較多的困難。所以我採取的方法是參與式的研究，像我在馬德里跟Miguel Arana、Pablo Soto。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我很熟。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>你們都認識。他們也一直說Audrey的名字（笑），他們有什麼會議就會帶我去，我每一天都會打田野日記，有一點像人類學的那一種。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是ethnography。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>我就會說今天觀察到什麼，最後會再重新分析這一些資料，因為我每一天都會去那邊上班。隨著我對於Decide Madrid瞭解的增加，我會增加一些訪談。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以你是shadow Miguel還是Pablo？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>應該是Miguel，因為Pablo是議員。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>他要跑行程。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>有婚喪喜慶（笑）。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以當初是Miguel。Miguel的個性也比較活潑一點，也會幫我做一些翻譯。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以你每天都跟著Miguel。跟了多久？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>三個月，大概是9月25日到12月25日，然後我每兩個禮拜或者是每個禮拜五就會做我對於Open Source或者是我對於你們的infrastructure有一些問題，因為我自己平常唸一些，就會說可不可以問他們，有一點像這樣。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>可是Miguel自己很少寫程式。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>對，他不是。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>他會寫程式嗎？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>他是說他會啦！但是他畢竟像管理level的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，他在MediaLab也有一些程式的專案，是透過Yago Bermejo？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以他是出一張嘴比較多，以我的理解（笑）。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>因為他算是Decide Madrid類似……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……architect。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>對，所以他說了算。他算是接洽我的人，所以我大部分也是跟著他，所以我有一些問題會問他，但如果他不知道，也會說要不要問其他人，像security，他們現在在做……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>很技術的那個，我知道那一段。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>就是那種密碼學，我也想說那很複雜，但是我想要理解。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是政治判斷就要Pablo？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>對，Pablo比較忙一點。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我覺得Pablo人很好。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>他人很好。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>畢竟是議員。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以我希望如果你願意的話，我就會每天來，然後有時就會問一些問題，然後做一些訪談，對於訪談的資料，因為像他們有一些覺得政治敏感比較高的，他們講完之後就會說off record。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我這邊沒有這個問題。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>如果你們想要off record的話，我也會做一樣的處理。我不會去投到臺灣媒體，我對於保密性，我是非常尊重。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好的。可是我自己剛好相反。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>講越多越好嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是跟我first interview，或者即使是我主持的internal meeting，逐字稿都會放上網，這就是radical transparency。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>其實包含我們現在的對話，你有十天可以編輯，編輯完之後就出去了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是因為我確實在你剛剛講的「Join」及「vTaiwan」，其實我已經不是主要的architect了，我是幫忙弄一些政治空間或政治議程出來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>尤其是「Join」的跨部會參與部分，architect現在坐在你左邊（指芳睿）。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好，運氣很好，馬上就碰到architect。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以你shadow我的話……好比我今天下午就要去BMW給一個智慧電動車的演講之類的，就是會跟Pablo一樣需要跑行程，你shadow這部分的實際效益就會很小，比較小。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好，沒有關係。那「vTaiwan」呢？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>「vTaiwan」是一大堆互相彼此不是非常有聯絡的人，也是一個非常分散的組織。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>其實「vTaiwan」的特性是每個禮拜三，從下午2點陸續就會有人來，一直混到晚上10點。因為禮拜三我早上10點就會這裡，所以我禮拜三是10點到10點都在這裡。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>Key people是你禮拜三來，然後來個兩、三次都會遇到，來到第三次自己就會變成key people，大家推坑的能力都是非常強的。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>我有一些簡單的問題想要問你。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>如果裡面跟目前的參與狀態有關係或之類的話，其實芳睿也可以回答。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好啊！我想要瞭解一下，你認為比較廣義的Open Source，或者是Free Software 和 Open Source有什麼不一樣？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>「這兩個」有什麼不一樣？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>應該是依照你用的license，因為馬德里那邊所認為的Free Software是比較狹義的，而且是copyleft。你用的license，我看到好像是copyright。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好像不是這樣子分的。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好，你可以稍微解釋一下，他們滿在乎他們是copyleft，所以是每一個modify的work都已經強迫被開放，因為AGPL。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>比如我今天複製他的coding，那個coding也要強迫一樣是開源軟體。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是，但這樣所謂的「copyleft」，它同時也是Open Source的授權。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>對，也是Open Source。Free software是Richard Stallman喜歡有一點像……比較清高嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>也不是。如果使用Free Software這個詞，通常的意思是這是一種人權，使用、改作軟體的權利不應該被剝奪，這是一個civil right based approach，或者是一個道德上的approach。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>如果你使用Open Source這個詞的話，是說在開發過程中越多人一起參與、越透明，就會做到越好的quality，這個是efficiency，economics based approach，所以一個是倫理或道德論述，一個是經濟論述。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是這兩種授權的實質涵義幾乎完全一樣。如果有一個license是Free Software，九成九也是Open Source，如果一個license是Open Source，九成九也是Free Software，這兩個的內容是幾乎沒有差別的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>至於copyleft是一種你剛剛講的，特別Richard Stallman很喜歡的授權方式。但現在常用的所謂「copy center」授權，像BSD license這類的permissive license，也仍然是Free Software。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>你們用的是creative commons……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我自己用的是CC0，這是所有permissive license裡最permissive的。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以你說permissive是指？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>其他運用的人，甚至不用說是我做的，他可以說是他做的。也就是連顯名權都拋棄。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>但是他所做的那個作品有強迫也要開源嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>沒有任何強迫。他可以說是他做的，這個都沒有關係。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以他的那些coding不一定要open？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我對他完全沒有控制權。這其實超過了著作財產權的範圍，等於是我盡可能拋棄掉著作人格權。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>OK，因為我是看維基百科解釋說creative commons 0是根據著作權法。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對。但即使是copyleft，也是根據copyright的法律做成的。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好，我大概知道你的意思。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>我想要請問的是，你把「vTaiwan」made open，然後CC0，是有什麼特別的原因嗎？有什麼特別選擇用這一個開源license的原因？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為CC0 compatible with everything。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>每一個Free Software的license，在彼此之間都有一個很複雜的compatibility matrix，但是CC0和一切授權都是相容的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為「vTaiwan」不是單一的系統，是綜合很多系統。像我們用到的Pol.is，Pol.is就是AGPL，所以我如果自己採用一個incompatible license，會有很多實務上的問題。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以我基本上就是用CC0的意思是，「vTaiwan」所有相關的軟體可以用任何license，但是都不會跟我conflict。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>相容性的問題。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>另外一點，你們是怎麼跟Pol.is整合的？你們是用Software as service，透過API還是用什麼形式讓「vTaiwan」用？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>本來是跑在他們自己的伺服器上，但是後來Pol.is有API，那個我們也有要求，所以他們有開發出來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>後來我們現在也commission他一個project，讓他能夠把Pol.is架在我們自己的機器上。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以現在我們是用自己的sandstorm的平台把Pol.is整合在裡面。這一方面的技術問題，我之後可以介紹三樓的朋友給你認識。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以他們是星期三會來的那一些？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>其實今天就有一堆來了，只是是在做直播而已。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>反正你可以到slack channel上，我有給你連結（join.g0v.today），你在slack channel上就可以找到人問。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好。你們有付費給Pol.is嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>有，等於算是one time付錢給他，請他把他的software as a service架構，改寫成大家都可以自己host的infrastructure。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>你們付了多少錢？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>大約新台幣90萬元。不是「我們」付的，應該說這是預算的一部分，這個是infrastructure project。所以是你的錢。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>對，所以是納稅人的錢。「vTaiwan」是資策會founding？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>「vTaiwan」目前是法協的計畫，就是國發會法制協調中心。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以是國發會？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>「Join」也是國發會？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>國發會資管處。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>我想要請問「Join」不是用開源軟體嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>「Join」裡面有用到一些開源軟體，但是整體來講，整個系統並沒有開源。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>我在上面找不到github的連結。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>我想要請問一下有什麼原因，為什麼「vTaiwan」是開源軟體，而「Join」沒有使用開源軟體？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為「Join」當時在開這個標案的時候，我們的資訊服務採購範本裡面，還沒有把開源軟體納進去。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>「Join」是2014年底開始的專案、2015年招標，所以當時臺灣的資訊軟體採購範本裡面，還沒有Open Source的段落。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以因為在條例上沒辦法編列一個預算給開源軟體？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>比較困難。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>因為你是去年才……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……我是2016年底入閣的，我進來的第一個動作，就是把sandstorm架起來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>第二個動作就是去修改資訊採購範本，讓開源的採購及開放API的採購變成特別容易。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以其實這個會是在蔡英文進來之前，「Join」就已經存在？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>那「vTaiwan」才是？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>「vTaiwan」是比「Join」還早就已經存在了。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以都不會算是因為你進來才……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>……當時我們在外面就在弄了。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以是在你還沒有入閣之前，你就已經參與「Join」跟「vTaiwan」？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>當然。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以你是主要的architect嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>「vTaiwan」第一代的時候，我是主要的architect之一。「Join」我只是出一點意見。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>當時他們是把我叫做「vTaiwan」的專案顧問，就像芳睿現在是我們的專案顧問。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好。下一個問題，我想要請問你對於使用，因為Pol.is，至少我從馬德里，他們對於Pol.is的認識是比較AI的演算法。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>勉強可以說有些機器學習的互動元素，但「AI」我想就是一個marketing term。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>就你而言，因為你是學這個的，它的演算法難的程度，比如像一個開發者要去做密碼學？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那是完全不同的領域。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>HCI，也就是人跟電腦怎麼互動，這和密碼學是……</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>喔！所以是兩個不一樣的領域。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對。要怎麼設計出讓人看了、覺得會一直玩，然後又能夠把大家的貢獻能夠即時回應出來，然後又能夠做分群，這裡面當然還有一些數學的成分，但大部分是互動設計或使用者體驗的工作。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這也是資訊科學的一部分，但這個跟密碼學是不同的。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>其實相較於，為什麼我會覺得你們用的演算法比較複雜，也就是相對於馬德里市政府做的數位線上參與平台，他們基本上演算法只有那個吧！就是可以把那些proposal，誰最popular的或者是最早的？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你說複雜的意思，可能是解釋起來比較複雜。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是我覺得這個解釋起來也很容易，就是每個人都可以提出他的觀點，每個人可以對每個人的觀點贊成或反對，系統自動找出最polarized的一組觀點，跟次polarized的一組觀點，把每一個人的觀點放在該放的位置，把像的人圈起來，就這樣，講完了。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>我應該是說對於他們team的開發者而言，他們別沒有使用像Pol.is，可以說是像AI的演算法。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>我其實想要問的是，他們有他們自己的一些的……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們也不是每一案都用Pol.is，是適合的才用。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>對，所以我才想知道說有什麼特別的原因，你們選擇了Pol.is？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為當你上千人、上百個觀點時，如果不用這一種視覺化的方法，沒有人有耐心都看完。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好，所以你會覺得用數位科技不只是讓很多人一起參與，而是它已經改變了參與的形式？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對力它就是節省大家的時間，讓它變得更好玩，因為你要看五千則留言，一點都不好玩。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>任何技術，不只是Pol.is，都是在讓你看五千則留言的工作可以變得不要那麼花時間、不要那麼煩人。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>你覺得就是這樣子的參與方式，跟一般我們在所謂傳統民眾參與的形式，也就是人跟人間的參與會不太一樣。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你是說在線上大家留言，看了分類，然後去看直播，然後直播的時候提供一些意見，這個跟我們一堆人和在一個小房間裡，或者是之後討論是不一樣的？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>是。因為我覺得這個滿有趣的，你們怎麼去看這一件事？</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>線上、線下討論有不同的時間軸，像Pol.is可以很長。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，可以討論三、四個禮拜。</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>現在想談Pol.is線上討論，還是現場討論加直播？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>現在focus在Pol.is。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們「Join」後來也有用Pol.is，酒駕案也用了Pol.is。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>為什麼是針對酒駕？因為「Join」上有很多議題。</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>因為人太多了，當時有2萬6,000多名附議，「Join」平台上可以選擇留言，留言區沒有規定寫意見的架構，會需要花比較多時間去篩選出值得參考的事實、感受、想法。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>要看完2萬個留言，我們就不用做事了。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>2萬個留言喔？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為連署的時候可以一面留言。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以他有幾個留言？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你連署的時候，就可以一面講一句話，所以其實不是2萬個，現在已經3萬1,000個，當時2萬多個，討論區又有700多則。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>你們怎麼處理這一些留言？</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>挑出留言裡講到我們可以參考的問題、可能解法。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>是誰判斷的？</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>通常是業務單位，最早其實是我一個一個看，後來是請業務單位判斷，比如一個議題是法務部主責，會由法務部的業務單位去看那時的留言，挑出核心的問題、可能的解法，然後彙整到資料裡面。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>那要很久。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個叫做「議題分析表」。</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>可是像一個很複雜的議題，像雙多胞胎，就會切到非常多不同的部會，然後每一個部會會就自己相關的部分拿出來做議題分析，可是這一個在酒駕鞭刑案非常失靈，法務部不太可能看2萬則留言去整理。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>你們怎麼幫他做？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以就開了Pol.is，要大家去Pol.is上填。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>可是像之前已經留言的人，你們就寄信給他們？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們一次寄信給2萬多人。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>透過email？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以是在註冊的時候？</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>因為「Join」平台如果新po一則回應，系統會自動寄出給提案人與附議人。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>比如今天有2萬人在Pol.is上留言就會收到1萬9,000人？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>沒有，你只是第一封信會收到，就是叫你來留言的會收到。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好，所以你邀請他們到Pol.is？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>2萬多人裡面，1,667個人真的來到Pol.is，應該是雨蒼把實質上意義重複的都刪到剩一個，所以unique commons有557個。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>他怎麼刪的？</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>人工。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>工人智慧（笑）。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>要刪多久啊？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>應該也還好，因為一開始聲明如果寫的duplicate，我們會刪掉，因為你按yes、no，就會go through，所以你真的有很特別的看法，到後面其實不太容易了，都已經500多個看法了。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>瞭解你的意思，Pol.is上面沒有一個功能，是讓如果我今天發現我的跟他的是完全一樣……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你說word by word嗎？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>不太可能字句完全相同。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好。</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>你剛剛問的問題，我好像還沒有回答到。</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>所以像在Pol.is上討論是可以無止境的，不像會議有一個時間限制，那樣的好處是，大家可以有更長的時間去反思，看別人的意見，再回到自己的觀點，有一個場域讓他們提新的概念或者是修正自己的想法，那個同時後台又可以演算這些人的意見的關係，如果在實體會議前，大家有這樣交流過資訊，會比較好。因為要開一個會，大家的資訊應儘量平等，這兩個還是不太一樣。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就Pol.is一開始的時候，大家都很divisive，但是隨著時間過去，大家會越來越接近，提出大家都能夠接受的東西。像第27次協作會議在這裡，就表示相當多人可以接受，就是這個議題是要喚起社會及政府正視目前法律無法嚇阻酒駕這一件事，相關討論不應侷限在這。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>這個是結論？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個是one of consensus items，它在這裡，majority有這幾個，但是Pol.is的特點是可以自動寫出這一份報告來。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>自動寫出？這是它寫的？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，這一份完全沒有任何人工在裡面。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>這怎麼寫的？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是一套演算法。所以我們可以看到到最後，你看到都是綠的，所以表示across四個不同的群組，大家都可以認同，我們就可以看到都是綠的，基本上是三個，<a href="https://issuu.com/pdis.tw/docs/po-collaboration-25-polis/2">9、10跟305號</a>，我們就讓305號進入我們的議程。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>為什麼是選305號，而不是9？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為我們在討論這一件事，本來就已經滿足了9號跟10號。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>喔！就是他們已經有被討論到了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>9號、10號與我們的關係，我們後來錄影就有釋出，盡可能地把法務部的解釋、這一些東西，讓它弄成這四組人都看得懂的狀況，但是你可以看到只有9號、10號及305號，在真正意義上是共識。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>瞭解你的意思。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以你們其實是在追求大部分都要同意的一個解決方式？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>至少要可以接受的。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>有特定多少的majority？多大多數的人，你們才覺得是consensus還是Pol.is？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>之前有一些算法，我再貼給你。有兩個群組的時候，是所有群組裡面最大的那一個全部加上小的一半。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>最大的群組？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好比現在分成70跟30兩個群組，這樣子就是85％。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好，我懂你的意思。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>意思是你把越多人拉到大群組，你還是小的群組，要一半的人同意。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個visual一看，我是看這四個群組都過半的。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>比如絕對少數，他們的意見，你們絕大多數的consensus base，你們怎麼去處理？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你看A組才106人，B組1,000多人，但我們在不管Pol.is的前台介面上或者是後台的分析上，我們都不以人數為依歸，所以這100多人裡面還是要有一半的人同意。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>我有一點不知道這個怎麼來的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是把投的方式，用機器自動分群。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>喔！</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>正確。所以剛才芳睿提到的是……留言太多了，我們看不完，好像沒這樣講（笑）；但是請大家在這邊留言，只有在這邊留言才有意義，現在收斂到兩個群組了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們可以看到A組2,000人，B組100人，但是其實面積沒有差別，因為我們算的是diversity，我們不是算人數，人數沒有意義。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以你們有一個演算法算diversity？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對。然後不同的diversity裡面groups，我們會試著identify它的stake，這一案的stake可能不一定有identify地非常清楚。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好比像澎湖那一案……</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>為什麼這一案的的diversity stake沒有那麼清楚？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你看Pol.is每一組的特性就會發現，好比A組覺得飲酒問題的根本，然後B組覺得需要家庭、學校社區的網路之類的，C組覺得加重現有刑法就可以防止一切犯罪；D組跟C組到底差在哪裡……喔！D組覺得連性侵跟兒虐都可以解決，但是C組覺得只對酒駕有用，所以這個時候stake就沒有那麼清楚，你可能只是知道它的意向，但是在別的案子裡面，stake就比較清楚；要不要芳睿來講所謂stake的意思是什麼？</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>這一些人都是stakeholder，比如與議題相關的政府單位，還有觀光產業、漁業、保育方面提供服務、制定規則、受影響的人，相關的人都有角色在上面。</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>這部分的業務單位、角色是什麼、支持什麼論點，都會這樣子盤下來，因為這個議題不會只有政府，也會有相關的單位，像是澎湖區漁會、社區發展協會、海洋公民基金會、保育人士、提案人及附議人，所以他們在這整個議題的角色，也要盤點出來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>可以說支持論點裡面蘊含他們的stake，但是有些人不一定會把stake講得那麼清楚，有時也要我們發聲。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以你的意思是說這個演算法可以single out，比如我的common link到一個主責的權責單位。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>可以到comment，也可以浮現這個comment的一致性。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是當看兒虐、酒駕或這一些字眼map到單位，還是人類在做，並不是系統在做的。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>這個是大家的工作？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>把重點挑出來？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，把重點挑出來，你不用go through 2萬個comment，這個是最大的貢獻。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>這真的很厲害，這樣子在挑選的過程中，因為是一個選擇，會有什麼樣的限制？在討論上？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你不能reply別人的comment，這個是最大的限制，沒有別的了。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>這樣子你們在使用上，參與者會抱怨想要什麼嗎？或者意思是……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們用的三個主要系統，sli.do、「Join」底下的正反留言及Pol.is，你看到一個不爽的意見，你都只能提得更好，而你不能回應他，所以沒有打筆戰的空間。</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>使用者間的互動是？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你可以按「讚」跟按「不讚」。</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>對，我的意思是並不是像我們現在坐在物理空間，我們在討論一件事，就是有一個脈絡下來，如果是Pol.is是一直瀏覽大家的意見就是一直按同意、不同意，或者跳過？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>正確。但是我們沒有要用這個去取代面對面溝通，我們是把這個當作面對面溝通的議程形成過程，我們用Pol.is來決定我們見面時先討論什麼。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為這邊大家發現四組都關心酒駕，我們就討論酒駕，發現只有第一組真的很關心性侵案，所以我們就沒有優先討論。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>在面對面討論，有邀請這一些提案？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>有，提案人跟連署人都要。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>但是連署人就是那個？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>不是，有五千個連署人都會收到信。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>五千個人都？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>先報名的五個人來。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>就只有五個人願意？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>或者空間許可，最多部會也可以自己邀，但大概就是二、三十個。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好。我想要問一下，你透過這兩個平台，你有什麼終極目標？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>沒有。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>我自己的理解是，這個是新政府與民眾間的關係。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是，所以呢？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以我想要問的是，你有怎麼樣的理想性？</p>
+        </speech>
+        <speech by="#唐鳳">
+            <p>我們有一些<a href="https://talk.pdis.nat.gov.tw/uploads/default/original/2X/3/350d9773f54d40093ca11fafe08dc7da7568079b.jpg">重視的價值</a>，但是我沒有什麼要達成的目標。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>就是你們想要建立互信？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個是首要的，然後次要、跟再次要。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對不起，芳睿還是要解釋一下，這三層很不一樣。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>我覺得這個滿有趣的，你覺得要培養一種公民社會，是公民要具有一種對於參與有興趣嗎？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>我想要問的是，你們透過「vTaiwan」跟「Join」有什麼終極的目標？比如想要建立什麼民主？</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>我先講這個結構好了，中間是整個PDIS團隊的核心價值；第二圈是核心價值要用什麼approach，綠色的部分是實際上做什麼事。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>像我們會用Pol.is是想要促進多元對話，也就是要讓各方更理解清楚彼此的立場及感受，可是為什麼要做這一件事？因為有主核心價值，這樣講沒有錯吧？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好。因為我覺得你們好像有對於怎麼樣的公民參與有一種理想性，就是比如怎麼樣的公民參與才是理想的？或者是你們想要達到什麼樣的公民參與？比如你們想要有10萬個人在用Pol.is，這個是舉例。</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>可能不會這樣量化。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>而且我們現在臺灣2,300萬人，已經有接近500萬人在用「Join」平台了。如果要量化早就超過了，可是我們不是這樣看。</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>我的意思是做一個舉例，應該是品質。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以是什麼樣參與的形式？他們怎麼去看待公民參與這一件事？</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>兩個問題：我個人希望參與的品質好，是建立在大家對議題都有一定程度的認識，而且能夠涵融各種不同的角度，就算是不同的人提出同樣的一個論述，支持這個論述的原因可能會不同。我通常看了不同角度的資料，進而變得中立，面對不同論述也可以盡量去理解並包容，因此希望大家的討論的狀況是，可以講出不同論述，但是支持論述的東西，每個人都要很清楚，而且要理解不同族群的人，用這樣的方式去建立一個比較實質的討論，這樣也比較有意義。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>第二個問題，因為傳統的民眾參與形式，好比像村里或者是市的層級，針對一個特定的議題開一個公聽會。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你的意思是涵融性。你是不是問說，像我們這邊講的多元、各方及所有利益關係人是不是要捲動更多人？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>對，或者是你們想要達成，有一點像你們期待市民怎麼去看待公民參與？是透過「vTaiwan」跟「Join」？我自己覺得這應該是不一樣的，就是跟傳統市民參與公共事務的形式，因為你們是建造者，所以你們心中有什麼idea或者是想像嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我是沒有啦！看芳睿，芳睿是現階段的architect，如果她有就有。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>應該就是目標吧！</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>期待市民怎麼被捲動嗎？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>嗯。</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>這個跟我剛剛講的好像很像。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，沒有什麼兩樣。</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>更能夠看到不同的角度，然後再回來反思自己的立場。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>他們有什麼特殊的貢獻嗎？他們只要使用「Join」嗎？</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>如果是廣義的參與，會有很多的形式。協作會議是一種，Pol.is也是一種，所以其實不會限制一定要怎麼樣。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是以他舒服的方式，能來就來，不能來就看直播，不能看直播就看錄影，不能看錄影就看逐字稿，不能看逐字稿就看心智圖。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>我想要你們對於數位落差或者是參與落差有什麼樣特別的看法嗎？你們有用「vTaiwan」跟「Join」，要回應這兩個議題嗎？我知道臺灣大部分的人都有網路。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，但不一定都那麼能寫字。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我這邊只講兩個，一個是「vTaiwan」處理到社會企業的時候，我們發現會用「vTaiwan」程序討論社會企業的絕大部分都是在北部，這個是資訊的落差，並不是南部的人就不上網，而是南部的人不知道社會企業正在這個平台討論，所以我們其實是把討論帶到不同的地方去，我們用每兩個禮拜一次巡迴的方法，然後實際去每一個地方。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是十幾個部會都在空總，他們遠端備詢，因此當地的人一問問題，部會就馬上回答，這個是「vTaiwan」後來的方式做。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>「Join」就有兩次，等於是在當地。</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>一次是去澎湖處理當地漁業、保育、觀光議題，另一次是去恆春處理當地醫療資源議題。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那兩場除了協作會議之外，還有開sli.do，所以任何人只要經過，就可以進來討論。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>像你剛剛講巡迴的，是在哪幾個議題？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>社會企業。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>你們怎麼發現大部分的參與者？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們一開始在「vTaiwan」或者是「Join」開會時的會場都在北部，所以沒有辦法搭高鐵，有的人就比較吃虧，只能線上參與，後來發現我們即使是線上參與，因為這個是特定政策議題，不像Uber議題，臺灣都關心，社會企業很有可能只有做社會企業的人比較關心，這些人因為我們一開始的訊息是從北部開始往外撒，所以南部的人是過一陣子才知道，這個是很大的問題。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因此，我們後來把meeting帶到他們那邊，而不是要他們來台北，恆春跟澎湖也是類似的情況，因為要澎湖的漁民全部搭飛機到台北，不是很work。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>像你們在註冊，你們有設定什麼樣的人可以參加這個會議嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你要提案的話，你要有手機號碼。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以比如不是臺灣人？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>「Join」好像要勾一個「我有中華民國國藉」。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以有被分……</p>
+        </speech>
+        <speech by="#張芳睿">
+          <p>我沒有註冊（笑）。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是很鬆散，沒有check上。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>所以沒有link到身分證字號？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，最多就是到手機號碼。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>你們怎麼處理這一些資料？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是存在國發會的機器裡，有<a href="https://join.gov.tw/privacy/index">privacy policy</a>，你可以看。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>你們有特別統計這一些資料？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>有。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>例如？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是參與的程度，有一些<a href="https://issuu.com/pdis.tw/docs/20171011______________________2____">統計報告</a>。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>這個是國發會的範圍？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對。系統營運還是回到國發會。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好，沒關係，那大概就這樣子。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以，你是一個禮拜要shadow芳睿幾天？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>可以啊！因為「vTaiwan」並沒有一個像芳睿這樣的人？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>「vTaiwan」非常鬆散，你每個禮拜三來，你只要提出什麼主意，有人願意做就做出來了，但是我們都會drop by。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好啊！沒問題。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>如果禮拜三來，你會認識「vTaiwan」的仔魚，和其他一些民間的contributor，以及像郁溏等等，我覺得這種非常distributed的狀態，可能你也會花一些時間習慣。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是PO網絡這套東西的architect只有一個，這個是比較容易的。</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>好，沒問題，聽起來非常有趣。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以你要去旁聽健保案嗎？</p>
+        </speech>
+        <speech by="#曾于珊">
+          <p>對，如果可以的話。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那你就shadow她（芳睿）吧。</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
