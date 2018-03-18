@@ -1,0 +1,1280 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Dave Moskovitz" id="Dave Moskovitz" showAs="Dave Moskovitz">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Sheau-Tyng Peng" id="Sheau-Tyng Peng" showAs="Sheau-Tyng Peng">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-03-14 Conversation with Dave Moskovitz</heading>
+        <speech by="#Audrey Tang">
+          <p>Would you care for a coffee, or water?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I’m good, thanks.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Cool.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Yeah, so, Kiwi Foo. I’m sorry I couldn’t make it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It was awesome there. My first one.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>You’ve been there before?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I have, yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, you did?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>A couple, yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I knew Nat for ~20 years, and the Foo unconference format, we have replicated it a lot here in Taiwan. However I didn’t know that Nat went back to New Zealand — and I didn’t know that he brought the Foo there with him.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>It’s been going strong for a long time.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A decade or something?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>It’s amazing. Every time, it’s still fresh. It’s really interesting, just the different constellations of people. Some projects go nowhere, and other projects head off in expected and really interesting directions. Other ones just go...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think it’s a hundred new people every time? That helps.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The diversity status is also awesome... I was so surprised; it meant something. In Silicon Valley, when people threw up something like this, sometimes they just gather people very similar to them, but this time in New Zealand, it was perfect.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Silicon Valley is so yesterday.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>[laughs]</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>First off, I bring greetings for Pia and the team.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Just give you a little background on myself, I’ve been working with the Service Innovation Lab at the Department of Internal Affairs. Pia invited me into the group. I’ve been doing stuff on and off there as a consultant part time, generally between one and two days a week since October of last year. My main job is public private sector engagement.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>My own history is in the IT industry. I’m a dev by trade, started programming when I was 11 years old. I grew up in the States, in Los Angeles, emigrating to New Zealand on 1982. I’ve been there for around 35 years. I actually got rid of my US citizenship in 2015.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Wow. What made you do you it?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I’m a not native Kiwi.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A naturalized Kiwi.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Yeah, naturalized. I’ll always feel not quite completely there. But I tell my kids, &quot;I’m more Kiwi than you are. I been here longer.&quot; They just laugh at me. When the current regime looked like it was going to take over in the States, I thought, &quot;Well, I really don’t have much ties here other than my parents.&quot; I thought I’d just make the jump.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Anyway, I started a startup in the early ’90s during Internet systems integration. My wife and I started this business. Started in our garage, grew it to 40 people in Wellington and Auckland, and then sold it to a multinational accounting firm.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>With the proceeds, I’ve been doing angel investments, and helping other startups, and building the startup ecosystem in Wellington in New Zealand. Since 2002 when I started doing that, it’s just completely mushroomed and blossomed.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>There’s a point, up until about five years ago, I knew every startup and every founder in Wellington. You’ve been to Wellington?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. For the Open Source // Open Society conference.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Open source. That’s right. We met there.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. It’s lovely.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>It’s a small town, but about five years ago I just lost track of [all the startups], and now there’s just so much stuff going on. There are so many different things happening in traditional tech startups, and social enterprise, and the NGOs, the government now is really taking that on. It’s really exciting.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I’ve invested in a bunch of startups, and I had a big exit last year which was great. There’s a company called Publons, and what they do is academic peer review as a service, giving researchers credit for the work that they do on peer review. That was acquired by Clarivate Analytics. The founders are absolutely ecstatic.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>They get to work, basically play the big time now, and they’re all working really well. The investors were super happy, the founders are happy, everybody’s happy. It was really good.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Awesome win.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Yes. I have 15 other startups that I’m working with. I also work at Creative HQ, which is a local accelerator and incubator.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’ve heard of it.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>...in Wellington. I do that part-time, and work on my startups part-time. I’m really interested in a confluence of startup, government, social enterprise, open source because I’m an open source person from way back.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Before the term open source? That was in ’97...</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Yeah. I’ve been doing...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...Free Software folks...</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>...Open Source. I installed my first Linux in ’92 or ’93 so...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...I joined around ’94 or so.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I’m a little bit older than you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You don’t look that.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Dave Moskovitz">
+          <p>You, sir, are a liar.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Dave Moskovitz">
+          <p>Sorry about that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s OK.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Anyway, been really following this stuff that you’re doing with interest. I talked to Pia before I came over. I’ve come over to work with David Kuo. He has this incubator, iiiNNO, triple I-N-N-O.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I’m working with him. He and I are both part of the Startup Nations group. This is people from the startup ecosystems from all over the world trying to coordinate stuff that’s going in their own country, not in a directive way but just in an assistive way, but also to help better connect our local startups with the world.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I think for Taiwan and New Zealand, we’re islands. We’re very geographically isolated. You guys a little less.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Without the Internet, we would be nothing in the startup scene.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>That’s right. Just getting people to cooperate with each other and share people, technology, and ideas is really important to us. We’ve been going to these Startup Nation summits for a few years together and trading startup teams, so we’re looking for ways to do more work together.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>David’s just establishing the local Global Entrepreneurship Network Board here in Taiwan. I went to a meeting with him on Monday. Jaclyn Tsai was there. I met her. She’s fantastic.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>She’s my mentor. I was her understudy.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>It’s nice that you can do that across party boundaries as well.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re both Independents, as far as I know.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I thought she was in the last Cabinet?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>She worked with the last Cabinet. But her Premier at the time, Simon Chang who came from Google as a director of engineering, is also Independent. Mayor of Taipei City for the matter of fact also Independent. Here we have a bunch of Independent people.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>That’s good. Politics here are completely baffling to me. I’m trying to avoid getting too involved. I was really impressed with her history and what she’s doing. I was aware that she was one of your big supporters.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>There are a couple things I wanted to discuss with you specifically. I guess the first one is how can we cooperate more between the Service Innovation Lab and what you’re doing here at the Startup Hub?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>As a matter of fact, we’re in the &quot;digitaln&quot; Slack.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I know. I joined.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Brenda send us invitations. Our interaction designer, service designer, and myself -- I guess political designer? Have joined already the Slack channel, and we’d be happy to join Basecamp or Wikis, whatever.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>As far as I know, you’re also checking out our GitHub repositories?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>We are.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s this daily operational level that we can already coordinate a lot because we develop completely in the open. There’s no system that we use that are proprietary. If there were proprietary ones like Pol.is, we convince the hell out of the creator so that it’s not proprietary. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Most of the time, I find the problem is not in the license. It’s in it was designed for Heroku or it was designed for a hosted environment. It’s very difficult to make it run truly independently.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We help that too. We have a container system called Sandstorm. It’s very easy to port application to run inside it. That’s what we’ve done. We ported Pol.is to run completely independently and publish how we do it last week.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We have a lot of interest in New Zealand civic tech applications. The first one I encounter is in 2014, Loomio. It was pretty ugly back then and doesn’t really work with mobile phones that well. But it has really matured and is now very beautiful.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I participated in the NZ digital service standards consultation...</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Nice.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...and brought our conversations here, how to avoid vendor lock-in, how to get minister-level support, how to consider front line staff as well as users and so on into the consultation process. I don’t know whether they’ll be received. But we’re doing a lot of those day to day operational connections.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>For those guys, the Loomio team, it’s just a question of resources. They’re still struggling with their business model and how to continue funding themselves.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because they build and survey social enterprise and coop-ish platforms social enterprise. Is that the norm in New Zealand?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>No.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK. When I was visiting Enspiral, they’re like, &quot;We’re connecting all this kind of platform coops.&quot; I was very impressed. Then they’re like, &quot;Well, there’s nobody else in New Zealand doing this.&quot;</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>They’re thought leaders. They’re leading by example. People are waiting to see how successful they are in what they’re doing. Hopefully they’ll be super successful, and the world will rush in to that business model or whatever it develops into.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Are you advisor or friends, mentor?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Wellington’s a small town. I’ve known those guys for...I don’t know. The original Enspiral people, Joshua Vial...Did you meet Joshua?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, also I saw his presentation at OS//OS.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I’ve known him for at least 10 years, working around the same teams. We all support each other in Wellington, we try to anyway, because it is a small town. We try to all make progress.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you’ve met Jaclyn, she’s also mentoring this growing open source by default ecosystem with very similar startups. That is also another norm in Taipei.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We have a very large open source community with annual events, with thousands of active supporters.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>That’s great.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>So we’re on pretty firm ground when people want to grow startup out of it. There’s also of course large corporations, social enterprises like Mozilla, who have hundreds of people in Taiwan. Recently, they downsized. People already agree with the free software protection model and went on to start their own groups.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We have a loose coalition of open source folks, some of them interested in civic tech as under the umbrella term of &quot;g0v&quot;, or gov-zero. The underlying community is a 10 times larger open source startup system and ecosystem.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think there’s a lot of coordination that we can do on the operation level.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>That’s good. In terms of exchanging people as well, it would be great if we could get one or two of your team [to come to New Zealand].</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We have fellows from Enspiral visiting a couple times. We also brought our startups and social enterprises to the Social Enterprise World Forum that was in Christchurch.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s this board of investors, local people looking to invest in these ideas and one of the Taipei startup person doing...What they do is that they hand handicapped, wheelchair people use iPads.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They become universal designers and prospect the hotels and whatever and build a network so that they can figure out word of mouth and evidence to let their handicapped community to choose the hotels that are friendly to their co-design. Pretty good business mode actually.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think they’re well received in Christchurch, many of participants based in Wellington also who pretty like the idea. We look forward to do more of this in future.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This May on the 5th and 6th, we’re doing a Social Enterprise Summit. Then we’re also inviting people from New Zealand, I think Alex Hannant from Ākina is coming.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>You know Alex well?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We had a long conversation around social enterprise and social innovation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What we’re looking at for the May event is that we’re going to take all the best ideas and pitches here, maybe many of them already in Mandarin, in Chinese, but not yet in English, and provide all the translations, either interpreted or printed, so that they can see whether this idea makes sense.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If not that particular social enterprise, at least the social innovation can be brought back and inspire other people, that is our main goal.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>When I was talking exchanging people, I was specifically talking about the Service Innovation Lab within the government as well. It’d be great to have a couple of our people come over here for a week or two.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We totally support that. One of our fellow interaction designer, Shu Yang, at the moment in Italy for the #crowdlaw gathering. A few months ago, she was in Tokyo for two months, just like the fellow idea you proposed.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Would you like to, for example, one person here, one person there, and we share for two months?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I think it’d be better actually if they didn’t exchange at the same time, but have one person go over and then another person come over. Do it that way.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK, let’s do that. How soon? Where do I sign? [laughs]</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I don’t have any budget control...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Dave Moskovitz">
+          <p>...unlike you. I will definitely talk to Pia and her boss about that...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>...and see what we can’t do.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>From what you see on the web, PDIS is 25 people plus 35 interns. But the hardcore, all full-time, not distracted here is about 20 people.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Not distracted!</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>How large is the lab there?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>We currently have 11 people. Most of them are full time. Some of them are part time. Some of them are advisors. To be honest, the funding situation still hasn’t settled down after the election. As you know...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I thought you moved under Clare?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>We are under Clare. Clare’s at the front. The machinery of government takes a while to catch up. [laughs] We’re still in that catch-up phase.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s a deployment process. [laughs]</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Yeah. How should I put it? The machinery of government takes a while to move. Once that settles down and the budget’s finalized, we should be in a good position.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Is this fellow exchange idea part of the Digital N?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>We could do it either as part of that, or not part of it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course. I was just looking up...Because that’s Pia’s idea by the way, for each member state or place to mark the skills of the person we’re willing to share, once that we have abundance, and also declare the ones that we really, really need but we can’t find locally. Then do a global...</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I like the approach of starting to work online together first. Then once we...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Certainly.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>...figure out where everyone is, then we can figure out which skills would be best deployed in each place.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>In addition to contributing, if we send a person over from New Zealand, it’s as much about us learning about what you’re doing and gaining skills for ourselves in this round and vice versa. I think the more we can exchange those skills and help build up each other’s skills and build a common language and common methodologies between us and common culture, it makes the future a much better place.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Are there particular people who would like to visit Taiwan? Do you count as one of those people?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I could I suppose. I’m interested.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Awesome. Welcome aboard! You’re hired.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Dave Moskovitz">
+          <p>I wasn’t doing this for myself though. That was not my intention.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I know.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I’m more concerned about the group. I’m an old bugger. I think it’d be really good for someone who’s earlier off in their career to have the opportunity. We’ll see where that goes. That was one thing I wanted to discuss.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Another thing is part of the portfolio of things that I do, Service Innovation Lab is only one small part. As I said, I do work down at Creative HQ with accelerators and incubators.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>We’re running a GovTech accelerator program (<a href="https://creativehq.co.nz/portfolio/lightning-lab-govtech/">https://creativehq.co.nz/portfolio/lightning-lab-govtech/</a>) in July. We’d love to have a Taiwanese government team who wants to make really rapid progress in an external environment come to New Zealand for three months and be part of that acceleration program.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>The teams are generally composed of one or two people from the public sector, one or two people from the private sector, the subject area expert in terms of the area that’s being developed. We put these people into, the three of them...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>How long?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>12 weeks.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Three months. We’re doing exactly the same thing here as of this month. Did you know that?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>No, I didn’t know that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We call it the Presidential Hackathon. It’s the same idea.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>A 12-week hackathon.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Presidential hackathon. ( <a href="https://presidential-hackathon.iii.org.tw/">https://presidential-hackathon.iii.org.tw/</a> )</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>[laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The judge is me and a bunch of friends. The PM, the project manager, is the office of the President herself. She oversees the finalists, the final 5 teams. If any of them make sense to integrate into the public service, having the President as the PM means there will be no excuse from the senior executive of not giving the resource or data.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s very much the same idea. We have the front line staff. We have the private sector who actually maybe already have for years a better idea of how to run public service. It was blocked by budget, by cross-department communication issues, by lack of data, you name it.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>That’s a polite way of putting it, &quot;cross-department communication issues.&quot; [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly, the silo effect. Our idea is to let people propose their ideas. They don’t have to have all the skills in their team. Then we do a public call for talents, actually overseas people are welcome too, which will happen three weeks from now or something to join one of those implementation ideas.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you propose something that’s too out there, nobody will join. That would fizzle. If something actually works and is for social good, then likely a team will form.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then the mentors who are all the equivalent of head of GDS or the equivalent of head of MIS and so on will become mentors and then see the idea to completion and to be judged by the President herself. That’s the idea.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>How long does that process go?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Three months. We’ll be just fine. It’s starts at the open date, the call for ideas. It ends at June 2.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Is that written up anywhere?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, it’s Presidential Hackathon. I can send you that link.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>That’d be great. I’d really appreciate it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yours start at...</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>In July.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Goes all the way to November?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>July, August, September.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>So it ends at September, what would you do?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>We have a demo day. Typically, the New Zealand teams bid for funding from government. We’re integrated into the procurement process.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There is a earmarked procurement portion for this?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>There is.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Cool. That’s something we don’t have.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>It’s not a lot.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Dave Moskovitz">
+          <p>Don’t get too excited. It’s like $50,000.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Well, it’s something.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>It is something. We’re working on tweaking that process as well. One of my dreams is to actually get a good chunk of funding available so that there can be pre-approved procurement.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Do you see the timeline of our two three-month hackathon perfectly coincide? We can have the winning teams come to your competition.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>[laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Seriously. Because I imagine there has been many very common problems. Maybe it needs a local domain knowledge and to tweak into the local regulations. I think the core social innovation will be similar.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>What’s sorts of problems have you been tackling in past?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This kind of hackathon, at the Presidential level, is the first one.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>How many have you run?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>On the city level, directly backed by the city government, there was about two dozens. If you include ones from civil society, then it’s hundreds. There’s a hackathon every week now here in Taiwan.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I mean the three month one.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It was piloted at the city level. I think it’s been run for three cohorts. This is the first one in the national level, which is not that much larger than city anyway. The theme again stays disaster recovery and public health, youth, development, and job finding and social security and aging process, helping aging, and environment and energy, transportation and tourism. That is a very wide net.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>It is. In terms of the specific projects that have dropped out, what’s the most interesting?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The feature cases I think...I really think we need to translate this, unless you happen to read Chinese.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I don’t, unfortunately. I feel very bad about that being here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, it’s just fine. I seen that on my laptop I just had. My country, things upside down.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The link is just Presidential Hackathon. There’s this video made by my friends. These are the highlights from previous cases. Let’s see if Google Translate respects their spirit. Maybe it does. Maybe it doesn’t.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s one using machine learning, supervised learning, to construct fire risk prediction model. It works Gaozhong City. This is the fire isle address.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The idea very easily speaking is to make a geospatial correlation and also future detection of what leads to fire and what leads to fire where and to deploy the fire fighter more effectively. I think this is already well integrated into the public service.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Like &quot;Minority Report&quot; for fires.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>[laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s less privacy concerns with just fires because we don’t put out fires before they start.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>This one actually I was the project lead is the MoE dictionary. What it does is that it integrates the Taiwanese Hakka, Holo, in Chinese as well as English, French, Deutsch into this handy pocket dictionary thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In addition of being very popular on Facebook because if you want a OG graph, you just put <a href="https://moedict.tw/">https://moedict.tw/</a> plus whatever Chinese characters you want to say, it just makes a pretty OG banner for it, so you can share. You can tweak the fonts. The marketers love it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In any case, we build on top of it a urban dictionary. It’s not just the national government but for indigenous people. The Siamese people here use this to revitalize their dictionary because all they had was what the missionary did back in the ’60s or ’70s.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then we build this crowdsourced dictionary site so that everybody can add in more definitions to grow a language so to speak. There’s apps. There’s all sort of showcases that you can do with dictionary data.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Dumb question, I assume that’s open source?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course. It’s not just open source, it’s Creative Commons Zero.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I’m asking about the code rather than the content.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The code is Creative Commons Zero. One of the peculiar thing of g0v is that we use CC Zero code as well which makes it very easy in the next procurement cycle for the vendor to say, &quot;Hey, we wrote this code,&quot; because CC zero is compatible with everything and integrates directly into the public service.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Just very recently, like last year, we have incorporated OpenAPI and SPDX compatbility into our procurement regulations. SPDX is a Linux Foundation thing that allows any project to list all the open source dependencies that it have and thereby waive themself of warranties and stuff.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We made this officially part of our procurement process so that people can use open source very easily including AGPL which was the major headache before.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>What was wrong with AGPL?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>AGPL says you have to allow if you have a website to completely download of not just the code it runs but also all the dependent code that it runs, so not just itself but everything it touches. Without things like SPDX, the border is a bit fuzzy to the procurement people. If you run it on Solaris, do you have to provide a copy of Solaris?</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Of course, nobody interpret that that way, but because the government procurement did not ever rule for that, it could be interpreted in the most risky way, which is why the procurement people didn’t like AGLP. Because we made it into procurement rule now, there’s a standard interpretation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because we give away also our copyright even in the old procurement regime, because it’s Creative Commons Zero, this is also made into part of procurement process.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s a domestic violence risk warning system. There’s a typhoon outage forecast. It’s integrated with the National Weather System would have the integrated weather system of all the different layers of geodata and weather data and meteorological trends and so on. These are what have worked before. We’re reusing it for this time, this competition.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>When the teams come out of the Presidential Hackathon, how many of them are successful in continuing on?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Depend on what do you mean by successful. In g0v, everything is CC0 or similarly liberally licensed. We have a lot of teams just starting like me to solve a particular problem which is the mobile phone doesn’t display the Chinese Mandarin dictionary.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then because it’s CC0, people take it to all the indigenous places, the different cultures. These are not the same thing as the original team. People change a lot. The project continues.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Do people mind that?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Not at all. That’s the beauty of the g0v model because it’s just excuse for us to meet every week, every month, or every couple month, hundreds of people. We don’t attach overtly to the projects themselves.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think that’s really how CC0 technologically affects a community. If there’s CC attribution, you see a long list of growing names. If it’s CC0, it’s just in the commons.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>It is what it is, yeah. I’m just trying to work this back to the individual level in terms of people committing themselves, long-term, full-time to working on one of these projects, without that continuity, without the funding commitment from the government agency that’s actually using whatever it is that’s coming out.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s grants in the Open Culture Foundation, which a large part of the momentum. A part of g0v works on the civic tech that may probably paints the government’s misdoings in a bad light. For that, they tend to seek independent funding, for very good reasons.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think the main sourcing mechanism for impact investing, or whatever we call it now, is outside of the government. The government has a national development fund. We match up to, I think, 20 percent of the stock options before.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Now, we match to whatever that is the largest investor. Technically, we can do 49 percent, but that rarely happens. There’s all these angel funds, matching funds, and grants from the government level, but none of them enable the government to have a majority stock or voting position. The majority always come from the private sector.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Are any of those projects taken on internally within government, so they say how this is...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Internally?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Like the civil service become part of this resource?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Before I become the digital minister, it’s mostly on the data visualization level. Many project at this level become very popular with civil servants. We have visualization and simulation for labor law.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You can do your hours, and they tell it whether you violated code, or you would have the, this is the Taipei city budget. Taipei City commits to publish a machine-readable budget every year, along with the human-readable one.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think this is really innovative, because not only you can drill down to the budget that you like -- and it has spread to, like, seven cities -- but also, each and every one is a discussion board. You can talk about it with civil servants.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is the Taipei City level. Now, after I become the digital minister, I just took all those good ideas, and put them into a national level. Now, all the ministries are on board, and you can see visualization of each and every ministry’s budget spending, and how it’s being measured.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The procurement budget, how much of it is used, the main KPIs, and which company they contract open spending, basically. Again, people can talk about it. This is now firmly part of the government process.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>How hard was it to convince people that this was a good idea?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>People? The general public already loves it, right?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>It’s the different ministries, right? Well, yeah, obviously.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Ministers? My main strategy...</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Not so much the ministers as the people below them.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The senior executives? Yeah, my main strategy is this. Everything I do is on a voluntary basis. As an anarchist, I don’t issue commands or edicts for the matter. It has to be voluntarily. If the Ministry of, say, Defense didn’t want to join this program, I don’t force them to. That’s the disclaimer.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then I try to sell it either to save time for junior public servants, or reduce risk for mid-levels, or to create credibility for seniors. That’s the main three motivations. I think many civic tech projects fail, because they optimize for one or two of the heavy sacrifice of the other.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Someone will block. Because those three are not fungible, it won’t work if one of them is blocked. It has to take in the form a Pareto improvement, in the sense that you can improve one of it, and not sacrifice any other two. It will surely move forward.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For example, when this system was first introduced a year and a half ago, I say, &quot;OK, only the major project, the national-wide project that is directly overseen by the executive here at the administration level, cross-ministry level.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We don’t publish the one that’s self-managed by the ministry. It’s a fraction, like 10 percent, but it reduce risk for the mid-level. It also saves time. As time goes by, people can see that by responding fully, the legislatures, the reporters stop asking them the same basic questions over and again.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They get much more interesting conversations, and they are less likely to be affected by rumors, because the one that’s automatically published is very good in SEO. If you search for a project, you’re likely to find the actual data, whereas before, they have to reply individually, mail-by-mail.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For the junior ones, it’s very much time-saving. They didn’t see that at first, but after a few months, they do. Again, there is credit at the senior executive level, because whenever we do a discussion like this, I publish the whole transcript online, after 14 days of editing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I just praise. All my slides, basically, are heaping praises of senior executives. I never really absorb the credit. Instead, I just keep saying, &quot;Someone co-designed a tax filing system, and someone did a really good thing, and took the good idea out of it.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s all, for example, the Ministry of Finance, then it’s the PO Yang Ching-Heng’s idea, and so on. We have participation officers, and try to commend them as much as possible, and not command them at all. That gives them credit.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>After a year of running this, they see, &quot;OK, it’s a good idea,&quot; actually at the ministry level, too. They start to scale deeply by establishing participation officer teams within the ministry to different agencies and offices.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>At the moment, the Ministries of Finance, of Welfare, of Interior, of Agriculture, has done this. Many others, maybe. I don’t remember. Once they do have this, then they will be open to the idea of having the ministry-level spending and ministry-level KPI also published on the same system, because it’s no risk to them.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The idea is just the minister, me, absorbs all the risk, and they get the credit and time saving thing. It’s working surprisingly well.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I think you just summed up the secret to success in life, really, is enabling other people to do cool stuff, and not being too proud about what you’re doing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. I learned from the best: Larry Wall.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Dave Moskovitz">
+          <p>One of my personal heroes, so that’s good.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Is there any appetite for participatory budgeting? Is that integrated into the system together?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes. Taipei has been running PB for a couple years now. It’s pretty successful. Taichung also has PB. Gaozhong also. The New Taipei City has a really interesting kind of Chicago-style of PB, in the sense that they have earmarked money for city councilors.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A city councilor could already suggest particular projects. The city councilor basically offers that part into participatory budgeting. It’s also a very important tension in PB dynamic, which is the city council seeing it as taking away their, the general city power.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Now, the city councilor who offers up their portion is seen as heroes. It’s naturally aligned in the political arena.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Is there good engagement with normal people?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In Taipei City, I think, yes. I don’t know that much about Taichung or Kaohsiung.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Right. This is all at the city level, but not yet at the national level?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We don’t really know how to do national participatory budgeting, actually.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We have the system for it, but we don’t really know how to do it on the political level.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The national project, they’re very long-term. Usually, it’s like four years, minimum.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s less clear how we can do this kind of rapid pilot, pivot pilot pivot thing that normal PB dynamic really wants. Instead, we do e-petition. We have people e-petitioning, like 5,000 people, for a helicopter to be stationed in their southmost part of Taiwan, because too far from the largest hospital.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>By bringing all the relevant ministries to there and have a five-hour discussion facilitated very well, we’ve discovered that actually, if we station a helicopter there to serve as an ambulance, you would take all their best doctors and nurse away, but they no longer have the experience of treating serious incidents there.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Instead, we should spend, I think, a few hundred million to rebuild the hospital building, to give them good service for their children, occasion, and so on, so it can retain the best talents. Before the dorm is ready, at least we should fly the high skill surgeons and whatever to this local hospital to practice.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>So that when things happen, you can fly surgeons here, instead of flying people with a stroke there, which doesn’t make sense, and so on. It was a live streamed, focused conversation of 30 people. In the town hall, I was doing an ESPN anchor style play-by-play to the town hall people, who are not experts, and therefore needs translation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Once they have questions that I can answer, I just answer. If they have good contributions, then they’re translated into expert language, and through Internet, go in into this smaller room. After this, everybody agree, &quot;Yeah, building hospital, better idea. Helicopters, not so much.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That was a Friday. On the Monday, every Monday, I talk to the prime minister, and the other minister without portfolio. &quot;This is our consensus last Friday. Do you think it’s OK if we spend a couple hundred million?&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The premier was like, &quot;Are you sure that the local people will be OK with it?&quot; I’m like, &quot;Yeah, we explore all the other alternatives.&quot; A few weeks later, we got the budget there. It’s not quite PB. It’s e-petitioning, leading to budgeting, but we do that a lot.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Very exciting. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s a fun job.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>There are a couple of other things I wanted to run by you. One is that I developed a tool called the Lean Policy Canvas. You, as a ministry, must get involved in policy from time to time?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, of course.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>We’ve just translated into Traditional Chinese. Have a look at it. It’s at <a href="https://leanpolicy.org.">https://leanpolicy.org.</a> You can look at it right now if you want.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What’s the target audience?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>The target audience is for people developing policies at the very early stage. I’m not a government person from way back. I’m a startup guy. Why don’t you download the Chinese one, actually? It’s bilingual.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, it’s OK.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Go down. So, yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Basically, are you familiar with the lean canvas?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, of course.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Basically, the lean canvas applied to policy development. It allows people to really rapidly work through, focus on the things that matter. What is the problem or opportunity that you’re trying to save? Who are the beneficiaries? What is the impact, before you start working out your interventions?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>What I found was that people doing policy development, just like startup founders, they tend to focus on the product, rather than focusing on the problem that they’re trying to solve, or who they’re trying to solve it for.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>It enables people to really rapidly sketch out policies, and use this as a discussion piece, either bring it further up the chain.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Lovely.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>That might be something that you might want to consider using. It’s there on the site.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What we’ve been using is the Policy Lab canvas, the UK one. Let’s see how it compares.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I’ve seen that one.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You’ve seen that one?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Yeah. It’s a bit more complicated.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, it’s slightly more complicated. I think it doesn’t have the &quot;roll-out strategy&quot; and &quot;key metrics&quot; columns. Otherwise, it’s similar.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>It is similar, yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s good.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>If that’s something you’re interested in, that’s good.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What we’re trying to do is, we’re trying to make this into an interactive system, where people can continuously fill in facts and discoveries in a collaborative fashion. Basically, make a Google Doc out of it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We added plenty of hand-holding, what’s the term for that?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Like Clippy.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Hand-holding guides throughout the process.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We call it issue-based mapping, or IBM. I did not come up with that moniker.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>In the government, it is called IBM. I’m sure it will sell much better, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This corresponds to the problem opportunity. This, to the stakeholders. This, to the current future resource part of the policy. Here is where you can interview the stakeholders and keep the interviews.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Here is what prompts it, whether is that from a ministry, from a petition, or the other political forces involved. The idea is that once we collaboratively fill it, it will automatically generate a canvas of this kind, or fill with Post-It Notes and connections between them.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is more like a back end system for this front end system. This is something that we can also coordinate.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>If you can send me a link to that as well, that’d be great. Is that multilingual, or is it...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Not yet, but we’re happy to internationalize ourselves.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>That’s exciting. Also, if you go back to the Lean Policy website, Brenda and I wrote a document called the...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Manifesto?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>&quot;...The Government Innovation Manifesto.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes, I went over this one when I was following your work.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Oh, really?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Dave Moskovitz">
+          <p>To be honest, I’m not sure where it’s going to go, or what we’re going to do with it, but I felt frustrated at the time of working government. Just a lot of people within government didn’t really understand how hard innovation is, and what the constraints are.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>It was a collective outpouring of support for the people that are actually taking risks and doing innovative stuff.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is more radical than the service design principle. The latter, you can get all this people, and your executive to sign without raising eyebrows.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>This was...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>[laughs] This is more radical. I think it’s like the Agile Manifesto. It’s not like this is a checklist that you have to complete 100 percent.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Not at all.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Not at all.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>If you...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Any lists, to a senior executive, look like checklists.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>I am speaking about Taiwan people. I don’t know about New Zealand.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>There’s always that risk that people are going to look at something, and just turn it into a ticking the box exercise.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Anyway, I think this is definitely in the right direction, the right mindset.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Again, there’s a Google Doc. It’s there for anybody to do anything with if people want to contribute to it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>First, I am going to introduce you to Shuyangwho already wants to work with your team for a couple month, either issue-based mapping, or what we call Holopolis, a speculative design thing.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I read the blog post.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I am going to put on YouTube. I am going to send you the not-yet-translated, but I promise very soon, presidential hackathon website, and also, the issue-based mapping. Also, if you’re interested in us localizing the content of your Creative HQ gathering, do you actively welcome international teams to participate as a team?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Oh, absolutely, yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>As a team, or as individuals joining?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Either way.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Either way, it’s cool.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>We’re specifically looking for teams, but I can see the...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You’re specifically looking for teams?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s good. I will check it out, and see how we can localize the context, and send the teams your way.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>That’s really interesting.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Bring their half-finished products and see how we can scale internationally.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>That would be very cool.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If we can find four countries doing this, it would be a year-long recurring event.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Are you aware of other countries doing something like that?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I was talking with someone from Israel participating in the Vatican (hackathon, <a href="https://vhacks.org/">https://vhacks.org/</a>). They are doing some kind of gov tech, gov hack too. They are also considering making it a longer process, but I don’t know the specifics yet.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There is the GovHack Australia, right? Pia started that community.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>It’s pretty disorganized, from what I understand.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Really? Oh well. [laughs] There’s Gov 3.0 people from South Korea, when we visited there, they are quite interesting, and receptive to ideas. That was before the election though. I don’t know where they are at, at the moment.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I think Scotland are doing something as well.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Scotland, I remember them talking about that in OGP. Maybe we can just check this idea out in the DN network.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The DN network, Scotland’s probably not in there yet? We can just ask around.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I expect that to grow. That [the digitaln slack] only started a couple of weeks ago.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You’re basically inviting all the points of contact of the seven countries?</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I think so, yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Cool. Also, next month, I will be talking with our Minister of Foreign Affairs, and figuring out how we can join, either as a territory or an economy.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>The whole political situation, again, is, I just don’t understand it. I talked to my Ministry of Foreign Affairs. They said, &quot;Oh, we don’t deal with Taiwan Central Government. We happily deal with the city.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That is entirely OK.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>There’s good stuff here. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, it’s really OK. We’re fine with city-level engagement, actually. This is a city, you know? [laughs]</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Yeah. To be fair, in a way, it forces you think that way. That’s a good way to think.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It is, it is.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>If things are starting at the local level, and then building up to the national level, I think that’s really healthy.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. I’m totally fine with that, with joining through a city.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Good.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If other people in the network...I’m not too familiar with Uruguay, but otherwise, I think all the other ones are our friends already. Let’s make it happen.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I think you don’t need to be official friends to be friends, anyway. [laughs] That’s good.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If we’re going to some fellows all around the world, at some point, I will need to explain that to the Minister of Foreign Affairs.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’ll still have to work on official level over the next year or so. The operation-level collaboration can start now.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>That’s good. Thank you so much for taking notes for me. [laughs]</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Do you have much pushback to your transcript policies?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The transcript? Not at all, not at all.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You can, after all, take out everything you said, so that it looks like me monologuing.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Somebody actually did that.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Really?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, because they’re a journalist. They said the way they framed the questions, as a correspondent, is proprietary or something, that they don’t want the other news outlets to access. I’m like, &quot;Sure, why not?&quot;</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>What an ironic reversal. That’s so beautiful. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s usually the Minister who says that to journalists.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Exactly.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Anyway, non-journalists usually are OK with that.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>You can’t make this shit up.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Dave Moskovitz">
+          <p>Do you have any plans to come back to New Zealand?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, yeah, a lot. I hear there’s going to be a direct flight.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>From Taipei?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Later, yeah, but it’s to Auckland, not to Wellington.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Everything goes to Auckland. Wellington goes to Sydney, Melbourne, Brisbane.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. I do look forward to visiting more often. At least there will be the OSOS-ish conferences, which I very much look to join.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>At the very least, there’s Kiwi Foo. If I am invited again, I will be sure to share it with you.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>I’m sure you’ll get invited again. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Really? Half of people get rotated, you know. [laughs]</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Nat and Jenine are the people you need to talk to.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK, cool.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Good. Let me get a selfie, if that’s all right.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course. Or Sheau-Tyng can help us.</p>
+        </speech>
+        <speech by="#Sheau-Tyng Peng">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Unless you strongly prefer selfies.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>No.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK. [laughs]</p>
+        </speech>
+        <speech by="#Sheau-Tyng Peng">
+          <p>Where?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Just use this.</p>
+        </speech>
+        <speech by="#Sheau-Tyng Peng">
+          <p>One, two, three. OK.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK. I’ll send you the links.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Thank you so much. It’s so great to meet you. I’m disappointed that I haven’t spent more time with you when you’ve in New Zealand. Next time you do come...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, next time.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>...will be, if you want to hang out. We’re really impressed with what you’re doing. Let’s keep in touch.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Very much so.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Good.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>See you.</p>
+        </speech>
+        <speech by="#Dave Moskovitz">
+          <p>Cheers.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Cheers.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
