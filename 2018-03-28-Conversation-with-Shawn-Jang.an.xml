@@ -1,0 +1,737 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Richard Chang" id="Richard Chang" showAs="Richard Chang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Shawn Jang" id="Shawn Jang" showAs="Shawn Jang">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-03-28 Conversation with Shawn Jang</heading>
+        <speech by="#Audrey Tang">
+          <p>I can do this conversation in English, if you don’t mind.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Your English is really good. I was surprised at that meeting. I asked you after, and you said you didn’t go to ...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, not at all. English is my fourth or fifth language. I learned it when I was an adult already.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>You said that you didn’t go to school to learn English.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, not at all. I am a junior high-school dropout.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>The great Taiwanese success story. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Not quite.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>If you’re comfortable in English, we’ll do this in English.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Either way is fine. Let me introduce Richard, a principal architect in our company, RCI Engineering.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>I keep trying to create a team with a lot of international experience and give Taiwan a different perspective and, hopefully, a better future. That’s always our goal.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>I’m just so happy to hear about your innovations in the Executive Yuan. That’s why I was like, after the meeting, I was running over to meet you, because it was exciting, the fact that there is so much digital innovation in Taiwan’s national government.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In Taichung, I gave the open government side of this story. In Yuan and in many other meetings, I gave the social innovation side of the story, which is kind of the same story, depending on whether you tell it from the public servant’s viewpoint or the civil society and private sector’s viewpoint.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Social innovation is really key here. What we are trying to do here in the Social Innovation Lab is to make sure that all the companies preferably, but some companies at the moment, announce their alignment to sustainable development goals.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If they have a social mission in their charter or in their founding documents of the company, they could announce it and be subjected to the many preferential treatments that is enjoyed by traditional charities. We also make sure that the traditional charities can also found subsidiary sub-companies to participate in the capital market, while retaining control of its not-for-profit mission.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is a very different...</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Wow, that’s innovative.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s a very different governance model.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>It also means it’s unproven, but I absorb the risk. The idea, very simply put, I’ll give you the two-minute version, whereas before, the government is like the rope here. There’s a lot of tension in the government to balance between the sustainable part and the development part. These two parts are in tension, [laughs] the environmental concerns and the financial concerns...</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>That’s correct.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...the concerns of this generation versus the seventh generation down the road.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Traditionally, before the advent of mobile Internet and social media, the government does a pretty good job to balance the interests and to make sure that we don’t break, in the sense that we translate the language between those different stakeholders, so they understand what each other’s concerns are, both in a virtue-ethics way and in an utilitarian kind of way.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re the regulatory link between the civil societies and the private sector. However, after the mobile Internet, these dogs became much bigger. [laughs] The interested stakeholders organize among themselves. They don’t really need an MP or a traditional media to organize. Anyone who could share a hashtag can organize. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The social forces become much stronger, no matter which side they’re on. The tension become higher and higher, it become much easier for the public to lose trust in the democracy. The more democratic a government is, the less trust it gains from its citizens after the advent of mobile Internet.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>That’s interesting.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes, and it’s a worldwide thing. It’s called democratization.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Vice versa, you can control a country better with the device, like other countries.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, exactly.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The more authoritarian you are...</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>You can use the mobile Internet like Russia. Any communist country, you can use that...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You can use the ICT tools to essentially create a Panopticon of society. [laughs] What we are trying to do, because we are a...</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Democratic country...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What we are trying to do from the social innovation side, the open government side, is by saying we’re in a democratic company. Democracy means rule by the people. Instead of by the people or for the people, which are two side of the same mirror, we’re trying to say, &quot;Now we’re ruling with the people,&quot; which is where we meet in the middle.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The questions we ask is no longer, &quot;How can we balance the interests of the stakeholders&quot; or, &quot;How can we make the stakeholders’ language understandable by the other sides?&quot; because it’s a lost cause. We can’t do this, as government. We are not up to it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The question we’re asking, the two questions are now become morphing into, &quot;Can anyone innovate to find a solution for all?&quot; If you can’t yet innovate to find a solution for all, what are the non-controversial essence, what are the common purpose that we share, nevertheless, despite our different viewpoints?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Basically, the government becomes a space instead of a rope. Within this space, we tell everyone, so that they are no longer restricted by their organizational forms. A charity can own a subsidiary company. A company can work not just through CSR, but though business development, through its HR, and engage the not-for-profits.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>People who caring for the environment can argue as representative of the environment in this governance process and so on. People who work in co-op movement and so on, they all add to this link between the society and the business forces.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We encourage any innovation that can absorb all these different forces together. There’s been a lot of organizations as co-ops, as NPOs, and as companies, who has been working on this in Taiwan for 20 years.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What we are doing is to bridge a new generation of designers, architects, and computer programmers to work with this older generation of co-ops, charities, or MPOs, to make sure that the values still carries on to the next generation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The next generation can have something to feed back by bringing service design, design thinking, this ecosystem play, digital platforms, and so on, and to flip around to traditional disadvantaged people, so they become service providers in this digital age.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A lot of people like this way that things are going. This is my main mission from the social innovation side instead of a open government side.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>That’s really amazing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’ve been here for a year and a half, but I was kind of understudy minister to the previous cabinet minister, Jacqueline Tsai. That role is another year and a half, so maybe three year in total.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>That’s really cool. Are you getting companies in Taiwan to buy into this concept?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, very much so. One of the great thing in Taiwan is that the civil society doesn’t wait for the government to lead innovation. We have this co-creator space, and we do make tours around Taiwan to listen to the social innovators all around Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Every region, I go there every other week I go to these places, meet with social innovators, through projection to the 12 different ministries here in Social Innovation Lab, to make sure that all the ministry people listen to what’s happening in Hualien, like yesterday.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We make sure that by the time we return, which is every two months, everything they raise is recorded transparently and resolved timely by the regulators. The idea, simply put, is that we solve the problem of the problem-solvers locally. When we do this, they are very innovative.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They even come up with this kind of citizen science. They measure the air pollution, just like the drones in the Taichung Smart City. We were talking about measuring 100 meter to 100 meter high. The local people has been doing this with the very cheap drones and sensors for a long time now. They have 2,000 or so of measurement sites.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It really threatens the legitimacy of the national government. In other Asian countries they will get attention from authorities very quickly.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Taiwan is different. The administration is like, we can’t fight them, so join them.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>We allocate a national program to provide them with high-quality, super-computing devices. We provide cheap and good sensors from the E-tree. To make sure that when we’re analyzing where does the air pollution come from, we all work on the same data.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is very important. Otherwise, we can’t have a public discourse. This spreads very quickly, and so the buy-in doesn’t have to come from the government. It’s already there in the civil society. That’s the spirit of g0v.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s saying, if you see a government website, it doesn’t do the thing you want or it doesn’t exist, you can set up a g0v.tw website that does the thing you want, and eventually, by relinquishing our copyright, to encourage the government to merge it back in the next procurement cycle. That’s the g0v spirit.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We now get some buy-in from the presidential office. For this year, we’re going to pick 20 proposals. There’s 108 candidate proposal. We’re going to pick 20 of them, and make sure that they get a three-month to six-month incubation period. Ten or so of those cases will be overseen. The project manager will be the president herself.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>If there’s any data, any silos, any cross-Yuan communication issues, it could be solved in a very quick way. We see a lot of section chief level public servants proposing in this innovation. It could be that they were blocked by lack of budget, lack of resource, siloed communication, or whatever.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>As long as they can find a local government or even the civil society or private sector partner, anyone can propose it. They’re like, &quot;OK, we’re just supporting this civil society proposal,&quot; but it’s actually their idea. [laughs] We see a lot of very innovating cases coming out of it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What we are trying to do is, as I said in the beginning, trying to get all the companies, charities, and so on...</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>This is the Yuan’s stability goal.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...to align themselves in one of the SDGs.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>That’s awesome.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The SDG idea is that, when we work on anything, we can’t do it at the expense of the other goals. It must be done in the holistic way. My main work is on SDG 17, which is by providing digital opportunity, broadband as a human right, make sure there’s multi-stakeholder platform for everything.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Broadband as a human right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s our presidential agenda.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Yeah?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If people can’t afford broadband, we have a special budget that subsidize the broadband access for them. Even in the most rural island, like Kinmen and Matsu, we make sure that there is still fiber optic lines specially crafted for them.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is essential. Otherwise, we can’t say everyone can participate in the government’s process. In this, we have a lot of cross-sectoral buy-in. Every other SDG goal we can’t say is equally treated, especially the fishing situation in Taiwan really needs work.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Overall, as long as they work on one of the SDG goals, we’re trying to now amplify their social impact. One of the main mission of this place is to have the people experiment with all these SDG innovations in a safe way that is backed by the government.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If they run into regulatory issues, we work with sandbox laws, we work with the local governments, to make sure they can challenge existing regulations without being fined for it. They can go back to their investor, saying, &quot;The government provided us a safe space for innovation.&quot; That’s the main idea.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>That’s incredible. It’s so new, I’m almost don’t know where to start with my questions.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Shawn Jang">
+          <p>Is there any other country that has this type of idea?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In Nordic countries, this is common sense. [laughs] In Estonia, in particular, because they were founded after the Internet, they’re constitutionally a very inclusive e-government, just by nature of being founded after the Internet happened.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The thing is that Estonia is city state-like. It can’t very easily export its governance system like this, which is purely electronic. It include no migration path, because there’s no migration needed. It’s widely hailed as being the example of cross-platform, cross-department, cross-sectoral data integration.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s based on the fact that there is no paper legacy to begin with. There is no bureaucratic legacy to begin with. It’s city-sized, to boot. So far as I know, we’re trying to do this inter-generational reconciliation between the digital and the paper culture, digital twinning and so on.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think we’re pretty unique, in Asia at least, but there’s many counterparts in Iceland, in Madrid, in Ottawa, of all places, and in New Zealand to recently. At least in this region, I think we’re kind of unique.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Yeah, definitely. It’s interesting. You’re saying broadband as a right. What we’re focused on is a healthy space as a human right and air quality as a human right. I feel like those are things that we could definitely improve on. I’m lost at an idea. What do you think we can do, as our goals, our missions, to meet or work with what you guys are doing?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s a lot of it that are just cross-sectoral dialogue, by having a generally trusted system for people to independently publish their observations and work with the cities’ observations and work with international bodies’ observations. It’s not just on air pollution, but on all kinds, water quality, you name it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think a lot of the work could be done in a way, we call it a recursive public, meaning that the space itself is a subject matter that people in it can participate, so it can morph in time. This is a little bit like the &quot;comprehensive community development&quot; idea, but it’s in a way that is much more time-saving in the sense that everybody can have two minutes of kindness.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Everybody can come on here and comment something, like something, and explore some part of the budget, and so on, as long as it’s under two minutes of engagement. It’s either online or face-to-face. It doesn’t matter.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>By lowering the threshold of participation, that’s one of the main contributions that civic tech can do, just by making people who care to save their time.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>I want to jump into smart city in a second. Let’s stick on the air quality for a second. For example our company, we certified the first project in Taiwan that meets an international wellness standard. It’s in Kaohsiung.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>This project, we had to collect a lot of data to analyze what’s the actual outdoor air quality. The numbers that we were getting were so low, the measurement is so low. When the inspector from the United States flew over and he was testing it, it was twice as high. We couldn’t find any research or paper that said that what is going on. I’m wondering, how does this gap that bridge?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What we are doing first is having the ITRI, the Industrial Technology Research Institute, to produce its own sensors, so that it could serve as a benchmark on which to benchmark the other sensors usually imported abroad. That’s, in a very technical idea, to get cheap sensors that are already calibrated in some fashion and nationally certified. That’s the starting point.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The other thing is that, even though they come from other sources that are not necessarily certified, it still shows trends. It could be useful in a way that says this is the overall trend. Even though it’s consistently twice as low, [laughs] at least it increases over time when the other sensors increase. It still shows in a trend manner.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s researchers for Academia Sinica who do this recalibration. One of the key issues is that we needed to bring code to data, instead of bring data to code. The previous open data paradigm was that people can all download their dataset, therefore the air quality data, soon the volume become so high, the sources have become so varied.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It doesn’t really make sense for all the researchers to download all the data from all the sources. People may miss some sources they don’t know about. It makes, instead, more sense for the National Center of High Performance Computing, in its different facilities, to keep a mirror of all the data sources that we care about.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Anyone can submit their own sources also, as long as they conform to the metadata. Because it’s a cluster of high performance computers, anyone can submit their machine learning code or whatever code to analyze the correlation between the weather data or whatever other kinds of river data, water quality data, to verify the competing algorithms on this same shared data platform.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you search for 民生公共物聯網, the IoT for Public Good project, that is the thing that we allocated some budget into doing.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>What?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is something that I personally care very much about, so that we are on the same factual basis.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Another question I have is you mentioned ITRI and you mentioned Academia. I know a lot of people in there, and I feel like they aren’t that easy to work with. How do you get them to buy into what you’re doing?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t know. Having the president sign a letter or something?</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Shawn Jang">
+          <p>Have the president sign a letter?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Well, Academia Sinica really only respond to the presidential office, which is outside of the administration. [laughs]</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, exactly.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>If you have some ideas, they’re not interested.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. The reason why we get the judges of this hackathon...We have the National Development Council. We have Academia Sinica people.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We have also, of course, the CIO Hsiao from the Taochung city government. It’s to establish a panel, a cross-sectoral, collaborative relationship, so that we, as judges, to these proposals can have some rapport. Any one of us can flag a proposal as untenable, infeasible, not really innovative, because each of us has domain knowledge that’s previously siloed.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s through this cross-sectoral referee process that we establish these working relations between the Academia Sinica people, as well as the III and other people. This is a social problem that we’re now trying to solve, and really did take a presidential letter to start to be solved.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Shawn Jang">
+          <p>That’s awesome. I could use a presidential letter. [laughs]</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Another thing I want to drop into now is smart cities. The reason I’m here in Taipei for the next three days, I got invited to speak at the Taipei Smart City...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The expo.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Yeah, the expo. I’m trying to understand how smart cities can play a role in this. I feel like there’s, again, still a disconnect. I think that the term &quot;smart city&quot; lacks so many things. You just mentioned the UN sustainability goals. No city in Taiwan puts these factors in while they’re talking about smart cities.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because it’s a different bureau. It’s a social bureau or the environmental bureau.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Yeah. It’s frustrating to me, because us, as designers and consultants, if you ask me what a sustainable building, what a green building, smart building, healthy building, it’s a better building. These better buildings have to do all the goals that you just mentioned.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. The main thing here is that it has to link together. As you just mentioned, the bureau of economic development, in any city, who work on these parts, they often don’t have the language of the other parts. When you talk about sustainability, they think a thriving economic investment ecosystem, which is part of it.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>[laughs] That’s part of it, yeah. You have to have a good economy, but that’s...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Not the only part.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>You can’t have the earth be polluted to have a great economy.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Today, I wrote you an email about being an advisor for our team. We want to be the project management office for Kaohsiung. There was four bids. We were short listed. We were up against Deloitte, which is international, top four accounting...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s Deloitte. [laughs]</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>I think that the reviewers didn’t really understand. Who were the reviewers today?</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>Architects.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Yeah. I don’t think they understood everything. I think they went to a few seminars. I think that architects, no offense...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Shawn Jang">
+          <p>Architects knowing what a smart city is, I think that’s a very big jump for them. I feel like they were just saying...It’s really frustrating for me, because I feel like we’re continuing to go down the wrong path. That’s the battle that I’ve always faced the last seven years.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Maybe 10, 20 percent of companies understand what I’m trying to do, and then they’re supportive. I’m disappointed about where we’re going with smart cities is what I’m saying. I’m hoping that there’s something we can discuss or something we can do to help.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>For example, who is bidding for our smart cities? Except Deloitte, who else? Microsoft, [laughs] or HP, again, these computer companies...I’m working on another project for a client. I’m this sustainability consultant, help them planning, design, overview.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Who got the mechanical, electrical design aspect of it? It was a computer company. How does it make any sense that a computer company is designing a mechanical system for a building, or an electrical system, or a fire safety?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m sure they can subcontract... [laughs]</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Right, and that’s what they do. What I’m trying to say is it just doesn’t make a lot of sense. Internationally, you don’t have these companies coming in the United States or Europe doing this kind of job. Only in Taiwan they can, which is another thing that’s frustrating to me.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Microsoft is taking its IBM turn now. [laughs] IBM was a pioneer in doing this whole smart city branding. I think maybe one-fifth of it is IBM’s branding. It’s really no surprise, because Microsoft is now pivoting into the business model of IBM.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s a lot of its work, which used to be on personal computing, but are now working very closely with any verticals to introduce parts of their components. That’s where they need to be to survive, because they don’t have a phone, so they have to be elsewhere.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s a lot of business strategies in Silicon Valley economies. Those are all doing this IBM turn when it comes to smart cities. I’m not saying good or bad. It’s just a fact. I think what’s missing, as you said, is I would call it participatory sustainability, the social side and the environmental side.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>These, in a utilitarian logic, they’re not quite translatable. They don’t commensurate that well into a cost-benefit analysis. You have to invite new ideas like social return on the investment, and that doesn’t really work in all the different cases.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In Taiwan, what we’re trying to do, when you talk with the social bureau or the environmental bureau, they will start to argue in a more virtue-ethics kind of way, like what kind of characteristics, how inclusive we’re going to be. How welcoming we’re going to be with people of different ethnicity, of different backgrounds, of different social status, and things like that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They are not using smart city moniker. They may use the term &quot;conscious city.&quot; They may use the inclusive habitation, or whatever other monikers. Smart city, in Taiwan, is already very well associated with a very technocratic way of viewing things.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>One of the things that we’re trying to do in the DIGI⁺ plan, and that’s one of my other contributions, is to redefine the NICI plan, which is an OK plan, as plans go. Really, it was very much technocratic.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What I did is, mostly on the cover page, to redefine the DIGI⁺ to not be just the development -- it used to be just this -- but also be inclusive for innovators to include a multi-stakeholder governance and especially to include the civil society in a sustainable dialog.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>After this came about, then the central government-level discourse now has shifted more into the direction that you’re talking about, sustainable participation. Because this plan is not yet permeating to the local government, we have to invent new principles like the government digital service principle that the Taichung CIO Hsiao also helped to design.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That all takes time to permeate to the local level, is what I’m saying.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>It’s so frustrating. I feel like one of the questions I asked you, they’re like &quot;how do we deploy autonomous cars?&quot; Really, that’s your only questions, only focus? You think that’s how we’re going to be a smart city? It’s too small.</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>My frustration comes from the knowledge of architects in Taiwan and architects from the other side of the world. There is a really big gap. When you talk about smart city, what are the basis of smart city?</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>You talk about sustainability, low carbon, energy saving, and maybe some innovation, smart. Of course, you talk about ICT. None of these question came out from today’s judges. All they care about is how we can implement new rules, new laws to help them make more money by developing this area, or &quot;how can we set up new rules to get autonomous cars to do some work?&quot;</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>I practiced architecture in the UK for nearly 20 years. I just came back last year. I find it very difficult to communicate with architects who are trained locally in Taiwan.</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>Firstly, they have lack of knowledge of sustainable architecture. They don’t talk about it. You ask 10 architects in Taiwan, 9 of them are against green architecture. You ask them about intelligent building, or smart building, they don’t know about it.</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>They still stick with architectural detail design, or architectural design method 20, 30 years ago. That’s why the architectural quality in Taiwan is still not as good as it should be. You talk about health aspects, or even just inclusive.</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>In America, in the UK, inclusive design, or you talk about disabled discrimination act are compulsory. They are part of the building regulation. However, in Taiwan, it’s optional. Some architects even use it as a brand, &quot;I can do inclusive design, so I’m different from the other.&quot;</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>Should it not be equal? Everyone should be equal, right? Whatever you design, everyone, different age group, different races, or different people with different habits or behaviors should all be able to access in the same way.</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>It should be like that, but architects in Taiwan, or urban designers in Taiwan, are not thinking in the same line as world architectural trend, if you like. I believe we did a good presentation today, but the question came out didn’t really touch on...</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>They weren’t listening.</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>Yeah, and right now.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>To our innovation, we were trying to do...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is the final panel?</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Yeah, that’s it, today.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Wow. When we will know the results?</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>Probably in a few days. They will issue a formal letter.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Fingers crossed.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Shawn Jang">
+          <p>I need the presidential letter. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Too late for that. [laughs]</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Richard Chang">
+          <p>The thing is, we feel we have a lot to offer to this smart city. I even dug out some papers from intelligent building international smart cities council, their comparison analysis, and what they think the future of smart city, or you should call it an intelligent city, should be.</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>We talk about economics here, social environment, but what’s the most basic thing? The fundamental thing is human, human’s health, human’s comfort. That part is missing from Taichung Smart City. That’s why we think we can help you to raise the bar, or we can add values to it.</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>If you want to do a smart city right now, you don’t follow what other smart city have done. You need to do something different.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>You have to have innovation.</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>You need to innovate. Health is one of the things other small city, previous done city, are trying to engage. Because the infrastructure, because of the development, they’ve done it for a few years already. There is something they cannot change.</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>It’s difficult for them. 水湳 is a virgin land, and it’s all empty right now.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>It’s ready.</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>It’s fresh.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s a blank canvas?</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>We can start from zero. We can do something different. If you want to make something different, and make other smart cities in other parts of the world to think as differently, or look up to us, you need to do something that they want to do, which is health, well-being. That’s missing from the Taichung city.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s very well put. If you think of an IoT or a personal computing perspective, of course, you will focus on autonomous vehicles, or long term healthcare, sensors. They need a lot of sensors, telemedicine.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Also, preschool education, this is a lot of parenting cues and so on. I think the human element is really missing. It’s like we just measure the citizens. We don’t ask the citizens.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>It is a philosophical difference. I think part of it is because the people who were raised before the martial law was lifted, the top-down approach was the only approach. Every other dissidents has already fled the country.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>People who are younger than me, they no longer remember the martial law. I am the last generation who remember the martial law. It really was like that. People who are raised with no memory of martial law nevertheless gets a lot of predetermined thought patterns that came from the Chiang Kai-shek era.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A lot of it is, &quot;The government knows best.&quot; The government measures, instead of asks, or works with people. I think we need to wait for a new generation of urban planners, and people who can work in a cross-sectoral way for this kind of new vocabulary to happen.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There was people who care a lot about this, even during the martial law era. As I mentioned earlier, Leezen, Union Consumer Co-op, etc., they’ve been working on this ever since the martial law was lifted, but always in a way that seems nonthreatening.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They are consumer right protectors or whatever. They’re environmental protectors, but they’re not the loud kind of people, the dissidents. I think there’s a lot of it should now come to the forefront, which is why in the National Social Innovation Plan, we are now actually adding the Ministry of Interior here also, responsible for value-based capacity building.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The empowerment and education of sustainability values as actually the first goal of our National Social Innovation Plan, that’s what’s sorely missing, and that’s what we need to put a lot of funding and resources into.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Everything else is much the same as other countries’ social enterprise plans. I think the national SDG and international connection, as well as the value-based reeducation across generations, these two, I think, are really Taiwan-specific, and really needs to happen before we can have a truly useful dialogue about participatory sustainability.</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>That’s why I was so impressed with just the word innovation. I feel like no one likes to talk about that. I was so impressed that it’s around co-creation. I was just so surprised that that was even a topic. They didn’t give us the agenda until the week before. I wasn’t really prepared for that.</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>What do you think? I just saw that chart that you have. What do you think we can do? What kind of role do you think we can play in this?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s a lot of it. What we are now trying to do is to bring the new innovative models, like just this today. The AVPN, the Asian Venture Philanthropy Network, here has this workshop on pay for success, which is a new social impact bond thing that changes the procurement relationship so that the government pays only when such-and-such actual benefit happens.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It will change the procurement. Instead of paying for people to do something, it’s paying for people to deliver some actual value. It doesn’t pay if it doesn’t deliver such a value. What happens is that there is an independent evaluator, and an independent intermediary that absorbs the risk here by picking and choosing the right team for this kind of innovative process.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Deliver a profit if the government actually pays the extra budget, and absorb the risk if it doesn’t meet the goal. There is a referee here that tries to bridge the social beneficial goals from the government, as well as the individual social innovators, as well as people from the different parties, to join this common goal.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They were as an intermediary. This kind of complex relationship, called pay for success, is one of the procurement innovations that we’re trying to do here. There’s many others. There’s ones tailoring for the co-op movement for, as I said, NPO owning a subsidiary company. There’s ones designing for smart city, but for farmlands.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Smart agriculture.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, smart agriculture. AgTech, as they call it. Each of these minister are tasked to try something new -- it’s like the president hackathon -- and report to us which method actually works. We absorb the risk of them trying these kind of things.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This kind of promotion on social innovation, as well as, I think, well-being, disaster recovery, whatever, is really aligned with the Minister of Health and Welfare’s core mandate, so there’s a lot of innovative programs here that we assemble under our national platform, se.pdis.tw, social enterprise-dot-PDIS.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We have a lot of experiments. The list of experiments that’s going on, all the reward programs that we’re taking out, the cross-country tour that we’re doing, the actual programs that each of the ministries are looking for.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We actually align the values first, and say, &quot;You don’t have to be...An organization can be just a person. Just call this number, and tell this person that you are working on such-and-such social innovation.&quot; It’s guaranteed that you don’t have to be indigenous person.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You don’t have to be a university. Many of those programs work across organizations. It’s just usually, they just talk with organizations they are most familiar about. Actually, you can apply to any of these. This is the call for social innovation list that we’re posting every other week.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s one of the concrete things that we can collaborate. There’s many other things.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Just go to this website, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, it’s se.pdis.tw, social enterprise. I’ll send you the transcripts.</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>Please do. Wow, OK.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>How incredible is that, huh? Everyone says the government doesn’t do anything.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Shawn Jang">
+          <p>Audrey’s busy, man, trying to get innovation going. It’s tough. I love what you’re doing, really appreciate what you’re doing. We’re going to continue to push the envelope. It’s not easy.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s a cultural thing. We’re working for the next generation. It takes a generation to fully mature. Cool. You’re good?</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’ll send you transcripts. You can edit for 10 days, and we’ll publish everything.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>What just happened? You’re going to publish our talk?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, but you can edit away the parts you don’t like to be published. You can just randomly pull out...</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Yeah, like the part that I just talked badly about everybody?</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Right, exactly. You can pull everything out. You can pull everything out.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>I probably ought to take that part out.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Change your wording into some more amiable or whatever. I think that’s one of the reason I publish all the conversation, is because there’s a lot of synergies between people who are looking for governance, for sustainability. This is why we can send people, like, &quot;Hey, this guy here who said just this sentence is well in your ballpark, and you should connect with this person.&quot;</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>You’re going to write this in English and send that out?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, everything is in English.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>You’re going to give us 10 days to modify it?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, right, exactly.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Thank you. That’s good. I think this is good. I think the people actually go and see that. This is the picture we have. This is the picture we need to have. That’s not bad. I’m glad we didn’t say too bad about things, right? [laughs]</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>This is part of the bottom-up culture.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s part of the bottom-up process. This is how you get presidential letters in the end.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>OK.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Good, man.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Cheers.</p>
+        </speech>
+        <speech by="#Shawn Jang">
+          <p>Thank you for your time.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, thank you.</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>Thank you, Audrey.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Richard Chang">
+          <p>Very nice meeting you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Thank you.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
