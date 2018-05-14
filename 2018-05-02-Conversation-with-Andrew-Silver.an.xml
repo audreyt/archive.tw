@@ -1,0 +1,711 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Andrew Silver" id="Andrew Silver" showAs="Andrew Silver">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Billy Lin" id="Billy Lin" showAs="Billy Lin">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-05-02 Conversation with Andrew Silver</heading>
+        <speech by="#Andrew Silver">
+          <p>I just figured it would be good to meet since I’m in the area now. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right, formalities.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(exchanges namecards)</i>
+          </p>
+        </narrative>
+        <speech by="#Andrew Silver">
+          <p>I write a lot about science and technology topics for different publications. I was wondering, what are you currently working on now?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m currently working on social innovation, and here we’re in its main venue (TAF Social Innovation Lab).</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>In terms of projects.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, projects. We’re just working, for example, in terms of social innovation, working with the social innovators, every Wednesday I’m here. Every other Tuesday I’m touring around places. This is like a meta-project. This is not one specific project, but this is mostly about getting the people in the central government in the habit of not appointing people to solve things.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We instead look at the landscape of people who are social innovators, who are solving their local problems and find out how the government has been hindering their progress, either by regulatory, outdated assumptions or by some other means.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then we try to co-collaborate with the social innovators by creating a more beneficial condition for them in a case-by-case, line-by-line basis. This is my meta-project, basically get a public servant into the habit of the more direct interaction with people. Previously, it was very distanced. They could only interview each other using A4 papers and paperwork.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Anyone can make a petition, but it’s written in A4 papers. Then all these responses may be two weeks after the fact, three weeks after the fact and have to be approved by multiple levels. People in the public service are also dry and like context.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>My main work is to make the bandwidth of interaction with people more rapid and more vivid by, for example, going to the four different regional centers of the administration, and in there meet with the social innovators in a way that reflects their local habitat and to visit their stories, and for the people here in Taipei, to visit through my eyes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The 13 different ministries’ public servants are here in the social innovation lab and I’m there in a regional center, but we still see each other eye-to-eye using telepresence and other video remote conferencing tools and so on. This is like a habit, every time I return to a place two months after the fact, all the issues brought up by the social innovators there will have to be resolved.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The people here in the central government doesn’t see these people as simply vendors or industry, but actually as collaborator that also help that different ministry realize their mission for the year, for example. Potential alliances could be formed by this round-tripping. This is one of my ongoing projects.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Are you pretty involved in the startup community?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m pretty involved in the social entrepreneurship. It’s a startup, but it’s founded to solve a social issue or to achieve some social mission. If a startup is formed but just to make money, then it’s not in my purview. Some other minister would take care of them.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Sure. In terms of technology developments happening in Taiwan, can you think of people that would be good to meet?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Technologies is such a broad term.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Yeah, I mean in general. Obviously, the Ministry of Science and Technology and, I think it’s I-Triple I?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Mm-hmm, and also ITRI, I-T-R-I.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>ITRI, yeah. Do you think that there’s anyone else that would be good to...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure, the technology department of MOEA is also...</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Oh, the Ministry of Economic...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Ministry of Economy Affairs. The division of labor is mostly the MOST work on the research part and MOEA work on the development part, but they’re both technology, R&amp;D.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Technology department in MOEA is concerned with how to transfer cutting-edge research into something that has an economic impact, whereas here we are among the staff and associates of the SME department in MOEA, who is then concerned of how to take those technological developments, and then realizing it in a way that benefits the SME in Taiwan, which is the vast majority of enterprises in Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Basically, in bite-size chunks that they can interact with. There’s this flow from research to development, to realization, the SME. The Department of Technology is the upstream inside MOEA, to SMEs is the SME department, and to the larger industries it’s the Industrial Bureau, BIDB. These three agencies in MOEA are also very important as far as technology is concerned.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Do you know anyone in the cyber security community, out of curiosity?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The HITCON community, H-I-T-C-O-N, are our primary cyber security community.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Could you introduce me to anyone?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They’re all very open. If you write, they’re bound to answer. They’re a open community. They run their HITCON CTFs, and things like that.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Do they have a website?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you search for HITCON, you’ll see. Of course, in your correspondence you can CC me, but even if you don’t CC me, I’m sure that they will be very...This is the hacker’s in telling conference. They have email, Facebook, Twitter, and everything. There’s also English, so you can see the people involved.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>One other thing I was going to ask you about, I saw something in -- what was it? -- the &quot;Taipei Times,&quot; maybe. A couple of groups were starting a fake news collaboration center. I know you’d previously talked about the education thing in the schools. This sounded, to me, like it was going to be something separate.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>How familiar are you...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’ve read their crowdfunding proposal, but that’s the extent that I’m aware of them.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Does it seem unique to the region? Because I know South Korea’s pretty big on the whole fake news...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, or misinformation. You’re a journalist, if you don’t mind that word, I don’t mind. [laughs] I don’t use that word in deference of journalists.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Andrew Silver">
+          <p>Out of curiosity, do you feel that the effort in Taiwan is particularly unique to the region?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s pretty vibrant. There’s multiple projects, solving multiple media. In addition to the mainstream news fact checker that you just mentioned, there’s also the LINE bot-oriented checker, because in LINE it’s not even indexable by search engine. It’s actually even harder. They have a bot called 真的假的, the Cofacts LINE bot that they collaboratively...</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Was that made by HITCON...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The g0v movement. This is made by the g0v movement.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Do you know if they’re collaborating with the fact-checking group?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Both of these efforts are connected to the Media Watch foundation, but this group is very diverse, they have journalists, they have scholars from, also, other places. They’re connected, but I wouldn’t say they have any top-down relationship with each other.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>In terms of LINE, are there other efforts to monitor?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Other than Cofacts, I don’t know.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>That would be interesting, because in the West most of the focus is on Facebook.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Also, in my purview, my main suggestion is mostly to get all the different government agencies to aggregate their clarification statements. This is not that we’re building a tool, because it’s impossible to target all those different platforms, and it’s not proper for the government to fund its development, anyway.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Instead we just provide in one place all the different ministries’ recent clarification attempts so that editors in mainstream media, and also in those fact-checking groups, can make use of the resource freely and weight our words against the others. Maybe they also keep us in check, because we have to be internally more consistent this way.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>How long have you had that database for?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s been quite a few months. Actually, at least half a year. It’s been quite some time. It’s in the www.gov.tw, the main government website in Taiwan. If you scroll down a little bit, you’ll see the misinformation clarification.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Another thing I was going to ask you, since this might fall under your department. In Taiwan is there some sort of open data law?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We have open data regulation, that’s right, but it’s not a law. It’s a regulation.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>What’s the difference?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Laws are assigned by the parliament, and regulation are basically internal policies that effects the administration, the Executive Yuan, but they don’t bind other people, outside the Executive Yuan. For example, it doesn’t bind the Corrective Yuan or the Examination Yuan. For the administration, the Executive Yuan, we have a open data regulation that applies.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Executive Yuan?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Administrative branch.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>What’s the meaning of Yuan?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yuan is.. a courtyard? The Executive Courtyard. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Instead of three powers, the constitution here -- imported from somewhere else -- defines five powers. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The five powers, in addition to the usual three branches, there’s a examination and the corrective. These two branches are not covered by the Executive powers’ internal regulations.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>The government here is not similar to, let’s say, the German government, for example?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, not at all. We have the president, who appoints the premier. The premier has only the executive branch. Premier assigns the cabinet, but a cabinet needs presidential approval. We have a legislative body, but there’s no upper or lower body. It’s just a legislative. In addition to these two, we have, of course, the judiciary, which is the most similar to the German system.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In addition to those three bodies, we also have the examination. The Examination Yuan is in charge of examination, but also...</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Examination?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Called 考試院.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Testing what?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Examination Yuan. You can think of it as a branch of power.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>I’m thinking of education.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Ministry of Education is back in administration, in the Executive Yuan.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>They test to make sure that the government is functioning correctly?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, the Examination is, basically, the HR policy department of the whole of government. They make our laws, for example, taking a leave or, for example, pension plan, things like that. The HR policies is its own power. Then the Corrective Yuan, which is like the auditing part, not just financially, but also on conduct. That’s a separate branch. The legislative doesn’t have that power here.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>The Corrective branch, that audits...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Everything, but primarily the Executive branch, because the Legislative branch are pretty autonomous within their parliament, so there’s not much to correct.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>The regulation, those are policies made by...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The open data policies are made by the executive branch and apply only to the executive branch. We can’t use that to ask data out of the corrective branch, for example.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>The legislative branch does not have an open data policy?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They have their own open data policies, but they’re distinct from the executive branch.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>All the branch can propose law amendments to the legislative. This is, again, very different from certain other countries. In other countries only MPs get to propose bills and amendments, but here all the five branches can propose their own amendments to the legislative branch.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We have prepared a amendment to the legislative branch that concerns the corrective branch, to ask them to, as part of the sunshine campaigning law, publish he fine details of all the political donations to a election campaign. If passed by the legislation, that will bind the corrective power, but we can’t directly use a regulation to ask data out of the corrective branch.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Right now, there’s no way to get data from the corrective branch, because there’s no...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We can use the existing FOIA law, but the FOIA law only says that it has to be in the human-readable form. It doesn’t say it needs to be a machine-readable form or that it needs to have an open license. There’s also some organs directly within the presidential office, such as the National Archive, the history office, and Academia Sinica, a research office. These are bound by the president’s views.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The president, of course, is very pro-open data, and so she, under the auspices of the National Archive, they adopted, perhaps, one of the most forward-seeing open data policy to the historical archives. Then again, this is not something that is determined by the executive branch. It is something that, directly, the presidential office talks to the National Archive.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Interesting. All these sources of data, are some of them up in databases online, publicly available? Is that something that you’re...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They’re published as data sets. Data sets could be downloaded rapidly, but some data sets are very large, and so they also provide APIs that lets you search an index, and even update for some participatory databases. The data set form and the API form are both listed in the National Open Data Platform, which is the data that will be the TW.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you click About Us here, then you can see all the regulation pertaining to open data in one place. There’s currently 14.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>For the three branches or is it...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, just for the executive branch.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Just for executive branch. OK.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, the other branches are bound the FOIA law, but not the open data regulations. They often just look at the spirit and implement something very similar, so it’s not that bad.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Sure. The legislative branch, for example, do they have their own website for accessing data?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Let me take a quick look. Yes, it’s data.ly.gov.tw.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Then, the other one’s don’t release the examination of the...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The judiciary perhaps have their own open data platform. I’ve heard that they’re working on new version of it. I haven’t seen the latest updates from them, but they’re also very big on opening the proceedings of the court cases, especially now, we’re introducing a jury system.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We didn’t have a jury system. Citizen participation in the judges’ work require actually open data access to the previous work by the court system, much more intimately than before. For that, I know the judiciary is working very hard at its new version of the open data platform, but I don’t know whether it is online yet.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t know about the examination at all. Again, as I say, we propose a bill amendment, so that they have to publish the campaign finances as open data, but that’s still in the legislative. At the moment, we don’t have any other regulation pertaining to the corrective.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>I see. When did juror law take effect?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They’re on mock trials and simulations at this point. We look for it to maybe realize in a couple of years or so, but the timeline is not yet set in stone yet.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Do you know when will the juror system take effect?</p>
+        </speech>
+        <speech by="#Billy Lin">
+          <p>It’s going through parliamentary deliberation and the date is not set yet.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The JRF been running mock trials and simulations in the civil society for a decade?</p>
+        </speech>
+        <speech by="#Billy Lin">
+          <p>Not 10 years, four to five years.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Ah. He’s the authority on that. The civil society has been running that for four to five years, they conducted mock trials and so on.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In the past couple, the judiciary is doing the same. Maybe it will continue for a couple more years before we actually introduce the system.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Is that a normal timeline for this sort of thing?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Well, it’s one of the more interesting highlights of the judicial reform national forum. Perhaps there’s much more political will in this than previously. This is the extent I can say. I’m not in the judiciary branch.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>If I wanted to talk to someone about that, who would I...</p>
+        </speech>
+        <speech by="#Billy Lin">
+          <p>There are some organizer you can interview. One is the judicial again and I can introduce you to a judge. He’s worked for this, kind of. Another one is NGO Judicial Reform Foundation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The JRF, who was the one who conducted the initial mock trials four or five years ago.</p>
+        </speech>
+        <speech by="#Billy Lin">
+          <p>We have a book. They has published a GitBook, is talking about the experience...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The learnings.</p>
+        </speech>
+        <speech by="#Billy Lin">
+          <p>Yeah, on the simulation.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>OK, great. Thanks.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Billy is our PDIS colleague, but he previously worked at the JRF and is in fact responsible for uploading the very GitBooks he was alluding to. [laughs] It will be a really good reference.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>That’s interesting. I think I remember reading in one of your previous transcripts something about artificial intelligence. Are you still working on that?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>How’s that going?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Pretty good. We’re being using so-called AI-powered conversations to gather consensus. I just returned from Seattle. I had a meeting with the pol.is folks who is developing this kind of AI for consensus making. Instead passive persuasion there’s some very notable examples recently, this is about active participation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We try to get people’s opinions in a form not guessed by algorithms, but actually aggregated and displayed in a form that promotes people’s understanding to each other. This is, I think, one of the more exciting parts of active research that has real world applications.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You can see very clearly that the few divisive statements that consume everybody’s time on social media are actually in the minority. In this kind of AI-moderated conversations, people spend much more time on the broadly consensus statements that capture people’s imagination and they can work in much more detail.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Just this picture alone actually puts the face on the crowd. They let the crowd see that they actually are able to converge on something, despite their apparently different positions on a few divisive issues. I think this is one of the more promising applications of AI in the political context.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>I see. What have you learned so far? How long is this trial? Is it a trial that you’re doing right now then?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. My first case using this technology is during the UberX case. I was kind of understudy to the Minister without portfolio Jaclyn Tsai at the time. This was my first time using pol.is to gather crowd consensus and then checking them one by one with Taiwan taxi, Uber and the Association of Taxi Drivers.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s been two and a half years, and we’ve been using this technology in various different forms, also different topics. This kind of face-to-face multi-stakeholder meeting, we’ve held 32 different trials on various different petitions issues as well. If you’re interesting, I can send you a recent write up by a person called Tom Atlee.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>He summarizes the learnings that we had in the culture, the g0v culture as applied to the central government. We still have a very long way to go, but at least people are much more willing to accept there could be policy experiments in terms of incorporating cutting-edge technology.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course, the cutting-edge technology not necessarily map into real solutions for social issues, but it’s OK. We just write up our learnings and improve.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>As far as the fake news program in schools. Is that rolled out already or?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s next year. Next September, I believe.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>The curriculum’s already been developed?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. They’re currently under review by the 課審會, the Curriculum Examination Board, which for the first time includes students. The proceedings and transcripts of all these are all radically transparent.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Hopefully, even given the recent shuffling of personnel in the Ministry of Education, we will get the curricula aligned as scheduled.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Right, yeah. I’ve been following the news on that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, I haven’t.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>It changes every day.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>If you could send me a link, if they posted a draft version of the curriculum.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Curriculum, yeah, if you look at the...The cue right here is 課審會, whereby it’s all in Chinese.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Is it a PDF document?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, it’s all PDF document. If you look at the ccess.k12ea.gov.tw, you’ll see the day to day proceedings of how far they’re going in terms of the various levels of the primary, the secondary, and senior high.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Yeah, thanks for that. Like I said, I just wanted to get a...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No problem at all.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>...quick overview, and then thanks for explaining the government.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This constitution is unlike any other. We’re still working with it. [laughs]</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Sure. Do you think there’s anyone else in the government that would be good to meet? I know I met a couple of people, but were there any names that come to your mind for technology?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The social enterprise, they are two social entrepreneurs in the MB. They used to work in the same building. That’s Karen Yu and Jason Hsu. Although they’re DPP and KMT respectively, they actually have much more ties with the civil society and the social enterprise sectors than with their respective parties.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They literally just joined their respective parties for the election. They all have plenty to contribute when it comes to incorporation of technology to the society. In Taiwan, the only innovation that could proceed is one that has the social support.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We can’t, like other regimes, declare this zone to be experimentation zone for technology to the detriment of other stakeholders. It has to be embraced by the whole society, so there’s much more co-creative in Taiwan than the other places.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>I see. Cyber security, what ministry does that fall under?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The national cyber security strategy is the National Cyber Security Council, part of National Security Council, that’s the President’s Office. Its implementation, as policies in the executive branch, is within the Executive Yuan itself called the Cyber Security Department, but it’s not the ministry.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>I saw that they were also starting another National Defense Ministry, or rearranging, so I guess that might be split.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. They’re also encouraging much more universities and people in academia to work with the community to make real applicable cyber security curricula, so that they can get more cyber security experts in the next few years, and really give a boost to the industry. It’s like a sure hire for many governmental agencies and critical infrastructure operators.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There is currently a national cyber security law in the parliament, which will get passed soon — it will create a lot of HR opportunity for the cyber security personnel.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>What is this cyber security law?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s called 資通安全管理法. Information and Communication Security Management Act.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Is it a very long document?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s not. It’s relatively short.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>What’s the gist of it?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s about the minimum expected standards of protection and personnel, and reporting duties for the various government operated agencies, as well as critical infrastructures. It would just require tons of personnel as a result.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Sure. The government agencies currently don’t have standards. Is that...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They do, but they’re not very well orchestrated until a few years ago. Part of this law is about to have a first response center and the CERT to unify the reporting mechanism of the various agencies, both in private sector and in the public sector.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Also, to get a much more clear view what exactly is expected of critical infrastructures. At the moment, they all have different expectations of their cyber security duties. This is all about harmonization. It’s not about without this law nobody’s doing cyber security. It’s about doing it so that they can meet in the hub.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>I see. Do you know how long this law’s been debated, analyzed for?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s been analyzed in the legislative for just one session. They’re expecting it to pass in this session. They didn’t pass it in the previous session.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>That was because they just had more to discuss?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, there’s some debates around definition of critical infrastructures, the rollout plan, as well as exactly what is the so-called inspection rights of the administration and so on. All these have been debated and settled to a degree. They’re now looking to pass it this session, I think. It’s almost finalized, as far as I know.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>From time to time, if there’s something that I think you might be able to comment on, is it OK if I...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure, of course. Just send me an email.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Are all email communications subject to the transparency protocol?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If I answer something that I already answered before, I’ll just put myself. Right. If I think that one of your questions merits another response, I’ll check if you, like, &quot;Is it OK if I make this correspondence public?&quot;</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>I see. OK. If you see certain things in the legislature that are technology related, do you think you could let me know?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s quite a few. If you’ll just look for sandbox laws of which they are two. They’re basically the legislative saying, &quot;We are willing to have people violate the law for a period as an experiment to advise us where the law should go,&quot; which is very innovative.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In the Fintech Sandbox, for example, anyone can apply for six months to 12 months I think of, for example, AI banking or whatever, new forms of cryptocurrency and stuff that are not currently legal. If they apply for this experiment and for the next six months or so, they are exempt from criminal law.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They can also challenge regulations not presided over by the FSC. They could challenge regulations by the MOEA. They could challenge any regulations as long as they don’t step into some red lines like they can’t experiment with money laundering or contributing to terrorism.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t think anyone would want to experiment with that anyway. Then, if the FSC likes it, then they can just incorporate this successful experiment at the end of the experimentation period into a new regulation, if needed, new laws.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We recognize that the new laws would take more time to finalize, so they could extend the experiment until the legislative has passed a law that’s of their experimentation up to three years, which is the longest time ever in the world.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Again, I think this is very beneficial. It’s basically the legislative crowdsourcing things with the society. If the society, after experimentation period, through a multi-stakeholder panel, decide that this is, after all, not a good social innovation, it’s detrimental to the society, then we at least thank the investors for paying the tuition for everybody else to align about this particular invention.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think it’s a win-win proposition, no matter water. We already have a fintech sandbox. In a month or so, we will hand to the legislative the AI Mobility Sandbox or Autonomous Vehicles Sandbox, which is again the same thing, but for AI mobility, including driving, flying, and sailing AI mobility solutions. Maybe there will be other sandboxes in the future.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>With that sandbox, there would be certain red lines?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, of course. You can’t experiment with weaponized use of AI. I’m sure.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>It notably includes experimentation, even on the business model itself. You can earn a profit as a part of, for example, testing whether it is AI shuttle works better than the local taxi. That’s permitted.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Effectively, this is giving people the ability to...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Test self-driving cars and planes and ships and everything in between.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Currently, that’s...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There are three different regulations at the moment. They also are concerned with things are still cars. For the Ministry of Transportation and Communication once something that moves but doesn’t have a external wheel, is it a car anymore? It’s exclusively for things that are unknown by the MOTC.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then, the MOEA steps in and takes care. The AI Mobility Sandbox is chaired by the MOEA, not the MOTC. The MOEA takes this experimentation proposal, figure out the business model of it, and then talk to the MOST on the science and technology part, and MOTC on the safety part. They collaboratively...</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>They talk on the safety with?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>With the MOTC. The Ministry of Transportation and Communication. Then, collectively, they would approve or disapprove the experimentations proposal. Also, unlike fintech sandbox, sometimes this also requests collaboration with the local government.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If the local government has a present social need they want to be solved, it’s much more likely they will concede one part of their city or county for the experimentation period.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>This collaborates with the local government.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, of course because it needs the field, like a physical field to test. It could be in any shape. At the moment, Shalun, science city, already has a designated field for AI mobility field testing.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Shalun?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Shalun, S-H-A-L-U-N. It’s in Tainan. There’s many other places who has expressed an interest on working with, for example, large cargo carrying drones or any other AI mobility experiments as well.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>When you say this is coming in a month or two, is that because they put a date for starting the sandbox, or is that because they’re still...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re still working on finalizing the text. After the text is finalized, the cabinet will hand it to the legislative. The legislative will ponder on it for a while. The legislative already has two versions of AI mobility sandbox, again proposed by Karen Yu and Jason Hsu respectively. Once the take from MOEA joins the fray, so to speak, they will figure it out I think relatively quickly.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>That’s why you said within two months.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Hopefully, by the next session, if not this one.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>We don’t know.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We don’t know because it’s the legislative.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>That’s worth following. This latest draft should be finished within a few weeks?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, but I’m not in charge of that anymore. I work with the consultation...</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>You said Jason and Karen Hu...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, has their own versions already in the legislation.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Who is working on the drafts right now?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The cabinet.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>The Ministry of...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Ministry of Economy Affairs is in charge of drafting this version. The MOEA will propose science and technology minister without portfolio, Wu, and Wu will review it and propose it to the to the cabinet. The premier, in a cabinet meeting will approve it and it will send it to the legislative for deliberation.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>The fintech sandbox, when did that start, three months ago?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, a couple of months ago.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Are there other sandboxes that are being considered...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s a lot being...The MOEA is talking about a general-purpose sandbox that’s specific to a place. Within that place, you can do, I don’t know, Medicare experiments or many other experiments as well. It’s still in early draft so they’ve been consulting the stakeholders, but there’s no draft text yet.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It used to be that people want a telemedicine sandbox, but then the Ministry of Health and Welfare just relaxed the telemedicine act. They will probably publish their regulations for telemedicine also relatively quickly, so we don’t need a sandbox anymore.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is a dynamic we see with the fintech sandbox as well. Most often, when the civil servants get the application of a new social invention or innovation, they could interpret for it or against it. If they interpret against it, it’s not legal, it’s of no cost to the civil servants.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If they incline to approve it, it requires some harmonization with existing regulations. It would represent maybe a couple of weeks’ work of the public service. If they are already overloaded with work, they are not inclined to approve some social innovations or inventions. Now, with the Sandbox Act, if they approve it, it’s just a couple of weeks of work. If they reject it, then that goes into the sandbox.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You have to spend six months with it. Now, they payoff metrics has changed and we see much more new social innovations and inventions being incorporated and interpreted as legal, without having to go through the sandbox at all just because it’s less work than going through the sandbox process.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>You’re saying revising the law, it’s less work than going through the sandbox process?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Revising interpretation of existing law or to publish a new regulation. Publishing a new regulation, as well as new interpretation, they don’t require going through the legislative. It’s entirely something the minister themselves can determine.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>I see. So the telemedicine regulation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>All the regulation changes are now subjected to a 60-day public consultation. That has concluded. We’re waiting for MOHW to publish. Maybe they have already, I haven’t checked the past couple of days, but it’s imminent.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>That’s the Ministry of Health and...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Welfare. The MOHW.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>MOHW. Great. I’ll let you back to work.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, it’s good. It’s good.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Like I said, I appreciate your time. In the future, if you happen to see other regulations that concern technology, whether that’d be through sandboxes or otherwise, I’d always appreciate a heads up.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK, the next major one is probably the Industrial Science Park Act. We are moving the industrial away, so that any science, service science, social science can qualify as a science park project. That’s still some months in the future. The whole landscape of Taiwan’s industries are changing. Science park now need to be more broadly defined. It’s not just industry anymore.</p>
+        </speech>
+        <speech by="#Andrew Silver">
+          <p>Thank you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Have a good one.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
