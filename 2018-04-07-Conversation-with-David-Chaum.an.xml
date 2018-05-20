@@ -1,0 +1,1499 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/David Chaum" id="David Chaum" showAs="David Chaum">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-04-07 Conversation with David Chaum</heading>
+        <speech by="#David Chaum">
+          <p>Did you have a chance to maybe look at some of the things that I’ve been doing more recently?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>To be honest, it is your colleague who visited me a few months ago.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Yeah, Nicholas.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, Nicholas. I read through the code, the mock election, the math. I can’t say that I understand all of it, but I understand most of the properties that you’re making, the anti-vote selling and stuff like that.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Oh, really?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, I understand the idea, so you can assume that I know the idea. I haven’t followed very closely the development in the past few months.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, it’s good.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>We had a system called Two Ballot, which hasn’t been published yet.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It helps the economy?.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>[laughs] Help is quite a thing. I have to keep in mind that I’m on the record.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, you can edit it for 10 days.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. You can’t edit my utterances. It still has to make sense in context.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>I see. That’s interesting.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’ve had a journalist who removed all her statements, it looks like me monologuing.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#David Chaum">
+          <p>That’s interesting. I said I was big fan of this.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s open by default. If you want to change the default, you have to put some thought into it. That’s all this means.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That’s interesting.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Besides, the transcription technology could have typos and so on, we can’t say you can’t edit.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Plausible deniability.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s exactly right.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Thank you. By the way, what is your tenure here? Is that going to be for quite some time?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m here for one year and a half now. If all goes well, I’m here for another two years. Then there’s the presidential re-election. If Tsai get re-elected, there’s a chance that I’ll be here for six years, but there’s no promise about it.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You’re voted on by the national population?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Taiwan administration is weird. [laughs] The president is by popular vote. The president appoints the premier, and the premier nominates ministers for the president to appoint. We’re all appointees, in a sense.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s technically revocable for accountability. If there’s a major disaster, of course, I’ll have to resign. But a minister without portfolio, don’t have a portfolio.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>It’s unlikely that I’ll be held accountable for something that I have to resign. That’s the design of the minister without portfolio position. There’s nine of us now.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, there’s nine ministers without portfolio.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Maybe we could talk about the random sample voting just generally for a moment.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You have some understanding of the random sample voting. Let me try to refresh your memory, just briefly, and then maybe we could talk about it more substantively.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Random sample voting proves to the public, irrefutably, because the proofs can’t be falsified or fabricated, even by someone with infinite computing power. You realize that they are statistically -- we say unconditionally -- convincing. That’s very strong, and that’s what you want in a situation where a state actor could try to mess with the integrity of a system. It proves a few things:</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>One is that the voters are selected independently and uniformly, at random. We found that most people, even scientists, when they hear about this first, their biggest concern initially -- this is valuable information -- is that the selection itself would somehow be manipulated and that it wouldn’t be truly at random.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>One thing we found helpful in explaining this was to say that it is equivalent to each voter being given the opportunity to flip, say, 20 coins. They would be allowed to vote in that election if all 20 were heads. We proved that the choice is unmanipulatable by even us, by anyone, but remains secret until after the election was reported.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>The second thing is that the tally does, in fact, reflect accurately the votes cast. That second property is also unconditional, statistical. The third property is of voter secrecy, where how an individual voter voted will never be revealed. In that white paper, which I think you have in front of you, maybe...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, I was just reading the property list.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>I wish I was half as smart as you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>That would make you one-tenth smart as you currently are.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#David Chaum">
+          <p>I’m sorry. You threw me for a loop there.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>The only bifurcation in the proposal, and it’s actually just a footnote, is that there is a version where...The basic version is where who the voters are is revealed after the vote in a kind of audit. The special version is different in that the voters are more or less never revealed publicly. Both are good because if you reveal the voters before the vote, they could be manipulated.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>The way we do that is not perfect, but it is by a kind of what you might call indirection in computer science. We say, &quot;OK, we’re going to reveal the name of all voters, but each voters name is only revealed to a single randomly chosen person that’s specifically randomly chosen for that voter.&quot;</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then we say, &quot;Go talk to that voter, get this number from them, and make sure they’re happy and then bring that number back and when we see that number come back then we’ll know that you really did check on them.&quot;</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Now, why do we need either of these or at one of these mechanisms? Do you have any answer to that?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Just to make sure that it’s unsalable.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>No.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>To make sure that the person actually voted the way that it was reviewed.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>No. It’s because the election officials could pretend that they did all this, if no one ever knew who the voters were, there might be no voters at all. [laughs] They could just say, &quot;We mailed out a thousand ballots and here are the results,&quot; but actually, they never mailed out any ballots.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You need to actually go and check that real people really did get the ballots. The way we do it is perfectly effective, but it does have the consequence that the simple way, the most secure way, is we just reveal who the voters are, but only afterwards.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The scenario I was raising was that they actually run two or more votes, and it’s selected the one that’s most favorable to their political preference.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>This is an excellent observation, but the way we do it is secure it against that certainly. What happens is that who the voters are is locked in...Let me just explain the basic randomization of who the voters are process in outline, because that I think explains a lot of the properties that drive from it. In the white paper, in the introduction, I say, it’s similar to flipping a coin and you put your hand over it on your wrist. You have that here? You’re familiar with this, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes, sure.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>No one’s supposed to see what the outcome is, and then the counter-party says, &quot;If it’s heads, I’m going to be a voter.&quot; Then, only then, is it opened or revealed. Because of that mechanism, there is no way for me to cheat you out of having a 50/50 chance of being a voter, because even though you don’t know what I have hidden here, I cannot change it.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You flip a coin basically and decide whether to say it’s heads you get to be a voter, or tails you get to be a voter. I have no way of knowing what you’re going to do, there is no way for me to change it once its covered by my hand. It only reveals exactly what was there before. Does that make sense?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>This means that the choice of voters is locked in. As soon as that random experiment is made, which you could use blockchain for, or you could use a stock market closing price, or something, there is no way to change it, the possible attack that you were sketching doesn’t work.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Just to check my understanding. The sampling, the voters who are not sampled, they still receive some sort of choice? Out of the two million people in Taipei, about, I don’t know, 200 are sampled. For the rest of the citizens, what do they receive?</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Let’s switch gears, break the thread there. Let me talk about, briefly, an example way to use this system in Taipei.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re going to have a mayoral election.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Yeah, I know it’s coming up and it’s a big deal. I think there is also the question of absentee voting.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#David Chaum">
+          <p>Let me just roughly sketch out for you. You could ask me, David, how would you foresee the random sample voting be used if say you had your way? It was miraculously the case that we decided to use it here in Taipei, and make the best use of it. What would you recommend? How would you see it really being used? Not a pilot. What was the ultimate...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For mayors, for councilors, for participatory budgeting, for what?</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Here’s how I would imagine it. We would run a tournament of, let’s say, binary contests.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Anyone who wants to, can submit ballot question language.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Would you like some caffeinated stimulants?</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#David Chaum">
+          <p>No.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You can draw on this iPad here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Wait. We already do a version of that now, I don’t worry about feasibility. There’s an e-petition system. Every month, all the delegates from each ministry vote for two cases that are worthy for cross-ministry collaboration. We already have this kind of system.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>I saw a website. There was a web page for each question.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We call them e-petition, but many of them could be phrased as yes/no questions.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Where do they come from exactly?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Anyone with a mobile phone number in Taiwan can submit an e-petition.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then these parts of government decide which ones?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, the participation officers. They look every month to the previous month e-petitions, ordered by the signatures each one collected. If it’s above 5,000, or if it’s sufficiently cross-ministry, then these become valid for all the participation officers. There’s about 30 or so POs, one from each ministry.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We do a simple approval voting, actually limited by two votes. Every PO has two votes. At the end, every month, we take the two cases that has the highest vote for deliberation and collaborative action for that month. We already have an approximation of the case. It’s just that the second round is not done by the citizens. It’s by the ministry.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then what happens to them?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We telephone, email, or contact the petitioner. We work them to refine their language. We invite the stakeholders named. In each of the petition, we have pro and con columns. We collect the best ideas, again, voted by the general populace and map them into what we call issue-based mapping, which lists the pro and con points of this proposal.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We invite up to five petitioners, ranked by how quickly they respond to our call-to-meeting, to a meeting. Then we livestream the meeting, keep a full record, and make sure that everybody knows why we’re finalize this or that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The final resolution is by deliberation. It’s not by voting, but the voting is helpful because it let us collect the stakeholder network, the aspects, the possible solutions, the questions, which is yellow, suggested solutions or options for solutions, which is green, supporting material, which is blue, and possible government actions.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>At the end of the co-creation workshop, we collect possible solutions and each government minister responsibility in it on a Friday. The next Monday, I bring this to the prime minister and my colleagues, the other ministers without portfolio. If they think it’s OK to proceed, then it becomes policy. That’s the system we’re working on at the moment.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It starts from e-petition, but ends in deliberation.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(pause)</i>
+          </p>
+        </narrative>
+        <speech by="#David Chaum">
+          <p>The five people who appear and participate in the deliberation are...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The people who participated in the original petition.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’s not just someone who sends it in, but then there’s signatures that are collected, and then there’s more than one person?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s all electronic.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>How does more than one person participate, besides signing?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You can sign. You can add a comment, and the comment can be pro or con, and then you can vote on each other’s comments. The comments with the highest vote get to the top.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then the people who were the most active are the ones that are brought to the deliberation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right, and these people’s points are also carried, verbatim, into this mind map, they can come and defend their points.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>The conclusion from that deliberation...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Is then synthesized and brought to the prime minister.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>But it is just then a specific action?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, sure, but if it’s something that’s within the capability, if it doesn’t need a new law, then we can just go ahead and allocate random millions of budget and make it happen. That’s the system we’re working on. It doesn’t end in voting. This is not the same as the mayoral or councilor election base. It’s cheap enough so we can do it every other week.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You found this to be...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Very useful. We’ve been running this for a year now.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>What sort of changes has it affected?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A large hospital has been built in the south-most part of Taiwan. The people there asked for a helicopter to serve as ambulance, but that’s not the best solution. After this mind mapping, we decide to allocate some hundred million or something, a lot of money, to build a larger hospital there.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For example, our income tax filing software was petitioned because it was broken on Mac and Linux, but the people who allocate the funds are Windows users. We did five co-creation workshops with petitioners. We’ve completely redesigned this year’s income tax filing software.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s many other cases. There’s a case where we have the Marine National Park to selectively ban fishing. That was the original petition, but then we reached a compromise with the people who do the fishing there. There’s many others.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The current one that we’re deliberating is whether unmarried women can apply to have artificial insemination. This is currently not allowed in Taiwan, but legal in US. That will actually require legislative action. This is more of unifying what the ministries think about it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s some very practical ones, like the very long turnout that goes to whether we allow motorcycles or not. There’s many ones.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s also ones that has constituents as public servants, like whether we can take an absence, public servants, counted in hours instead of half-day, because at the moment, it’s half-day. After the petition and consultation, we decided that one hour, this actually makes more sense, starting next month, it’s one hour, and so on.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s been like 30 or so cases and only about half of which are exactly as the petitioner wanted. Everything else has to go through amendments and refinements. Yeah, it’s resulted in some pretty good policy changes.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>I wanted to tell you about random-sample voting, but now, you’ve got me very interested in what you are doing. [laughs] I did look at the website...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, sure.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>...but it wasn’t really obvious to me. Maybe I was looking in the wrong place.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, but that is there, too.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>A question that comes to mind is, &quot;To what extent have other municipalities been paying attention to what you’re doing?&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re actually not the first. We’re the central government, but Taipei City has been doing the i-Voting for quite some time already, since 2014.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Maybe that’s the site that I went to.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, you perhaps went to the i-Voting, because our PO Network is very new, it’s just one year, but i-Voting has been going on since 2014. For example, recent i-Voting, was that whether they allowed a zoo, the Taipei Zoo, to close for a month or something during summertime. That was a citizen proposal to give the animals some break or something.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>That was i-Voting and voted into existence by, again, petition platform to a certain point and the refinement and review and then into i-Voting. The final is by popular vote by Taipei citizens, that’s not the same.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Oh, it is.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>When you say that that’s by full referendum?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s binding. It’s supposed to be full referendum, but actually, I don’t know how many offline ballot boxes they have, but it’s primarily through online voting, only people who participate online get to have a say. There’s no threshold, so just people who bothered to vote online.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’s like a petition, but it is binding.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It is binding. It’s a binding petition, yeah. That’s Taipei City. Taichung City is now following the central government design in their local parts, as well. There’s about three cities at the moment that joined the platform that we’re using for e-petition.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(pause)</i>
+          </p>
+        </narrative>
+        <speech by="#David Chaum">
+          <p>That’s very interesting. Random-sample voting is a little more direct. You can see the differences. Talking about how you would use it as opposed to the mechanics largely, everyone would get to vote, let’s say in my vision of this, once every six months. The elections wouldn’t all be concurrent, they’d be various, but they’d be only a couple of weeks long, is the current example that I have been mentioning.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>I think that’s something where people could be called on to make a single binary choice, have time to think about it, discuss it with their friends and family and so on, search it online, maybe reach out to experts or others and gather some specific information, and then cast their ballot.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>This is very similar, as you may know, to the ancient Greek jury system. I understand there’s no jury system here in Taiwan currently.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Judicial Reform Forum has just voted it into existence. We’re designing a jury system now. It will take effect, maybe, next year.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Oh, really?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That’s for...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For everything.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>For everything?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, for everything. I think there’s some exceptions, like there’s a rolling rollout. Other than for things that should be protected in privacy by law, and I don’t know, there’s some parts, but in general, yes, it will be a general jury.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Wow, that’s quite a change. This has to do with criminal and civil...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Cases, but I think it will start with the criminal cases with high penalties now.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>As an option that the defendant has to...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. At the moment, it is only in cause for the citizens and judges, the jury to consult with the three judges, and so there’s a judging panel, it’s a different design than the one that...</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>In the US.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...you’re used to in the US design.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>The Greek one, there were no judges.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. We’re not there yet.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Yeah, that’s right.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, I think for the initial batch, which is I think criminal cases with penalty above a certain threshold, they will actually be making decisions together with the judges. The explicit detailed procedure is still being worked out, but that’s the National Judicial Reform’s consensus.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’s not that the jurors come to their own conclusion.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, the judge is part of the jury, I think.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Because according to the literature, juries can easily be manipulated by strong...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Judges.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s three judges, in any case.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Oh, you always have three judges.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t actually know. They’ve run simulations and mock trials and so on for many, many years now in various different systems. The National Judicial Reform is mostly just selecting based on the experiment results. Yeah, it’s not for real, we don’t know what will happen if it’s for real.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That’s something. I’m very impressed. [laughs] A majority of the population is in favor or against this particular issue and it’s also the mechanics make it irrefutable.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Mm-hmm.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’s a much stronger thing than the i-Vote system. You see there’s a big difference there...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>...or any kind of petition. This is not a petition, it’s a vote.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The thing is that the i-Voting or whatever e-petition system, we can only bind the administration and we cannot ever bind the representation, the council or the legislative, exactly because of the property that you mentioned.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We can’t say that this population is more representative than the original voters who voted in the representative in the council. In the newer system you can, because it essentially carries the binding power of the full referendum without the cost of a full referendum.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That’s very clear. Thanks for pointing that out. That’s the basic essence of it. It doesn’t have the real deliberative, or this consultative, or problem-solving mechanism, like what you propose after the public decision, you could say that’s a disadvantage.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Of course, if your perspective is about security and a lack of the possibility for government to manipulate things, maybe the difference is between a system that can work even if you don’t trust the government anymore, versus a system that can work pretty well as long as everything’s copacetic in terms of government.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>I think random-sample voting, as you point out, is a little bit stronger, but it’s much more durable.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s just like distributed ledger that’s a distributed relational database, right?</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>I generally trust my SQL folks, but...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Right. If stake is high enough then we can well imagine that this is an adversarial, but in general, everyday life we don’t actually do that, there’s a trade-off.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’s a nice analogy, but I think this might be misunderstood slightly if you take it to mean that it’s really a difference of ease of manipulation. What I was trying to point out is that to me a really critical thing is the level of expectation that the public has about the power they have.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If citizens are used to it in their colleges, in their online and gaming guilds. Why not? [laughs] In their whatever, daily operation, if they’re just used to random-sample voting, then it builds the sovereignty...</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Expectation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...expectation of individuals and then they take this and demand that out of their government. I think that’s really grassroots and really the way to gain the legitimacy is just by using it more often and to not start with the Taipei City. The Taipei City, or the Central Election Committee at the moment really has plenty of trust actually...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>...so if they run a centralized database people trust that they will run a centralized database well, is what I’m saying.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>I think what you infer from it is probably interesting. The way I think about it is that the random-sample voting allows a thousand flowers to bloom before the critical public actual vote of approving things and then that then is immutable, is like you say, binding, because it has in effect the majority vote behind it.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’s also of a higher quality than a referendum initiative, in which is everyone is called upon to vote on 50, because what they do with it is the same as the i-Vote in California. Most people don’t vote all initiatives, or if they do, it’s random. They vote the ones they care about or know about. It’s i-Vote.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>What random sample voting does is it says, this is really an important point, &quot;What would a sincere, informed electorate do? What would this set of citizens do if they were to vote sincerely?&quot; That’s a technical term in the voting world, they’re not trying to manipulate the election by voting more extremely to push...</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>If they voted and sincerely and they were well informed on that issue, this is what the whole population would do if they were to vote in that way. There’s never been a thing like that, of course. Interestingly, it scales with the complexity of society, which is a point that I make.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You can get down to some pretty specific questions and some pretty crisp language, that’s a strong feature of it. Yeah, because you’re really flexible on the input side, government agencies can make proposed language, lobbyists for corporate interests, different groups, candidates for office, or parties, what have you.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It doesn’t really matter, you want to encourage all that input. That’s where you would have, by the way, all of this clever group decision creative solution forming, brainstorming...There are books on how to make a group of people come to a way to solve a problem the best way, or whatever.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>All of that stuff can be on the input side, because the best reasoned proposition will receive the popular support, because people go looking online and find this very compelling argument that says, &quot;You could stop the fisherman, or you could plant more fish, or you could do this, but actually, you get a better result if you just stop dumping chemicals into the harbor,&quot; or whatever it is.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then that would win. That process cannot be manipulated by the fishermen’s union, unless not enough attention is being paid to the whole voting process, but since it’s all binding and a large scope you would assume this is prioritized</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>People would propose topic areas that...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s simple. That’s good.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>There would be proposals for topic areas. Then within each topic area, there would be a ladder competition for the most succinct and clear binding statement to reflect an outcome for that topic.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then, there would be a second ladder to select the winner of that. That way, each topic would get a crowdsource competitive incentive, whatever, competition to get a good statement, elevator pitch, or what...it’s actually binding rule. Then, those would be then compete against each other.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>As well as individual votes, the outcome is the issue that the public thinks is the most important and the best actionable proposed legislation on that topic, or the top three such things.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>We can actually divide up the voters in such a way that they’re totally independently and firmly chosen with each jury, if you will. There’s a jury, but no voter is asked to be in more than one jury. Every citizen, say, in fact, is in exactly one jury.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That answers my question, actually, my original question from way back.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Yeah, I know.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Where there are people who are not even participating. Basically, you have population who are part of this game and people who are not. The people who are not cannot for sure know that they are not in it, just because their luck is bad or they’re being excluded was my original question.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Yeah, the people are picked independently and uniformly at random. If only one jury were selected, then those selected would know that they were chosen properly, but everyone who wasn’t selected would also know that they weren’t chosen properly. [laughs]</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>The whole thing’s predicated on ultimately some testing that some people were really chosen. Can I switch gears for a minute to tell you a very interesting technical thing that turned out to be needed in order to actually make such a perfect partition and to make the system really work?</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>This is getting to that thing that’s really important we could talk about the security of remote voting.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Mm-hmm.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>We worked on this a lot, and eventually, it occurred to me that what’s actually needed, as a key concept, is what we call, now, &quot;proof of decoy.&quot; A decoy ballot, you recognize, is a ballot issued by the election officials that is indistinguishable from what we call a real ballots, but is guaranteed never to be counted.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’s always indistinguishable. You can vote it. You never find out that it’s a decoy. Any vote cast with it will not be counted, but it remains indistinguishable. That’s the notion of a decoy ballot. The reason we issue those is to in effect keep the price that a vote buyer will be willing to pay down...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>People can volunteer to be a decoy.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Yeah, they can make money helping democracy, selling their fake votes to...It’s a beautiful thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>After a few rounds, I imagine the price would drop.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>People drive the price down. Yeah, but it depends on the issue. There may be some issues that some people think are really worth throwing money at and then they’ll try it again.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Do you hand out decoy ballots to anyone who’ll sign up?</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>In principle, I would like to have a system where there are just an unlimited amount of decoy ballots. However, it turns out that because of the mechanics, we have to fix the number of decoys at a certain point before starting the election.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>There’s actually two ways that decoys can be issued. One is responsive to requests and the other is unsolicited. We can do both. You could also ask, &quot;Can someone get a multiplicity of these decoys -- greater than one?&quot; Yes, that’s also possible.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then you could start to say, &quot;What if someone was selected at random to get a ballot,&quot; because everyone is in some scenarios.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>But also...</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then they get this other ballot. How are they going to know which one to vote if they’re indistinguishable? That’s a problem.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Let me talk about the proof of decoy briefly and then we’ll come to how you would probably want to use these things. The proof of decoy is...Let’s say you were selected at random to receive a vote, a ballot, you received it. Maybe everyone gets one. Then you’ve asked for a decoy to sell. You get that -- also comes in the mail, let’s say.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then we send you by an additional mail message or any other way, online or what have you...</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>The proof of decoy is additional information which is sent by another channel and it allows the voter to verify that the decoy is in fact a decoy and absolutely will not be counted. They could be absolutely certain of that on traditional information-theoretic statistically valid proof.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’s easily verified. You don’t need a computer or a calculation. You can just look up and say, &quot;Oh yeah. They sent me this. I checked it on the online posting of the data that’s for the election, and it’s true. This is a decoy.&quot;</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Of course, you’re never going to show the proof of decoy [laughs] to the person if you’re offering to sell these ballots. It helps you discriminate which one is the decoy.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Not everyone who gets a decoy has to check it, but that’s the good thing about voting. As a security mechanism, it’s pretty easy to show that even if a small percentage of people check, then that’s sufficient.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Here’s the funny twist about the proof of decoy. Another reason you need it is, not just to help people distinguish, but because the election officials could try to manipulate the outcome -- say, for instance, if they knew there was a lot of vote-buying money, let’s say, on one side of an issue.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then they could send real ballots to the people requesting the decoys if election officials supported that monied side, and knowing that those would actually get voted with the money. The real voters would get the decoy ballots.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>The proof of decoy solves that, because you can’t fool someone by sending them a real ballot when they think that they’ve received a decoy. You have to prove to them that it’s a decoy. That works out really neat. We actually have a construction for it. It’s really simply and perfect. That was a really nice theoretical breakthrough.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That just cleaned up all the clutter. How do we make sure that we really strictly only give each voter one vote, one question and all that? What if they get two? What if the name comes up twice, and they want decoys? All these issues.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then we realized there’s a second order interesting effect if you have the proof of decoy, another thing that’s really interesting to notice, but maybe interesting I guess, if there were to be a serious vote buyer, in the modern world, they would probably be able to find out if you as a vote seller were likely to have already voted it their way. Then they wouldn’t be willing to buy it from you.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>In the US, your party affiliation is sort of public record more or less. These days, [laughs] there are a lot of information floating around.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That’s a weird thing that you have the worst case assumption is that the vote buyer is more economical with their money or more parsimonious, whatever gets more bang for their buck, by figuring out who the voters who would be worth paying to flip their vote are and then only paying them.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>But anyways, election official trying to manipulate election in that sophisticated environment would then have even no good target with the decoy system. That’s the proof of decoy and the decoy.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re not doing it remotely I think. We would have nothing to stop.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Not yet. I heard there are proposals to do it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, it’s for indigenous people to vote in a voting booth that’s not in their district, but it’s still voting booth voting.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>I heard there were proposals to allow the million people on the mainland to vote electronically.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The nationalist party has been proposing this for decades. But it’s not likely to be passed.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>But many countries have it as you know. You don’t have it here. That’s good.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We don’t. It would require a flip in the Parliament. But there’s a real need for people to vote outside the voting booth in their district. But it’s still voting booth voting. You just mark their ballot with this ballot is actually for that district. But that’s it.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Well put, but it’s also a very clean mechanism. Because you know some countries don’t allow for that, others say it has to be provisional, and others say you have to register no in that district.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In some countries, you can override it by walking to the walking booths at the very end. But we don’t have that here.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>This was the thing I wanted to mention about remote voting. The decoys now perfected with the proof of decoy allows remote voting to be done securely. I think that’s a huge contribution that random-sample voting has made.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>There’s a bunch of reasons why remote voting, I know you don’t have it but I would say, is preferable. You have physical intimidation and harm that’s done to people at voting places like in India where they blow up, burn down polling places and the baseball bats in New Jersey.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then you have the police barricades so that you’re not part of the United States on the way for black people to go to the polling places. You have the fact that many polling places in LA don’t open mysteriously every election that happen to be not in Beverly Hills. You have the [laughs] fact that there aren’t enough voting machines or whatever in certain places.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>There’s an old story you might not have heard. The Eastern part of the United States they love these big mechanical voting machines, lever machines. In a lever machine, everyone in the polling place can hear you vote, because the levers make a lot of noise.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Those are many times states where they have what they call &quot;straight party voting.&quot; If you don’t vote straight party, it becomes extraordinarily obvious to the people in the polling place.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then you know about the schemes for like manipulating polling place voting where you get a blank ballot out of the polling place and then you give it to a voter and make them go in and vote that one once you’ve already filled it in and then bring you out another blank one. You just sit there doing that all day long. In Eastern Kentucky, where votes were sold routinely that’s one of the techniques which can be used.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, but we have witnesses for each party and the final tally we allow live streaming, it’s quite unlikely.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>I’m not saying you...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>During the tallying.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>...that would be dangerous.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>How is that? Like a certain corner of things and things like that, like positional?</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Let’s talk about that for a minute, because if you do that, that’s wrong. That’s insanity.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re not allowing people to photograph the actual ballot itself. We’re letting people...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...photograph the tallying.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>If anyone can capture electronic images of ballots, I just want to say, &quot;It’s very dangerous.&quot; I’m not trying to criticize what you’re doing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What I’m saying is that...I’m just describing this thing. You see from your live-streaming point of view, mainly taking out ballots out of this, but it’s at a back view, but you photograph the witnesses looking at me looking at this.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Yeah, that’s perfect.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The actual position is not visible to you. If any witnesses say, &quot;This is miscounted,&quot; or whatever, then we look at that particular ballot.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Yeah, that works. There have been proposals to video or scan ballots...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re not doing that.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Good, because of the different ways that ovals can be filled and all that. Can I switch gears for a minute...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, sure.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>...to the Scantegrity voting system, since we’re talking about polling places?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Do you know about Scantegrity?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think I read about it, but I don’t have any...</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Can you just go to scantegrity.org, because I’m not online at the moment. There’s a video there.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’ve read the...Yeah.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Yes, that’s the basic idea, the invisible ink and then you fill the oval and that code is developed and then we prove that the published codes...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m aware of this.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Oh, you are.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, but I haven’t seen this application anywhere in Taiwan yet.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You almost won’t see it anywhere in the world. It’s really a bit disappointing, because we found that it’s much less expensive than voting systems sold in the United States, because we use commercial off-the shelf office scanners instead of the special ones, which are more expensive.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then we could just inkjet print the ballots. It’s a lot less expensive then the direct digital printing, which is used by the two companies in the United States, or something, that are allowed to print ballots.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>We did surveys of the voters when they leave the polling place. Every voter was asked to fill out a 10-question questionnaire and every third voter exactly was asked an open-ended question by a professional interviewer. Like, &quot;What did you think of this voting? How did you like it? Can we get your comments on it?&quot;</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then those responses were recorded, or summarized, or whatever. Then, we also had some focus groups with election workers and all this stuff. We published these results, and basically people loved it.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Of course, the voter satisfaction is a factor in voter turnout, right? This might be something you want to consider. Yeah, and it’s actually really fun, because when you fill it with the yellow highlighter, it just turns black in half a second and you see it. It’s as if you filled that whole oval in perfectly accurately, but you only have to do a swipe.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You get a really neat result and people find that gratifying. Then the code is revealed. If you write those codes down, you can check later online that they’re posted. That’s like a FedEx tracking number for your vote. People found that really great, because it means that their vote was recorded as cast.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That’s something the survey showed distinctly people really appreciated. Very few people, of course, understood the proofs that we give of the verifiable proof that the tally does accurately reflect the votes that are encoded in those numbers.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Still, they were very happy with the overall system. I guess they were willing to take that second phase on faith somehow seeing at least their vote was...I don’t know exactly how each person thought about it, but the overall appreciation, satisfaction was much higher, and in fact, it costs nothing extra to do this. It’s actually cheaper. And, of course, its a pure overlay, so that there is no diminution in overall hand-counting options or traditional security.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>We offered any jurisdiction that would want to start adopting it, we’d give them all the software for free and all updates in perpetuity for free, but no one signed up. I don’t know what’s with that. If you’re running polling place voting, there’s no excuse for not using it, because voters like it better and turnout is higher, it costs less, and its strictly speaking more secure.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Those elections we ran in Takoma Park, Maryland, 2009, 2011, the only publicly verifiable binding governmental regular elections that I know of even to date.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I see.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Unbelievable. Either an election is publicly verifiable or it isn’t. These are publicly verifiable. In other words, you would present this as openly, I don’t know what you’d call it, transparently verifiable. [laughs] Anybody with a laptop or a smartphone can go and see that all the posted data really does add up correctly and check it.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>We have multiple people whove written their own independent auditing softwares and then the APIs are public and documented, people can write their own auditing software or they could run those auditing softwares from others.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Now, here’s like a technical hacker perspective on this, &quot;It’s a certain amount of work to check everything,&quot; but actually, what we never wrote, but there was a German guy that got halfway through it, but what you really ideally want is a smartphone app that while you’re looking to see that your own code is there, your vote is there...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It also performs some verification work.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>...it does a little bit of auditing, but it chooses a random place to check. Then in aggregate the auditing would be done anyway by everyone.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s a very good idea.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>We had a sketch for that. I know you can be very technical. Sometimes, you probably are not using those skills these days in your day job...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I actually am, but yes.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>I automate a lot of my administrative work.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Look at where these are really technical about how these systems work, the one thing you might have not have noticed too much is the only funny thing about it is that when you have a physical paper ballot, there’s a malfeasance where the vote codes could be swapped relative to the candidate, say.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>[laughs] OK.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>If I knew that a certain candidate was likely to win and I didn’t like that, I could criminally print ballots that switched those...You don’t want the candidate, in my opinion...Everyone knows that you should randomize the candidate names. If you have too long list, you can’t do that obviously. That’s why random-sample voting is all binary. You get rid of all the voting paradoxes.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>In any event, you should randomly, or at least rotate. They can be alphabetical but it’s sequentially computed, they should have done...The codes are, you only see the code that you mark, and so there is this malfeasance. In Takoma Park, we did this thing where someone as according to Maryland law, you come in and you say, &quot;I’m here to audit&quot;.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You act, of course, just like a voter and you just come in get your thing with the rest of the voters, but then once you get your ballot from them, you say, &quot;I am here to audit and I am going to mark every question and then under Maryland law I can photograph this ballot and give me another one so I can go vote.&quot;</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That would then, with some probability detect...Then we saw that it was wrong, because we could open, we didn’t, you could open that particular ballot then and there but probably we didn’t, we opened it at the end. You’ll understand later why we did it that way, but probably you wouldn’t have to.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That’s a technicality and if you read the random-sample voting paper you’ll see that we use what we call, and it’s confusing, but it is confusing because it confused a lot of people, double ballots. If you look at that last...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, I was just reading that picture.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>I’d really love it if you did understand that picture, and I want...I was hoping to explain it to you, but you see how you have a double-ballot there. It’s like it would be ballot say 100, and there’d be two forms of it.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>The one that you see on the left there, the 100a, and the one...No. Down on the left. The extreme left. You see, that’s a printed form. That white thing. You see how there’s two versions of the ballot. The idea is it says, &quot;OK, voter, you choose one of these at random to vote, and the other one, you keep it and check it. You can audit it.&quot;</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That way, that’s pretty clear that if there’s what we call print fraud, then there’s a 50/50 chance that instance of it will be detectable by a voter having this half that doesn’t reflect how they voted at all. It’s hard evidence of malfeasance.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That’s how we do it, but in a voter sense, it’s a little weird to get two. We did it where you put one on one side, one on the other. It’s livable.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s good enough.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’s very clear. It’s not such a big problem, but there’s a finesse where you can get rid of that. I’ll just mention it to you briefly if it’s not shown here, or should we talk about how this system works?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s good. How do we get rid of the double-ballot?</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>When you go to vote the ballot online as we call it, electronic bulletin-board, it’s pretty sophisticated the way we’ve done it in practice in the election.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Here’s a physical analogy for how you could it which is extremely close to the way it works. It’s essentially the same thing. Suppose let’s say you and I were going to run an election, and there were no computers or anything, and always plan to use a new computers or cryptography.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>What we would is we would write those numbers there that are shown. Those are lists of numbers. You see that. There’s a bit of text in them. There’s ellipses because for every ballot, there’s a row. There’s 1,000 ballots so it’d be 1,000 rows, but you see, there’s also planes in there.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It says there are 256 such tables. Do you see those indices? Yes. It’s actually like 256 rows. These are generated numbers when we use computers, but spreadsheets which are...I think it’s, what is it, eight columns of these short text strings.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>We would come in here at night, and write these on the wall with a marker, and then we’d cover each column with a piece of black tape. You and I, we did that all by flipping our own coins, or whatever. We’d just make this stuff up.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then for the consistencies, the algorithm for creating that is describing there basically all the stable are the same except they’re subject to random row permutations. The rows are reordered, but they’re kept together.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>There’s another thing which is done which is those pairs, the columns at the end, the yellow and the blue pairs, the sum of adjacent entries in the yellow pair is the same for all the rows before the permutation.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>There’s a lot of difference, what do you call it, separate group ways to add. You can have two numbers that have the same sum. There’s the full number. Those pairs, we randomize those pairs by like panning around a numbered one, to drag it from the other, and then we permute all the rows for each table.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>We write all these up on the wall, and then we put the black tape down each column, and then we invite the voters in, and say, &quot;You’ll stay in here for any election. Watch that no one comes in, and changes any numbers under the tape.&quot;</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then we give out the ballots which we’ve written up, and they vote them, and then basically you just, &quot;Come in, and write your vote codes on the wall.&quot; They all come in, they write their vote codes knowing that their ballot secrecy is protected. Then they sit there while we flip coins.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>The coins tell us which tape to pull off. Now if you look at this chart, it’s very exact about which tape to pull off. Let me try that. Indicate that to you. You see these bars below here, those lines are...Let’s say this line here means that there’s the first stage. Can we just scroll up a little bit?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>These are the nine stages of the election. After the voters log their ballots on the voter bulletin board, and the election officials then finally...I lied. We have to say, &quot;Guys leave the room now, or we’ve got this other room where we’re going to write the blue columns. We’re going to write those, and then you guys can come in there, too.&quot;</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’s actually interesting. Then, we do this division by the coin flipping of all of the spreadsheets into five categories. There’s like 50 spreadsheets in each category. We choose which one go...That’s by coin flips, we could not have known that in advance.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Depending on which of the five categories of this is in, we have to open certain tape. If it’s in the first category, then we have to open these two tapes. We reveal those three columns. If it’s in the second category, then we reveal this column, and this column, and I guess in this column. You have to do it exactly according to this.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>We can do this in stages. There’s a preliminary audit which just locks in the recording of the ballots, and the printing fraud that we talked about, and there’s a second stage where we actually reveal the votes. It’s like reel elections because when we run reelections, there was like an hour delay before we reveal the outcome, but we could do some checking then.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then there’s this thing they sometimes call canvassing, two weeks after the vote to check everything. That’s this part here. Or you can do it all at once or in these three conventional stages.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>In that final step, you would say, hey, you finally can find out the third summand. That’s the 222. Now, we know to go to the house of the voter number, 777, and then we can say, &quot;Hey, did you in fact get ballot number 100?&quot;</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That’s important because if number of the decoys could be, we don’t want to give them to wrong people. &quot;Did you get ballot number 100? Did you vote it?&quot; &quot;Yes.&quot; &quot;OK. Good. Then we’re done with that audit.&quot; Does that make sense?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>The little bit of tricky business in here, you see the reason we break the voter number into one of the summands is because we want that to be random after this, and this stuff is committed.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Yellow is committed before the purple choice. That’s the coin flip thing. But the green, these yellows and green, you see how they’re mirrors of each other? Some of the yellows have the decoy. The decoy slots were built in advance.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Before the purple, I think I have to accept the request for decoy. Because then I know what numbers to put in the green when I publish it. I say, &quot;Oh, you wanted to be a decoy voter? Great. I’ll write you in in the green.&quot;</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>No one will ever know that you’re a decoy voter. That I didn’t include you in advance of the coin flip, because I never open these. I let people check. You see, this one...</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>This one corresponds to that one. Here, you see this one is equal to that one except for the ones marked decoy, and that one corresponds to that one in this case here. These are a little bit folded together to make it more efficient, but basically, we audit...</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>For some of the tables that this is equal to this, and for other tables that this is equal to this. That never reveals these sums until...That way, we know these are copies of each other except for the roads that are marked decoy or nothing is known about them.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>With the tables that are open where you can see the votes, those are different tables, we never see what the summands are in those open tables. Do you see what I’m saying?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’s always kind of...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What does it mean here, to have the double ballot versus the full double ballot?</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’s just that I didn’t...I think in this example, I showed all four rows for this example, double-ballot 100, is that correct? I showed all the cases that, but for the other one, I didn’t want to make it the big illustration...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It means that there’s two more like this?</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>There are two more. Now of course, they wouldn’t all be in this canonical order. I show that as an example, you can do that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is an illustration to say that there’s more omissions?</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Yeah, and the fact that these particular ones are all miraculously in order is for convenience in illustration, as are these repeated digits [laughs] and all these other tricks to make it a little easier to understand.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right. I’m making a design comment where have double ballots shown here or something. It would make it more clear.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Thank you. I appreciate that enormously. I’m going to do that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think I got the flow and the intuition, but this is great. I think it’s high-school understandable.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>In fact the vote codes are actually much longer numbers, but the voter bulletin boards, they only have some digits of the hash of the vote codes so that when you type it in, they could recognize that it’s valid.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Actually, there’s 10,000 codes that would yield that same hash that they’ve stored. The chance that they could guess what the valid vote code is insignificant. They could check, and then, they’d give you the standard user feedback, but they can’t falsify them. Of course, they can’t swap them knowing one.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It gives no clue about the others.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(pause)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>No, that’s great. I think I got it. Thank you for the instructions.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Thank you for for taking the time to understand.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s awesome.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’s just a great thing that you can make something that’s understandable that has that level of security. I want to just mention one other security trick we do. You might say, &quot;Well, that’s great, but the election officials have all these secrets that they use to generate this, and that might be...compromise privacy or something.&quot;</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>The way we did it in Takoma Park, Maryland...A cryptographer would just approach this typically and say, &quot;Well, we’ll use a lot of public key signatures and multiparty computation,&quot; actually something I helped invent. &quot;There’ll be boatloads of computing. Then, every election official will have their own secure computer and they’ll exchange all these encrypted messages.&quot;</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>But no election official’s today [laughs] going to run their own secure computer, and if they did they might not do a good job. You can’t use all that fancy public key stuff, because the public’s not going to understand it.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>What we did to make it practical -- the election officials were happy with it and support what we need. We have a computer that we boot up from a thumb drive that has the bootable image on it, and it boots up.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>The election officials put those in, and they boot up this virgin desktop machine. Then they each type in their passphrase, which is a cryptographic key-length string, and then it starts up and it runs step one.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That’s why it’s all divided into those steps. It recreates the secret state from that. It gets the randomness from those keys. Then it does the one state. Then it posts that step nine. Then they witness its complete erasure. They go home happily, but they save this enscripted state on their thumb drives.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Next time they come together, we call those &quot;meetings,&quot; they put in the thumb drive and the passcodes. They’re off the races again to do the next step, which is generate the PDF ballots. Then they sit there while they print those out. It’s neat.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>There is no computer that always has secrets in it. It’s only reconstructed during those meetings. Then the bulletin boards don’t know enough to do any harm. They can in fact be run by different interested parties. It’s pretty robust.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Ideally, one per party.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Yeah, maybe other people would do it just to prevent DDOS because that’s of the unsolvable problems according to the anti-online voting people. &quot;Oh, well, wouldn’t want DDOS. What if the election were delayed? What if the whole rule were delayed?&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>First, you set up quantum lines.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#David Chaum">
+          <p>The more you have...That’s the beautiful thing. It’s not like election server that has the secrets. It could be penetrated. It’s online. No, there’s just a bunch of these things. They collect it. It gets posted. It’s pretty complete and pretty tight. It could be used for a lot of different things.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You know, it’s in the article, the way the ancient Greek juries worked. I didn’t realize it when I created this, but it turned out I basically recreated the exact thing they had. Did you know that when the...Jurors during the Classical Era had to be of a certain minimum age. It was like 33. Did you know that?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Mm.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Oh. They would show up at the jury place. The archon or however you pronounce that, the armed guy there running the thing, would pour a jar of or urn of marbles. They were mixed alternatively black and white. They would go down this slot. Do you know about that?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The kleroterion.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>The rows, the IV parts, and the tribes, the districts that were stripes, the whole thing. Then the jurors would go in. They weren’t allowed to talk to each other. The two contestants would argue it out a little bit. Then the jury would leave. They’d have the disk.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Pinakia.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>I’m glad you know about this. They’d go out with those disks. They weren’t allowed to talk to each other. Some of them had holes, some not. They put their their arms in, and they released them. It’s almost as secure as pope elections for the last 600 years or so. I try to make this argument...It’s shocking how much the same it is that what I proposed.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Also, the jury sizes are pretty large compared to...The minimum was I think 300. It’s very much like RSV. Then the interesting thing...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(pause)</i>
+          </p>
+        </narrative>
+        <speech by="#David Chaum">
+          <p>Letting a thousand flowers bloom, like liquid democracy, all these deliberation forums, expert lobbying, all this junk as input but then using the RSV as the final imprimatur that this is violated by the general public in view of all this analysis and argument that’s been placed.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>The only good way to do it that I know of and works really neat because it’s super definitive. When I was in electronic money, for a photoshoot, they took me to the US Mint in DC, I think. The Bureau of Engraving and Printing, where they print the bank notes.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>They took a photo of me leaning on a palette full over $100 bills. It was pretty cool and everything. The interesting thing about that place is it’s a huge facility. It’s a big industrial place, they’re printing bank notes.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>They’ve got all these machines and everything, but then there’s this one room, it’s not really much bigger than this room. It has a taller ceiling because there’s a catwalk around where you can watch it.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>There’s basically one machine in there that puts the seal on the bank notes. Every single bank note gets that little seal with the serial number and there’s just this one machine that does it. It’s not even sheet by sheet. I think it’s part sheet by part sheet.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then they get sliced up and bundled and they mail them -- believe it, it’s the weirdest thing -- they mail them by registered mail to the banks.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That final stamp of approval. Really, no one cares that much about all the rest of the paper in that plant. If they didn’t do it that way, it wouldn’t work. It wouldn’t be anywhere near as secure as it is.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’d be way too expensive. It just wouldn’t work. That’s like this. You want to allow as much and as flexible and really neat brainstorming and Post-Its and everything. If some other guys have a better idea and maybe they are proactive or not, who cares? It’s all good.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>The tournaments don’t have to use the full-out sample size in the lower rungs because they could be a slightly larger air probability there, but when you get to the top, it’s a way to really get high probability, the best few...</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>If you look at tournament design, it’s a thing to make one that’ll give you top 10 for sure, but it’s pretty easy to give you the top 10 probably and then you don’t really have to pay too much attention.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>The tournament design people in sports, they really worry that there would be an error and the absolute best team wouldn’t win because they got eliminated. Second best wouldn’t win, that’s the thing, and that kind of thing, wouldn’t get the second best title.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You can use the tournament-style thing to make sure that the stuff that gets put to a real vote -- and people have to pay the most attention to -- is the high priority and reflects all the best input and then you decide whether you agree with it or not.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’s kind of pretty close to the Greek jury system except they didn’t really use it to create legislation. They used it to, in effect, approve legislation. Anyone who proposed legislation that someone else thought...Sue them. Any citizen could sue a legislator -- sorry, I have to say this -- for even proposing legislation, which the citizen deemed to be unconstitutional. Did you know that?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, sure.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then the two would argue. If the jury found that it was, in fact, unconstitutional, then the two would propose a punishment.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You could be put to death as a volunteer legislator, for proposing a law that was unconstitutional. That shows, to me, and you can argue, that they really did run their whole democracy that way. That’s why I call random-sample voting a proven way to run a group of citizens, a democracy.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’s actually the only way so that in 140 years, they created all the elements of Western civilization really, from the musical scale to philosophy and medicine and particle physics and the rest of it. They had the first phonetic alphabet. That’s my contention anyway.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>They add the vowels. That’s the Internet of those days. They basically empowered citizens to be able to read and write and then they control the whole thing, in effect through RSV.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It was a little bit, would you call it after-the-fact kind of control? They let legislators do stuff, but in case it violated the constitution, there was this after-the-fact way to prosecute them or probably invalidate the laws.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>They did it by bringing every question down to a binary vote. Do you know this guy, Hannu Nurmi?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>He’s a Finnish, emeritus professor of electoral systems. I was once in a conference of about 25 people from around the world that were the top people in the world of electoral systems design and it was in Erchie Italy, in Sicily, in this little stone village.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>For a whole week, we had stuff in churches and we stayed at the monastery. Anyways, I can tell you that the electoral rule expert or whatever, expert in electoral rules is Hannu Nurmi. Everyone there deferred to him. He was the guy. He had a bibliography of several thousand papers on electoral rules and he gave the survey $200... [laughs]</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>He backs random-sample voting, by the way. He wrote this beautiful monograph called &quot;Electoral Paradoxes.&quot; You’ll see him on our RSV website.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>When you read that it’s fascinating. It was like a total validation of RSV to me, because I only read it afterwards. Every chapter talks about a different electoral paradox like Arrow’s theorem. There’s all these different things. More generally they’re called &quot;aggregation paradoxes.&quot;</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>At the end of each chapter, there’s typically a few paragraphs about what you could do if you wanted to get rid of that paradox. It always comes down to, &quot;Well, if there were only binary contests.&quot; It’s the same thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The tournament you proposed as you said before one particular paradox, the Condorcet paradox, like the A over B over C over A utility, the aggregate utility thing, that will surface a different winner based on how the initial pairing of the tournament is done. If the group has no Condorcet winner as A, B, C as proposals then anyone is as good as the other.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s not a real attack, I’m just commenting that it doesn’t magically solve because of binary voting.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It doesn’t solve it, it just moderates it. Thanks for keeping me honest here. I normally would say that, but I was a little...One way that it talks about is that you have to, when issues are contingent on each other, you have to serialize the decisions on them.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You can’t, whatever, you know the examples that come up. You can’t decide what kind of plants to plant in a park if you haven’t decided yet to have parks.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Like that sort of stuff.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Past dependence.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Let me ramble, if you don’t mind, just for a minute or two about some of the cool things you can do when you have really inexpensive elections, 1,000, 10,000 times cheaper.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You can have rolling elections. You can always be voting on a certain issue. Like the prime minister, &quot;Do we still think he’s doing what he said he was going to do when he ran for office?&quot; Or whatever.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>As soon as the public says, &quot;Hmm, he cheated us. He lied. He’s not really going to do what he said he’s going to do,&quot; and then we’re going to keep voting that way, then the secession rules kick in and everyone moves forward.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Instead of wasting a good fraction of the government’s time with these periodic lame duck sessions and the campaigning periods, which is raised to a ridiculous level in the US, you just say, &quot;Screw that. Why vote a person in for four years if typically they don’t do what they say they were going to do anyway?&quot; [laughs] Then, they waste a whole year at the end voting and campaigning for the next.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Screw it. We’ll just keep voting on them because that costs us nothing. There’s room for thousands of elections concurrently, we just keep voting to make sure that we think that person’s doing a reasonably good, I’m not saying make it a hair trigger thing, but at a certain point, it’s like, &quot;This is really not happening,&quot; and just secession and move people along.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Probably they won’t start doing the wrong thing and that’ll be an impetus to make it. I don’t know how that applies to political parties in a multiparty system as they get elected and they negotiate themselves about how they want to form the government, which totally betrays the same thing, what people voted for in the first place. I don’t know how it relates to that.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>I personally am not a big fan of celebrity and the main way that the public generally thinks about voting as a way to choose these leaders, because it extends this representative democracy thing, which is so broken in my opinion.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’d rather vote policies than people.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It was worth coming here just to hear you say that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Really. From a pure security guy’s point of view, that’s clear.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, because policies are generally reversible. If you make a bad choice in a Condorcet paradox, you can usually reverse it or amend it somehow, but people it’s very difficult.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’s also, there’s that bit and the basic thing is that it’s effective. Another aspect of this is that the granularity of voting for leaders is so blunt compared to voting on issues. What’s actually happened, I’m trying to make a point that you might find it beneficial if you read the introductory material in there, I try to suggest that the complexity of issues now has scaled beyond what elected officials can...</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Federal legislators don’t have time, obviously, they don’t have time to read all the legislation so that the complexity has scaled beyond the 5, 10 1,000 people that vote for a representative idea where you might have actually known...That was the original concept, but that doesn’t work anymore.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Also, you’re right, then the transparency, which you were a fan of, has revealed this, made this really obvious to people.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Without the transparency, people don’t even know that this is being talked about. Even if people do know and even if people do have a lot of ways to organize among themselves to have a co-intelligence or collective intelligence, with the current voting regime because the upload bandwidth is so small, it’s impossible to upload the collective intelligence into a...</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Just from an information theory point of view.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Yeah, it’s such a limited channel, one bit. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Just three bits or two bits, per two years. Even if we have the best answer, we can’t upload it.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Then, sorry to have to say this, but the bad guys get another bite at the apple, because even if that system even with such a restricted bandwidth uplink were to work, then they can work their magic on the representatives.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Why was Obama not who he said he was? Was he a rotten guy? How many rotten guys do you know who would volunteer to be, what did he call it, he called himself a community organizer, his job title? Basically, he worked in very poor districts in Chicago trying to help poor people.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Why would someone like that once they got elected all of a sudden support and actually take all the Bush policies and make them more &quot;Bushian?&quot; I don’t think it was from his own conscience and free will.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You don’t think it was predetermined.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Most people are mystified, &quot;Why do they lie to us? Why did even a good guy like that...?&quot;</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>When Swiss meet people they haven’t known before, like random meetings of people at cafes or on buses, or whatever, they are inclined to have debates about issues, because the people that have a responsibility to figure these things out as opposed to positioning themselves and arguing and quarreling. Newspaper readership, when they used to have newspapers, there were much better and more newspapers in Switzerland than anywhere else.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It creates a whole different culture when you have even the little bit of direct democracy that they have. It’s scalable both in the complexity and size. It scales nicely with the size, because the size is the more votes you can have without burning up too much bandwidth of people, it’s a beautiful thing. Already the size, the numbers worked out well. I’ll tell you another thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I may have to go to dinner shortly.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Global Challenge?</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Exactly. I submitted something to them.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, you did?</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>I did. Here’s the interesting thing. I don’t know if I’m going to win or anything. I didn’t hear anything, but I don’t care. I thought, &quot;That’s interesting. That’s a problem. I’ll just see how random-sample voting might be used to do something like that.&quot;</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It didn’t take me long to spin up a whole scheme that really when you go against their eight criteria, the questions they had and all, worked perfectly. It’s like this, &quot;We can do global votes now, because it’s so cheap.&quot; [laughs] Imagine that.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>We could have a global contest to find out the highest priority issues for the global population. That’s nice to know. &quot;Well stated,&quot; as I said. Then, we let people submit proposals for independent entities that will try to address those issues separately.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Taiwan’s new Referendum Act is in fact designed for such a purpose. We have a new Referendum Act that dramatically lowered the threshold for petition. It’s now just 2,000 people.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Really?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. It’s Swiss style with a very long period between the start of the petition to being part of the next vote. The binding power is one of the highest in the world. It binds the Parliament. It binds, aside from the name of the country and the territory of the country, it binds anything that’s not a constitutional violation, it’s a really high binding power.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>At the end of this year, we’re going to see many referendum things, topics that are highly political in nature and are in fact designed to build these comments that people can add in, and eventually refine and if it passes with a very high percentage, it’s nation building. Let’s put it this way.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s Taiwan’s. We copied many things. E-petition from the US and UK, and now the Referendum Act from the Swiss. It’s happening. It’s going to be electronic next year. This year, we didn’t get the electronic system up. The electronic part is all up to the signature, counter-signature part. The actual voting is still in the ballot in the voting booth.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That’s awesome. I’ve studied initiative processes around the world. I know that there’s usually a threshold where you have to submit it at a police station and this and all that and the period you have to get them, and so on.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Interestingly, if you read the random-sample voting paper, you’ll see that random-sample voting would be a much better way to validate a petition as non spam...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>...than signatures, which are more or less a joke. Be careful, you lower that threshold too much, you’re going to get a lot of rubbish and the whole thing’s going to be discredited. You have to be a bit...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>It’s not just the...The random-sample voting does exactly what this signature thing should...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I do agree.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>...the election, I’m just talking about whether the question should be put on the ballot.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s the best of both worlds, right? It has the same proof-carrying power as a full referendum with mandatory turnout, but it’s at the expense of a low threshold petition.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You’re going to lower the expense. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Even lower if you do it right.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Thanks for recognizing that. That’s a nice use of random-sample voting to get it going. Don’t forget, the petition process, one other thing, it doesn’t scale to the set of issues that random-sample voting would allow.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Don’t forget, also, it’s not necessarily a good thing that everyone vote on something, because that limits the number of things, but it also means that press, media, propaganda, whatever can be used to influence those votes, as we’ve seen.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>These plebiscites have not gone well. It’s not more democracy of that &quot;Everyone has to vote on only one thing,&quot; nature which has proven to be a bad thing. Random-sample voting obviates that by making it so that it becomes almost infeasible to try to manipulate all opinions on many issues all at once by means that would not succumb to real study and investigation by the voter.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You have to really put forward good arguments against a thing, because people...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Which is what we want, if people want to thwart it this way, more powers. Yeah.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Say again.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If people want to thwart the voting against existing options by proposing better options, that’s what we want.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(pause)</i>
+          </p>
+        </narrative>
+        <speech by="#David Chaum">
+          <p>Like if you look at the Brexit thing, it was a single question, there was a whole run up to it. It was so easy for the media to manipulate it, the Facebook people, all this stuff, you could target it and overly influence the outcome. Whereas if you...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>I’m sorry. I didn’t quite get the way you...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What you’re saying basically is a one-bit upload from the collective by extending...</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>Yeah, or with a block of time. That one bit per year is a dangerous thing...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>By increasing the...</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>...because actually it’s even less secure than having a higher bandwidth, because then you can’t manipulate it in the process. That’s funny, yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Is what I’m saying. Whether through a tournament, whether through pair wise, whether through...</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>If you think of information theoretically, yeah, you’ve got this one bit, it’s maybe really easy to influence that one bit in one direction by throwing everything at it. Whereas if you have a 1,000 bits coming up, you can’t really effectively...You can think of it too as a channel of information theoretically of the propaganda mechanism that you’re not going to have enough bandwidth in that channel.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Also, it makes the society much more pluralistic, because if you have only one or two dividing issues it’s very easy to have camps or tribes...</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That’s an excellent point.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...of being in green or red or blue, or whatever.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>I hear you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Even if it’s just 10 bits, then it’s a 10-dimensional space and in 10-dimensional space, any two points are very far away anyway, it’s impossible to form tribes or identities around.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That’s right. People can more meaningfully be engaged in the one they are selected for and actually be more thoughtful.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s the main observation.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>That’s really well put. Yeah, cheaper elections that are at least as secure, are a really good thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You’re expecting the elections, you’ve got problems.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, it stinks.</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>You...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes?</p>
+        </speech>
+        <speech by="#David Chaum">
+          <p>...I’ve been waiting for like years to talk to someone like you [laughs] about something like this. I really appreciate it. It was fabulous!!!</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
