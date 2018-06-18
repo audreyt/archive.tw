@@ -1,0 +1,21 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Chuin-Wei Yap" id="Chuin-Wei Yap" showAs="Chuin-Wei Yap">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-06-06 Interview with Chuin-Wei Yap</heading>
+        <narrative>
+          <p>
+            <i>(To be published after WSJ publishes)</i>
+          </p>
+        </narrative>
+    </debateBody>
+  </debate>
+</akomaNtoso>
