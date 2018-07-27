@@ -1,0 +1,870 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Andy" id="Andy" showAs="Andy">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Damien Wong" id="Damien Wong" showAs="Damien Wong">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Joe" id="Joe" showAs="Joe">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Mark" id="Mark" showAs="Mark">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Peter Man" id="Peter Man" showAs="Peter Man">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Shang" id="Shang" showAs="Shang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Stanley Hsu" id="Stanley Hsu" showAs="Stanley Hsu">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Tracy Hsieh" id="Tracy Hsieh" showAs="Tracy Hsieh">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Woh Shon" id="Woh Shon" showAs="Woh Shon">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/潘國才" id="潘國才" showAs="潘國才">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/謝宏利" id="謝宏利" showAs="謝宏利">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/陳怡君" id="陳怡君" showAs="陳怡君">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-06-28 Red Hat 數位創新技術座談會</heading>
+        <narrative>
+          <p>
+            <i>（<a href="https://issuu.com/pdis.tw/docs/__?e=30178544/63387474">簡報</a>）</i>
+          </p>
+        </narrative>
+        <speech by="#Tracy Hsieh">
+          <p>今天會有下述的議程，我們會分成兩個部分，今天儘量是以輕鬆、座談的方式，前半部我們會針對新加坡的案例、香港的案例、美國及臺灣的一些經驗分享來share。第二個部分會做技術交流討論，各位長官對第一塊有問題的話，其實都可以提出討論，因為我們的時間是足夠的。</p>
+        </speech>
+        <speech by="#Tracy Hsieh">
+          <p>首先，我們先請Damien跟各位長官介紹一下，謝謝。</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>大家好，我是Damien，我是新加坡來的，很抱歉，我的中文很不好，我的英文應該比我的中文好，所以如果不介意的話，請容我使用英文，好不好？</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Let me continue. My name is Damien. I am the Vice President for Red Hat in growth and emerging markets in Asia. Taiwan is a fast-growing market, so we want to support the market as part of this important group.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>I wanted to do a quick introduction of Red Hat. I hope everybody has heard of Red Hat before. It’s OK if you haven’t. My mother, when she first heard I was joining Red Hat seven years ago, she thought I’m going into the fashion business.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Damien Wong">
+          <p>Red Hat is actually the largest open-source (開源) software company in the world .</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>We today support more than 90 percent of Fortune 500 companies globally, which means 500 of the world’s largest companies use Red Hat technologies. 12,200 employees. It has grown very fast. When I joined Red Hat seven years ago, only 4,000 employees, so [non-English speech] .</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Today, 95 offices, 35 countries. We are an S&amp;P 500 company. S&amp;P is the Standard &amp; Poor’s index for the United States, 500 benchmark companies to represent the United States stock market. The first company in the world to get $2 billion of revenue from open source.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Many people ask, &quot;How do you make money from open source?&quot; It’s free, technically.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Maybe I explain to you using an analogy of water. Water in the river is free. You can go to the river. It comes from the natural community and comes from many sources.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>You can use it for free. You can swim and all that, but you will probably not drink the water from the river directly because of animals and factories and the pollutants and so forth.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>However, there are companies that take the water from the river and process it and make it safe so that you will look at a bottle and you say, &quot;I can drink this water. It’s safe.&quot; It’s cheaper than the water that comes from the Swiss Alps, the French Alps.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>That water is closed source. You don’t know what is in the water. It’s more expensive. You go to the supermarket. You buy Perrier. It costs maybe 10 times a bottle of regular still water.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>That’s Red Hat’s business model. Our business model is making the water safe and reliable and secure for companies to consume. Our development model is 100 percent open source. We support the open source community.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>This year, Red Hat is 25 years old. Open source has come a long way. In 25 years, we have moved a lot since we started in 1993. I will share a little bit.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Today, we all live in a disrupted world, disrupted by digital technologies. You notice that there are many companies that are competing but not from traditional industry. For example, banks.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Banks are not just competing against other banks. Banks are now competing with fintech companies. In the transportation industry -- I’m sure you have discussed this a lot -- Uber is a disruptor using digital technology. Hospitality, Airbnb. Content, Netflix and so on, so forth.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Digital technologies have been a disruptor helping non-traditional players to disrupt traditional players. It’s a good thing and maybe not so good if you are the disrupted.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>I think this is a world where we live in, where digital technologies are disrupting traditional industries. The technologies that are causing the disruptions are technologies that come from the open source community, whether it is cloud computing, big data, AI, machine learning, you name it.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>They are all actually from the open source community. It’s good because the disruption helps consumers. We all live a better life because of these disruptive technologies. If you’re a traditional company, then it’s not so good because you are faced with challenges.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>This leads to digital transformation. Traditional companies, unlike the Ubers and Airbnbs and those digital natives, they need to transform. They need to become digital companies as well.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>That’s why we have the term &quot;digital transformation,&quot; (數位轉型) . Digital transformation for traditional companies requires three things. They require company to be more efficient, to do more with less, to be more agile, and to do it faster.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>The reason why this is the case is because traditional companies do not start with zero; all companies have legacy. They have expensive IT systems and data centers. They have to maintain those systems. They have to ensure that those systems run as they transform. I like to think of the example that someone used to tell me.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>He said it’s like changing the plane or renovating the plane as you are flying. You cannot afford to land. The business will not allow you to land, but if you don’t continue to change, you will eventually crash.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>That’s the analogy we like to say. Traditional companies have to transform digitally, but they will do it while they continue to operate.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>We believe you need the following to optimize the IT that they already have so they can do more with less and use the savings to do things like integrating applications, data, and processes, adding and managing cloud infrastructure to be agile, and then being able to build more modern applications.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Because today, to a consumer like me, a bank is an app. To a consumer like me, the airline is an app. If I cannot have the app working and meet my needs, then the bank doesn’t work, the airline doesn’t work.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>I think this is becoming very obvious in many, many situations. I just want to highlight that most companies are facing this challenge and facing it at a very, very fast pace.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Many companies have experienced disruptions to their core business models. You name the examples, like Kodak. You name the examples, like Blockbuster videos.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>You name the examples of all these companies that were the leaders, maybe Nokia, BlackBerry and so on and so forth, who have all been disrupted because they cannot transform fast enough.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>We have a book, and we would like to give you a book from our CEO. It’s called &quot;The Open Organization,&quot; but it’s really designed to help organizations of any form, even government organizations, become more open.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Because in this new era, being open, transparent, collaborative, and partnering is going to be key to success. That’s what open source is about.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Why do we think we have the ability to help in this space? Why do we think that we have the ability to help companies with transforming raw community innovation into something that they can rely on?</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Because most of the innovations I spoke about is in Linux. They have underlying foundations in a core operating system to help them, whether it’s IＯT with an operating system in each devices to support light-weight applications, whether it is in middleware technologies that run on top of these platforms.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>It’s all based on a strong foundation of Linux, and Red Hat is the biggest player in the Linux space. We have over 70 percent market share.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>We have leadership in the open source community. I think most people who are involved in the open source community will have heard of Red Hat, and would know that Red Hat participates in most of these important projects.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>We have been involved in driving a hybrid cloud approach. For example, we believe we are like Switzerland, rich, you know? If you think about it, Switzerland allows neutrality.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>In the public cloud space, we have the major cloud providers who work with us, Amazon, Microsoft Azure, Google Cloud, even AliYun. These are all major cloud players. If you want to leverage the benefits of a public cloud, you have to be able to ensure that you don’t get locked into a particular cloud.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>For example, if you use Amazon Linux, you can’t move that Linux workload onto Microsoft Azure or Google Cloud, and so on and so forth. If you use Red Hat Enterprise Linux, you can move to any one of these providers. We help provide choice across the hybrid cloud environment.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>We have a comprehensive portfolio that allows organizations to benefit as they move into this digital innovation framework. Example, most global banks today rely on our container platform for rapid, agile development.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Containers allow you to deploy micro-services, allow you to manage and orchestrate using tools and platforms like Kubernetes. It’s exciting, but the portfolio is very much aligned with helping organizations with hybrid cloud, and developing modern cloud-native applications.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Finally, our culture, our people. If you know Red Hat...and we give you the book, and hopefully we can have extra books to give to the others. It talks about our culture, and how this culture is needed if you want to be innovative, creative, and survive in this new disruptive environment.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Last two slides. If you look at the open source community, there’s over one million projects here, and more every day. All kinds of projects that are going on, of people collaborating, and the whole world of innovation is actually being influenced and changed by that.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>This is because of the sharing economy. I like an example that was used by my CEO. He said that apples and ideas in the traditional world, it’s like trading apples. I have an apple. You have an apple. If we exchange apples, we each have one apple.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>In the sharing economy, the idea economy, if I have an idea and you have an idea and we share ideas, we each have two ideas. That is the basis of the open source philosophy. It’s about sharing, collaboration, and ensuring that we propagate this ecosystem.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>What Red Hat does is from the million-plus projects, we curate platforms for development and innovation. For example, from the Linux project, we create a platform called Fedora.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Fedora is our distribution of Linux. For Fedora, we actually have a product called Red Hat Enterprise Linux that is hardened, certified, documented, and supported.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>What we are doing is we are taking the innovation that’s very fast in the open source community, and we stabilize and make it consumable by companies and enterprises.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Because open source community is great for very quick innovation, but the open source community does not always put stability, security as a first priority. That is usually an afterthought, whereas companies like Red Hat have a duty to help banks, airlines, stock exchanges and so on ensure that they have secure, reliable performance environments.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>We think that by doing this, we create the best of both worlds. Rapid innovation, but then secure and reliable.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>Finally, this is what we believe we do. We want to help our customers achieve this ability to transform any application, any environment, without any lock-in. That’s really what I wanted to share, is the Red Hat overview.</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>On that note, may I present the book?</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Tracy Hsieh">
+          <p>接下來我們請Woh Shon來跟我們分享新加坡的案例，謝謝Woh Shon。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>今天很高興可以在這裡跟你們作簡報，這個簡報是有關於紅帽新加坡政府科技局所做的一個案例，是有關於跨政府部門的平台及服務。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>在我說這個案例之前，我首先介紹一下政府科技局的一些背景。政府科技局我們簡稱是「GovTech」，是在2016年10月所新成立的政府機關，前身其實也是做同樣的東西，就是新加坡的資訊發展管理局，大概在同一個時候，新加坡政府就認為要更大力推行及發展數位科技的策略，因此進行了一些改組，「GovTech」就在那一次的改組中成立了。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>這個改組的重點一項事情是，他現在是由總理公署直接管理，可見新加坡政府對於智慧國的「數位政府」決心有多強。「GovTech」主要的職責還是在領導公部門IT科技的方向，也要負責去推行智慧國、數位政府及IT人才的不同計畫，因此得常常跟他們合作，就是為新加坡企業及個人推出更多的技術服務及應用程序等等。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>最大的不同是，資訊管理局比較著重於那一些策略、大方向，「GovTech」成立以後，在科技領域上挺強的，所以除了普通的程序開發，像人工智慧能、AI、IoT的數據分析領域，他們可以說是有那一些專長。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>說到這個案例，其實在三年前紅帽就開始跟「GovTech」有合作，那時我們就知道有這個計畫要開發類似的平台，我們覺得紅帽的產品應該可以符合這個要求，因此就開始跟他們展開合作的旅程。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>「NECTAR」這個字其實是「GovTech」給這個品牌的代碼、名稱，是從Next Generation Container新詞即「容器架構」的縮寫。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>當初「GovTech」想要建立「容器平台」的時候，主要是要為公共部門提供標準化、高效率的平台來交付應用程序。「NECTAR」主要是以應用程序為主，我們知道容器架構的好處是輕量、能夠快速被啟用，比起那一些機器用的資源又少，所以很適合實現Microservices等新一代的应用架構。所以一般上我們說到數位轉型時，Container科技也是很重要的一部分。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>「GovTech」其實過去幾年很積極地布署很多系統，我們一般統稱這些系統為technology stack，建立technology stack的用意是希望全部的政府部門能夠資源共享，就是共用一些基礎的服務，像身分認證、數位分析及API平台。其實NECTAR這個容器平台是technology stack的其中一塊而已。他們希望政府部門在開發程序時，就能夠縮短其開發週期、能夠更有效率，什麼事都可以做得比較快一點。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>當初為什麼「GovTech」會想到要建立這個容器化的平台？在NECTAR平台之前，新加坡的電子服務、運用程序都是比較傳統應用架構開發與設計，就是所謂的單體架構，而這些程序通常需要不同的外包廠商去管理、開發。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>那麼問題就來了，不同的廠商間，整個運作環境都不一樣，不同的操作系統、不同的語言、不同的架構及不同的組件等等，因此管理起來就很困難，也常常要布署不同的虛擬機去遷就他們這些不一樣的運作環境，所以在資源的運用上也挺高的。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>私底下有那一些政府部門客戶會跟我反饋，他們覺得很多侷限像綁住他們一樣，要推出新的服務，整個過程也不靈活，又要花很多的時間，因此覺得沒有辦法專注做那一些創新、數位轉型之類的東西。如果有一個自動化、標準化的平台，就可以把之前所說的這一些問題，很大程度地解決掉，然後就可以創造一個有利於他們創新、做這一些數位轉型的環境。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>具體上，到底這個容器的平台如何幫整個公共部門來提高運作的效率呢？首先我們要知道的是，通常這一些平台器服務，像NECTAR就是一個集中管理的方式，也就是一個用戶只要登入到這個平台，我把代碼傳上去，就可以自行布署、自行測試我的應用軟件等等，以一個開發團隊的角度來說，現在可以很專注做我擅長的事、編寫代碼及處理數據等等，我可以不必管那些基礎設施，不用設立、管理，通過這些平台，整個交付的流程也變得很靈活，因為從頭到尾我不需要任何第三方的那些管理員介入，我也不需要去協調那一些不同的部門，一個是做基礎設施、一個是做網絡，我就直接按照自己的進度跟時間，直接到平台去就可以做我要做的那一些工作。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>另外，之前也提到不同廠商間不同的運作環境所帶來的管理問題，如果可以把這一些不同的操作系統、配置等等，都包裝在個別的容器裡面，我們還是在統一標準的容器平台上去運行，也可以解決之前所提到的那一些管理上問題。基於這幾點，整體來說，他可以很有效地提高整個政府部門推出新電子服務的效率及速度。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>自從啟用了之後，到底有提供了什麼比較實際的價值呢？其實從技術的角度來說，就像剛剛所說的，也就是一個平台，讓政府部門可以更敏捷、更高效率去布署這一些應用程序，就在NECTAR啟用第一年的事情，其實已經成功布署好幾個不同的系統，其中一個是叫做MyInfo的項目，它的反饋是，使用這個NECTAR平台，把原本預期一年開發週期的時間縮短到四個月。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>我現在說一下MyInfo項目，其實是一個國家的個人資料平台，整個政府部門及私人企業去做集成，或者有用戶需要跟這一些私人企業，像銀行要開戶頭，系統就會在用戶的許可下，可以向資料平台去索取他的個人資料，這麼一來，我們就省下填寫個人資料的麻煩，也可以減少人為的錯誤，可以把用戶親身處理的那一些交易可以轉成用電子的方法去進行。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>以這樣子的系統，因為涉及個人資料隱私、又涉及到金融機構，對於整個平台的安全性、可靠性的要求是很高的，因此成功地在NECTAR平台上啟用，因此我認為這是對平台很大的肯定。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>除了技術的層面，我發現自從NECTAR啟用了之後，最近跟那一些客戶、朋友交流的時候，我發現他們對這些新科技產生新的興趣跟一些認知，他們都會就NECTAR平台上所用的科技、新的應用架構等都會有很多相關的詢問，因此這一個平台也間接帶動政府部門對這一些新科技的興趣。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>同樣的時候，政府部門開始用開源軟件，就是在大概四年前加入紅帽時不常見的現象，最近GovTech開了一個先例，我發現有越來越多政府部門開始接受、擁抱這一些開源。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>說了這麼多關於NECTAR平台的事，我來說一下開發NECTAR平台的團隊是什麼團隊？開發NECTAR團隊其實是一個GovTech小組，叫做「Government Digital Service」。在四年前他們只是一個非正式開放的實驗室，只有七個人，而且這七個人都是自己本身工作職責以外，很有熱情，常常會去思考如何開創新思維、新技術服務等等，後來這個部門慢慢變成一個正式的部門，從原本七個人擴充到現在的一、兩百個人團隊。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>這個團隊當中各種專才的人都有，像程式工程師、UI/UX的設計師、測試產品管理等，好像一間小公司的規模，可以很獨立自給自足。另外一點，這個團隊比較特別的地方，他們的運作方式很像新創的公司，在處理問題、開發程序的時候，就用了大量的DevOps、《13：08》的這些流程，所以就跟一般的政府部門不太一樣。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>也因為這個緣故，他們也比較敢冒險、比較敢嘗試新的科技，所以他們常常就會和政府部門合作，從先小做起，先做比較實驗性的項目，當這些項目開始有一些了一些眉目、開始有了一些進度之後，他們才會把它做一個正式的招標，再藉由那一些私人企業的人力、物力，把這個項目給做得更大。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>他們的工作環境也和一般公務員的辦ï公室不太一樣，如果你們想到像Google、Facebook的工作環境，大概是那樣子，就是他們有很多那一些開放的討論區，有那些很靈活的辦公桌等等，還有娛樂、休閒的設施，我知道GovTech Official有一個很大的辦公桌，還有很多的榻榻米，是一個很隨意的環境。他們也會在實驗室裡面，常常會舉行一些座談會，請一些人士進來做一些交流，就是為了要帶動整個新加坡IT創新的氛圍。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>說了這麼多有關於NECTAR平台的事，我跟大家說一下整個項目的概況，還有Red Hat跟GovTech的細節。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>之前我提到我們大概在三年前就開始了我們的合作，當然在開始合作初期，很多的產品介紹、demo、討論及會議等等，因為當時三年前，OpenShift平台對我們來說也是相當新，因此有什麼技術更新、功能更新時，常常都會一直跟他們有交流，我們也會從Red Hat別的地區的專才過來支援我們。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>另外一點，GovTech本身內部的討論，有時我們也需要跟他們一起開會，要布署這樣規模的平台，其實在不同部門間，還有遇到一些阻力的，像網路安全、基礎設施的部門，一開始對於OpenShift平台還不怎麼瞭解，就很多問題，所以會拿出那一些很多準則、policy出來，看這個平台到底技術上有什麼問題，因此我們後來就要一一和這一些部門交流，也就是講解這一些新科技到底應該要如何運用。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>到了後期，「GovTech」就決定要做一個POC，因為怎麼說都是一個政府機構，要比較正式評估這一些不同的容器平台，我們幫他們設立了好幾個環境，在他的實驗室裡面，然後就進行了POC。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>經過了大概兩個月的POC，當然很高興地是GovTech覺得OpenShift容器平台是最符合他們的要求，不過他們雖然沒有真正給我們一個很正式的理由，但是我跟他們交流，我就瞭解到，他們選擇紅帽、OpenShift的原因是，整個Red Hat用的是開源元件、開放標準，而且有Red Hat去給他們商業的支持，就是可以喝的礦泉水。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>以OpenShift的平台來說，當時OpenShift的科技都是比較主流，是整個企業當中比較多人用的圖件，而且剛好Red Hat是這兩個開源項目的主要貢獻者。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>接著是平台本身的營運跟開發人員的流程，很適合整個GovTech要求的個案，而且我們整個生態系統也很健全，除了賣你一個平台，我們也全部都容器化，我們也有自動化的科技來幫你管理、維持整個平台及環境。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>我覺得最重要的一點是：除了以上這一些產品、解決方案的問題，我覺得GovTech跟Red Hat的合作關係已經超出客戶跟廠商間的關係，經過一年的銷售週期，已經變成像一個合作夥伴的關係。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>時間表列了一些重要的時間點，我這邊想說的是，整個工作項目第一個階段的工作，其實大概七、八個月的時間就已經做好了，在這麼短的時間有這麼好的進度，很大的原因是我認為OpenShift平台在功能上已經很健全、成熟，因此不必花太多的時間重新開發別的東西。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>我們Red Hat的諮詢師在項目開發時，我發現他們對整個專案、解決方案及產品有很深、專業的認識，因此對這整個項目的進度也是有著很大的貢獻。因此到了後期，經過幾次科技轉移、技術轉移，其實「GovTech」已經可以很獨立維持這個平台了。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>這也是大略的架構圖，當然我不可以把真正的架構圖放出來，這算是他們的一些機密的東西，左邊那塊是OpenShift的容器平台，右邊的部分也自己建立了一些流程，更好控制那一些用戶在使用這個系統，他們會把它蒐集一點，因為畢竟是政府的系統，他們對於保安那一些還是比較敏感的。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>像OpenShift平台在NECTAR裡面，幫他們做那些容器編制、容器管理的功能，當然除了做這一些東西之外，OpenShift的平台是功能很齊全開源的平台，就集合了那一些企業裡面所需要的工具、流程及架構，而且可以讓營運跟開發人員同時共用的平台，所以任何的企業如果要往數位轉型方向走的話，OpenShift的容器平台將可以為你提供一個很好技術上的基礎。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>NECTAR啟用之後，其實還有很多後續的一些活動，還會有很多像宣傳、教育的活動，像工作坊之類的，就會通過一些很實踐的活動，讓你跟他的科技、平台交流，而目的就是要讓這些開發人員、政府部門熟悉他們如何運作，以後要大力發展這一些系統時，就沒有那麼多的問題、技術上的隔離。（PPT）這張照片是上個月的工作坊，都有叫那些廠商、不同政府部門去加入。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>所以我很快總結的話，NECTAR的專案給整個新加坡公共部門帶來一個企業級的容器平台，通過這個平台，當然他們現在就能有更好的效率、更好的速度去推出新的電子服務，也可以節省他們的成本，因此能夠更好地去支持整個新加坡數位化及智慧國的這些計畫。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>簡報最後一頁，因為我們的紅帽每年都有一個活動，也就是Red Hat Summit，這個平台的項目也在去年的項目上得到創新獎（INNOVATION AWARD），Mark Lim是當時數位處長，他們還是以人為本的方法，借用科技把整個新加坡的數位政策，儘量把人民的生活做得更好的目標，以實現科技的這一些東西。我的簡報到此，有什麼問題嗎？</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>想要請教政委、處長及各位長官，目前臺灣是不是有類似像新加坡GovTech這樣的組織？可以提供共同的平台，也許可以給各個部會集中使用？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>其實在「GovTech」還是七個人的時候，我跟他們比較熟，越來越多人的時候，我現在不太知道他們做到哪裡去了，因為我記得在做SingPass的同時，我記得他們有一個APEX，我不知道你們有沒有參與，就是所謂API exchange program，理論上是把SIMPEX能夠去access所有的API gateway，理論上要變成讓政府重新定義成讓隱私或是community都可以來運用的一些API。這個跟我剛進政府一年半前所謂Open API的方向是一致的，但因為我一直沒有看到非常具體的access做到哪裡，我也會想要請問看你們有沒有在這一方面合作的經驗。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>先回答您的問題，這邊所提到大部分技術上的功能，我們跟一家叫做「中華電信」合作，中華電信提供了如果沒有記錯的話，尤其是中央機關，可以共用的安全語音系統，這個語音的系統差不多相當於OpenStack早期的這樣子一種功能，包含基本的負載平衡、開虛擬機，我們在上面也大概都是用你們弄出來的東西，我們確實也有在上面小規模使用技術，但這個資源是所有中央各個機關是共用的，我們的Open Data平台、電子參與平台的這些，大概都是用共通的虛擬機，但是容器還是比較是實驗性質的技術方面。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>目前以我的理解，大概以中華電信提供為主，在上面架構這種第二層的，好比像資策會或是其他的法人組織，像工研院等等，大概都有在上面做第二層比較像平台或者是容器再往上的開發，這是底層的技術；國發會現在還叫資管處嗎？（笑）可能快要改名字的資管處。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>負責coordinate是上面的標準，好比像所有的API會在他們的平台上去註冊，各個縣市政府所提供的接觸這些端口，就是剛剛所提到的這一些，也會在平台註冊，如果縣市政府有它自己的data protocol API的話，我們有機器對機器對接的方法，無論如何還是回到他們的平台上註冊，等於是有一個單一的方式去發現所有各部會與各程式的API，目前應該是統合的差不多了。</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>8月。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>8月會有一個正式的統合。有點像APEX本來想要做到的那樣子，每一個提供的資料集跟API都會有一個品質自動評估的機制，理論上也不是一下子就要提升到最高品質，但總是透過同儕壓力，大家可以看到彼此的品質如何來逐漸提高。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>在我自己的辦公室，我是把我的空間開放出來，我們現在在的這個地方叫做「社會創新實驗中心」，其實也是我們的辦公室，大家在一樓可能有看到禮拜三都會在這邊，是我的Office Hour，地下室有一個VR開發空間，二樓旁邊有無人圖書館，我們在院裡及空總這邊的空間，加起來是「公共數位創新空間（PDIS）」。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>PDIS是大家都自願加盟，從每個部會最多挖一個人過來，不會挖兩個人，儘量組成一個跨領域的team，確實也是用一種比較自由的，除了每個禮拜一一起吃午餐之外，我們沒有別的管理方法，大家盡可能在線上聊天室或看板上做事。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們的改變理論非常簡單，我們是純粹的看哪一個digital service可能爆炸，像之前報稅軟體爆炸的時候，有一點像美國的Healthcare爆炸的時候一樣，我們就一大堆人跑去修，即使不是爆炸，而是要做major innovations，像我們的健保卡也在考慮要放到手機當中變成無卡化，事實上這個也沒有人在做，全世界大家都在嘗試的階段，同樣也會由PDIS來進行服務設計方面的探索。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們的改變理論非常簡單，我們是公僕的公僕，我們不是要求大家採用底層的技術，相反的，有任何人有任何想法的時候，願意承受這個風險，我們就願意幫忙吸收一下風險，他們就調一個人過來，我們就開始research，做三個月或者是更久的研究，所以我們adoption的策略也非常清楚，我們不是要求power，基本上是隨時有機會，我們就協助。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以我們的team size很不固定，像有一段時間我們想要把五百多個政府網站，手機用起來不順的，因為有些手機開了都像是桌面一樣，要橫向捲動才可以用，輸入身分證，把前面截掉，因為螢幕不夠寬之類的，像這一莫名其妙的事情，因為這樣的關係，像我們今年有三十五個見習生分布在全臺灣，他們做的事是用iOS跟Android的手機去一個個測試，找出卡住的地方，有1/3的見習生看著它，然後去改前端的網頁，我們不是用廠商的態度，而是跟青年一起合作的態度，彼此把所有的網站在移動裝置上的問題，大概都進行了盤點與解決。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>各位可以看到我們team的大小，基本上就是看來的人怎麼想而定，所以是非常彈性的……也不是組織，大概是空間而已。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>是一個virtual teams？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，是一個純粹virtual teams，全職的人是二十初頭左右，但是每一次有專案的時候，就會再多一些人。</p>
+        </speech>
+        <speech by="#Andy">
+          <p>謝謝長官分享。</p>
+        </speech>
+        <speech by="#Andy">
+          <p>我叫Andy，我來自香港，我是臺灣香港負責紅帽負責雲的業務發展，今天很榮幸有這個機會跟大家分享香港金管局、應科院和紅帽的金融科技案例。</p>
+        </speech>
+        <speech by="#Andy">
+          <p>在有這個案例之前，我介紹一下應科院的背景，英文是「Applied Science And Technology Research Institute 」，ASTRI在2000年時香港政府成立，今天主要的目的是研究和科研的一些應用技術。它有五個重點，包含了金融科技、智能製造、健康科技、智慧城市、通信網絡。主要是技術開發，到今天有超過五百個工程師，另有超過一千項專利。</p>
+        </speech>
+        <speech by="#Andy">
+          <p>應科院（ASTRI）的目標主要是透過創新、放大產業運用、培養專才、推動創新、創業及創造共贏。</p>
+        </speech>
+        <speech by="#Andy">
+          <p>其中一個範圍，金融科技是一個很重要的範圍，金融科技包含了區塊鏈、網路安全、人工智能及深度學習。因為是一個政府部門，香港有很多不同的政府部門都有跟ASTRI合作，比如金管局、經建會，或一些銀行，像HSBC等的銀行，都有跟ASTRI在金融科技方面合作。另外ASTRI都有跟其他一些大型的銀行合作，成立實驗室、研發中心，為金融科技做出貢獻。</p>
+        </speech>
+        <speech by="#Andy">
+          <p>其中一個最重要的是我今天想分享的，有關於金管局「應科院金融科技創新中心的案例」。這個中心是金管局下的一個辦公室，也就是「金融科技創新中心」，叫做「FFO」，這個辦公室跟ASTRI於2016年成立的。首先講一下FFO是做什麼？它有三個角色：第一個是推動研究金融技術解決方案；第二個是技術交流與舉辦活動的平台；第三個是作為金管局媒介與橋梁的角色。</p>
+        </speech>
+        <speech by="#Andy">
+          <p>這個創新中心成立的目的是什麼？這個目的主要是為金融科技提供一個中立的場所，讓各方一同創新，他的用戶包含了銀行、FinTech、新創企業及金管局本身。這個中心的功能是促進金管局與FinTech技術的對話，提供FinTech解決方案，這個中心有提供電腦、運算資源，還有舉辦一些培訓課程。另外，這個中心也作為金管局自己沙盒。</p>
+        </speech>
+        <speech by="#Andy">
+          <p>但是這個中心成立之初，只提供了machine給銀行使用，是使用率偏低且成效不彰，而紅帽就提供一個解決方案，我們跟ASTRI安裝了OpenShift的平台，金管局下的銀行可以免費申請OpenShift容器平台來作開發與創新的軟件。</p>
+        </speech>
+        <speech by="#Andy">
+          <p>OpenShift容器平台已經提供了一個開發環境與工具，銀行不需要再重新安裝那一些工具了，所以開發的時間可以縮短。另外容器是開放的，是標準、portable，所以銀行可以在其他公有雲、私有雲繼續開發；金管局自己也有留一個優化的環境。</p>
+        </speech>
+        <speech by="#Andy">
+          <p>另外，紅帽定期都會在這個中心舉辦一些工作坊，銀行是一個容器開放的方法，（右邊照片），這個是我們上個星期拍的，我們在一個中心當中辦一個工作坊。</p>
+        </speech>
+        <speech by="#Andy">
+          <p>這個是簡單的圖，有關於中心當中，我們OpenShift在容器平台的推進，其實我們的OpenShift是在一個中心下面，OpenShift容器平台提供一個資源多用戶，可以讓不同的銀行同時間進行開發、測試，而且OpenShift容器平台提供了一個portal，是可以作為用戶管理、資源配置的功能。</p>
+        </speech>
+        <speech by="#Andy">
+          <p>另外，為了要配合金管局通報Open API的計畫，紅帽現在跟ASTRI在討論OpenShift的容器平台上，安裝Red Hat的API Management Platforms，讓一個銀行可以在上面測試API，這還沒有落實，但我們現在正在討論。</p>
+        </speech>
+        <speech by="#Andy">
+          <p>最後，我想總結一下OpenShift容器平台在創新中心當中的價值。第一個是加速銀行業創新，目前在金管局下登記銀行後，他們可申請免費OpenShift容器平台，透過這個跟環境去開發新的銀行業務，等於FinTech很流行的區塊鏈、AI等，他們都可以重新開放。</p>
+        </speech>
+        <speech by="#Andy">
+          <p>另外一個是傳遞開源創新文化，包含銀行、FinTech的支出，還有一些新創企業與其他前瞻的性質，都可以在同一個平台，但不同的地方開發新產品來作測試。</p>
+        </speech>
+        <speech by="#Andy">
+          <p>第三個，所有的用戶在開放及創新的工作當中，首先是縮短研發週期，接著是開發人員跟營運團隊可以在同一個平台上工作，也就是實現DevOps，接著是降低硬體建置成本。這個是有關於創新中心第一個案例的分享，謝謝大家。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>大家針對這一段有沒有問題？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們買下3scale大概兩年了，對不對？</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>快要三年了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>兩年多了。3scale目前買下來之後，他的開發都還是open的，整個3scale都是open的？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>想請問的是，它的governance呢？像3scale這樣的平台，如果在我們這一種大型的政府布署的話，像以前的Apiary或者是Swagger一樣，都會想要去參與這個平台的governance。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我剛剛沒有花很多時間找，不過目前我沒有看到3scale的，像3scale好比假設我們要採用，或是比如有某一個很大的NPO、公司要採用，他的evolution本身會是用什麼方法？像我們可以派人進去，還是怎麼樣的方式，又或者是就一般放pull request？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我想瞭解到這個夥伴關係在3scale是怎麼樣運作的，我想你們跟政府合作應該有碰到很多，是不是有具體可以分享的經驗？就是對這個平台的contribution或方向上的討論。</p>
+        </speech>
+        <speech by="#Shang">
+          <p>我稍微解釋一下，以紅帽來講，我們做的東西都是開源，所有的contribution或者是request，都是先upstream，然後再downstream，我想3scale也不例外，我們跟客戶很多的一些合作上，如果有一些需要feature的話，我們會到Bugzilla，來做tracking，當然如果有一些customer behind的話，我們會在internal有一些voice，跟工程師團隊來做priority，來跟客戶做更近距離的合作。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以作為partner或者是消費者也好，他的優先順序的力量，特別是在3scale這一種變動非常快速的專案，並不是非常高的？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>還是以回到上游的community為主嗎？</p>
+        </speech>
+        <speech by="#Shang">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以跟Linux Foundation的那個狀態比較不一樣？</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>謝謝。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>謝謝Woh Shon跟Andy來分享這兩個國家的案例，也想說今天可以趁這個機會，短短的10幾20分鐘，我們在臺灣看到Open Source的情況來跟大家互動。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>我想剛剛提到很多，剛剛副總裁也特別提到，紅帽對於Open Source的contribution來講，其實是非常高的。我想差不多從網路公司的一些興起，像我們每天常常用到的Google Map及FB等等，其實引領整個創新的部分，都會以Open Source為非常主要的驅動力。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>所以像我剛剛提到的cloud公司，不得不提一下，美股的四大天王，像FB、公有雲、Amazon或者是OTT的Netflix及Google，我想這四家公司的使用者動輒上億，甚至是10億以上的人口。這之間有一個非常大的共通點，就是使用Open Source，每一家公司都是以Open Source為基底，提供一個跨區域、跨平台的服務。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>這是美國政府企業界的狀況，美國政府非常早期，於2004年的時候，隸屬於美國總統的OMB組織，也就是美國行政管理預算局，他們鼓勵美國所有政府的行政機關可以使用Open Source，到了2009年美國國防部更加定義使用Open Source的好處。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>他這邊怎麼說？他說Open Source其實是安全、可靠的。怎麼說？因為Open Source有來自於世界各地對於特定領域、特定技術的愛好者共同投入與研發，而且所有的Source code都是公開、透明的，所以不會有任何特意的後門，如果有一些漏洞，也可以很輕易被發現，因此我想這也是這幾年中國大陸政府特別強調在技術方面需要自主可控的原因，往Open Source儘量靠攏。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>第二，他有提到所謂的Open Source可以因應各個單位組織的需求，如果自己有能力，甚至可以更改Source code，來達到所需要的mission及所需要符合的一些狀態。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>第三，Open Source是由多家廠商所貢獻、提供，舉一個例子來說，像我們今天如果選擇一個proprietary data base也好，或者是一個proprietary的作業系統，其實老實講，身為客戶沒有太多的選擇，只能回頭找這些特定的廠商來做服務。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>最後其實特別提到Open Soure可以降低有效的成本，有一些cost efficiency，也可以降低整個cost的部分，這是美國國防部在2009年特別發布的文章；如果有興趣的話，我可以再把文件pass給在座的各位。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>但是Open Source剛剛有提到，除了安全之外，也必須符合美國國家政府特定的一些規範，像紅帽的全產品線都有符合美國政府所制定的一些規範，我想我們其實在政府的一些標案spec上，常常也可以看得到所謂的標準規範。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>其實在美國方面，不僅僅是所謂政府機關、行政機關已經百分之百都adopt Rad Hat solution，在財經五百大裡面，不管是airline或者是一些醫療公司，其實都有使用Rad Hat的solution。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>反觀看臺灣目前的一些狀態，我舉一個例子來講，像晶圓製造龍頭在2012年左右就推動了Linux hotel的計畫，逐步把所有既有的一些UNIX system，慢慢migrate到所謂x86加Linux的環境上，截止目前為止，所有的Linux起碼超過上萬台，均提供所有B2B供應鏈的service、ERB系統或者這一些比較重要的data base system等等，都是由X86加Linux來負責。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>我們Rad Hat很榮幸每年都可以參加供應商大會，像IT的director很明確發表他們經過這一段時間去使用、評估，其實Linux+x86的安全性跟穩定度來講，一點都不輸UNIX，所以他們未來就是往整個Open平台去走。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>剛剛政委有提到目前跟中華電信有一些合作，我想中華電信其實在全國大概有2萬4,000多名的員工，光研究員都有2,000多名，都是由碩博士組成，這個數字非常高，很多在Open Source上有很多的研發與貢獻。但是就我們自己接觸，尤其是在客戶端本身來講，他們在所謂的Billing系統，也會考量採用紅帽的solution，比如剛剛提到的OpenShift容器的平台，目前他們已經引進且導入了，這是我們跟他們的使用者間有做過很多比較與交流。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>所以我們看到不只是在電信業者，他們把一些Billing系統搬到這個平台上面來，包含國內許多大型的金融業者，比如分行管理系統或是所謂的行動銀行、網路銀行等等的系統也都move到這個平台上。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>就我們接觸政府這一塊來說，目前來說，步調沒有企業走得那麼快，我想當然有很多不同的原因，政府在財政資訊中心的電子發票，我們也是跟中華電信合作，有一起合推，像Linux&amp;Jboss等方面的一些應用。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>另外，我覺得比較值得一提的是臺灣的交易所，跟大家簡單說明一下我們跟他們交流的過程。其實大概在2014年左右的時候，他們就開始在討論「新一代交易系統」想要做個轉型，他們過往是使用的平台也面臨到一些限制，像整個維運成本比較高昂，或是在整個平台方面不容易作橫向擴充，如果未來要推出更多所謂期貨證券的交易項目時，既有的平台是否能夠滿足？因此他們那時也到處去蒐集這些資料，甚至去參訪，比如那時有安排到香港、深圳的交易所，他們也自行到其他的交易所去作一些參訪，他們發現其實世界上很多各大的交易所的交易系統都已經搬到這個Open平台來。因此他們下定決心，大概在2015年初的時候，開始執行這樣的計畫。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>經過一年多的努力，這一段時間，我想紅帽不只是臺灣的團隊，像大中華區或者是韓國交易所的同仁，我們不斷給他們架構上的建議或者是協助他們做上線，所以在他們在2016年11月，系統正式上線了，到了2017年5月，他們所謂的盤後交易，也正式推出。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>我們也與有榮焉，在2017年整個全世界的交易所大獎中，其實臺灣交易所奪得了年度的大獎。裡面其實有特別提到，因為他們推出新一代的交易系統，其實整個capacity基本上是倍增的。另外一點，他們在latency上也大幅減低，所以其實在交易所的長官也特別發了一封感謝函，給所有參與這個計畫的團隊，特別指出了資訊系統已經成為業務發展重要的推手，我想這個是臺灣目前來講，一個非常重要的里程碑。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>紅帽自詡為我們的客戶、社區代碼貢獻者與夥伴間一個最好的催化劑，我們提供世界上最好的Open Source及更好的Open Source體驗給我們各個夥伴及客戶，所以我想其實今天藉由這樣短短分享的機會，也希望可以拋磚引玉，也許可以期待與政委、長官們多做一些討論，謝謝各位。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>不曉得剛剛上述有沒有什麼問題？</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>（中場休息）</i>
+          </p>
+        </narrative>
+        <speech by="#Tracy Hsieh">
+          <p>這個部分進入討論，看各位長官對於上面section有沒有問題，或者是對紅帽或各方面有新的資訊都可以提出，因為我們在座每一位都是非常厲害的架構師，我們也會希望有機會可以提問到各位長官，再請各位長官回答。</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>謝謝紅帽團隊非常專精且非常印象深刻的說明，尤其是在新加坡跟香港的案例。</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>因為我剛剛聽下來，我稍微做了一些note，但是有很多不太清楚，所以我的是mix在一起問。</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>我想要請問一下，在NECTAR跟新加坡的「GovTech」一起合作，是新加坡的「GovTech」的人一起參與NECTAR的開發，或者是中間有一個SI的廠商？</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>我先插一件事情進來在臺灣的政府部門裡面資訊人員，實際上因為人數不多，尤其在各個部會的內政、外交部裡面資訊人員都比較少，不像新加坡可能集中在一個「GovTech」裡面，臺灣因為散在各個部會，所以人比較少。</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>因為比較少，所以他們實際上真正去參與、去coding、開發一個系統的機會並沒有那麼多，大部分會由SI廠商去做。我剛剛的問題就會搭配到新加坡「GovTech」跟NECTAR是你們一起去做出來的，或者是中間有某一個廠商？</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>我們的確有一個廠商，其實NECTAR大致上分為三個部分，一個是基礎設施，所以我們的SI其實是做基础架构的那一塊，我們的Red Hat專業的services就是负责去安裝跟穩定OpenShift的平台。回答處長的問題，他們也是有自己的開發人員，他們在整個NECTAR的平台上有一個網頁，有自己的流程。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>所以以這三個部分來講，NECTAR的確是有一組十來個人專注於做NECTAR的那些流程、介面的工作，也有集成那一些data base及其他政府裡面的系統，大概是分這三個部分，所以SI是在那裡面負責基礎架構部分。</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>SI是做基礎的部分。</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>對。</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>所以data我聽起來是PaaS的？</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們出幾個人？</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>我們自己也有一些技術的夥伴，如果沒有記錯的話，大概有六至八個紅帽的人幫忙進去這一個項目。</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>NECTAR的PaaS這一層特別是為了新加坡政府這邊所客製化的，或者是通用性的？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>NECTAR本身是不是Open Source？</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>不是Open Source，但是大部分是。</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>我有一點疑惑，NECTAR是PasS的那一層，不管是在新加坡或者是香港的案例，有提到OpenShift，OpenShift也是一個PaaS層的東西，是NECTAR的關係是？</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>你可以把它當作是引擎，OpenShift是產品的名稱，NECTAR是新加坡政府的代碼。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>如果今天「GovTech」不需要用NECTAR的品牌、不需要自己的流程，其實OpenShift本身就可以處理這些容器上的這些功能，還有那些不同的介面，也就是讓那一些開發團隊、營運人員去管理與運用這一個平台，但是「GovTech」覺得還是要有自己的flow，因為他是政府部門，放進很多那些代碼、進行安全掃描，因此就自己建立了多一層，這個是NECTAR跟OpenShift之間的不同。</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>有一些for他特殊的需求。</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>其實是不需要的，他們使用OpenShift，不需要for UI、UX的話，應該是可以直接使用OpenShift。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>政府有些單位有自己的需求，像會把特殊的代碼掃描進去，像我們看到一些金融業界，我們幫忙做CICD的整合，試圖幫他們打造一個DevOps開發一體化的作業環境，所以我想在Openshift這樣的平台，是有辦法做到的。</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>剛剛有一頁說臺灣的使用情形，也有提到政府有沒有用到那麼多，其實我們打算要推動這一個部分。</p>
+        </speech>
+        <speech by="#陳怡君">
+          <p>我們有訂定一個數位服務的發展準則，準則六有鼓勵機關要開發數位服務的時候，能夠評估開源的軟體來做系統的開發，必須是鼓勵，也就是在國內有更多成功的案例，可以給部會更多的信心，大家再朝向這樣的方向發展。</p>
+        </speech>
+        <speech by="#陳怡君">
+          <p>剛剛談到新加坡案例的時候，我們想要瞭解的是，目前跟「GovTech」合作的時候，有沒有考慮從「GovTech」大平台當中，把相關的model帶回去用，可能不同的部會有不同客製化的需求，大家客製化後可以再回饋給大平台，讓大平台可以給其他有類似需求的機關使用，不曉得「GovTech」有沒有這樣的機制或者是規劃？</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>這個問題我就不能幫「GovTech」回答，在NECTAR這個項目以外，他們也會把很多項目代碼都公開在Github上，他們挺相信開源的原則與理念。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為平台是一個，等於提供給他的下屬機關，但是通常會搭配一個policy，在英國的話會搭配一個採購的policy，下一次要採購資訊案的時候，必須要用這樣的方式來做規劃，如果不這樣做規劃的話，預算就不讓它過，所以大家非來使用平台不可。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>另外一個方法是，如果新加坡不是非「GovTech」的機關，而要被接觸的時候，有沒有這樣的一個準則？像我們這邊是發展準則，也就是找機關上面那個已經集中過的平台，然後在那邊開發為優先，那個是「已管考」，因此不是干靠就是開發，通常會搭配，我不知道你們的經驗？</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>據我了解，NECTAR平台以後會成為一個標準的平台。</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>已經開始這樣做了，很多廠商已經問我說什麼是NECTAR，所以他們已經開始了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以是從採購端？</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>他們以後還會做一些，那一些要參與投標的廠商，那一些團隊都要那一些，都要有training。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>等於是一個專業能力的門檻。</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>你們將來會幫新加坡政府做嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們會做人才認證嗎？</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>我不方便說了。</p>
+        </speech>
+        <speech by="#陳怡君">
+          <p>新加坡資訊組織的組成跟臺灣不一樣，因此他們發展政策上來講不一樣，會採取機關的選擇，所以處長提到臺灣很多系統開發的部分，其實都是跟SI廠商來合作。我知道資策會有一個team輔導機關朝開源的方向來發展，之後有機會也可以跟資策會的team來交流，可以來合作以啟動臺灣未來的可行性。</p>
+        </speech>
+        <speech by="#Mark">
+          <p>我有幾個問題，有一些問題剛剛已經有人問過了，像有關於新加坡廠商之類的，但是我想問的是，像我們有用中華電信雲端平台，但是像臺灣的政府部門還是習慣把機器跟系統放在自己家裡，我想這應該會有一個說服的過程，我想瞭解說服的過程怎麼做的？因為通常跟PDIS合作的政府單位會被我們慢慢推，然後最後他的系統就會建在中華電信的雲端上。如果沒有人去推的話，這一件事基本上不會發生。</p>
+        </speech>
+        <speech by="#Mark">
+          <p>我不太清楚新加坡政府的結構，如果要開發新資訊系統的時候，他們會很自願要放在NECTAR上嗎？或者是必須要由「GovTech」的人說服他們說放在這裡很好之類的，他們才會放上去？</p>
+        </speech>
+        <speech by="#Mark">
+          <p>第二，剛剛有提到一個點，我覺得讓我非常驚訝，但是我想知道更多的細節，有一個系統預計要開發一年，但是因為用了NECTAR或者是OpenShift架構之後縮短了四個月，實際上發生了什麼事，可以再多分享一些嗎？</p>
+        </speech>
+        <speech by="#Mark">
+          <p>還有最後一個問題，因為OpenShift跟NECTAR其實是容器架構的一個平台，據我所知，在臺灣的SI廠商，具有使用容器架構經驗的廠商比較少，在新加坡那邊是類似的情況嗎？因為剛剛有講到會找廠商來開工作坊教他們，這個是什麼樣的情況下發生的？</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>之前你談到如何鼓勵那一些不同部門接到NECTAR平台上，其實剛開始也是Govtech所遇到的問題，像公共部門一般是比較保守一點，但還沒有真正強制性的；但像你所講的，還是要有很多推動的力量去說服他們。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>但是基本的推動力是，比較小間的政府部門，比較容易願意試，因為他們不需要管理自己，像我們去雲端的原理一樣，不需要管理基礎服務。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>第二個，有關於MyInfo我也不太瞭解細節，一般是少了那一些要做基礎建設的那一塊，然後他們試過之後，整個測試有很多，細節上我不知道，但是我可以去Govtech那邊問一下。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>慢慢跟容器化合作是未來技術發展的趨勢，我們分別在5月底跟6月中旬的時候分別辦了兩場，也就是OpenShift的教育訓練來了三十個人，我們也不定期去辦理工作坊，讓外面一些所謂的夥伴可以瞭解到容器所帶來的威力與好處，因此我們的確也是在做市場推廣的動作。</p>
+        </speech>
+        <speech by="#Mark">
+          <p>我補問一下，所以像剛剛提到跟廠商開工作坊，所以是紅帽，並不是「GovTech」？</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>我是在講臺灣的部分。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>新加坡的狀況是「GovTech」來推動，他們一直要推這一個品牌多過紅帽的平台，所以一般跟那一些相關的活動都是「GovTech」在推的。</p>
+        </speech>
+        <speech by="#Mark">
+          <p>瞭解，謝謝。</p>
+        </speech>
+        <speech by="#謝宏利">
+          <p>我不知道這一些政府機關在選用技術討論，像GovTech去做職業開發，我不知道當初選用的過程有沒有什麼經驗的分享？</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>當初評估的時候，我記得平台的開放性，他們最擔心的就是把一個產品帶到裡面去，然後就被整個產品鎖死了，因此我們有幾個好處，我們的東西都是開源的。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>也就是裡面組件的部分，這一些都是在企業當中比較多人用，因此他們比較放心，因此比較多人支持這幾個項目，而紅帽主要的contributor，因為這個要成為共用的平台，因此要支持的那一些應用程序、容器等等，也要比較多元化一點，而當時其中一點是OpenShift其實提供了很多這一些不同語言，幾乎所有的開源、PHP等等都已經支持這一些image，其他廠家的容器平台就只注重於一個，那也是不想被單一個語言鎖死。</p>
+        </speech>
+        <speech by="#Woh Shon">
+          <p>還有一些科技以外的東西，我們當時真的是人海戰術，幾乎每天都待在實驗室裡面，很多東西就其他的廠家沒有來評估。</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>除了紅帽之外，還有十多家參與，採購的流程滿長的，超過一年、一個月。POC也是滿長的。</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>我們也叫日本的同事過來，他也待了一個月。</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>我補充一下，我們還有其他的services，他們在維持一個平台時，不只注重那個平台，還會有一整套的自動化流程，像生產環境要提升，就要有自動化程序去布署新的版本，代表舊的版本程序再移到新版本上，然後再把舊的版本拆除掉。</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>那時OpenShift也是跟這一些自動化的技術融合很好了，因此也是從比較宏觀的大方向去看，也就是出了一個平台，如何很有效率去管理幾個平台，因此有幾個生產等等，這都是他們考慮的範圍。</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>我再請問一下，剛剛所作的簡報裡面，當然提到了Open Source的優點，開發的時間大幅縮短，像剛剛我們同事也有提到。但是另外一個優點不知道有沒有評估過，也就是成本的部分，因為政府部門的預算也是逐年降低，我覺得從這個角度切入的話，也增加一些說服力、吸引一些government。</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>但是因為剛剛沒有看到，所以不知道這邊是不是也有做過這樣的評估？</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>像剛剛提到交易所的案例，很重要的一個原因是成本降低，這個是他們考量的，但是我想很多企業用戶，除了在成本降低之外，更多的考量是在創新或者是time to market，畢竟以企業來講，降低成本之外，是如何提供收益並提供更好的服務給客戶。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>接觸開源的確是為了減少成本，但是後來接受創新的效益之後，就會比較偏向創新的那一塊。</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>但是一開始吸引政府部門，他們當初應該是預算的部分。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>我以交易所的例子來講，他們一開始要買一座server，一次要評估五年的使用量，因為不容易做橫向的擴充，一開始的建置成本相對是比較高昂的，因此他們轉到x86的Linux的平台之後，整體的價格就往下降，日後擴充的時候，採購的硬體一定是當下，我們講最流行的機器，就不用再遷就五年前採購，其實買到的機器並不是最好的，這個是有幾個優點，他們的確是有考量的。</p>
+        </speech>
+        <speech by="#Peter Man">
+          <p>降低成本另外一個想法是如果用一個東西……因為我們是完全Open Source，因此沒有這一個概念。在很多進步的客戶，其實我們有很多cost是你給他們，但是不是買那個東西要多少錢，而是你牽涉到其他周邊的東西才可以用，這個是為什麼那麼多客戶轉到我們這裡是很大的原因。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>不好意思，我問一個政治的問題，要是不方便回答也可以不用回答。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>2015年以後，Redhat.com從原本的界面，改成只有簡體中文。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>本來臺灣網站的內容，看起來也是用OpenCC這一類的自動轉換模式轉上去，理論上沒有成本才對，但是後來就沒有了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以到現在，我們要送一些連結給相關部門參考，因為像我們政府組態基準其實是有Windows也有RHEL，但現在你們主要的介紹頁都是簡體的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>有沒有可能把自動轉換恢復一下？</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>我補充說明，這一件事也跟公司的HQ說明過，把內容增加，不一定是基本的首頁而已，而是有更多的資料可以有在地化與繁體中文化，這個是我們跟公司一直做討論的。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>因為Open Source進步非常快，所以一定是以majority跟多人使用的語言為主，這個是我們還要多努力多跟公司說服的。</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>老實說我們從去年11月開始才變成團隊，在11月份以前其實臺灣是大中華區的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>香港也用得到繁體中文（笑）。</p>
+        </speech>
+        <speech by="#Damien Wong">
+          <p>這個我們跟領導者討論一下。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>非常感謝。看大家有沒有想要問的？</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>剛剛政委提到政府組態的部分，我們跟之前不同的政府機關有交流過，我們那時看到所謂組態的資料或 者是安全性設定，看起來在Linux上面沒有update，跟微軟的版本跟得滿新的，但是Linux是十年前的版本存在，所以我們如何跟相關的政府單位合作，把組態等等規範可以受到更完整一點。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>以我的理解，如果我錯了，Mark可以糾正我一下，在我自己入閣的時候，我還要重新編譯，因為中華電信給我的kernel，確實如你所說是相當於RHEL 4、5而已，因為我要用容器技術，但是其實5是沒有辦法用的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以我當政委第一件事是自己編kernel，我想這是非常有象徵性，但畢竟不能長久。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>不過，到今天我們用HGR政府雲的時候，好像有升到比較新的？</p>
+        </speech>
+        <speech by="#Mark">
+          <p>Kernel有比較新，但是沒有到最新版。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>沒有到最新版，有稍微新一點，可能從十年前到三年前。這個是我們目前實際在政府的狀況。</p>
+        </speech>
+        <speech by="#Shang">
+          <p>這個麥克風得來不易，大家都有很多問題（笑）。</p>
+        </speech>
+        <speech by="#Shang">
+          <p>因為我們主要是企業的客戶，以企業的角度來講，我參加過OpenStack summit，之前有一位NSA同事在台上分享他們怎麼樣從內部有這樣scale OpenStack平台的經驗給大家，我覺得可以給大家分享的一個案例是，那時也沒有想要說服他的同事，有興趣給自己或旁邊幾個人一起使用。</p>
+        </speech>
+        <speech by="#Shang">
+          <p>過了一段時間之後，以訛傳訛大家覺得這個平台很好用，就開始越來越多人加入cloud environment，後來cloud environment就變成他們在group的平台，也就是好幾個solution，所以我們那時覺得一開始是一個small success，然後讓它grow，這個是我們覺得很有趣的經驗。</p>
+        </speech>
+        <speech by="#Shang">
+          <p>另外一個可能是，針對剛剛說為什麼從開發一年、四個月，從我們很多企業跟我們分享的一些經驗，我們看到很多，從開發的流程裡面，像現在越來越多人講到這個是practice之後，其實他們要做操作時，或者是他們要approve那個process裡面，有很多人為的因素在裡面，他們就QA，QA的環境不一樣，你給我的東西不一樣，我要怎麼樣做整理，所以很多的中間，像我們在這個平台上去做解決，因此他們省了很多這一種來回的back and forth，我們開發這樣的流程，省了這麼多的時間，原因可能在這個地方。</p>
+        </speech>
+        <speech by="#Shang">
+          <p>我要問的問題是，已經有在做容器化的一些測試，我們在客戶這邊有很多容器化的經驗，我也想聽聽看政府這邊正在做容器化的一些testing經驗、困難點，如果可以跟我們分享的話，我們也看看是不是由我們這邊的同事能夠有一些經驗可以分享。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我自己剛剛進來為什麼要重新編譯kernel，主要的原因是想要布署容器化平台，不過我布署的其實是我自己有參與開發的平台，就是「政委自帶廠商」（笑），叫做「Sandstorm」，如果大家有用過protobuf，可能知道那個項目主持人Kenton Varda。他離開Google之後就創了這樣容器化的solution。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>它其實是資安的專案，它的重點是因為Docker在資安上有一些疑慮，到最近一、兩年才變得比較好，所以是以資安為出發點，用的是跟Duker一樣的技術，在上面運行相當於Google的application，像有協作時的文件編輯（Etherpad）、協作式的試算表、Wekan（類似Trello）的部分等等，所以其實對使用者來講是好方式，但是對資安處來講是可以讓在上面自己像我們同事有自己訂便當的系統，把行政院附近80元的便當菜單拍照放上去，讓我們每個禮拜一可以訂便當，寫的時候就不需要擔心底層資安的問題，因為我們有些白帽駭客有稽核過，基本上沒有什麼問題，還有一個防禦跟縱深，倒不是為了延展性。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>後來當然我們也有用一些Docker去做討論區等系統的布署。但是延展性部分的布署，依我的理解，現在就是在個別資訊專案裡面，他們是在試用，並不是真正全政府延展性的架構，而是一個服務可以用微服務的方法，像Pull Request一個個拆出來維護，目前中華電信的HGR，就是政府雲的區塊上自己再去跑這樣的服務，但以我的理解，這並不是平台服務的一部分，跑得動，還是要自己上去布署，你可以布署任何image上去，以我的理解都還是在測試的情況，如果有在production，也可以提醒我，但是以我理解，這都還在pilot。</p>
+        </speech>
+        <speech by="#Mark">
+          <p>像比如報稅，因為臺灣報稅是5月，5月1日大家就會衝進去，所以他們就會在報稅系統上做了一個備份，像擴充的功能，也不是綁在那裡，像CPU memory到達什麼用量，然後就自動往旁邊展一台，類似這樣子，低於多少又再砍一台，類似像這樣的狀況。目前有做這樣的機制，但是今年量沒有展到，今年那個量沒有到。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但明年應該會用到？如果Windows的人來用的話……</p>
+        </speech>
+        <speech by="#Mark">
+          <p>老實說他們還是會怕雲端那邊沒有辦法撐住，所以他們其實是把application server放上去，但是database還是在家，所以那個運算量是在database上。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我再補充一下，以我的理解，我剛剛講pilot的其中一個是NCHC（國網中心），為了要運行一個叫做「民生公共物聯網」的前瞻計畫，我們去放那邊的是容器，並沒有對外提供服務，我們的想法是把所有空氣品質的資料、水品質資料、災防資料、地震相關資料，又或者是更多沒有個資疑慮的資料全部都集中在國網的平台上。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>他們現在其實是把政府開放資料，像把data平台一整份放上去了，是要讓想要用機器學習或者是其他統計方法來研究人類活動跟氣候關係有關的循證治理或者是看到什麼方式的事再來決定政策的老師們，不會是各自用各各自的資料或各自的模型，就算這一位老師算得比較準，我們不知道是他的資料比較好或者是模型比較好，因此我們資料統一在國網這邊，如果模型的部分，他們確實打算是用容器的方式上去，然後即時做執行。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但如何去結合像GPU-based machine learning的這一件指，所以這個東西以我的理解，他們在下半年會跟我們合作的一些不一定是廠商，有一些公民科技社群的朋友們先測試這樣子的可能性，如果大家覺得這是可用的話，至少在無涉個資的部分——因為說老實話，我們去講這一套之後，大家對於容器資安還是並不是百分之百非常有信心——因此我們就是在環境資料、無涉個資的資料，在一次演算跟長很多的那些部分，國網是比較大的pilot，管理的介面是臺灣幾家廠商是一起在做，相信你們也知道。</p>
+        </speech>
+        <speech by="#Joe">
+          <p>我問一下，因為我個人在臺灣也有服務政府部門的部分，我記得有一年政府部門導入，很開心，那時使用者的時候，來聽我這邊介紹的，有一句話讓我有一點感傷，他們說：「原來我們這邊有OpenStack？」因此陸續也有聊到，我看到一些問題，也想向各位尋求看看有沒有什麼建議。</p>
+        </speech>
+        <speech by="#Joe">
+          <p>以廠商的立場來講，我們知道廠商推動的是技術，因此很多時候跟一般科技的部分差異非常大，相信各位非常清楚，我們往往在裡面有一些地方，其實我們跟客戶做engage的過程中，客戶可能非常忙碌，沒有辦法很快瞭解整個technology capability，這部分會花很多時間。中間可能也會牽涉到一些他們這邊的support，能力的部分往往也會有一些影響。</p>
+        </speech>
+        <speech by="#Joe">
+          <p>因此我們最不希望的是，政府開始有一些第一步，導入了emerging technology，但是最後的conclusion是我把它換成VMware</p>
+        </speech>
+        <speech by="#Joe">
+          <p>，就是退縮回去了，因為不熟悉。很像我原本要找一個要取代賓士的車，結果換了另外一台直升機，但是如何操控我沒有時間去學，因此落差會很大，這是我在臺灣跟客戶溝通時會遇到的部分。</p>
+        </speech>
+        <speech by="#Joe">
+          <p>因此想要請教各位長官是不是有什麼樣的建議，可以讓我們有這個機會在臺灣提供更好支持的服務？</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>我直覺的想法是，我們沒有很深入地研究，回到我剛剛提到跟SI合作的這一個點，以政府部門的人員來講，目前還是主要會depand on SI的資訊或者是POC或什麼，所以我會建議如果有這樣的困難點，像在新加坡有一個例子，不管未來的認證是由誰來做，就代表有這個品質可以做這一件事。</p>
+        </speech>
+        <speech by="#潘國才">
+          <p>在臺灣有沒有可能也建立起這樣的機制，當然一個是top down，一個是bottom up，一個是新加坡要求有這樣的認證的人才，bottom up是紅帽有一些建置的能力，然後再說服這一些廠商具有某一些能力的人，他們可以幫忙解決什麼問題，像這樣的方式，我覺得也許可以試試看是不是用這種形式來處理？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我補充一、兩句。我剛進內閣的時候，當時正在做「DIGI⁺」的方案，確實開放源碼佔很重要的角色，但大都是放在人才培育的部分，我們希望學生跟剛開始出社會的工作者，剛開始學習的時候盡量不要學被vendor lock-in的技術，因為你很難保證大學畢業之後那個產品還在，這個很現實的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>出社會之後他要如何選擇是他的自由，但不應該在人才培育上把選項鎖死。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個論點比起剛才講的省錢或是創新，都更能夠獲得一致的同情，所以後來的開放源碼，我們是放在人才的這一個部分，這是有明確的文字。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為這樣的關係，所以像資策會的「數位轉型研究所」，各位可能知道有執行一個「TWOSS.io」，也就是「臺灣開源軟體協作工坊」的專案，這個專案裡面包含開源技術人才的計畫，包含他們有用github把開源軟體，在關務署、地質所、營建所、災防中心、高雄市政府等一大堆應用的典範案例做出來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>像有些部門長官去過OpenStack臺灣年會之類的，但是不表示實際在簽支票時的決策者知道這個是什麼事。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是如果主要由下而上的技術夥伴，在教育訓練的時候、在自己培力的時候，又或者是開一些工作坊的時候，都是有TWOSS所支持白皮書的東西，比較容易自己找外面的資源、社群的資源，不是靠我們人事總處或者是文官學院由上而下灌輸。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因此我們希望有機讓社群提供案例，讓變成這個是很酷的事，這個在教學上沒有什麼問題，而且確實在數位國家方案裡面特別挑這幾個技術出來。</p>
+        </speech>
+        <speech by="#陳怡君">
+          <p>接續剛剛政委提的建議，其實繁體中文滿重要的。</p>
+        </speech>
+        <speech by="#陳怡君">
+          <p>因為政府的採購上來講，會希望政府機關所採用的產品盡量沒有國安上的問題。</p>
+        </speech>
+        <speech by="#陳怡君">
+          <p>所以，如果今天機關在survey，從紅帽的網站上看不到繁體中文來講，疑慮度會增大。</p>
+        </speech>
+        <speech by="#陳怡君">
+          <p>我剛剛也有跟資策會的同仁聯絡，像剛剛政委講的team，我可以給您他的聯絡方式，也許後面你們就可以自行瞭解。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>感謝。</p>
+        </speech>
+        <speech by="#Stanley Hsu">
+          <p>補充一下剛剛處長所提的疑慮，但是在紅帽服務或者是政府的立場來講，其實會針對產品線有一系列的教育認證，所以有在SI夥伴之間，我們在推所謂教育訓練的認證，像容器化的平台來講，中華電信至少已經有四、五位的同仁有相對應的認證了，因此我想這個部分會持續推廣，讓未來的一些政府機關在選商的時候，也可以透過在臺的人員可以取得一些相關的廠商資訊，這個是沒有問題的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>如果沒有問題的話，我們就先到這邊，謝謝大家。</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
