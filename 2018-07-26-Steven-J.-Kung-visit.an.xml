@@ -1,0 +1,835 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Pat Tsao" id="Pat Tsao" showAs="Pat Tsao">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Steven J. Kung" id="Steven J. Kung" showAs="Steven J. Kung">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-07-26 Steven J. Kung visit</heading>
+        <speech by="#Audrey Tang">
+          <p>We’ll make a transcript. We can edit for 10 days before publishing, if it’s OK with you.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Of course. By the way, here’s my movie. I’m a director. It’s Blu-Ray. I made a little movie a couple years ago. If you wanted to see it, here it is.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Thank you.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>You’re welcome.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Pat, I remember the script you showed me.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Right now, that’s why he’s here. We’re looking to make a movie.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>So you’re working with indigenous people here?</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>It’s really where the action is.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Are you actually doing casting now?</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>No, we’re in the development stage. We’re trying to put together the elements of cast, putting in the money, so very early stages.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I see.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>I live in Los Angeles. I’m co-chair of the Asian American Committee at the Director’s Guild. I’m also working for ABC as part of their program to direct television. Then, my mom told me about you. I was so excited to meet you for so many reasons. This is...</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>One of the reason [laughs] he want to make movie out of you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s plenty of directors.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>We’re working on that, but I’m sure that you can collaborate somehow.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Steven J. Kung">
+          <p>When I read your bio, I was like, &quot;What? Why isn’t there a movie?&quot; Have you written a biography?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, when I was 14 years old, my mom did write a book.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Really?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>So much has happened to you since you were 14.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>[laughs] You should write one yourself.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m actually writing one right now...</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>There you go.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>All these transcripts is in the public domain, so I’m sure that it’s up there. It’s the raw material of all the recordings that I made myself and all the lobbyists and all the journalists who came to me. Many of them are also videotaped and put into YouTube under a open license, so a future filmmaker or a director or a curator can cherry pick from those moments and make anything.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>That’s wonderful. That’s great.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s the idea.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>I didn’t know you were doing that right now.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That is the idea.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>That makes sense. I heard that you have this project where you’re trying to make software in Taiwan for free, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, that’s right.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Everyone can share. What about private software from the States? For instance, Adobe Premiere, which my mom uses to edit, they charge her 60 bucks a month.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>In US dollars.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>US dollars.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>[laughs] I know.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Is there a way you can work with private corporations to make it less, to make it free, as well?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. One of the groups that we’re working the most closely called Mozilla Corporation. It used to be called Netscape, which was one of the leading private software companies...</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>They make Firefox.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, now they make Firefox, but it’s a social enterprise. All the profit that they make out of Firefox, which is plenty of profit actually, is reinvested into furthering the software freedoms, furthering community awareness, etc.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For example, they’re now working on democratizing AI. There’s a project called Common Voice where they ask people to read out random sentences in various different accents so that different people in Taiwan in their indigenous, or in their Hoklo, Hakka, or different languages can converse with AI.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s something a purely for-profit company would be very difficult to justify to their shareholders, but because they’re led by the vision of democratizing this vision, the end product of this thing is all open freely. Therefore, to Adobe, Microsoft, Amazon or so on, it’s like a gift.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They don’t have to do much to incorporate Taiwanese, Hakka, Hoklo or indigenous language into their software in the future. They might as well take it. That’s the pipeline where the non-profits and the social enterprises, and then the for-profits, can all work in that system.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>That’s cool. Are you working with Academia Sinica?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The open source community here work pretty closely with the Information Institute within Academia Sinica. Almost all of the bimonthly hackathons of the g0v movement takes place within Academia Sinica with the support of their Information Institute.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Also we have a national plan called DIGI-plus. You can see that. I think it’s just <a href="https://smart.taiwan.gov.tw/.">https://smart.taiwan.gov.tw/.</a></p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Within it, we specifically said, especially for the basic education and also part of higher education, we prefer these open software because we don’t want the student to be tied in to a specific vendor. When they become professionals, of course they can sign up with specific vendors.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>While they’re learning basic concepts like educational programming languages and things like that, we prefer if they can work with open source technologies and open source vendors.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>That’s so cool.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. I think a unfair advantage of Taiwan is that we have a Academia Sinica, which is directly reporting to president, not worrying [laughs] too much about the ROI or stuff like that, and can dedicate itself into community building.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>That’s great.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Actually, from a more political side of this, Taiwan right now has really been pushed away by lots of different countries because of a man in China. They are so big. They’re so powerful. I’m thinking about if we use a movie, just like water, your talking voice, and movie talking about you, the growth of you.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Then you’re into those different...People see this about a person, interesting events, but somehow we’re selling in Taiwan. I think we should thinking about, just the movie script about Taiwan. We use a movie. Movie is the best way to do advertisement, softer way to do advertisement.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>You don’t have to buy advertisement on CNN. Indonesia, India, and Thailand all buy those advertisements on CNN. You can see. They make a beautiful advertisement, but they paid a lot of money. I still know that you, in the United States, I saw Taiwan.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>We make a advertisement on CNN, obviously. I remember so well that’s a beautiful advertisement. The beginning of the scene is there is a man during the rain day, and the umbrella flipped over. He says, &quot;Damn. Made in Taiwan.&quot;</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>The other scene is TSMC, all this beautiful furniture, all this very high-end, quality stuff there. To the end they say, &quot;Great people from small island.&quot; I remember so well. It’s very short, 30 minutes, but it can tell the story. Obviously, that we have that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s great.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Since then, we don’t have a advertisement.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Our minister of foreign affairs, Joseph, just gave a interview with CNN this week. I think it’s a pretty positive sign that we’re, again, on global spotlight.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>That’s good. We need that. We need the exposure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>As far as I know, there’s already a French team intending on making a biopic of me.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Oh, great.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think they made a small trailer-ish thing. I think they made one on Netflix about Joshua Wong, from the Umbrella Revolution, the young leader of the Umbrella Movement in Hong Kong.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Back when Hong Kong, shortly after the Sunflower, they also have a Occupy Movement.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Recent, OK.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That is very recent, 2014. The same team, I think, made a short biopic about that movement. They also want one of mine. My position is always the same. All the initial footage need to be open. If you take your own footage, then we take ours, too. Then we publish on YouTube, so other filmmakers and directors can make use of it.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>That’s great.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If it’s all in Creative Commons, then we’re happy to book time.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>This is a documentary?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It is a documentary, yes.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>That’s great.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Somehow, people will not pay to the theater to see documentary films, unless it is &quot;Seeing Taiwan&quot;. Taiwan is very special. It’s beautiful, and everybody behind it. Really, a story, a movie, people love to see movies. It’s like people play you. It’s not really you. People they already some actor to play you. That make it more interesting, more dramatized.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>People see you. It’s a documentary. It’s totally from the movie. I also want to do something for Taiwan. I really think Taiwan can be like a Hollywood Taiwan. You know digital, it can reach all over the place. Especially use a movie or use a documentary, whatever, can let people know about Taiwan.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Taiwan does a lot of Hollywood, but our market is all over the world. Our market is the world. Our market is not just for Taiwan. Our market is not just for Mainland China or the US. It can be for every country.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>If we do that, I really think that, fundamentally, we have to change a lot of things in Taiwan. I would like to have Steven talking this structure, Hollywood, why over a hundred years and it’s still a booming business.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>People can make money. People have a good life in terms of they can survive doing movie industry. That’s why this continues to have ideas in the movie industry and in Taiwan.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Now it’s the TV industry.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>TV industry.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Movies are shrinking. China’s the new movie behemoth. Now it’s all Netflix.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. I was just about to say the Netflix is actually taking a lot of traditional movie theaters’ mindshare.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Is Netflix big in Taiwan, too?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It is.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>You need to subscribe to Netflix.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>OK, I will.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>As soon as I have Internet, I can watch it.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>My day job is working on a Netflix show. It’s called &quot;Dear White People.&quot; You guys get it here. You should check it out. It’s pretty good.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’ll check it out.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Tell me about yourself. You lived in the States for a bit, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A little bit.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>You went to Silicon Valley?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A little bit.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Why’d you come back? Did you not like America or did you just...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Mostly it’s because some Estonians invented this technology called Skype. I get to run a company and join various ventures with Silicon Valley companies while staying here in Taipei.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t like long meetings. I prefer an hour, for example midnight, around 11:00 PM. For Silicon Valley, they were just about to get to work. We schedule maybe one hour of stand-up meeting and nothing more. Then I go to sleep, they get to work, and I wake up and review their work.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>That is the kind of work style that I prefer, because I prefer long, uninterrupted time for work. This time zone difference really helps. I worked with Apple for six years, but I have never visited Cupertino.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Oh, funny.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I worked with Socialtext for maybe eight years before joining the cabinet, but I only visited Palo Alto maybe three times. I initially visited Silicon Valley, actually in San Jose, but after initially studying economic structure, I just went back to Taiwan.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>[laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If not for Skype, this all would not be possible. With video conferencing and with online collaboration tools nowadays, like Slack, Trello, and things like Google Apps, I actually prefer it this way.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>That makes sense. You’re a tech guy.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>I know you’re doing things in terms of the tech realm. I was wondering. You’re obviously an LGBT icon, whether you like it or not, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I wear the watch. [laughs]</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Because there’s so few of us, so many of us have to be ambassadors, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>I was wondering. Do you do any activism in addition to all the tech stuff?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A little bit. Initially, in the PTT, the Taiwan equivalent of Reddit, there’s this transgender discussion board. Taiwan’s Pride march is, of course, one of the largest, if not the largest, in Asia. I think I just helped a little bit in the initial setting up of the structure around the transgender discussions.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Nowadays, I wouldn’t call myself an activist anymore. Mostly my work in the cabinet is not directly related to LGBT issues. Still, people generally think having like Dr. Tsai Ing-wen as the president, she’s not anyone’s daughter or anyone’s wife. She went there by her merit. Whether she identifies with women empowerment or not...</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>She’s a symbol.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...she is a symbol of how progressive Taiwan has become.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Yes, and you’re the same way. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>My role in the cabinet is the same way. It’s not like I need to be very vocal about it, because it’s a symbolism by itself that speaks a lot.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>...in the history. You make the history.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, that’s right. I’m the first transgender cabinet member, in the world actually.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Yeah, probably. Yeah, it has to be in the world.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>According to the Wikipedia community.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Steven J. Kung">
+          <p>That’s cool.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Yeah, very cool. That is why I say you have to meet this lady or...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure, whatever. I don’t care about pronouns.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>I really think that’s wonderful. I see something that’s precious, that’s good, I have the zeal, try to let everybody know somehow. That’s why I say, &quot;Well, thinking about how we can make a film about this.&quot; Not documentary. I would like to have more like a movie. Movie, they will go to theater. They pay for it. They watch it. They pay attention to it.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Just a little bit more about myself. When I first started in the film industry, I worked for Ed Saxon, who won an Oscar for producing &quot;Silence of the Lambs,&quot; but he also produced &quot;Philadelphia.&quot; One thing he taught me from Philadelphia is there’s power in narrative fiction in getting the point across.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>When an audience sits down to a documentary, they know they’re going to be taught. They know they’re supposed to learn, so they have their filter up. They’re scrutinizing everything that comes across the screen to process it. When you watch narrative fiction, there’s a willing suspension of disbelief.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>You accept the world, and so through that, you’re able to subtly suggest messages. Like with Philadelphia, people automatically sympathize with Tom Hanks, because that’s the way the movie is structured. They don’t question it.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>My movie about this is the same way about Asian American masculinity. This past year...There’s a gay channel in the states. I don’t think you’ve ever heard of it. It’s very small. It’s called Here Television. It was about the way, in the States, it’s very hard for Asian men to date, either if you’re straight or gay.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>We’re at the bottom of the dating totem pole, along with black women. It’s common knowledge. Because of that, there’s a lot of self-loathing in our own community, the Asian Male community, about dating among ourselves.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Did you ever see the spot? I wrote a story. It’s a 30-minute episode.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>I saw it. It’s very good.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>It’s about learning to love yourself as an Asian guy, on Asian dating. It’s a passion of mine. I’m very concerned with social justice, so that’s part of the reason why I wanted to meet you. You said it perfectly. Whether you’re doing it consciously or not, your existence, your taking on this role with the cabinet, is very inspiring to all of us.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(pause)</i>
+          </p>
+        </narrative>
+        <speech by="#Pat Tsao">
+          <p>Another thing is, since he was the co-chair for DGA...</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Yes, the Directors Guild of America.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>...he would like to help Taiwan to organize similar things, like establish this industry. You always have a good structure, right structure, organization. We do have in Taiwan, in movie industry, we have a little group here, a little group here, a little group here. They really didn’t talk to each other. They really didn’t do anything. It’s a shame.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You mean among filmmakers?</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Yeah. We have so many new groups here and there. I says, &quot;Why this group cannot...&quot; We still have an Association.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>We still have it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s a Directors Association here.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Really, the people would talk. They’re helping each other. Steven, tell me. You’re a member of DGA. What is the benefit for you?</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>The benefit is we get to discuss our craft. We go to workshops. Every year we have a technology conference. We talk about the newest cameras, the newest ways of post-production. Because our industry is constantly changing with new technology, everyone has to be up to date. We throw a big technology conference every year.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>We talk about working with actors, new techniques. Mentorship is very important. I was in a mentorship program this year. Of course, the best part is screeners. We always get DVDs of all the movies that come out. You have to stay abreast of what’s going on in the industry. You have to watch a lot of movies.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Also, clearinghouse, right? If you are a DGA director, the movie go out, they will do the accounting for you.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>They’ll do some of the accounting. They’re a union. If I go to work for a Hollywood studio, I’m guaranteed a certain rate and certain benefits. They go after the studio for benefits.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>What’s the membership fee for that?</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>It’s a percentage of how much you make in a year.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>I see.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Are you a movie fan? Do you watch movies?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A little bit. Not much.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Not much?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I prefer books.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>What was the last good book you read?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s a trick question. Let me open a window to answer this truthfully.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Steven J. Kung">
+          <p>You probably read a lot for work more than for pleasure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. My last book I read, it’s called, &quot;Post-Scarcity Anarchism.&quot; It’s a very old book.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Post-Scarcity Anarchism, I don’t even know what that means.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Steven J. Kung">
+          <p>Post-scarcity, that would be the time after our current time, because resources are scarce now.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For some resources. Certain resources, like the Creative Commons, like Wikipedia, like human knowledge, is getting less scarce as time goes by, because it’s in the commons. For many things, of course, it’s not yet in the commons, so that’s still scarcity.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This book talks about, in the parts of the world, or in the parts of the human production that is post-scarcity, how do we collectively govern the production of such things in the commons? Anarchism meaning it’s not hierarchical. People associate voluntarily.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>That’s great.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. There are, I’m sure, movies about that, too, but I read the books first.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>How did you become an anarchist? Just from reading?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Internet itself is a anarchist place. The governance of the Internet call it Internet society, because it’s not sovereign in the sense that there’s the state with guns and army and navy. It is mostly just people who associate voluntarily, using what we call Internet protocols. TCP, IP, HTTP, all the Ps are protocols that people willingly adhere to.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s no way to force anyone to join the Internet and there’s no way to force the Internet to evolve in any particular direction. Internet has always been sovereign, but apart from existing sovereign structures, and always done by consensus and so on.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s the first political system that I entered when I was 14 years old, actually six years before I get the right to vote. That’s the first democratic system I run into.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>That’s cool. There is a certain amount of anarchy in the Internet, of course, but there are also crimes committed on the Internet. People are bullied. Do you believe in any type of law enforcement on the Internet?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>One of the main campaigns that I participated in the early 2000s is what we call the Spam Wars. People were worried that email is being defunct, because there’s just random Nigerian princes or whatever [laughs] trying to get you to give your bank account or some such.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>I received those things.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah?</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Yes, I did.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>I don’t know whether you spent any time replying to it. [laughs]</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Actually, I call FBI. When I lived in Washington, DC, I was threatened to death, actually.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>It’s so scary. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They get pretty nasty, right?</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s just words, but it creates a distrust to the Internet. The Spam Wars was not ultimately solved by a top-down, law enforcement action. It’s by all the technical people, all the policy people, all the email hosters, all the ISPs, all the people writing software that reads mail.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Together, using voluntary protocols, we increased the cost of sending spam along every different touchpoint. At some point, the cost of sending spam exceeds that of the expected return.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>That’s great.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That just went into the decline because it’s no longer profitable. This is what we call multistakeholder action. Without that, everybody can do something, but they don’t know the whole picture. Now, with multistakeholderism, we get a whole picture. We get everybody committed to it and, lo and behold, there’s no spam anymore.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Wow.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Very little. There’s still some, but relatively.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>What a great idea. That’s cool.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>IQ, 180. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, that’s my height. There’s a unit confusion.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Pat Tsao">
+          <p>I love that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Adult IQ, really it’s meaningless. With the right watch, with the right app, anyone can get arbitrary high IQ score.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>What do you think about Anonymous? In the US, we have that organization of this secret Web police. They call themselves Anonymous. They wear the masks. Do you know what I’m talking about?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s more of a meme than anything.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Nowadays, but...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s no conclusive proof that there’s any coordinated action. It’s mostly people do random things. They say, &quot;OK, we’re the Anonymous. We don’t forgive. We don’t forget.&quot; There’s no conclusive indication that, between actions and actions, this is actually the same group or they’re even connected. It’s more of a meme than anything.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Interesting. For a while, the media sold it like it was an actual secret society. That’s disappointing to think that. I don’t know that they don’t actually exist.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s hundreds and thousands of secret societies. Nobody has the monopoly on the name Anonymous, which was kind of the point.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>That makes sense. Awesome.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Actually, Steven, while working on the film, in Taiwan more often. I’ve been thinking about it, because right now, Taiwan film industry -- I’m back to the movie -- I still think the movie is one of the industry Taiwan have to focus on.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>You don’t have to worry about too much electricity problems, the power problems. You don’t have to worry about the air pollutions. You don’t have to worry about it. Most of lots of industry, you have to get involved all those. You need a lot of powers. You need the air pollutions.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>The movie industry actually, I really think that they should leverage. They have lots of young people, like students, like Steven. They are Taiwanese. They go over there. They learn. They study and some back, some not back.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Why don’t we have all those people, leverage all those people’s talents, efforts, and then we can do something for Taiwan movie industry? Who is really in charge of that can make a differences? Who is really doing that?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Supposedly, there’s going to be a new organization called Cultural Content Institute. It would be like the Information Industry Institution did for the IT industry.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Everybody knows III is still very public-sector minded. On the other hand, it has outreach programmes with various different private sector IT industries. Our minister of culture wants something like that for the cultural, and especially for the film and music industries.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>It’s in the planning stage already?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The law, the act that would enable this institution, is already on the first reading in the Parliament. I think they’re going to pass some time next session, which means that it will take effect next year or so. That will mark the first significant change in culture governance. Previously, the Ministry of Culture is very preoccupied with certain traditional or performative arts.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Now, with the institute, it could be engaging in far larger projects throughout the main industry. Without the institute, we already use the forward-looking infrastructure plan, to pilot certain films that will use the new 4K formats, such as &quot;Ka-lé Hoe&quot;. I would also encourage you to look into that.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>There’s a new government building. I saw there’s a big industrial park. It’s just for movie.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>It has been sit there for several years. There’s not any construction going on. I know, every time I pass near, there is a sign says this is a industrial park, movie industrial park.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That would be the National Movie Center project.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s established to be completed about March 2020, I think. It’s still under construction.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Ah, OK.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>At least that’s what the news says. I don’t personally know this project.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Pat Tsao">
+          <p>Actually, I think that that’s very good for Taiwan. It doesn’t matter who is going to be the next person, the Green Party or Blue Party. I think, &quot;How could Steven...&quot; Steven really try to help. How could he get involved helping?</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>All his working experience is in Hollywood. He got a master’s degree from USC. He’s been working the Hollywood from different level, from gofers, to writers, to assistant to the director, right now director. He was in Netflix, was in with ABC. His experience, how he can contribute here? He really want to.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>It seems to me there’s no bridge to help him to come over here, they can do something for Taiwan. He still want to live in LA. Jennifer Jao, she is the Taipei Film Bureau director. Do you know her?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, I actually don’t.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Jao Jen, actually she met Steven several times. She says, &quot;Well, why don’t you move to Taipei? We can do something.&quot; You know what? Tell the truth, Taiwan’s market is very, very small.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You don’t have to move to Taipei to identify has a contributor.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>You don’t have to. No, exactly.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s Skype, you know. [laughs]</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Exactly.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s an useful technology. [laughs]</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Exactly, so I says, &quot;Why he has to move?&quot; She doesn’t like, because he already said, &quot;Well, I have a house in West Hollywood. I will be there, and I can travel back and forth if you need my help. I definitely work here.&quot; Like this time we have a filming, we will film this in Taiwan. We will</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>I think, through the filming, he can bring lots -- his training, his discipline, his experiences -- to Taiwan. With those crew, I think that will be beneficiary for a local crew. Basically, I just thinking about. He willing to do that, too.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Maybe you can give her the directions, give her help. How can he get involved? He can’t help. He need help.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Certainly, everybody here is looking at the new Cultural Advancement Institute. We know that, without such a permanent institute, it’s all single-shot projects, which may do very well, but it’s not a sustainable ecosystem the way you describe it. Ecosystem-building is priority one.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>At the moment, the Ministry of Culture is driving this effort. In fact, this TAF, what we call the C-Lab, which is this inside area, the Contemporary...</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>This belong to them, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right. The Contemporary Culture Lab, or C-Lab, is a Ministry of Culture. It has five labs underneath, and the Social Innovation is one of the five. We got a budget first, so we start operating before the other four labs.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>They will open, with the minister’s blessing, about a month from now or so. One of it, I think pretty pertinent to your idea here, is what they call the &quot;audio-visual&quot; lab. Movie, television, music is one of the labs that we will get the creators to gather here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This place, unlike Huashan, 1914, or other places, is not about end products. It’s about the process of the creation. Here you will meet social innovators all the time. We want the other four labs to be also shaped similarly, where you have a support structure and just a natural gathering of people working on various aspects of contemporary art.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I would encourage you to check out the C-Lab. There’s a Facebook page. Soon there will be a formal announcement. That will be the base upon which we get the international attention of this place in the heart of Taipei, dedicated to contemporary culture.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Once the institute is ready, then we can bridge some of their creative energy into actual projects that is backed by both the private sector and the public sector political will.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>OK, we will. He’s leaving this coming Sunday. He just arrived Sunday, and Sunday seven days here. Is it possible, through your instruction, he can meet with...Who is she? She is the cultural...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The cultural minister, Cheng Li-Chiun.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Would you like to introduce us to meet Cheng Li-Chiun?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t manage her schedule. [laughs] I mostly talk with operational level people here, and I don’t have access to Minister Cheng’s schedule.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>I just talk to them. If we need a...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. The C-Lab people is just here and across diagonally, but there’s two opening here. There’s a door here and there’s a door just in the JianGuo south road, the Jade Market. They’re the same.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>They are there right now?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sometimes they just come here for dinner, and then we have dinner altogether, because I work there.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>[laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We made an introductory film for C-Lab in that building. Maybe you’ll run into people, maybe you won’t, but here is a open space. You just drop by and you can meet the actual people doing creation, doing operation, and so on, and occasionally a minister.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Pat Tsao">
+          <p>I like your style, really terrific. I think you are really the bridge, the center. You bridge the old generation and the new generation. Older generation, sometimes they don’t know what the newer generation thinking about it. I think you are great.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Thank you.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Really wonderful.</p>
+        </speech>
+        <speech by="#Steven J. Kung">
+          <p>Can we take a picture together?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>How about outside? You have a very nice thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Pat Tsao">
+          <p>Thank you for your time. I really appreciate it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No problem at all.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
