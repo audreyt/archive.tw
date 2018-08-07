@@ -1,0 +1,202 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/簡立峰" id="簡立峰" showAs="簡立峰">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/陳幼臻" id="陳幼臻" showAs="陳幼臻">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-08-01 簡立峰、陳幼臻來訪</heading>
+        <speech by="#簡立峰">
+          <p>最近歐盟公布對Android的antitrust 決定，我們想藉這個機會，看看政委有沒有什麼疑問我們可以提供一些說明。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>Sundar Pichai那一篇部落格我看了（笑）。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>有沒有什麼問題我可以解釋一下，因為那個是公司交代的任務（笑）。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個會影響Google臺灣？</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>不會，但對整體生態系，國際媒體比較沒有出來的部分是對ODM的影響，但我覺得大家應該比較關注的是對ODM的衝擊那一塊，基本上大家都沒有在講，現在的要求大概是這樣，Android政委都知道，生態系是整個商業模式。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>本來是用Play store去綁Apps。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>現在是不能綁。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>現在歐盟的建議是採取收錢，一方面可能造成成本上升。但現在是Android Phone大概有一千個phone maker，有兩萬五千種手機，不是每一個手機商都有能力自己來做一些operating system或者是服務，某種程度不綁的結果，像對三星、華為等大型的手機商而言還好，但反過來對於中小型的OEM，成本會比較大。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以使用者就必須重新下載那一些Apps？</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>這件事對搜尋可能影響不太大，因為大家都還要搜尋。chrome當然對我們可能是有一些影響，因為消費者要重新下載，但對於開發者來講，像大的OEM可以尋找自己的夥伴，這也是還好。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>但不只這個部分，有幾點：像包含Android的部分所謂的更開放，不綁Bundle的話，其實本來Android，像三星老實說可以自己再開發，不過在概念上是歐盟傾向於建議我們要收費。</p>
+        </speech>
+        <speech by="#陳幼臻">
+          <p>以後你要用Android operating system，變成我們licensing收費，因為以前基本上是廣告商付錢，現在歐盟認為如果收費的話，這樣子就沒有問題。</p>
+        </speech>
+        <speech by="#陳幼臻">
+          <p>我們比較擔心的是，因為怕這個變成改掉整個全球的商業模式，所有的人要用Android的，以後就不是open source，而是我們以後要licensing。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是open source並沒有說不能收費，可以收費，只是不能禁止使用者重製。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>我們比較不希望走向收費那一塊，但是如果收費是歐盟希望的某種公平競爭，我們有估算勢必會造成Android的手機會上升，現在Android平均單價是iPhone的一半，某種程度對使用者是一個選擇，價格上升當然是一個競爭的情況。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我手上這台翻蓋手機也是Android，我現在真的就是用這一台。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>這個可以上網嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是4G LTE啊！</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>這麼酷！</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>（笑）</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>這個是Nokia？</p>
+        </speech>
+        <speech by="#陳幼臻">
+          <p>這個是……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>現在有一個專門的講法叫做孝親機，所以字非常大，然後是翻蓋的，介面很容易；但是你實際進去使用了，你就會發現所有相關的設定、工具，因為這個沒有觸控螢幕，但是你到這裡面發現其實全部都還是完整的，甚至包含熱點都有，這就是Android。</p>
+        </speech>
+        <speech by="#陳幼臻">
+          <p>但並不是觸控螢幕，這個就很便宜。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>不算是我們CTS的認證？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>裡面沒有Play store。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>所以這本來就已經存在了。Google也沒有說不行，只是歐盟認為我們綁得太嚴重一點。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>我們只是想要來說明一下，對臺灣ODM產業可能影響比較大，品牌商在減少，而且品牌商進入Android的門檻會變高，我們的供應鏈可以談的power就減少，等於buyer越來越少，事實上就算沒有歐盟的因素，現在看Android phone已經出現這種現象。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，也已經一、兩年了。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>而且中國都自己會再發展……但是如果這個發展下去，或許會加速這一個部分，如果政委想要瞭解我們的說明，我們就藉這個機會說明。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我想我們的理解是相同的，因為歐盟準備這一個案子也準備滿久了。</p>
+        </speech>
+        <speech by="#陳幼臻">
+          <p>非常久。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以也不是by surprise，這沒有surprise的部分。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>某種程度它這個決定是從七年前開始做。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>現在雖然是unbundled，但是大多數的user是要search，可能更麻煩是要下載search，它的裁罰如果從anti-trust的角度來看，七年來，某種程度也是歐盟的觀點。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>不過換一個角度，現在也是稅的觀點，就是美國跟歐洲的競爭，看這個趨勢也是越來越明顯了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是啊！我想我們對事實的理解應該沒有任何不一樣，因為歐盟就像你說的，已經講了七年了，我們幾年前就已經知道他們要做這一件事。</p>
+        </speech>
+        <speech by="#陳幼臻">
+          <p>是，其實大家都不意外結果會這樣，我們兩個在討論的時候，都想到在國際的媒體、臺灣的媒體，也就是沒有看到ODM這一塊。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>我們內部在準備資料，也沒有考慮到對ODM的影響，這是最特殊、只對台灣會產生的影響，如果政府想要瞭解這可能對ODM的影響，可以找一下對ODM的廠商。我自己覺得臺灣硬體代工有長期的部分，Android供應的部分其實是滿大的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是各種不同的需求。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>就像剛剛講兩萬五千種小眾、小品牌的，我不知道這個會不會是臺灣代工？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>大有可能。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>像螢幕的supply，可能也是沒有touch，就是多這個解決方式。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>如果未來unbundled反而變成沒有能力自己維護，因為Google可能沒有辦法跟所有的小廠商，不是收錢、不然就是變成他們得自己來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>可能要找社群。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>這個社群可能會更蓬勃一點。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>不過我們看Linux其實也是有這個情況，從最早還是都只有大的企業級的，像Corel Linux、Redhat Enterprise，但是也看到社群這一類也還是會接，我覺得不會完全沒有人接，只是dynamic會很不一樣。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>現在還在觀察，不知道衝擊會多大。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>Google某種程度還好，有一種說法是歐盟的動作比較慢了一點，因為消費者的使用習慣比較不一樣，而且某種程度是綁兩個服務，其實是search跟chrome，某種程度chrome還有其他選擇，但是search選的不少。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>我想政委知道，很多其他政府不一定瞭解我們在中國大陸，事實上並沒有賺到任何1元，因為我們也綁不了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>理解。</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>一般大家可能會以為中國這一些廠商其實被我們綁得很嚴重，其實是沒有的，因為事實上在中國境內也不需要我們的服務。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們不是有提供「科學上網服務」（笑）？</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>沒有（笑），我們做不到。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是別家在做的？（註：此處指的是 <a href="https://getoutline.org/">https://getoutline.org/</a>）</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>我們也做不到，我們試圖要幫他們翻牆。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>確實沒有那麼容易。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好，就這樣？</p>
+        </speech>
+        <speech by="#簡立峰">
+          <p>就只有這樣，謝謝。</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
