@@ -1,0 +1,1367 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Sheau-Tyng Peng" id="Sheau-Tyng Peng" showAs="Sheau-Tyng Peng">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/賴懿容" id="賴懿容" showAs="賴懿容">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-08-22 社創中心 第二十九次 Office Hour</heading>
+        <debateSection>
+          <heading>Cynthia Chyn、Revital S. Golan</heading>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>We’ll be on the record. People can see it, but only after we edit for 10 days, so we can edit it in private.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>How often?</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Like monthly?</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>That’s great.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yes, that’s the official title.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>I do agree.</p>
+          </speech>
+          <narrative>
+            <p>
+              <i>(laughter)</i>
+            </p>
+          </narrative>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yes, I did.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Of course. I did homework.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Explain-ability.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Fair enough. Because the white paper frames these questions around AI but really only the AI explicability is pertinent to solely AI. Everything else applies to non-AI technologies as well.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>For example, data ownership and privacy, regardless of whether it’s machine learning, doing data processing, or just a very rule-based engine doing the processing, the same privacy and data ownership predicates apply. These are not, to my view, specifically AI-ish things.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>AI does change the equation somewhat, mostly because if it’s a machine assuming agency, it is very difficult from a legal perspective to attribute the accountability fairly. Because the AI essentially is a agent that is currently unable to defend for itself on the court in a normal interrogation or accountability process.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>This is not saying that Ai will not develop this capability. This is merely observing the fact that most of the machine learning algorithms that are in use today is not designed with explain-ability as its main design criteria. People essentially have to perform forensics to uncover how its reasoning went or didn’t go after it even happened.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Unlike traditional systems, AI systems, it’s even more difficult to add such explain-ability functions after the fact. For normal rule-based system, sometimes the rules are so byzantine it’s impossible to explain either. Same concerns do apply.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>At least because it is componentized in a way that is logical as a system programmer, I know that if I have sufficient instrumentation component to sufficient amount of parts of the system, accurate enough image will emerge. I can trust the flow chart.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>If machine learning enters the picture, then we have to interrogate not only the design of the system but also all the data that was previously used to train the system. Essentially, its memory, its context.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>That are often either inaccessible or not accessible in a form that can be understood by humans within a human life span or not labeled enough so that even if there is bias, there’s no systemic way to detect such bias. The training phase of machine learning does add to the complication of explain-ability.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>I think even for explain-ability, just as other three points, these are general to all computer systems or SAT systems, and not at all particular to AI. AI makes it more complicated, but even without AI they don’t go away. It’s the first answer.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Particular to AI, we have a series of websites that outlines both the action plan and the latest development. For example, for AI, it’s just ai.taiwan.gov.tw.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Right. They’re new as of this year, so OK. Right. [laughs] It’s just ai.taiwan.gov.tw, and it’s one small part of many...</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>You mean AI Taiwan, you do...</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yeah. If you google for AI Taiwan, I think that’s the first stage.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>If you go to the DIGI⁺ Taiwan website...</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>I think it has the English version, so we have a dgey.gov.tw, which I think it’s this one rank. You probably know that, and this is on the front page, and if you click English, it also goes to DG+ Taiwan, in which AI Taiwan is one of the subsites, but there’s also BioMed, ASP, and the usual suspects.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The whole point of using this domain is stressing the fact that this is a cross-ministerial endeavor.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p><a href="https://smart.taiwan.gov.tw/.">https://smart.taiwan.gov.tw/.</a></p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yeah. We begin with smart.taiwan.gov.tw., but Smart Taiwan links to AI Taiwan. It also links to BioMed Taiwan, which is the biomedical part. They all look very similar. Underneath it, of course, different ministries maintain different sections, but the reason why we used taiwan.gov.tw is to stress the fact that this is a cross-ministerial administration level policy.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yeah.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>It’s a very useful provocation.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>That’s for sure.</p>
+          </speech>
+          <narrative>
+            <p>
+              <i>(laughter)</i>
+            </p>
+          </narrative>
+          <speech by="#Audrey Tang">
+            <p>There’s many other provocations. The BioMed portal, which is biomed.taiwan.gov.tw, but you can also use BioTaiwan. The fun story is that different ministries prefer different subdomains, so we’re like everybody gets a domain and it’s the same website.</p>
+          </speech>
+          <narrative>
+            <p>
+              <i>(laughter)</i>
+            </p>
+          </narrative>
+          <speech by="#Audrey Tang">
+            <p>Because the medical technology people think &quot;bio&quot; is a bit research-y, and it doesn’t really include them, and so they want a different subdomain, but it’s the same site. We have to be politically correct even on a shared cross-ministerial domain...</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <narrative>
+            <p>
+              <i>(laughter)</i>
+            </p>
+          </narrative>
+          <speech by="#Audrey Tang">
+            <p>You’re guaranteed to access the same content whether you enter as BioTaiwan or BioMed Taiwan, whether you enter as Smart Taiwan or DIGI Taiwan. It’s all the same website, so [laughs] that being answered.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>I think data governance or data agency the main provocation to Taiwan’s administration this year is not AI, it’s GDPR. GDPR is by far the main provocation for us to take a systemic approach reviewing those are existing privacy act, which is loosely modeled after EU anyway -- its previous version anyway -- and also to review the need of having a data protection authority or a DPA.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Without a DPA there’s just so much that law can’t define, and that interpretation is bound to differ widely between different ministries. Even for very simple things, like what is &quot;informed consent&quot;, or very simple things like does this belong to sensitive personal info, non-sensitive personal info, or not personal info at all, different ministries have different standards.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>That creates a real problem for entrepreneurs, because when they work on things that’s spun small people ministries, often they will ask the local city government for help, but they get different answers depending on which bureau they ask or which department they ask, because each department correspond to a different ministry.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Each ministry has its own different guidelines as of how &quot;informed consent&quot; works, how digital signature of a council works, and so on. This year we adopted a basic idea that there will eventually be a data protection authority. Working in anticipation of the DPA, the National Development Council founded the Office for Personal Data Protection.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The NDC Office has two main mandates. The first is that it’s charged to do adequacy negotiation with the EU, so acting as kind of an internal DPA to negotiate the adequacy constraints. The second thing is that it’s harmonizing the different interpretations of different ministries.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Previously that role is reserved to the Ministry of Justice, but the Ministry of Justice has historically said first, there’s not sufficient human resources, and second, they don’t actually know how it works in the field anyway.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>They are more concerned about interpretation of the legal text rather than how people are actually interacting through a screen on the inform click-through, whether the privacy policies are displayed correctly or not. They don’t have that much connection to the industry to tell and to learn about the latest developments on privacy has in technologies.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Maybe the NDC is better to do this, and the NDC is willing to take on this responsibility, so it is officially delegated from the Ministry of Justice to the NDC’s data protection office in an administration meeting and it’s on public record.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>We are at the point where during the next two years or so, as part of the adequacy negotiation, the NDC’s data protection office will bootstrap a real DPA whether that will still be a DPA under NDC, whether NDC will extend its mandates to become DPA-ish, whether there will be independent body, we don’t know.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>First, that depends on how strong EU is acting and reacting on adequacy constraints. Second, it depends on how quickly the NDC can harmonize the existing interpretations.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>It’s cross-functional. Many of them are from the Regulatory Reform Center of the NDC. I think the chambers are pretty familiar with that particular unit. They’re the unit who handles the EU and American Chamber [laughs] white papers and turn them into regulatory compliance parts.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>They are also helped by the various like III or ITRI, who have already invested considerably into privacy-enhancing technologies. They will be helped by the technologists, while being at the heart, at the core, a legal tech entity that develops new solutions and new interpretation, but to serve the regulatory process rather than the other way around.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>I think that’s pretty fair. It’s also a very good sign if the regulatory units within each ministry is willing to work together to uphold data agency. Then it’s much more likely that a harmonized interpretation will ensue.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>We’re also talking about enlisting the help of the statistics functions in each ministry. There is a new law that’s already passed, the new statistics law that defines data interoperability between government agencies, and even across ministries, for statistical purposes.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Within the Data Protection Act, there is already a clause that says if it’s in aggregate, if it’s statistics, if it’s for the common good, then it doesn’t need to be treated as personal data when using it.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>It’s still, of course, personal data when processing it. When you run a statistics function, its input is personal data, but its output is no longer. The person who can run this is still only the data operator. They can’t just randomly assign somebody else to run this data processing for it.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>We’re sticking to the term the law uses, which is statistics, so making it into a form for statistical use or statistical consumption. De-identification is kind of an unfortunate term, because it’s not in the law itself.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The law is written with an EU context, but de-identification is thoroughly a US term.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>It could be taken to mean anonymization in a GDPR context, but sometimes it’s also taken just to mean pseudonymization in GDPR terms, like exchanging it to a pseudonym that could be linked back afterwards. The term itself is ambiguous. Some people see &quot;de-identification&quot; just as masking.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Masking the ID. Sometimes people see de-identification as being total anonymity.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The term itself being ambiguous, it’s not the most helpful term for us to use, which is why we’re gradually phasing out its use. If you look at the new statistics law, and the accompanying regulation to the new statistics act, you will see only personal data or big data processed for statistics use. That’s the term that we’re using in the statistics regulation.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>It removes ambiguity. Basically, if there is any chance of re-identifying individuals, nobody will accept it as statistics. It needs to be in the aggregate. That’s what statistics mean. The new statistics law gives each agency the possibility, and indeed the right, after processing the private data into a statistics form, to exchange freely across the statistics agencies.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>One ministry, when it want to ask a question about the population or about epidemic, about public health, whatever, it doesn’t need to redo the data gathering. It can just query the statistics form of each other’s ministries. This is, for me, much more clear-cut than the previous, for research purpose and for public good, which is so ambiguous you need to be evaluated thoroughly on a case-by-case basis.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Now the statistics form could be independently verified. This opens the door to a global movement called Open Algorithm, which is the scientists and researchers publishing better statistics algorithms that takes personal data and outputs something that is more useful than the traditional ways of doing statistics.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>It’s still doing aggregation. It’s still doing statistics, but it’s doing it in a way that’s very useful and could be comparable across jurisdictions. Whereas before, each agency do their own statistics, but they do it in different way. It was different parameters.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The end result is not comparable. If you try to feed AI with these things, the AI develops bias that are impossible to detect because the bias are inherent in the way the data was processed by different jurisdictions in the first place. That’s a nightmare.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>What we’re now doing is we can publish the schema, that is to say the shape of the data. We maybe publish synthetic datasets, that is to say it doesn’t really contain any personal info because they’re all fake. Given those random data, the data scientist can do a lot meaningful statistic algorithms, but still for the data operate your statistic agency to run and then to publish. Then, it could be comparable across jurisdictions.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yeah, we have a website for that too.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yeah, but it’s not yet completely translated to English. It’s CI Taiwan, so not AI, but CI, CI stands for IoT, but it could also stand for collective intelligence very quickly. We’ll also have a SI Taiwan for social innovation soon. In any case...</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <narrative>
+            <p>
+              <i>(laughter)</i>
+            </p>
+          </narrative>
+          <speech by="#Audrey Tang">
+            <p>CI Taiwan answers your question by essentially unifying the data contribution and data collection efforts from the civil society and the private sector. For example, for air quality, there is a very famous community called LASS or Air Box that are part of the Taipei City’s environmental education in primary schools that collects by themselves entirely, without the government or intervention.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Here, you can see very quickly how the air is like across Taiwan and as contributed by 2,000 or so independent measurement units. The cool thing about this effort is that it doesn’t use any environmental protection agencies’ machine or anything like that, but rather it is entirely what we call citizen science or crowdsourced.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>It also is somewhat unique in Asia because it depends on the complete freedom of assembly and speech. In other jurisdictions, it doesn’t take 2,000, maybe just 20 or 200. People are doing this and the government will feel its legitimacy is being threatened and it will try to shut them down.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>We don’t shut anything down. We instead join them. We say they’re already covering many points that are close to people, but for more faraway places, places where there are gaps and so on, the government will contribute those gathering.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>That’s right, complementary. Then, we’re also working with E3 to manufacture cheap, but still more precise PM2.5 sensors, so they could be upgraded to be more trustworthy. The same community is now doing water quality measurement as well.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Basically, the government, as part of the forward-looking infrastructure plan, allocated NT$4.9 billion over five years to build the CI project, which is essentially saying all this data from different heterogeneous sources are all stored in a national center for high speed computing, which we bought a lot of NVIDIA GPUs.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>In the future, any professor who wants to do analysis emission learning, they can just upload their algorithm here, instead of having to download the datasets from the diverse sources.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>At the end of this year, we’re having the first public challenge, where we challenge the people to use those streamlined data contributed by all those different ministries and civil society to develop meaningful social impact applications, and to create a data economy out of the shared data based on international standards, such as SensorsThings API and many other APIs.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>This is not Taiwan only. We’re harmonizing all these data formats to be compatible with global Geospatial Consortium standards. It could conceivably be bridged to all the different regional sources as well. It’s not specific to Taiwan.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>What it does is that it shows a model where the user contributed or citizen contributed data can enter part of the policymaking process and that we can vet each other’s accuracy, not by writing essays on major newspaper, but rather comparing data in a meaningful way.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>There’s already people working on distributed ledgers that are taking checksums or stamp shots of this data and storing them on mutual distributed ledgers. People will have the confidence that we’re not changing the numbers the day before the election, just make certain...</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Right. The data pipeline is threefold. The first thing is the raw data. The raw data just gets entered as is. Then, the private community themselves have a mechanism, like the Air Box community, they have a mechanism to detect off-the-chart or unusual points. So many of their sensors are not very precise, to begin with.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>They have developed a very sophisticated self-calibrating algorithm on the community side. Then, instead of just saying we are completely complimentary, of course we still have sensors on duplicated sites built by the government and also by the civil society just to cross-check each other.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>On the third stage, we have, during the data aggregation phase, a way to compare the long-term trends of one particular contribution from one particular community versus another cohort of sensors. This is not to detect malice, but more likely to uncover the biases inherent in the kind of sensors that they use.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Maybe in the hardware, above a certain range, it starts to become erratic or below a certain range it becomes deteriorated. It’s possible. Basically, the first stage is to look for algorithms that can systematically uncover and correct bias.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>That, in fact, one of the points that we’re looking for in the Grand Challenge at the end of this year is to get the researchers a set of data and develop a way that could increase the net trustworthiness of the diverse data sets. That, too, is part of the challenge.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>It will all be announced on CI Taiwan. We choose this in particular because there’s no privacy issue. We’re not saying that it cannot one day be applied to, for example, health care data that are donated by home caring stations or by the patients themselves.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Basically, the privacy, the DPA adequacy, that is one arm.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Statistics is one arm. The environmental data aggregation, citizens contribute the data. We’re running three consultations at the moment about interchange of data across ministries, publishing of government data to our citizens, and how citizens-originating data enters into policy-making process, all the three directions, as part of the vTaiwan process.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Just this morning we ran the second consultation on government data publishing data outward. Soon, I think a week or two, the third one, the incoming one will...It’s all live-streamed. If you go to the vTaiwan Facebook group, it’s all live-streamed.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>We will aggregate all these recommendations and figure out whether we need a act-level change, a law-level change, whether the law itself is sufficient. For DPA, of course we will have to change the privacy law at least at one point, the current authority chapter, and maybe data localization chapter.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Aside than that, maybe it’s possible to do it entirely on the regulatory level and not on the law level. This consultation is mainly to determine whether there’s any input from the community that is only realizable by changing, say, the Freedom of Information act or the Privacy Act. If not, then it’s all going to be regulatory level. That’s the legal part.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Then the CI, the civil IoT, is progressing without worrying about privacy. Basically, we build the standards, the technical expertise, the trust between the civil society, private sector vendors of those sensors, and the ministries involved to try to convince the minister it really generates better social impact if we work together.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Once these two are independently solved, then we can tackle the most difficult part, which is the use of private data under consent, for public good.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Right.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>First, I’ll encourage you to review the DPA discussion on vTaiwan where it also touched on the localization. The main provisional idea is that it all depends on how strong the DPA is.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>If the DPA is a thoroughly EU-style DPA that has de factor administrative not just interpretation control, that is to say it can recommend specific privacy-enhancing technologies, if it has this level of control, then, of course, a EU-style exchange only with adequacy countries or jurisdictions makes sense.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>If, at the end of it, we pass adequacy, but with a DPA that are more advisory than prescribing particular PETs, then maybe it does make sense to keep the current data localization idea, which is open by default and closed only for security processes or whatever. We will know when the actual DPA gets bootstrapped.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Depending on the strength of the DPA, we will know the strengths of data localization. Personally, I don’t have a preference. I think the consensus now is more of having the citizen being aware that they have certain agency under not just GDPR, but existing PIDA. They can demand explanation. Data is not just an asset. It is a relationship.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>If sufficient amount of people in a civil society takes this view, then maybe we don’t need a strong DPA. Maybe the citizens, as part of consumer protection associates, authorities, and so on, or like iWIN, is able to safeguard it to a certain degree. That would actually be a pretty balanced power between the civil society, the private sector, and the government.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>On the other hand, if the civil society does not have this kind of empowerment, we don’t succeed in getting people taking the view that they have agency, that data is a relationship, then a much stronger case will be made in the Parliament about a strong DPA. That’s just logical, and I don’t have a preference one way or another.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yeah.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>It’s not always like that. During the Company Act rewrite recently, we explicitly said the US approach works better in many things, so we just adopt this.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>I think the mindset is changing. One part of it, I think, is the successful application of a doctrine of the so-called sandbox laws. It is not a legal term. Technically, it’s experimentation and advancement of economy or whatever. I don’t know the full name, but everybody just call it sandbox, so might has well. [laughs] At the moment, we have three sandboxes.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The regulatory-level sandbox as offered by the SME agency, the regulatory reform center’s sandbox. They don’t call themselves a sandbox, though. They are at <a href="https://law.ndc.gov.tw/">https://law.ndc.gov.tw/</a> which is a platform economy regulatory adjustment, where the NDC, the Regulatory Reform Center, the RRC, takes people’s appeal that certain interpretations are out of data and work with the ministries to abolish them very simply put.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The SMEA sandbox is more about a new emerging trade or a new emerging business model. It’s not even sure whether it runs counter to our regulation or not. It would help to clear the gray area and to even work out new regulations to fit their purpose, instead of retrofitting existing obsolete regulations.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The SME one is for when you don’t know what’s blocking you. The NDC one is for that you know precisely what need to be abolished in order for you to move forward. They have this relationship.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Sometimes the SME one passes to the NDC. There’s a recent case about Upark, a startup that installs this kind of blocking thing on the parking lots.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The SME worked with NDC to relax that, so that now on average, if you just rent out up to eight hours per day, throughout the month, then you are not taxed and hold like a operating parking lot. That is a very good case of the SME taking it, clarifying it, passing it to NDC and NDC helping it to adjust the law.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>This is much more...</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>It really worked. Then, this is less continental law system. This is much more US style and much more case law-ish thinking. Even if its challenge is lost, we have the FinTech Sandbox, which admittedly suffers from the fact that many people entering the FinTech Sandbox is not even very clear which law they are challenging or which part of the law that they’re challenging.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>There’s a lot of handholding to do by the FSC. If you listen to some other side of people, they say they have a lot handholding to do to the FSC people, so both sides, sure, have a lot of handholding to do, but as a FinTech.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>We are also working on the AV, the autonomous vehicles sandbox. We expect that to pass this session or latest next, but likely this.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The MOEA will take the application and do the evaluation. When it comes to making exceptions on existing loss, the MOTC will do the exemption. All the while, the evaluation of the safety, accountability, AI applicability will be contributed by MOST.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Verily, but the alternative is to have the MOTC make all the decisions itself...</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yeah, you go to your local MOEA office.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yeah, the municipal MOEA office.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Well the MOEA has so-called 馬上辦 service centers. They report directly to the MOEA. It just happens that they have multiple municipal offices.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yes.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The process, according to the draft law is all online, so I’ll just explain very briefly.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Basically, the MOEA is the driver, just like in the SME sandbox. The applicant, I think Upark folks, doesn’t even need to know that there are MOTC, MOF, NDC, RRC, whatever, involved. At the beginning, it just talks to the SME folks in MOEA.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yes.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yes.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yes.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yes, for the AV sandbox. The AV sandbox it’s also paramount for us, for all the ministries to be in a multi-stakeholder panel because they all have some stake.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The panel need to make decisions in a way that is not detrimental to any ministries’ purposes. The MOEA is better at handling this kind of innovators proposals because it’s more flexible in understanding the language that are not overtly technically or legally correct.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The thing with FinTech Sandbox was that there’s a lot of language difference between the innovators who describe the latest immutable distributed ledgers and the existing bankers describe their compliance roles. They are literally worlds apart.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The FSC devoted a lot of time just to reconcile their languages. In the time for the AV sandbox, we think it’s maybe better to have the people who work with startups all the time, the MOEA people, to serve as their face, their proxy, and then talk to the ministries that are really needed to relax the laws or their existing laws.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Now, the municipal government is still important, not in the sense that they have a veto on the roads or whatever, but rather publishing the real, actual social needs of the city government.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>For many AV experiments, it will fare much better if you know exactly what, for example...I’m just making this up, the Penghu County. They really want smart ships because for some offshore islands, the transportation situation’s very difficult. They cannot keep the sailors around all the time.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>If there are some lightweight, self-driving ship that people can summon at will, it would really help them. They have all the relevant climate data, sea data, whatever data to support the parameters on which to make such experiments.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Instead of starting from zero, the innovators can just look at each county and region’s needs and not compete, but rather try to solve a little bit of it in a smaller section. The relation is not like innovators are in the dark and people just randomly veto them, but rather the different municipalities declare their needs.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>We’ll publish this as a transcript.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yeah, I’ve been thinking about it a lot. One of the first thing that we can do is simply to make these websites Google Translate, frankly, and even in English, where it makes sense. Our communication so far it’s maybe only...The English version of these websites is maybe only two percent of the information.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yeah, it’s horrible.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Google Translate does a better job.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yeah, it’s really, really bad, which is why we asked for the Taiwan.gov.tw domain name because we think for a foreign person, it’s impossible for them to know that for the SME Sandbox, you have to go to SME.gov.tw.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>For the technology one, you have to go to MOST. Yeah, it’s important.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Which is why we have this new generation of website that all ends in Tawian.gov.tw and it’s just a better English face of all the nationwide activities that we’re doing, and the index of which is SmartTaiwan.gov.tw.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>We’re still working hard with the Ministry of Foreign Affairs, who gave us this domain name, how to unify the strategy of our new generation of websites versus the existing one, which is Taiwan GOVTW, with the ultimate goal of this being redesigned or shaped into something that can tailor to the different needs.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>No, we can edit out.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>What do you feel about Contact Taiwan?</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Contact Taiwan.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>People don’t...</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>This is Contact Taiwan.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>It is also part of it.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Like this one.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>You do mean this website?</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>I do...</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>I do agree, like totally.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>I do agree. I haven’t seen this website before.</p>
+          </speech>
+          <narrative>
+            <p>
+              <i>(laughter)</i>
+            </p>
+          </narrative>
+          <speech by="#Audrey Tang">
+            <p>I usually recommend to people Contact TAIWAN. I do see that there are sister sites somehow.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Maybe e-Taiwanese. [laughs]</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>There’s a gathering by Tricky Taipaei, that there’s a community of people who work in marcom and are brainstorming essentially exactly the case you were just making, like how to make the message about Taiwan consistent.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>This is today’s talk.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The three panelists are Didi Bethurum, former global marketing director at Gogoro, someone from the Tourism Destination, marketing consultant, someone from Bloomberg, a travel writer/journalist, and also Kathy of Tricky Taipei.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Tricky Taipei is this website that offers some very constructive criticism of Taiwan’s message, not just about tourists, but also about the English presence of Taiwan’s websites and things like that.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>There’s a community already forming about how to improve the message. My colleague in PDIS, in my office, who’s from the Ministry of Foreign Affairs, will attend. We’re trying to build a better relationship to not just these communities, but also maybe Forumosa and other only communities.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Or rather on the lifestyle part.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Is the investment and business part.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>I’m aware of that. The problem, as I see it, is that in those two angles, the existing English websites, they often confuse the two messages. You see the Startup Taiwan or Contact Taiwan talking about the food and hospitality...</p>
+          </speech>
+          <narrative>
+            <p>
+              <i>(laughter)</i>
+            </p>
+          </narrative>
+          <speech by="#Audrey Tang">
+            <p>You see the communications tourism bureau talking about &quot;five plus two&quot; industrial innovation. It’s very confusing to both audiences, which is why I do think that delineating and making clear messages on one or the other will make it much more clear to the communication crew in our ministries how to position to different target audiences. Currently, it’s very confusing.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Sure.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Has to adjust, of course. I do agree. I’m just saying is all we have at the moment is taiwan.gov.tw, the domain name, the goodwill of the MOFA people to help reconstructing the message, some links to existing communities, and a few new initiatives like AI Taiwan, Smart Taiwan, CI Taiwan, Bio Taiwan, that we can do it our way.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>At the moment, we don’t have a systematic way to rein in existing, maybe higher Google-ranked, domain names that are of previous administrations out there. I do have some thoughts about it. Every year, we hire anywhere from 25 to 40 interns to look systematically to all the different government websites, like 500 different websites.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The first year, last year, we checked compatibility with iPad and Mac. This year, we check compatibility with iPhone and Android phones, so that they don’t feel overly desktop-y when using it. They’re very helpful.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>I’m thinking maybe early next year, our third batch will be just hiring people with good English abilities to look through all the website that proposes itself to target a English audience and just systematically remove anything that is actually detrimental or replacing it with something that feels better.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>We can only do this if we have a more consistent message criteria upon with the interns can help look into existing ones and evaluate it according to that criteria.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>If you’re willing to coach the students, I’ll let you know.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>They have multiple phone lines. You can just call and they come to your place.</p>
+          </speech>
+          <narrative>
+            <p>
+              <i>(laughter)</i>
+            </p>
+          </narrative>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yeah, because they serve a non-fiscal purpose.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The whole point of doing social innovation, the National Social Innovation Act and the plan is to let the people working on environment or social values to see economic values as not something that’s detrimental to them, but can add to them.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>It starts as the Social Enterprise Plan under Minister Feng Yen, but now I’ve expanded as the Social Innovation Plan, part of which is the Social Innovation Lab here. The point of that plan is I tour around Taiwan, I meet with innovators, who are doing business models, but are also solving real social needs, fulfilling real social needs.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>I tour around Taiwan. In the past few days, I went to Miao-Li and through teleconference, the 12 different ministries, here in the Social Innovation Lab, see through my eyes essentially what the local innovators are doing.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Instead of just segmenting into abstract words, they can see that it is possible to work at once to further the economic and social and environmental goals. That new generations of entrepreneurs, during the Digital Innovation Forum, Gogoro is a very good example or PaGamO or whatever.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>They start with a clear social mission. They can even name the sustainable development goal that they’re achieving, but while building a very good case of a supply chain, a business model, and so on.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>It is only through exposing the public servants in the Ministry of Education or Health and Welfare to those successful entrepreneurs first hand, using their services or at least watching me using their services, they can understand that it is not there to create more headaches for them.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>But rather, if they allow flexibility, it is ultimately better for their own purpose as well. It’s through these tours that I encounter. For example, there’s a Christian association, the Good Shepherd Church Association.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>They’re very successful in giving the people who are of old age out of their houses and to have lunch together and develop a lot of relationships with nearby kitchens to turn almost waste into useful Bento Boxes and whatever.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>All the while, they also develop some successful product lines of drinks, also overseas exchange programs and whatever that are also profitable. They’re now looking to move the parts that are profitable into a company, while the part that are charity are still kept as the association, but have the association control the company through what we called the closely held company law.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>They can have special voting rights and they can even hold stock without having money contribution, by essentially having the work count as the initial stock in funding the company.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Now, all this is technically legal, but nobody really wants to be the person to approve because they are afraid that it will go to unmanageable places. I personally chaired one of the SME Sandbox cases also, the cross-ministerial meetings that basically said, &quot;We’re going to hold this company under high scrutiny.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>They have to declare their social mission in their funding documents to align with the Controlling Association.&quot; They need to do public reporting together, and so on. Satisfying these agreements, we’re now comfortable with an association holding essentially become a stock holding, controlling entity of its underlying corporation.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>This is done. Then, many other charities are now working toward similar goals. The MOHW, after watching this for a while, now says, &quot;OK, so foundations under MOHW are now also qualified to control subsidiary corporations in exactly the same the same way if they fulfill the same accountability purposes.&quot;</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>If not for the face-to-face consultation and meeting with the people who are actually doing the work, they only think in abstract ways and they only think of the drawbacks and loopholes. But having a fully transparent record of them raising those points is essentially me absorbing all the risk.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>If it works, everybody shares the credit because you can Google and find their names after various different ministries. It worked pretty well, and now we’re also working on similar cases with clubs. That’s another entity type.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>This is the long answer, but the only way is to let the Ministry of Education or of Health and Welfare see that the fiscal and economic drives are good ambitions. They are ambitions that helps them fulfill their social duties. So far, it’s been working pretty well.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yes.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Yes, there is a fund for that. Also, because we’re now calling them social innovation companies, they automatically qualify for innovation related loans. They qualify for loans which requires innovation, but having social innovation as part of innovation, it helps, and to be listed on TPEX’s GISA.</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>They also qualify for the NDC NGO fund. The NDC has several funds, but having social innovation automatically qualifies as a innovator if innovation is one of the criteria. So it’s as good as, for example, winning an innovation award.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>I’m here every Wednesday, so feel free to drop by anytime.</p>
+          </speech>
+          <narrative>
+            <p>
+              <i>(laughter)</i>
+            </p>
+          </narrative>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>The teams.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>That’s great. We’ll definitely be in touch.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Thank you.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>We’ll definitely be in touch.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>That’s right.</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <narrative>
+            <p>
+              <i>(laughter)</i>
+            </p>
+          </narrative>
+          <speech by="#Audrey Tang">
+            <p>That’s great.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Sheau-Tyng Peng">
+            <p>Take your time.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Sheau-Tyng Peng">
+            <p>Nice to meet you.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Sheau-Tyng Peng">
+            <p>I will send you a transcript...</p>
+          </speech>
+          <speech by="#Audrey Tang">
+            <p>Thank you.</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Revital S. Golan">
+<p>(removed upon request)</p>
+          </speech>
+          <speech by="#Cynthia Chyn">
+<p>(removed upon request)</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>賴懿容</heading>
+          <speech by="#賴懿容">
+            <p>之前在做旗幟回收再利用，在華山文創園區有舉辦過四次的策展。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>這個很有意思。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>對，後來也有在丹麥藝術館把廢棄旗幟變成文創，就是把它拆解跟重組變成窗貼，還有大型的公共藝術參與展。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>請坐，很棒。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>像最近的展是在桃園機場，我在看待這一些東西，每一面旗幟都是臺灣的故事，就是只有這個時代才會出現，每一年都會不一樣，所以我看那是臺灣的文化跟中華文化的精神，因為在上面有文字、圖騰及顏色，把這些拆解開來有不同文化的意向，我自己做的過程中很有趣，這個已經做了快七年了，這七年的過程中，我自己找到我需要訊息的東西，我創造一個訊息的場域，大家進來這一個場域的時候，會看到需要的東西，在實踐的過程中會很有趣，有些人看到數字、有些人看到顏色，然後有些人看到的是想要的圖騰。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>我一直覺得臺灣在文化裡面，就是我們常常去夜市看到的，可能鑰匙圈那一些東西，我自己有做國際志工的路線，我自己在柬埔寨看到他們用水泥袋做成包包，所以當一個整體形象擺出來的時候，就是臺灣文化意向的呈現，我一直覺得這一件事一定要做。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>但是，他變成是一個很大的工程，比如我要蒐集台北市的旗幟，我可以做這樣的處理，而且同時可以創造很多的就業機會，這個是一個。然後回收再整理之後可以變成環境再教育的材料包，環境教育的材料包不只是環境而已，事實上跨文化。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>包含社會環境、文化環境。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>對。我覺得更重要的是，它具有啟發的意義，就是我們在思考循環經濟，或者是領廢棄，又或者是源頭減量，因為常常在講源頭減量的時候，我自己考量到商業那一塊，因為畢竟像整個夥伴在合作這一件事；廣告旗幟其實有廣告旗幟的用途跟指引的用途，它也不可能完全消滅。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>對，它不可能不掛，對不對？除非全部換成數位顯示技術。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>我自己從這個面向看到，從這裡整理可以看到政治的圖像、設計的圖像、商業的圖像，還有各個不同面向的圖像，你會看到一個整體概念性的東西。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>我自己覺得的是，如果這個東西可以變成環境教育的教材，讓孩子們去思考到底環境是什麼、環保是什麼，我覺得這才是很有趣的事，因為我過去跟政府溝通，當然大家會有自己要考量的KPI及要做的事，而這一件事又會回到消費者身上，他們會有治權的問題，他們會思考你要把這個東西用去哪、會不會影響到我的形象這一些東西，我自己覺得這一件事是應該要做的事、而且是很棒的事。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>對，非常有意思。怎麼樣一起來做？</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>過去我跟身心障礙合作，然後發包給他們做，但是我覺得還是能量太少，畢竟他們可以做的工，只有上午三個小時可以做，對他們來說，希望可以賺到高附價值的環境教育教材，甚至可進去到美術館，都沒有問題，美術館是這樣網絡的東西，這個是很棒的東西。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>像我現在有一個全臺灣最大的旗幟工廠，它有餘料、基本base。第二，新北市跟台北市回收，我自己做過實驗，大概20％的旗幟可能會比較髒，可是80％還是可以做再利用，它做成教材，我剛剛講的顏色、圖騰及文字可以變成裸料，讓老師自己去發揮，又或者變成像材料包設計的部分。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>過去因為我是跟不同的學校做跨領域的合作、跟中原、跟輔大不同科系的合作，當初的構想只是我在唸大學會覺得我不是那一種聰明的小孩，我很需要實務的經驗，因此那時的概念是把學生拉出來，場域在華山文創園區做策展的活動。讓學生有一些真的可以學以致用的場域，不是只是在學校。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>老師也很需要這一種case study合作的部分，總而言之，過去做過很多的範例跟實例，從橫向的整合到縱向的整合，橫向就是各大專院校的co work合作，到縱向的國小、國中及大專院校的合作，所以T字型是缺乏政府這一塊，是不是有更多的資源來投入這一件事。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>非常有意思。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>想問個基本的問題，你們是一個社團法人？</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>對。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>是地區還是全國性？</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>全國性的。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>但是你們實際運作的場域是北臺灣，或者是其他的地方都有？</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>事實上我本來設在北臺灣，然後我是一個人運作，我當然之前有夥伴，但是我錢燒完了，我基本上就是用整合的方式，台北、台中、高雄都有配合的生產點。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>OK。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>事實上全臺灣它都可以做，怎麼樣變成複製的模式，全臺灣一起來做這一件事。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>如果形容你是策展人，你應該是比較正確的？</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>對。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>聽起來你並不反對別人拿這個idea就自己拿去用，並不是一定要經過你，你的策展是示範性或者是標竿性的概念？</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>是。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>通常你的運作是選舉期間或者是平常也可以用？</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>平常也可以。目前做到的是有一些知名度，廠商會把回收物交給我們去處理，像過去用策展的模式，像以環保這一種文化，你要收門票或者是什麼，其實很難有辦法創造比較穩定的收入。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>對，還是得做一點產品？</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>對，還是要有產品，而且要長期性跟持續性去做。我很需要一個場域，能不能把這樣的過程，把它做出來。因為它也很適合做環境教育場域的參觀，讓大家知道從環境的領域到文化，甚至到整個思考，我覺得是哲學思考的想法在這裡面。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>好啊！那所以這個場域，你希望用多久？它是一種參與式的，大家都可以來幫忙做，或者是靜態的很像美術館？</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>有層級嗎？我當然是希望可以做到美術館，我在找的場域是，本來想說空總有沒有？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>你是不是有申請？你一申請，他如果有，馬上就有場域可以用了。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>你是說空總嗎？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>對。他們已經開了，他們這邊要求的其實是非常簡單，也就是你的創作過程要在這邊發生，而且不排斥讓陌生人看，這個聽起來就是這樣子沒有錯，因為他們現在滿需要這一種題目，原因是空總剛開，我們這個角落已經先開了接近一年，已經有一些成績，但是全區那邊的場域更大，所以他們的題目是用得到場域的題目，硬體是要用接下來的兩年，等於一年多去蒐集所有用這個場域之後的不滿，然後這個不滿會變成他們把硬體重新改建的群眾基礎，因此他們希望在這邊發生的創作活動，第一個是創作者在，並不只是展覽，第二個是在參與過程中，對場地的需求、要求可以慢慢成形，文化部才可以拿這個說：「好，我們現在要把空總全區弄成這樣子，並不是只有文化部要，上千個策展人、上萬個民眾，都有這樣子共同的想法。」所以等於是把這一個場地本身做成一個創作的site，這也是為什麼叫做實驗場，這個並不是這個而已，而是把全臺灣需要比較大的場地，才能做群眾創作的人連結起來，我覺得這個題目是滿適合空總全區的。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>另外，聽起來你不一定要選舉時做的話，我會覺得可能選完比較好，因為選舉的時候，大家對於旗幟的運用是非常敏感，這個你一定比我更熟悉（笑）。而且台北市的議員也好或者誰也好，各種符號的強度是非常劇烈的，如果被kuso或者是拼貼，不一定每個人都很喜歡這樣子做，如果能夠選完塵埃抵定再來做，不管是用選舉期間的旗幟或者是用一般的旗幟，我覺得政治性會小一點。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>我不知道你是不是認識他們的那一堆人？他們有一個叫做「生活美學教育基金會」，龔卓軍、 賴香伶，他們有一個策展的團隊，最近也有一系列的展覽，所以我會建議好比像中山堂圖書館、開幕的中正堂都會有一些活動，這一些活動其實你有空的時候可以看一下，順便場勘，順便看一下未來這一個地方如果要拿來運用的話，動線怎麼樣比較合適。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>我們也在討論像週末這邊都會有建國花市，所以如果有更多參與的可能性，我們要如何引流，但是引流進來的動線就需要有豐富策展經驗的人才能把一群本來只是來看花或者是玉石的人，忽然變成這邊很有意思，這邊也有一些事可以做的感覺，因此策展的能量在這個階段也是非常重要的，因此我會滿鼓勵你跟c-lab接洽看看。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>我們這邊算是c-lab的一部分，我們專門做社創，所以如果這邊需要像你剛剛講的，就是一些做循環經濟的廠商，他是有產品的，這一些東西擺產品賣，或者是櫥窗、電商的各種方面，也就是往資本主義那一方面，也就是影響力投資的，這邊有相當多的能量，包含新創基地及輔導，如果已經有服務或者是產品可以輸出了，甚至到國際上，我們這邊可以幫忙放大。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>但是聚眾來創作的空間，當然是全區比較大，但是如果你想要讓大家更知道你在做什麼的話，辦一些中小型的活動、講座等等，只要講你解決哪一個永續發展目標，像這個顯然是循環經濟的問題，你就可以免費來使用這邊的場地，所以我們這邊也有一些像國際藝評人協會，都是直接框這邊的場地，然後去進行群眾自主提案的一些活動，雖然是文化活動，但是倡導方面把這邊當一個櫥窗或者是肥皂箱，這邊是可以幫一些忙。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>但是要把一大堆旗幟拿過來，然後要佈東西就要到全區去，就是到c-lab那邊去。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>c-lab那邊對接的窗口是？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>他們是有訂一個要點，你可以先參考一下，第一批快進來或者已經進來了，他們很快會有第二批，第二批就像我所說的在選後，所以也可以跟第一批討論看看，就是他們運用這一個場地，其實第一批都是最有挑戰的，包含到底冷氣開到多少才不會跳電（笑）。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>這裡本來是軍營，有很多要做結構檢測，還有很多是結構問題之類的，第一批都會try出來，等到差不多，修都修好、電也穩定好了，第二批比較真的能夠把更多人聚集起來，但是我想第一批很多展覽都已經開始了，你可以去瞭解。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>他們的運作中心就在我的斜對角，也就是偏建國花市的那邊，我們現在是仁愛跟忠孝，我們在這一角，他們在另外一角，穿過去就可以了。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>所以直接找他們就好了？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>對，就是鄰居。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>好啊！我再去拜訪他們。政府那一塊呢？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>我給你一個網址是「se.pdis.tw」，上面就有政府對於像社會創新的列表，因為之前你接觸的，它可能地方的文化或者是環境的這一些局處，但你剛剛講的這一些題目，以我的理解，包含經濟部、農委會，其實都有很相關的東西，所以我們現在等於是一個媒合平台，也就是你是一個協會身分，你就勾協會，所有目前正在on-going的，可以跟政府合作的計畫，他就會有一個自動媒合的東西會顯示出來。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>我們的要求希望承辦人直接留他要什麼、電話及email，這個比較好的方法是，這個逐字稿會整理出來，然後會email給你，然後編輯十天之後會公開，你甚至在email接洽的時候就說已經跟政委討論過了，我們的對話紀錄在這一個網址，可能附電子檔等等，這樣就可以省掉很多討論先期準備工作的時間，這也是一個可能性。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>瞭解。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>因為這邊提供服務項目是非常多的，剛剛聽起來每一個你大概都用得到一些。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>對，超跨領域的（笑）。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>所以你要如何接觸，並不是我能夠置喙的，但我們把所有正在徵件的，大概都有放在這裡。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>瞭解。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>所以很歡迎拿這個逐字稿當作基準去聯絡。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>好，大概清楚了。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>如果有空也可以上來登錄，如果有固定的產品或者是服務，已經可以讓市長存取的，也就是可以買的話，那也可以在這邊登記，就算社團法人的身份或者合作社都可以，沒有什麼差別，我們這邊登記的要件只是你有服務或者是有產品，然後你可以說明你的社會目的，來了這邊之後有一些好處，像有一些貸款辦法或者是信保，也就是登錄在這邊會有一些要點，但是我想最重要的是讓在做題目的人都可以彼此認識。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>我現在還是有遇到一些問題，也就是旗幟蒐集材料的問題，生產單位是一個問題，過去是給身障者做，但是他們的速度太慢了，大部分的人願意把旗幟交給我們做，但是卡到生產線的部分，我知道勞動部有多元就業。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>對，剛剛這個就是其中一個。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>變成要請人來去提申請？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>多元以我的理解還好，並沒有非常困難，核銷我們現在正在盡可能簡化，但是需要一段時間。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>像如果你看到獎補助，那個比較容易，直接給你獎勵金，所以我是覺得要看你動員的能量，如果你需要的只是要策展、需要志工，也許你走志工方面都比較容易。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>因為過去合作的案例，有學校主動想要跟我們做。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>現在主要是生產線、穩定的流量，並不是一次性的。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>對。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>也就是生產線跟固定來源的東西，就變成比較麻煩一點，怎麼樣做到讓社會大眾更多的消費者注重消費責任的這一塊，把旗幟做到付錢，也就是做這個很好的處理、可以做聯名的動作。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>你有跟上游的一些像大愛感恩或是春池，臺灣有很多做這一種上游廠商。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>上游廠商是什麼意思？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>就是在做回收的事業體。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>目前沒有接觸。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>這個也是一個可能性，很多在社會創新企業平台登錄，所以有一個可能是，他們在做回收的過程中，他們不會特別去分這個是旗幟或不是，他們會說這個是布料，如果要把新的產品線切出來的話，這個是商業合作，並不是像你剛剛所說純粹象徵性的，他們加值的程度只是作為下一次紡織原物料，可能可以創造更大的收益，因此談分潤機制都是有可能的，都可以在社創平台上看題目回收的人。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>謝謝。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>社會創新是大家看到、學起來了，說不定就是下次看到類似的主意是有人看到逐字稿就跑到印尼或者是菲律賓或者是其他的地方做，我想是帶起awareness。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>過去的模式是比較慈善、理想性的，但是最後必須要用到商業手段。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>就是要談生意。就是要告訴你的上游說為什麼供料給你，他的margin比較高。也要告訴你的下游，說為什麼選擇你這個東西的生活會比較有意義。</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>對，其實就是坦誠。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>對啊！</p>
+          </speech>
+          <speech by="#賴懿容">
+            <p>OK，謝謝，感恩。</p>
+          </speech>
+        </debateSection>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
