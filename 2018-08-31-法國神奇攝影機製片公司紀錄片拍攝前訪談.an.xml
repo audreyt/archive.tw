@@ -1,0 +1,313 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Frédéric Laffont" id="Frédéric Laffont" showAs="Frédéric Laffont">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-08-31 法國神奇攝影機製片公司紀錄片拍攝前訪談</heading>
+        <speech by="#Frédéric Laffont">
+          <p>Merci beaucoup, once again. Thank you very much.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>My pleasure.</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>The first question is about democracy. You said in Journal Le Monde, the French newspaper, that you declare that you were reinventing democracy. Where are you now?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Still reinventing.</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>[laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’ve made quite a bit of progress along the lines of the column that I wrote in La Monde. For example, I said that I would like to expand the public commentary not just on one single case, one budget item, or things like that, but rather all the different projects that all the ministries are doing. This year, we have more than 1,300 different projects by all the different ministries.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Anything that is not state secret is now public on the Internet for people to comment and for career public servants to answer in real time without a need of representatives. I think that is real progress. It used to be that it’s only selected cases that a minister want to talk, but now it’s practically everything. That’s a good progress.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The other progress I would like to mention is that every ministry now has a team of what we call participation officers. That is to say, a team of people who are charged to engage with any petitioners or anything that are emergent from the civil society. Again, this is a regulation on the administration level, not answering to my office. Rather, it is a part of the state system now.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Anything that is cross-ministry, previously they would just get a explanation. Now they would get a solution, because those participation officers will travel and meet the petitioners in real time and with digitally assisted tools, so that when people cannot make it to rural places or remote islands, they can nevertheless participate in the face-to-face discussion.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This system, of which we have established more than 40 cases, like redesigning our online tax filing system. At the moment, we’re redesigning our Medicare experience and very high-impact things like that, but also local issues like local hospital coverage in Hengchun, just south of Taiwan, a Marine National Park in Penghu, Pescadore, and things like that. It encompasses all the different ranges.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>When I wrote that article, I talked mostly about just digital economy issues. Now this system has been adopted by all the different issues. Of the 23 million people in Taiwan, 5 million is on our platform now. When I wrote the article maybe just a few hundred K, but now 5 million is on our platform.</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>Voila, a big success, some failures. You have some failures?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes. One of the biggest success is that we established a sandbox system. What we mean by sandbox is a experimentation period, where the civil society or the private sector can say, &quot;Our existing financial regulation is in the way of innovation.&quot; Instead of fighting in the Parliament, they can say, &quot;I want a new, revised regulation. And I want to operate under this new system.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Even the legal code itself is open source. You can change it to a different direction, and then you can experiment with this alternate version of the code for one year in a limited risk environment.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course, there are some red lines. You cannot say, &quot;For the next year, I’m going to experiment with money laundering,&quot; or, &quot;For the next year, I’m going to experiment with funding some terrorists.&quot; That is not possible. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Otherwise, any regulation from any other ministry you can also challenge in the sandbox application. We started this platform economy regulation in January of this year, and we established a FinTech sandbox April this year.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>At the end of the year, we expect to pass another what we call AI mobility sandbox, which talks about autonomous vehicles. That can be a car that drives and then flies or a ship that sails and then becomes a car. It could be a hybrid between various modalities, and that can also be experimented for a year and extended to two years.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If it’s a good idea, then our regulation change because of it. If it requires a law change, then the experiment can be extended up to four years, again the longest period anywhere in the world.</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>Looking at my notes for the next question...</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>Yes, I have them.</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>I prefer to have them in English.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I would also like to talk about failures. There was a notable shortcoming when we first did the Uber case in 2015 that was also very widely reported in French media. Because of that, I would like to add something that I consider as shortcomings, in retrospect. There are three shortcomings.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>First, when we did the consultation, Uber was only operating in Taipei City, New Taipei, and maybe a little bit of Taoyuanin in North Taiwan. It’s like it’s only operating in Paris. Because of that, the stakeholders we did in this consultation mechanism only included the labor unions, the taxi drivers, the existing taxi fleets operating in that region.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We did achieve consensus, it was ratified, and now Uber is operating legally. You can call a taxi using Uber app and so on. It’s all very well done, but it did not include stakeholders in southern part of Taiwan, which Uber again started operating after our consultation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In retrospect, the south part of Taiwan’s taxi drivers view it’s unfair. While it’s consensus, it’s North Taiwan’s consensus, [laughs] and somehow it becomes laws that affects them. I think that is a major shortcoming.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The second thing is that, when we did the consultation, we did not involve the career public servants. Mostly, we rely on the volunteers from the g0v community to run the system. While it’s very successful, when the next minister want to run something like it and ask their staff to run it, they don’t know to run it at all, because it was all done by outside experts.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We are remedying this now by having participation officers to be all career public servants, so that the skill can accumulate within the public service, instead of rely on outside experts. That was a shortcoming that we’re trying to ameliorate now.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The third shortcoming is that during the discussion with Uber, there was a voice that says we should generalize this to sharing of parking lots, to Airbnb, to all the different platform economy cases. At that time, we felt that, because we engage already with the Ministry of Economy, Transportation, Finance, it’s already a lot of stakeholders.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you want to talk about those other platform economy, we have to engage more people, and it’s very expensive, [laughs] both in time and in cost. We said no, we’d just focus on this particular case. Unfortunately, that came back to bite us. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s many other cases with similar structure, which is why, as I mentioned, this January we did the case of a general platform economy regulation that deals with platform economy, in general. In retrospect, if we had already done that in 2015, that will save three years of controversy. Those are the shortcomings of the first UberX consultation.</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>If it’s not too soon, what is today the legacy of the Occupy, of the Sunflower Movement? Has it changed with time with society?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In the mayoral election following the Sunflower Movement, any mayor that speaks authoritarian language, that is against public transparency, lost the election. There are some mayors who are Sunflower supporters, who did not expect to be elected, nevertheless got elected [laughs] just because they advocated for the Sunflower values.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because of that, that becomes part of the Taiwan identity, democracy, in the sense that democracy is not just about voting every four years, but about every day we can see what is happening. Any major politician at least have to pay lip service to this idea. Otherwise, they don’t have a political career. I think that becomes a new norm of politicians in Taiwan.</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>Is it a coincidence if all these projects for democracy, the fact that you are innovating on digital democracy, emerge at the time where China threatens more and more openly the independence on the identity of Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The PRC is also advancing digital technology, but perhaps toward a very different direction. That is still innovation, but innovation in the name of authoritarian control. I will not say that they are not innovative. They are very innovative, just on a very different [laughs] directions.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because of their advance in such innovations, I think it is natural for them to try to influence the nearby powers to adopt this philosophy of authoritarian control. It is the nature of many states and governments to want authoritarian control and to curtail the space for the civil society. It was just that there was no good technology to do that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Whatever liberty the civil society enjoys at those jurisdictions, it may be a artifact of there’s no power of structure that is enhanced by advanced digital surveillance technology. I would say the PRC is now actively exporting this philosophy and a digital system that associates with this philosophy.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t think this is particular about Taiwan, although we’re innovating on a very different direction. It is natural for a advanced political and philosophical system to want to expand its influence and its philosophy to like-minded jurisdictions.</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>Taiwan is creating its own Silicon Valley and wants to become the AI island of the world. Why?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Our national plan is called Asia.Silicon Valley and Taiwan is the dot that connects the Asia and the Silicon Valley. I would not say that we’re going to copy or &quot;shanzhai&quot; the Silicon Valley. That is not our goal.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Our goal is basically to look at the common issues faced by the Asian region, which is very soon going to be the world’s most populous region and suffers from the same climate, aging, and various other sustainable development challenges.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re innovating in response to those social needs. We solve not just our local issues, like using AI to solve water leakage problem, to solve water shortage issues as a result of climate change, but we’re also exporting the AI technology we develop for resilience.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For example, right now in New Zealand, a bunch of AI people from Taiwan and Taiwan water company are helping them to solve the water shortage and leakage issue, which was not an issue because New Zealand didn’t use to have a water shortage problem, but because of that climate change.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What I’m saying is that we’re not saying Silicon Valley has all the answers. We’re saying Silicon Valley has a set of tools, like machine learning that we are part of, the creators of those tools, but those tools must be deployed to solve real social and environmental issues in Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re not just satisfied with solving these locally, but also publicizing and sharing our results so that every other people in the Asian region suffering from the same environmental and social issues can enjoy this innovation that we connect the Silicon Valley’s power to.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It is a instrument, the Silicon Valley technologies. It is not an end in itself.</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>In Europe, we contrast virtual and real. In Taiwan, many still have traditions, for example, the ancestral fish flying or stinky tofu recipes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They film it and put it on e-commerce sites.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>And put virtual reality experiences with flying fishing.</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>It means that there is no two Taiwans. The vTaiwan or the real Taiwan. There’s no opposition in the two sides of the society.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, as president Tsai Ing-wen declared in her campaign, her campaign idea is broadband as human right. Many jurisdictions to say this, but very few actually deliver. Taiwan is one of the few places where we actually deliver broadband as a human right.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Any place in Taiwan if you cannot connect to broadband Internet is the government’s fault. Because of this, we don’t have, as you said, the digital gap between the people who have access and the people who do not.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Everybody is entitled to broadband access. Even for poor families who cannot afford the tablets or the devices, they can go to their local library, their local Digital Opportunity Center or the local school to enjoy such access.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because of that, what we’re saying is that it is not two Taiwan if we can include everyone in the digital transformation. Indeed, in terms of the broadband readiness, Taiwan is number one or number two in the world.</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>You recently attempted a meeting of the UN in Geneva themed by robot. What does your virtual presence mean for you?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I attended many meetings in the UN this way. It’s just that Geneva one was live streamed on the Internet, so it was discovered.</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>It was not the first one.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, it’s something that I’ve always been doing even before becoming a digital minister. I see this as first, it reduce carbon footprint compared to flying. It also doesn’t have jetlag as a problem, so I think it’s a very convenient way. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In Madrid, I actually appeared first as a robot. They call it Galatea. That is a 360 robot that I can experience Madrid using virtual reality.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>After a week, I fly to Madrid and the students there feel that I just changed bodies from a silicon one to a carbon one, but it is a continuity of relationship. I think telepresence is only going to be even more and more feasible to bind people’s feelings together and not just abstract words or images.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think this makes a lot of sense in the diplomatic setting as well because people need to feel how it is like in various different corners of the world instead of seeing them just as abstract numbers.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m happy to demonstrate this, but I think this is not something that is a one-shot. It is a ongoing relationship.</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>What are the most important influence of the destiny of humanity for you? The dialog of men with men? Men with machines? Machines with machine? What do you think?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The dialog itself is the important part. We are, after all, just containers of thoughts. The ideas, the thoughts, they inhabit people who are ready for it and they also may inhabit machines that are ready for it. What I mean is a more relational view on things.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>At the moment many people, especially in the Silicon Valley, see data as something that is an asset, as something that can be hoarded, something can be owned, can be sold, can be given, and so on. They see data exchange as a proxy of a dialog, and I think this is a dangerous view.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think data is just a beginning of a relationship. If I have some data that I create with you, then we talk about how to make use of the data together.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you have some data that you entrust to me, we begin a relationship in which you can ask me about what am I doing with the data about updating, about turning the data into something that is more accurately reflecting your in the moment state, and not some state four years ago or three years ago, and so on.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think this accountability mechanism, while very abstract, if you read a GDPR, it is actually very humane. It talks about the agency that each actor, each person, our age machine in the future has. If they have a beginning of a relationship with any other entity, it is the agency of the data expression and data as a social object that enables such reactions and actions and relationships.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Taken in this view, what is important is that it must be equitable and symmetric. If we have a relationship that only I can talk and you cannot, it is not a relationship. It is just control.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What is important is the equitable and symmetric relationship of all the stakeholders involved, and that is the important part. It doesn’t quite matter how many of these are men or women or transgender or machines, but rather the importance is how equitable the message flows between the different nets.</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>Reinventing democracy, strengthening individual freedoms including LGBT rights, Taiwan’s identity and specificity has been strengthened in recent years. However, the Island seems isolated on the international things, right? How do you see and resist to this pressure?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The island is pretty stable. We have some earthquakes, but we’re generally doing fine, and the influx of tourists have not stopped. It actually increased, but of course the demographics have changed slightly, but I would not say that we’re being isolated.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s more people coming to Taiwan, and also coming from Taiwan to other places, and the international trade and exchange of information and knowledge and innovation have not stopped. I think this is entirely in the mind of the frame of Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you see Taiwan as a island with huge biodiversity, with the peoples with huge social diversities...As you said, the identity as a island where diverse values can still find common solutions to everyone, these value have not changed and indeed have only strengthened, and our influence to the region and to the world has only increased during the recent years.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you talk about isolation, then that is taking a very Westphalian view on things, so maybe only on the Westphalian arena [laughs] this situation may make sense, but as a anarchist I officially don’t care.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>That’s my personal answer.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Frédéric Laffont">
+          <p>Last question. As a child, you do computers before you even own one. What remains of the dream and hopes you had?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I can still draw a keyboard for you here.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>It’s still here. [laughs] I always prefer stylus, from Palm Pilot to Zaurus, to the Note phone to the Apple Pencil. This I think is the same from the age when I was eight years old, when I start drawing keyboards. I always prefer input modalities that makes a full use or a fuller use of body.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It could be gestures, it could be images, it could be a high quality recording like talking to the camera. [laughs] In other words, I think computers as a -- what Steve Jobs said -- a bicycle of the mind. It carries the entirety of the mind and body that associate with the mind.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This embodied computation and computer as a bicycle that carries us, but ultimately, we steer it and we pedal it. I think this is the same image, the same conception I had as a child, and that I’m still applying this as a lesson today as the digital minister.</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>Merci Beaucoup.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Thank you.</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>Thank you very much.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(off-mic comments)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>OK. That was very good.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Thank you. Thank you so much.</p>
+        </speech>
+        <speech by="#Frédéric Laffont">
+          <p>Merci.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(background conversations)</i>
+          </p>
+        </narrative>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
