@@ -1,0 +1,627 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Jeannette Wing" id="Jeannette Wing" showAs="Jeannette Wing">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Poorvi Goel" id="Poorvi Goel" showAs="Poorvi Goel">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-09-20 Conversation at Columbia University</heading>
+        <speech by="#Poorvi Goel">
+          <p>We are very privileged to have here today our distinguished guest for the panel, Minister Audrey Tang, Digital Minister for Taiwan, and Professor Jeannette Wing, the Avanessians Director of the Data Sciences Institute and a Professor of computer science at Columbia University.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>Audrey is a free software programmer, and has been described as one of the 10 greats of Taiwanese computing in the private sector...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That was over 20 years ago. [laughs]</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Poorvi Goel">
+          <p>...by the age of 19, Audrey had held various positions in software companies, and she had worked in Silicon Valley as an entrepreneur. Before joining the Taiwanese cabinet two years ago, she served on the National Development Council’s open data committee and on the K-12 curriculum committee.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>She introduced media literacy and computational thinking in the curriculum for the first time. She’s also led the country’s first e-Rulemaking project.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>Professor Wing has served as Corporate Vice President of Microsoft Research and has overseen a global network of research labs. Jeannette’s seminal essay, titled Computational Thinking was published a decade ago and is credited with helping to establish the centrality of computer science to problem-solving in fields where previously, it is not being embraced.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>We’re really delighted to have you here with us today. Before we begin, I’d like to mention that we’ll be using Slido for audience interaction with the panelists. If you have your smartphones and/or your laptops, you can go to slido.com and enter the event code #920. Nine, two, zero.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>You’ll be able to join the conversation and post questions to the panelists. During the course of the panel, if you have questions that you’d like for the panelists to address, please go ahead and post them and you’ll see what others have posted.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>You’ll be able to upvote the questions that you want the speakers to address first, so we can address the burning questions first that are supported by majority of people. Depending on the time, we’ll address the remaining ones.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>I’ll also take this opportunity to thank the co-sponsors for this event, the MPA in Development Practice program and the Taiwan Focus for their kind cooperation and support in bringing this event together. I’d especially like to thank the Taipei Economic and Cultural Office in New York.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>We are privileged to have here today Ambassador Lily Hsu of TECO and distinguished congresswomen from Taiwan.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(applause)</i>
+          </p>
+        </narrative>
+        <speech by="#Poorvi Goel">
+          <p>To kick off the panel, can I first invite our guest to join us here. Minister Tang and Professor Wing, we are so happy to have you here. Can I just ask to ask that you tell us a little bit about yourself, your background, your work, your interest in the subject?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Hello, I’m Audrey Tang, Digital Minister @ Taiwan. My background is pretty transparent. The idea, very simply put, is that I’ve been working with the Internet society on what we call collaborative governance for many decades now. I was there when the free software movement forked into open-source movement and merged back.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This whole idea when we occupied the parliament in 2014 in Taiwan was the idea that since the people really want to have more input, more than two bits every four years, into the governance process, we need to build social innovation and civic technology to find more meaningful participation and to building rough consensus in the way that Internet society uses, rather than polarizing people. Basically tech for democracy.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>When I joined the cabinet two years ago, I don’t have a contract. I have a compact, like a covenant, with the government in Taiwan. I work with the Taiwan government, but not for the Taiwan government.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The three conditions, very simply put, are voluntary association -- I don’t give or take command, radical transparency -- I publish all the meetings I chair online and the full transcript, and location independence. I’m happy to elaborate on these ideas more in the questions to come.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Hi, I’m Jeannette Wing. I’m the Avanessians Director of the Data Science Institute at Columbia and also a professor of computer science. Before I joined Columbia last year, I was a corporate vice president at Microsoft Research and I ran all the basic research labs worldwide for Microsoft.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Before that I was at Carnegie Mellon University for decades as a professor and department head. I also served at the National Science Foundation for three years as the assistant director for computer and information science and engineering.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>In that role, I oversaw most of the academic research in computer science for the country. I set the strategic directions and gave money out. People were very happy. It was a good position to be in when you’re giving money out.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Right now, I run the Data Science Institute. One of the things that I wanted to promote for Columbia University and for data science more generally is what I call Data for Good.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>By Data for Good, I mean using data to tackle societal grand challenges such as the UN sustainable development goals, but also to use data in a responsible manner, to use data considering privacy and ethical concerns, which I think everyone understands today is really in our face when you pick up the front page of &quot;The New York Times&quot; and you’re meeting horror stories all the time.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I think it’s very important that we train data scientists from day one to understand the ethics of using data, collecting data, analyzing data, and disseminate the results.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>Let me start off the discussion and please feel free to post your questions at any time starting now. Minister Tang and Professor Wing, I’m thinking we’re living in a time of unprecedented technological change in terms of phase, scope, and depth.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>Advances in artificial intelligence and robotics, to name just a few, have opened possibilities to improve quality of life for people everywhere. It is possible to achieve the 2030 Sustainable Development Goals if the technology is implemented properly.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>The frontier technologies hold promise to end poverty for good. They enable sustainable patterns for growth and achieve peace and prosperity. I want to ask, how can technology be redirected towards inclusive and sustainable outcomes?</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>What are the promises of technology for development? Broadly, what are some of the technology trends that you’ve seen in your careers or new areas that you’re seeing now that could play an increasingly greater role in our sustainable development?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I would just want to highlight the connection between the technology for good, as Professor mentioned, and Sustainable Development Goals. There are a few targets always in the 17th SDG, teaching specifically talking about the role of science, technology, and data in terms of Sustainable Development Goals.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That is why in this slide, I chose this icon, which is the 17th SDG for this conversation. Basically, target 17.18 talks about enhancing availability of reliable data because the whole idea of the Sustainable Development Goals is that one should make progress not just in the economic or the social or environmental areas, but actually leave no concerns behind.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For this kind of holistic worldview, reliable data is very important because otherwise, people are not held accountable for the negative externalities, but they’re rewarded for the positive progress they make on any of these goals.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We need to maintain our awareness that any action has a different spillover effect on every other goals as well. How exactly does those goals overlap? How does policies and other civil society and private sector actions actually impact these different goals and targets that becomes a evidence-based policymaking problem that only advance unethical use of data and make everybody see the whole picture at once?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>17.17 talks about encouraging effective partnership because when we talk about open data, many people think about open government data, but it is also citizen science. It is also data sharing from private sector.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It is also an open algorithm, whereby private sector people run the same set of algorithms and in order to compare and contrast in a way that doesn’t infringe privacy and things like that. 17.17 talks about this kind of partnership.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Finally, 17.6 talks about knowledge sharing in cooperation so that people can have access to innovation whenever their environment is suitable for some kind of innovation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The government and the other sectors has the responsibility to distribute the innovations and amplify their messages so that people in very similar situations can see oh, Taiwan fixed their air pollution quality problem.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We solved it with cross-sectoral data integration and high-speed computing, democratize to all the high school students and so on. That can scale. That can be extrapolated and exploited to anyplace that is suffering from similar social situations or injustices, and these innovations can spread, using the 17.6 as its main target.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Let me speak a little bit about the technology itself and the capability of the technology already in place. Probably the most exciting technology that all of you heard about and read about is AI and some of the machine learning algorithms that are producing models that can be used for prediction and classification. Let me be a little more specific.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I would say just even five years ago, we were not nearly as far along as we are today in recognizing objects in an image or recognizing objects in a video. Currently the machine learning techniques that we use are...One of the most popular techniques is called deep learning.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>These deep learning techniques are building models such that, as you know, face recognition is basically a solved problem. Object recognition is to the point where all the self-driving cars have cameras that are serving as the vision system of these cars.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>The whole point is that for a self-driving car, these vision systems can see the objects in front of the car. It can detect whether a pedestrian is running across the street. It can detect whether there’s a stop sign coming up.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>All of this object detection, object recognition is done through these AI machine learning algorithms. It’s astounding to me the success that these techniques have had in literally just the past five years.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Those are the kinds of techniques. These techniques are serving multiple purposes outside of self-driving cars. For instance, if you take the healthcare domain and imagine using these techniques to process images, medical images -- for instance, X-rays, mammograms, images that are taken to detect whether you have cancer or not -- all of a sudden, the clinician, the radiologist has a computational agent to help him or her do prediction, do diagnosis.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>This is happening already. There are startups around the world that are bringing in these techniques to help hospitals, to help radiologists, do this kind of image processing. That’s in healthcare and that’s also just about images. I could say something very similar about other kinds of media, whether it’s video or speech, text, and so on.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Another area of application, speaking to sustainability and the environment, is I just learned just yesterday, literally, when you think about a lot of the fishing vessels that are out there, one of the roles that these fishing vessels have is to count the number of fish around. Are we losing our fish population or whatnot?</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>The way in which it used to be done is there’d be a human being standing there with a pencil and paper counting the fish, looking at the fish, probably scooping them up and doing some kind of statistical analysis to do an inference of how many fish are around.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Rather than do that, not only can we do better but we can do it in a more environmentally sound way by having cameras on the fishing boats that will just be always on, taking pictures of the sea, if you will, and doing a better, more reliable count.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>That’s just one example of medical, environmental applications of this technology that’s doing image processing. What I wanted to say is all these deep learning models are very data-hungry. The more data you feed these algorithms, presumably the better the classification, the better the prediction.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>It is about amassing large amounts of data in order to make these vision systems perform well. There is where the issues of accountability, bias, and so on may come to play.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>We have some audience questions coming in. Shall we go into talking about those? OK. The first question that everyone wants addressed first is, &quot;Most discussion of data for good is about curbing abuses of commercial tech, but what is an affirmative example of using data for policy design?&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’ve already mentioned a little bit about the Civil IoT project. The website address is ci.taiwan.gov.tw. We have offered these cross-ministerial projects like ci.taiwan.gov.tw. We also have one for AI Taiwan, for Bio Taiwan, for Smart Taiwan, you name it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The CI Taiwan one is about basically citizen science and about people measuring the air quality using low-cost measurement devices basically on their balcony, also part of as a education tool and things like that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Taiwan is kind of rare in Asia, where you can have thousands of people just doing citizen science like that without fear of censorship or retaliation from the government. In fact, the government, we’re like, &quot;When we can’t beat them, join them.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>When they set up those 2,000 points we commit ourselves to set up complementary points where the people’s sensor and things like that cannot reach you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>When they went to water quality we started doing water quality as well and manufacturing devices that can do sensor vision, like make most of the environmental data without impacting too much by the noise and things like that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think the really powerful message sent to the policymakers is that for the first time we have a aggregated data store of a very large variety and incoming sources and it’s all accountable. The snapshot is taken every now and then and stored into distributed ledger systems to make sure that we don’t change the numbers before election day or things like that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Basically, it creates something of a neutral collaboration ground that people who are doing science, doing policy, and so on can see as a reusable data source. We also do a lot of collaboration around that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I will also use another example where people can just donate their data, but this time their data on feelings. Back in 2015, when Uber first start operating without professional driver’s license cars, Uber X in Taiwan, the civic tech community, in partnership with the national government, set up this AI-powered conversation, where we asked people to donate their feelings -- to describe in a sentence or two what they feel about the practice of using unprofessionally licensed drivers and charging passengers for it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Very interestingly, because the dialog space was set up in a way that it was moderated by a non-human, in a fair way, people actually use this data to collect each other’s feelings and not because there’s no reply potentials as in Slido. People can just agree or disagree on each other’s sentiment.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course, using k-means clustering, principal component analysis can put a face of the crowd so that people can know what their people or your family feel about this particular issue. The good thing is that at the end of it, people agree to disagree on a few things, but they spend much more time on the thing that they have consensus with.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That kind of proves to us, if this collection is voluntary and it is in a collaborative way and nobody can censor or prevent each other from speaking, at the end of it, after three weeks, there’s a very strong sense of consensus, which we then use to make the ridesharing laws, which is why Uber is now operating legally in Taiwan. You can call taxis using Uber and the other way around.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think this is also one of the early cases where we see, having a non-human moderating the discussion in an open-data and open-algorithm way is really good for policymaking.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>There’s a whole branch of data science that’s very interested in causal inference, which has of course been a study in economics and political science and social science for decades.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>With the advent of big data, lots of data, machine learning algorithms, and causal inference, now we have the possibility to start really using data to understand a lot of policy decisions that could be made or are being made.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>The typical examples are, how large should a classroom be? Should it be 20 students? Is 30 students too many? We can actually study in a counterfactual way what causality, what we have, depending on the size of the classroom. That’s just one small example.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>There are many, many cases right now where these machine learning algorithms are being used in our social society. One of the canonical examples right now is in the criminal justice system. Some of these decision-making algorithms are being used as black boxes to actually determine what sentence someone should get.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Now all of a sudden, these technologies are making important decisions about individuals and their future. People are quite interested in both the use of these technologies so that a particular policy can actually be applied uniformly and not subject to human opinion or bias.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>People are as concerned about the computer itself being fed with biased data. The model will be biased as well. This is really a hot topic of research right now in the data science, machine learning, and AI community.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>One really what I view as quite foresightful is later on this afternoon I’m actually going to be going to the New York City Accountable Decisions Systems Task Force meeting.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>This is what I think has shown great leadership by New York City to create this task force in recognition that the agencies in the city are using these black boxes to do prediction, to do decision-making, to do classification, and they are worried that decisions that are being made are potentially biased.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>How can we account for these decisions? New York City set up this task force. I think it’s the only one in the world, so that it shows leadership by the city to really address this very hard technical problem.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>The next question we have from the audience is, what is your number one worry for the next 10 years and for the next 50? Then a related question down the line is what is the next big thing or move in tech?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>First of all, I’d like to show you my office in Taipei City. This is the Social Innovation Lab in Taipei City at the heart of Taipei near the JianGuo Flower Market. I share this because this is a co-creation of thousands of people online and hundreds of people offline.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>These were drawn by people with Down Syndrome and so on. It turns out they are excellent artists. I show this because my main worry is that people who innovate on different domains don’t talk to each other. This kind of co-creation are a safe place, a safe space, where people can share their latest experiments and have useful feedback from people who are very different from them.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Every Wednesday is my office hour day, from 10:00 AM to 10:00 PM. Anyone can come to talk to me about sleepers, social workers, anyone who has any concern about where innovation is heading in Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t have a personal worry, because I kind of channel everybody’s worries. [laughs] But I would worry if people stopped talking to me. I would worry if people stopped talking to one another.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because this is the place where the MIT Media Lab, for example, worked with the local universities to drive those autonomous driving Persuasive Electric Vehicles, tricycles that are really kind of slow, so they have the same right of way as pedestrians.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We collect a lot of useful information, not just raw data, which is very important, but also qualitative data about how people interact with these new things and what their hopes and fears they have for them and also how people’s norm change when there are such things on the road, and also how people want these things to co-domesticate with ourselves to show their emotions, to show where their attention is, and things like that in a way that co-evolved.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think this is a prime example of having social infrastructures that enables cross-discipline people to form new norms around AI and without which, if people stop talking to each other and just develop on their own, then I start to worry.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I think depending on what hat I’m wearing I worry about different things. As a scientist in this country what I worry about is sufficient support for basic research in science and engineering to support the academic enterprise.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Partly that’s the worry that the federal government is not really speaking up to support science and engineering in general. Along those lines, a concern I have is that industry, because they own the data, they have a lot of data, they have these techniques, they have the computing. They can do all sorts of things that academia cannot easily do.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Industry to me in some areas of AI, data science, machine learning, computer science, is actually ahead of academia. There are two implications for that.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>One is that because the competition is so stiff right now in the industry, they do not have the time to take that step back and understand the scientific underpinnings of the successful applications of the technology.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Eventually, the technology will hit a wall. That’s usually when you can then turn to academia and say, &quot;Well, what’s next? Please help us move beyond this wall.&quot;</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>What I worry is that because industry’s a bit ahead right now with this technology -- academia doesn’t even have the capability to be running the kinds of experiments, doing the kinds of projects that industry has -- we can be understanding, trying to understand the science.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Will we in academia be ready when industry hits that wall? That’s one worry I have. I think it’s not just a US worry.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>The other worry I have is...actually don’t know how to think about this and I would love to hear people’s opinion about this. There’s a lot of concern about AI and technology innovation and so on will increase the, I would say, income gap, if you will.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>If you talk about inequality or reversing inequality as a sustainable goal, then are we in the technology industry exacerbating the problem or actually can we help address that problem?</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I think it’s important for people like you and people who are interested in both technology and policy to really talk through those kinds of issues.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Just a small example of that issue is the concern and the fear that the public has in terms of will all of this AI -- robots and so on -- take over a lot of our jobs? The future of work is clearly interesting.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Now on the flip side, you asked what technologies are going to come out in 10 or 50 years. I think no one in my industry ever predicts the 50-year thing.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Jeannette Wing">
+          <p>[snaps fingers] My industry works like this, every 18 months there’s something new. We didn’t know about it 18 months before. 50 years, all I can say is maybe we will have a quantum computer.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I don’t know, but I can say that the cryptography community and the security community are certainly planning for that, trying to work on the mathematics to ensure that the kind of e-commerce that we’re so used to, the secure communication that we’re become so dependent on will continue to work.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I’ve talked about quantum computing, but another area that I think is quite intriguing to me is what I would call biological computing, building computers out of molecules, building computers out of natural, not-engineered systems, but actually natural systems.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>We already know how to put some molecules together to do some very simple functions. This clearly has a lot of implications in terms of synthetic drugs, in terms of personalized therapy and all sorts of positive consequences for healthcare.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>The next question that we have from the audience is directed for Minister Tang, but if you want, we can address that later and keep going with the flow of the conversation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s fine.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>The question is, &quot;As the first transgender minister in the world, what’s your message for LGBT students interested in serving the public sector?&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Have fun.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Optimize for fun. I think there’s this added concept of intersectionality. Having been through two puberty enables me to empathize with people’s lived-in experience, I believe, in a unique way.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Also, it enables me to relate to people suffering from social injustice and bullying and so on, even though they may be of a different population or a different sort of identification than I personally am. I think this too corporate rather to say organizational empathy ability and this relatedness to vulnerability combined that brings in to intersectional power.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>One can put into the words of the privileged or the organized or the scientifically-understood their feelings and subjective feelings of the oppressed that the one suffering from social injustice and so on.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This translational or channel-like capability is essential if we’re going to talk about global roles, because people don’t have first-hand experience living in Africa or living in places where one of the SBGs are still suffering a lot.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We can use our intersectional capability within ourselves to create art, to create interactional stimulations or whatever other forms that we think carries this kind of living experience and make it relevant to other people.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think it also goes back to computational thinking, because in the original definition, there is a way to think about issues in a way that’s effective to compute. I think the beauty of it is that effective doesn’t only mean linear or Turing-machine compatible. It also means it could mean quantum. It could mean biological.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It could mean whatever data a computer at their disposal. The computer may as well be a human being. Just this plurality of computational paradigms and this plurality of possible ways to frame things as effective, I think, is enlightening.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Again, this is the idea of intersectionality that I would like people who are LGBITQ-plus to basically position ourselves in this kind of intersectional channels.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Let me interject because Minister Tang referred to computational thinking and picked up on the word &quot;effective,&quot; which is very keen on your part. I have always viewed a computer could be a human or a machine.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>In fact, computers of today are combinations of humans and machines. What is interesting about thinking about a computer as being a human or including humans is that we actually do not know the computational capability of humans.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>We know we can do some things pretty well. We can also still do, still do, some things better than machines. Of course, machines are catching up in certain tasks, but the Holy Grail of AI is what’s called general AI. We don’t know how to build one of those, so humans are still pretty smart, pretty capable computationally or otherwise. There’s a real research challenge.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>Thank you. Going back to the topic of innovation and of course, sustainable development, the question from the audience is, &quot;What role can the government play in regulation of artificial intelligence?&quot;</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>There was a related question down the thread, which can be a flip-side question, &quot;What role can social media and artificial intelligence play to improve democracy or overthrow dictatorships, and how significant is that role?&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course, social media and AI can also improve dictatorships and overthrow democracies.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>There’s no linear or causal relationship between the technology and the people’s values using the technology. I think what’s most important is when a child learn to wield an instrument for the first time, they don’t know the morality behind it. It might as well be an AK-47 or whatever. You know what I mean?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What it means is that we need to create a social norm in which that such instruments are imagined in a way that is for the social good. When I learned programming when I was eight years old, I learned entirely from books.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I didn’t have a personal computer or indeed any access to a computer and draw on paper a keyboard and simulated computational thinking [laughs] without a computer.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then, I think that is important, because then it shows that the computational activities in a human brain, it doesn’t require any computer. It requires someone to model logic as its notes and possibility of interaction as its melodies.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>When understood this way, then one will not be sold on the addictiveness of social media, which is in the business of selling addiction or other way that basically trades our invention or our cognitive resources into fueling these addictions or other psychological traps.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>But can rather enable us to focus on places where, as Professor just said, we have not yet explored, like the human potential of human beings. I think education and then social norm around people’s initial contact with the technology, for example, as a bike that talks to you rather than something that takes their jobs away and things like that is essential.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think the idea of sandboxes, of co-creation of regulatory experiments and so on are the policies we’re introducing in Taiwan. They’re not policies.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They’re like meta-policies that enable people to experiment with the regulations and the law for a year, for example, like they want to run with this alternate version of a law for autonomous vehicles or for V-pack or for whatever for the entire society to know for them to be given a chance to prove to a society that this enables a better social environment.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If it doesn’t work, it’s just a year, so it could be terminated. We’ll thank investors for paying the tuitions for everyone. If it works, then the regulators and legislators don’t have to work with something that we don’t have first-hand experience.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This motivational incentive for innovators to be with a first experience for the society that they deployed their first experiments in, that brings social solidarity, because everyone comes together and codetermine the norms and the future of this technology I think is essential if people are going to think about it in a way that enables the common good.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I like your answer about social norms, because as everyone understands, social norms continue to change over the years. We have to adapt. Technology has to adapt, and social norms have to adapt to technology.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I wanted to address the two questions. The first had to do with government regulation and AI. I think this is a conversation that’s being had right now. The IT companies in the beginning certainly were taking the stand that you didn’t want a government to regulate what they do.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>As the stories have played out, whether it’s hacking elections or the loss of privacy or surprises that the lay public are now encountering because they were unaware of how much data is being collected about them and how that data is being used, I think that the companies, their first strategic direction would be let us self-regulate.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I think now partly because of all of what’s been happening in the public’s eye as well as external constraints like EU GDPR, these companies are recognizing that maybe we need to have a dialogue with the government agencies and understand best what makes sense to regulate, how should these regulations look? I think that’s just starting.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>That conversation is just starting and different companies are at different stages in that conversation. In terms of the question of...What was that second question?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>About democracy...</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>What role can...</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Oh, oh. Social media and democracy, social media and dictatorship.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I wanted to tell especially the SIPA crowd here, there’s a brand new faculty member here at SIPA. Her name is Tamar Mitts. How many of you have heard of her?</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>She has done some phenomenal work looking at Twitter data to understand how people are influenced by terrorist organizations like ISIS. She’s looking to see, how is it that people get radicalized?</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>She’s using social media to actually understand this very issue of why people start feeling pro or con towards their government or pro or con towards a particular philosophy. That is tip of the iceberg. There’s so much we could be doing with social media data.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Now, not a lot of that social media data is available to the public. The big company...Facebook has a lot more social media data than any of us will ever have.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>All these big companies have a lot of information about our preferences, our behavior, our tastes, our daily lives that is actually their asset.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Twitter data is publicly available. In some way it’s actually allowing us to study the society. But your question was more of how can social media...?</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>...overthrow dictatorships, and how...</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>And how behaving in certain ways...</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I think we’ve already seen evidence of Twitter and social media -- the Arab Spring and all these sorts of uprisings, if you will. That’s a new phenomenon, which is why the companies don’t want their stuff regulated.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Because it’s supposed to give everyone a voice. It’s supposed to be democratizing the world. That’s the conflict.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Poorvi Goel">
+          <p>Thank you. The next question from the audience is, &quot;How do private and public sectors apply blockchain technologies to achieve the SDGs, and are there any examples in projects?&quot;</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>Another related question is, &quot;Can you give examples about open government with current technologies? Does it create a new form of democracy?&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A little bit nitpicking, but I usually say distributed ledgers, or mutually distributed ledgers, rather than blockchains, but this is just being very pedantic. Feel free to continue saying blockchains.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The reason I say that, because there’s multiple ledgers that we use in Taiwan now, like the one I talk about in the civil IoT platform, which is IoTA. But it is a cyclic graph. It’s not really a chain, so I don’t know whether to call it blockchain or not.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It certainly is a mutually distributed ledger. Such ledger technologies are now routinely used not as cryptocurrencies but rather as just what they are, ledgers, to provide people with trust.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There is, for example, around the time of the Nepal water issue, there’s a lot of people who donated towards to recover from the hurricane and the disaster and whatever.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We observed that people generally trust a international charity better than a domestic partnering with another domestic charity because they don’t know of the accountability involved, which is why the Taiwan NPOs all invest a lot accountability mechanisms and self-regulation in order to earn people’s trust.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Such auditing mechanisms with KPMG or with any of the other auditors are kind of costly. It’s not so, so good for crowdfunding or the charities that are just set up for this event alone.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The ITRI, the Taiwan’s technology institute, has a spin-off startup, a social enterprise, called Dodoker, D-O-D-O-K-E-R, that uses the Ethereum distributed ledger to essentially record alongside each donation, each transfer of money, each use of the spending for the humanitarian relief or for whatever -- there is a footprint on the Internet for Ethereum chain.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The idea very simply put is it doesn’t rely on the crowdfunding site at all. Anyone can recreate this trail of accountability right from the chain itself without going through the central and maybe modified or tampered-with -- the Dodoker site.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That is one thing that is already being increasingly used to improve the accountability of cross-sector international disaster relief.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s many other...I have a bunch of friends working on the so-called &quot;Matter News,&quot; which is a way for people working on human rights to voice their concerns and have a distributed forum. I think the good thing about it, again, is because of this distributed ledger, if people censor or modify the message, that attempted censorship will actually be recorded.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They chose a pretty good mathematic foundation so that it’s very difficult to mount a attack for the whole network.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For things like that that are just out there in the public knowledge, social objects for everybody to reflect about, I think there’s enormous potential in distributed ledger technologies.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I just want to say that I think we are agreeing so much today. I also prefer to say what blockchain is and call it for what it is, which is a distributed ledger with certain properties, like verifiability, tamper-proof auditability, and so on.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I think it’s those properties of that technology...and by the way, that technology’s been around since the ’80s, so it’s not new.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>[laughs] Only the branding of it.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I think also the combination of distributed consensus protocols, which were invented in the ’80s, plus the cryptographic protocols, is really what’s bringing distributed ledgers these properties that I was just mentioning and that Minister Tang was saying is used.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>As you know, Columbia University just entered a partnership with IBM on blockchain and data transparency. IBM’s interest in blockchain, besides that they have a business on that, is actually to light up a lot of different applications using distributed ledger technology with those different properties I mentioned.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>The kind of application area they are particularly interested in and they already see a lot of interest from their customers is in supply chain. If you think about, let’s say, building a Boeing 787 or whatever it is.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>There are a lot of parts that go into that and you want to account for every single step in that supply chain to make sure that everything by the end will go in the airplane goes right.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Or a supply chain in terms of, say, in their case they have a wonderful example of the shipping industry, where you’re loading some goods at one port and the ship is going around the world and you’re unloading them at some other port. You want to make sure that all the goods arrive and so on.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Anytime when there’s a fairly complicated process with lots of different parties that are supposed to coordinate, communicate, and collaborate, but you want a verifiable ledger and you don’t want a central authority so everyone writes into some SQL database at the same time, that’s where that kind of blockchain technology can be very useful.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>The next couple of questions are related so I’ll ask them together. The first question is, &quot;Should governments develop and train algorithms using citizen-generated data?&quot; An extension of that question is, &quot;How would federal systems then respect the fundamentals and laws of data security and privacy?&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Very carefully. [laughs] The whole notion of data as asset is something that we in the policymaking process is trying to counterbalance. I mean, GDPR works somewhat toward this goal of defining data as the beginning of a relationship, rather than an asset.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think this relational rather than transactional view is what we really need to take, because GDPR basically says if a data operator controls some data you provide to them for one particular purpose, then if they want to use it for some other purpose and so on, they have to initiate a conversation with you about the new purpose because you did not provide it under that context.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s a whole notion of portability, explainability, and so on because of that ongoing relationship.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If there is no ongoing relationship, none of these words would matter, because then it would just be a shadow of your profile captured years ago, basically going back to a fossilized society, because there’s no way to update it in a way that accurately reflects then your purpose being defined.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course, what does &quot;purpose&quot; actually mean? Professor Wing made a lot of semantic contributions on this field, and that is also a ongoing dialogue that we have to make across sectors, on what &quot;purpose&quot; actually means.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I say this very carefully, because for each and every scenario that involves the government use of people’s data in Taiwan, we have this true multi-stakeholder dialogue that brings everybody’s voices in, that lets people generally become aware of what exactly is going on.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is being tested on some of the highest-profile data, like the universal healthcare data and so on, so that when people feel generally uncomfortable with the kind of privacy guarantees and in a way that in a plain language that everybody can understand will we actually move forward.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In Taiwan there’s no such thing as the government unilaterally moving forward in the name of progress or effectiveness in one domain, sacrificing everybody else, because then maybe we get occupied again, so it is [laughs] very important for us to articulate the trade-offs very clearly.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Maybe there will be some innovation that comes around. Given the different positions, there are some common values and there are these innovations that nobody wears off. This is the kind of collaborative governance that we’re building around data.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I think every government is different, so there’s going to be a different answer in terms of her country what kind of regulation there might be or should be or could be or won’t be, given the kind of information that citizens already give the government.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I actually would like it if there were some kind of single system for healthcare where every time I move to a different city I don’t have to start all over again and fill out on paper my medical history.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Can’t there just be one place where my medical history is and all doctors I personally give access to see that, can see? We don’t even have that in the US, so I think that’s frustrating.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>On the other hand, I don’t really want the government joining all the data they have on my tax records, my health, and so on. That’s how I feel as an American. I think if I were in a different country where there was less of those kinds of values, the government will have lots of regulations and lots of control over their citizens’ data, whether the citizens like it or not.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I do think that the EU GDPR is beautiful the way you said. It’s about a long-term relationship and not so transactional.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>That’s the first step. I think the US do not have a GDPR, but the companies that are US-based but global have all have to implement EU GDPR for good. I think that’s for good. That’s the first step.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For GDPR, because Helen is at the moment negotiating everything with the EU GDPR adequacy, one interesting contrast has been brought up, because the GDPR calls for a strong data protection authority in a country.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In Taiwan, just as Professor said, our tax registry and our health registry are in two different ministries. Our current law defines that each minister being the different BPAs, and there’s no way for them to exchange information without a particular law actually mandating this particular exchange or merging of the registries.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think that’s because the Minister of Taxation or Finance serves a different purpose than Minister of Health and Welfare. If the purpose cannot be aligned, there’s no way that we should let that registry be linked.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s one of the things we were talking with the EU. Of course, the EU very correctly assumes that if you have a strong BPA, at least the interpretations will be in harmony with each other when it comes law. Now, our national development council is taking up that role for interpretation and for data standards and more like the norms and things like that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think this ultimate idea of the registries themselves being held by people with the same purpose and maybe down the line with personal data agency with our personal assistance, like automated assistance holding that key, I think it’s also very important.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>Thank you. I know the audience has a lot more questions lined up on Slido. Unfortunately, we are running out of time. Are there any closing thoughts that I can invite Minister Tang and Professor Wing to share? Then, we close the session.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>I am always an optimist. I live and breathe the world of technology. I always think that we try to develop technology for good purposes, but we do have to be wary of uses that we perhaps didn’t anticipate.</p>
+        </speech>
+        <speech by="#Jeannette Wing">
+          <p>Then, I think we need to take some stand from an ethical point of view about those kinds of uses.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Two years ago when I joined the cabinet, as I said, I had a compact or covenant, another contract. They nevertheless asked me for a job description. Instead of a job description, I wrote the administration a poem or a prayer [laughs] which I’m going to share with you, because it’s my self-description of my job.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It goes like this. When we see Internet of Things, let’s make it an Internet of Beings. When we see virtual reality, let’s make it a shared reality. When we see machine learning, let’s make it collaborative learning.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>When we see user experience, let’s make it about human experience. Whenever we hear that a singularity is near, let us always remember that the plurality is here. Thank you.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(applause)</i>
+          </p>
+        </narrative>
+        <speech by="#Poorvi Goel">
+          <p>Thank you, panelists, for those beautiful thoughts. Thank you. Thank you so much. We’ll keep the discussion going on these topics through the rest of the semester, so please be on the lookout for events from the Technology and Innovation Student Association.</p>
+        </speech>
+        <speech by="#Poorvi Goel">
+          <p>I’d like to thank the panelists again for giving their valuable and very precious insights and information.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
