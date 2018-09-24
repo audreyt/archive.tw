@@ -366,13 +366,13 @@
           <p>You may know James Fishkin’s work out of Stanford. He’s the granddaddy of this field who said it’s only legitimate we’re going to get a representative sample of the population, 400 people together in a room, and measure their opinion. Why start here?</p>
         </speech>
         <speech by="#Audrey Tang">
-          <p>It is not very clear to me that once you get after the sortition, that these people will actually carry out the deliberation back to the communities that share their sampled statistic characteristics. That’s the first one. A second is that even if it is statistically fair, some people are just better oratorists and other people better at rhetorics, better at convincing other people, given a limited amount of time.</p>
+          <p>It is not very clear to me that once you get after the sortition, that these people will actually carry out the deliberation back to the communities that share their sampled statistic characteristics. That’s the first one. A second is that even if it is statistically fair, some people are just better orators than other people, better at rhetorics, better at convincing other people, given a limited amount of time.</p>
         </speech>
         <speech by="#Audrey Tang">
           <p>It was not at all clear to us that we should start with a representative sampling. Of course, if you want this decisional part to be informed by such sortition-based sampling, we do have some of that here going on in Taiwan, but it is more of in the ideation and decisional processes and not at all in the first two phases.</p>
         </speech>
         <speech by="#Audrey Tang">
-          <p>These two are disconnected. They can be connected by a shared question, but when we started, we were not entirely sure that we should start with a random sortition, mostly because, first, there’s no culture for it. There’s no jury system in Taiwan. We’re just starting to introduce one, so it’s experimental, so people don’t have any prior experience to sortition.</p>
+          <p>These two are disconnected. They can be connected by a shared question, but when we started, we were not entirely sure that we should start with a random sortition, mostly because, first, there’s no culture for it. There’s no jury system in Taiwan. We’re just starting to introduce one, so it’s experimental, and people don’t have any prior experience to sortition.</p>
         </speech>
         <speech by="#Audrey Tang">
           <p>The second thing is that we want to make this really lightweight so that any city public servant can run it by themselves, and sortition is expensive compared to this mechanism.</p>
@@ -534,7 +534,7 @@
           <p>In your wildest dreams, does every piece of government action go through this process?</p>
         </speech>
         <speech by="#Audrey Tang">
-          <p>No. [laughs] Mostly because getting people on the same page thing is really difficult. This checking of reflective feelings rest on the fact that people can look at a description in some crowd-sourced data about private drivers and charging people for it. Everybody who participate have an idea of what is it like.</p>
+          <p>No. [laughs] Mostly because getting people on the same page is really difficult. This checking of reflective feelings rest on the fact that people can look at a description in some crowd-sourced data about private drivers and charging people for it. Everybody who participate have an idea of what is it like.</p>
         </speech>
         <speech by="#Audrey Tang">
           <p>If it is too far in the future, for example, if we’re deliberating about, I don’t know, zero-knowledge proofs and data agency based on mutual ledgers governance systems, then it will require a lot more intuition-building before we actually enter the checking of feelings.</p>
@@ -733,16 +733,16 @@
           <p>What do you perceive to be the greatest risks in this process, or is it all upside?</p>
         </speech>
         <speech by="#Audrey Tang">
-          <p>We’re all very wary of our vendor lock-in. When we first used pol.is for the UberX discussion, there was a lot of flak from the civic tech community, because it was proprietary. Even though that the folks running pol.is said that they would share all the data, we have no way to know whether they were actually sharing all the data. They’re really just a Seattle startup.</p>
+          <p>We’re all very wary of vendor lock-in. When we first used pol.is for the UberX discussion, there was a lot of flak from the civic tech community, because it was proprietary. Even though that the folks running pol.is said that they would share all the data, we have no way to know whether they were actually sharing all the data. They’re really just a Seattle startup.</p>
         </speech>
         <speech by="#Audrey Tang">
-          <p>Basically, we don’t know what is the data policy like. We took the bet, but we also peer-pressure a lot for them to go Affero GPL, which is one of the most liberal version of open-source licenses.</p>
+          <p>Basically, we don’t know what is the data policy like. We took the bet, but we also peer-pressure a lot for them to go Affero GPL, which is one of the most libre version of open-source licenses.</p>
         </speech>
         <speech by="#Audrey Tang">
           <p>Also making sure that we can host it locally and basically have everybody can be part of the governance system that makes sure that this mechanism of democracy is itself democratic, in the sense that its code, its data, its operation is community-owned.</p>
         </speech>
         <speech by="#Audrey Tang">
-          <p>After I became the Digital Minister, of course, I took this philosophy into my office. Basically, we built this sandstorm installation, which is, again, another startup. But it’s all open-source, and we get our separate security people to audit it.</p>
+          <p>After I became the Digital Minister, of course, I took this philosophy into my office. Basically, we built this sandstorm.io installation, which is, again, another startup. But it’s all open-source, and we get our separate security people to audit it.</p>
         </speech>
         <speech by="#Audrey Tang">
           <p>What this does is basically it sandboxes the apps in a computer science sense. It boxes the apps that runs on top of it so that they don’t have to worry about cybersecurity authentication, authorization, and whatnot. We can use all open-source technologies for collaborative decision-making, just note taking or whatever on top of this platform.</p>
@@ -1055,7 +1055,7 @@
           <p>I saw a hand before. Maybe it was a nose scratch. My apology. We have one all the way in the back that’s next.</p>
         </speech>
         <speech by="#Audience Member">
-          <p>I’m going to focus a little more practically, I guess. My name’s Kai Feeder. I work with Beth in New Jersey capacity as of two and a half weeks ago. [laughs]</p>
+          <p>I’m going to focus a little more practically, I guess. My name’s Kai Feder. I work with Beth in New Jersey capacity as of two and a half weeks ago. [laughs]</p>
         </speech>
         <speech by="#Audience Member">
           <p>When you’re looking at, with civil servants in particular that are used to very rigid structures, and you’re engaging them in this very different approach to governance, innovation, etc., are there specific types of characteristics and skills that you think really lead to more successful outcomes?</p>
