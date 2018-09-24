@@ -467,7 +467,7 @@
           <p>A little bit nitpicking, but I usually say distributed ledgers, or mutually distributed ledgers, rather than blockchains, but this is just being very pedantic. Feel free to continue saying blockchains.</p>
         </speech>
         <speech by="#Audrey Tang">
-          <p>The reason I say that, because there’s multiple ledgers that we use in Taiwan now, like the one I talk about in the civil IoT platform, which is IoTA. But it is a cyclic graph. It’s not really a chain, so I don’t know whether to call it blockchain or not.</p>
+          <p>The reason I say that, because there’s multiple ledgers that we use in Taiwan now, like the one I talk about in the civil IoT platform, which is IoTA. But it is an acyclic graph. It’s not really a chain, so I don’t know whether to call it blockchain or not.</p>
         </speech>
         <speech by="#Audrey Tang">
           <p>It certainly is a mutually distributed ledger. Such ledger technologies are now routinely used not as cryptocurrencies but rather as just what they are, ledgers, to provide people with trust.</p>
