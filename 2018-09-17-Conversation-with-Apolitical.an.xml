@@ -1,0 +1,422 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Anoush Darabi" id="Anoush Darabi" showAs="Anoush Darabi">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Fang-Jui Chang" id="Fang-Jui Chang" showAs="Fang-Jui Chang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Sean Long" id="Sean Long" showAs="Sean Long">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-09-17 Conversation with Apolitical</heading>
+        <speech by="#Sean Long">
+          <p>The original reason I reached out was, after some of the stuff around our Digital 100 list, and then the story that we wrote, a lot of members were asking, particularly in the UK, how this revolution came about, both with the Public Digital Innovation Space and the Officers Network.</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>Just how you’ve been able to increase trust between public servants, between different departments. That’s why I reached out, to see if there was an opportunity to have a webinar on your experience sharing lessons learned with interested public servants around the world.</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>The form that it would take is somewhat flexible. The idea is that the topic would be something that is useful for you. It would an hour long, ideally sometime in October or early November. Then we can be relatively flexible in terms of timing from your end. Is that helpful just in terms of background?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. Who would be the audience you expect? You expect mostly UK people?</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>Public servants in the UK were the ones who originally raised it. The story’s been popular around the world. The audience would be Apolitical members from our 140-member countries. It’s people who work in or closely with government around the world, depending on the time zone, would...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They’ll just dial in. Usually, I use Slido to collect questions. It would be a live...</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>What do you use to collect questions?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Slido. It’ll be S-L-I-D-O. Do you usually do such interactive webinars?</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>Yeah. What we normally do is, it’ll be interactive during in that it’s a 15- to 20-minute opening presentation, with the rest of it open for Q&amp;A. Then also, when registering, we give members the opportunity to ask a question or thought.</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>Then we’ll share that with you beforehand so that you can get a sense of what’s on the mind of the participants, keeping in mind that that will change, depending on what’s brought up.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That sounds great. There’s a list of questions they want to ask, or things they want to hear about, for the webinar, about [inaudible 2:43] , how many days before?</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>We generally try to share 10 days in advance, keeping in mind that often, there are a lot of people who wait until the last minute to register. We’ll share it beginning 10 days in advance, up until the week [inaudible 3:01] .</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Do you usually use WebEx?</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>Normally, we use Zoom, because Zoom tends to be the best for the most people.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There will be many people dialing into the same Zoom meeting?</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>Correct. What people really appreciate about Apolitical is that it’s a place for me to talk about live problems with other practitioners. It’s not always as formal.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s like a hangout between the practitioners, mostly?</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>I would say a little bit more, in that it’s structured more than just a hangout, in that there’s a presentation and then a discussion. The style is less formal.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s like smart casual? [laughs]</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>Sure. For example, we do an innovation lab show and tell between different public sector innovation labs around the world. Sometimes, people will show up at all hours of the day in their pajamas. They’re outside gardening, just wherever the day finds them.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That sounds fabulous.</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>Great. Based on the story, maybe you have ideas as well. What would be the most useful topic for you to share?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Share.</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>Especially thinking about that concept of how you’ve been able to build trust between public servants across department.</p>
+        </speech>
+        <speech by="#Fang-Jui Chang">
+          <p>They talk a lot about impact measurement. How can we actually evaluate or to show our impact, that can respond to the goal that reinforce the trust between citizens and the government? Measuring impact is something really important.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>How to measure trust through the measurement of the inner flow metric of the four pillars, but ultimately on trust and confidence itself. That’s one possible direction we’re taking.</p>
+        </speech>
+        <speech by="#Fang-Jui Chang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>How to show that what reforms you’ve put in place are having an effect that they’re supposed to be having, then. Is that the...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. Basically, have a theory of action with measurement in addition to a theory of change, which of course, we already have.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>That would be really good, yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Any other topics comes to mind?</p>
+        </speech>
+        <speech by="#Fang-Jui Chang">
+          <p>Also, the challenge that I mentioned about decision making. The process that we did during the research stage, every time, when there are issues being raised at the monthly PO network meeting, we started to work on the research material with POs and those other civil servants from different ministries.</p>
+        </speech>
+        <speech by="#Fang-Jui Chang">
+          <p>We work on the stage, and also, we are able to define problems, synthesize information and define problems. We will have co-creation workshops that invite different stakeholders to come up with possible solutions.</p>
+        </speech>
+        <speech by="#Fang-Jui Chang">
+          <p>After that stage, civil servant, usually they can take those ideas that came out from the co-creation as an inspiration for them to improve the policies or regulations.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re pretty successful up to this point.</p>
+        </speech>
+        <speech by="#Fang-Jui Chang">
+          <p>Then when they take those ideas forward, usually those stakeholders who have participated in the co-creation workshop, they are not necessarily getting involved at the final decision-making process. We are challenging ourselves, can we involve more stakeholders at the...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The delivery strategy.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>To delivery, yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The delivery strategy.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>That could be interesting, because the UK civil servants in particular are very focused on focused on delivery, I find. That’s making the strategy itself the delivery. I think that could be an interesting way they could contribute.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. We’re the Public Digital Innovation Space. We just went public digital.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Anoush Darabi">
+          <p>[inaudible 7:31] people like that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, and we also visited GDS, [inaudible 7:36] the usual suspects. Delivery is on everybody’s mind, especially because there was this austerity situation, which Taiwan doesn’t have. It may be actual what really propelled the GDS strategy.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It really needs a crisis. We have some midsize crisis, but nothing as big as the delivery. The Occupy movement was a legitimacy crisis, of course, but it’s not a delivery crisis.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>Is that emerging with you now, then? Have you found that this delivery issue, has that come up as you’ve tried to build services for people? Are you challenged now?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, it’s mostly about the language translation. How do we take the ideation that was co-created by literally 5,000 or more people, and with their input crowdsourced and tested, even into possible situations that are user journeys that are well mapped out.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>How to make the career public servants really dig this thing. In Edinburgh, someone who worked with the civil society strategy told me that the initial consultation was really high quality. There’s a few diamonds.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>During the delivery process of forming the civil society strategy, it gets winded into small gemstones. [laughs] That within the capacity of each a little bit siloed departments to deliver, for sure. The whole picture get lost here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Taiwan is also pretty good at this [inaudible 9:13] process to get at least some delivery out. We’re not worried about that part. What Fang-Jui was talking about was this more holistic approach, or more holistic language getting lost in translation.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>That’s really interesting. I imagine, it seems to be a problem that everybody is dealing with at the same time, which makes it so good to have people working on the same problem in every conceivable environment, which is great.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Did you have any webinars around these topics?</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>With the innovation labs, have we touched on...</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>With the innovation labs, we did an impact and measurement special. Similar to what you mentioned, we had done about three of the calls with Denmark, Canada, and I think it was maybe New York City.</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>Then a theme that kept coming up was around impact measurement. We had someone who used to work in the Australian taxation office doing impact and measurement. Perhaps what I can do is I can send you a recording from that call, and see if there’s anything you’d want to build on.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Let’s pick up from there.</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>This second topic is one that we haven’t covered. We’ve written about it somewhat.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>We’ve written about delivery, yeah.</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>We haven’t done it in an ideas exchange live setting. That could be really interesting, if you’d like to explore.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>How to make delivery co-creative, or whatever.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>We’ve had Andrew Greenway from Public Digital has actual written for us in the past, and knows all about this. He released a book recently which was based on it.</p>
+        </speech>
+        <speech by="#Fang-Jui Chang">
+          <p>Just to add one more point also, the decision making before the delivery. Who get to decide what’s going to be delivered?</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>You’ve all put a lot of...</p>
+        </speech>
+        <speech by="#Fang-Jui Chang">
+          <p>Can it be more inclusive?</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>Is that through vTaiwan, then?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, vTaiwan started working on this problem, but truth be told, it’s only as strong as the social movement that backs it. It’s the same thing as social enterprise. If there’s a strong social reaction to a social injustice, we naturally get good stakeholder distribution.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If there’s not, the government cannot manufacture nothing out of a lack of public outrage. [laughs] It is a real problem that we’re tackling with. There’s Holopolis, which is this speculative research project that tries to get, for things like zero-knowledge proofs around digital identity and data agency.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is not exactly something people have an intuition about, including decision makers, policymakers, and ordinary citizens. If we want to do vTaiwan method on that, the main problem is not the process itself, or even the stakeholder map. Just people can’t even know what these people are...</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>Still not working, the translation [inaudible 12:16] .</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s exactly right, for the inform part as well. Also, of course, in transition justice for indigenous people and so on, it’s very different lived-in cultural experiences. The same word doesn’t mean the same thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Either it’s to find a future, or [inaudible 12:31] to find us, and that are some of the things that we’re wondering, actually experimenting a little bit if augmented reality, some of the other things like that, can help.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>Oh, really? That’s really interesting.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s another strength. Before we get that going, though, I just want to mention then the policymaking space is really constrained, because nobody even know what the relevant ideas of people are to the fact finding stage.</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>You mentioned that you have done a few meetings while you’re here. You’ll be in New York. Where would you currently go to find the answer to some of these questions? Who would you first turn to?</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>Then I’d like to think about how might we be able to expand that, and help you meet people you otherwise wouldn’t, get a chance to interact.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That will help a lot. Personally, I’m just Global Council on Extended Intelligence, or Global CXI, which is a network of people who generally care a lot about participatory, humble design in the age of emerging technologies.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s my first community to reach out to, the Global CXI. Fang is involved in quite a number of, like 110 Gov, and I don’t know what gov design.</p>
+        </speech>
+        <speech by="#Fang-Jui Chang">
+          <p>110 Gov and International Design Government. It’s a Google group that initiated by GDS.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Also, we’re not too loud about it, but we’re in the Digital Nations Slack.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>You must be in contact with Pier Andrews and people like that, then, from New Zealand?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>That’s good.</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>Are there any groups of people that you feel like you would like to be learning from that you don’t get an opportunity from right now?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In London, we just met these people. [laughs] That’s [inaudible 14:39] .</p>
+        </speech>
+        <speech by="#Fang-Jui Chang">
+          <p>More reach out. I think there is an organization that I am interested in to hearing more, because I saw the g0v news have wrote an article about the consultation that being hold in the UK, the high speed rail tube.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>Oh, OK, yeah.</p>
+        </speech>
+        <speech by="#Fang-Jui Chang">
+          <p>I think you spent five or seven years for that consultation, but there is not much information about the process, and how many people are getting involved.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Not so much as a postmortem.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>It’s badly managed, the whole thing. There’s so many towns on the route which are going to be flattened in order to drive it through those. I think the consultation has been limited to non-existent for the entire time. It will be an interesting thing to get into. We could look into that issue.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>People usually don’t talk about it in their press releases or postmortems.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>It’s still seen as a thing 10 years down the line, even though they are starting to build it now. Certainly, these communities that are on the line itself which are being affected, which people care about, which is difficult.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>Especially because it’s such a huge investment as well. There’s so much political investment in it now that people’s careers are on the line if they backtrack, or if it goes dramatically over budget. I think as a result of that, the consultation has been going badly.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>That is definitely an interesting thing. We could look into that.</p>
+        </speech>
+        <speech by="#Fang-Jui Chang">
+          <p>Because the news has draft the whole thing in a really positive way.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The initial press releases were really well-written. Then we hear nothing.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Anoush Darabi">
+          <p>Exactly, which is a bad sign, isn’t it?</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Fang-Jui Chang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>Especially because a lot of people are questioning why we were building this in the first place. It connects towns to London, but then a lot of people are arguing that it’s not about connecting places to London. It’s about connecting places in the north of the country to each other, or connecting Edinburgh better to Manchester, or Manchester to Liverpool.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>That’s where the growth opportunity is. London can only grow so big. Dragging more people into London [inaudible 16:54] , it’s going to have a limit, I think. That’s what a lot of people are questioning, I think, with the investment itself.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>It’s such a huge amount of money. As in, it could have been spent doing lots more basic things on the northern railways, maybe, and just making sure...There are still diesel trains that run up north, rather than electric.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>A lot of our system isn’t electrified yet. There’s a history to it, which I think has been ignored up until this point. It’s a really interesting topic.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’ll be really nice to contextualize this in the angle of the political mandate in the first place, the solution space, as Fang-Jui just mentioned, and as well as the architects who did the consultation planning, and then what they feel about it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Maybe not in a radically transparent record, but it will be very nice to...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Anoush Darabi">
+          <p>I’m afraid that would not be possible.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>It would be really nice to have a working level of connection to those people.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>We’ll consider. That’s really interesting. It was good to hear that High Speed Two has traveled over to Taiwan.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Sean Long">
+          <p>That seems great. Do you think you would be able to just send me what the description for an ideal webinar would be? Just around how do you make delivery co-creative, and some of the themes we’ve...I can send you some of my notes as well, but then it’d be great if you just sent me something so that we could use that as the basis for an invitation. Would that be OK?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Fang-Jui Chang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We were just talking about maybe you should do the material planning, and I will be the spokesbot for it.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>If Fang-Jui is interested in co-chairing the webinar, that would be more than helpful.</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>Oh, yes.</p>
+        </speech>
+        <speech by="#Fang-Jui Chang">
+          <p>Lots of pressure. [laughs]</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>It’s good pressure. It is. They’re not looking for you to be anyone but yourself. You’re just speaking with people who are like you, who are thinking about the same challenges as you. That’s how I would approach it.</p>
+        </speech>
+        <speech by="#Fang-Jui Chang">
+          <p>Sorry, I might have missed the period of time?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s October to November for one hour.</p>
+        </speech>
+        <speech by="#Fang-Jui Chang">
+          <p>October to November for one hour.</p>
+        </speech>
+        <speech by="#Sean Long">
+          <p>Perhaps maybe when Anoush can start the more formal interview part?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, maybe we can move to another table, then, and figure out the logistics.</p>
+        </speech>
+        <speech by="#Anoush Darabi">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You OK with that?</p>
+        </speech>
+        <speech by="#Fang-Jui Chang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK, all right.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
