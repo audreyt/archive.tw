@@ -1,0 +1,1545 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Billy Lin" id="Billy Lin" showAs="Billy Lin">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Lisa Lin" id="Lisa Lin" showAs="Lisa Lin">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Patrick Connolly" id="Patrick Connolly" showAs="Patrick Connolly">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-10-10 Conversation with Patrick Connolly</heading>
+        <speech by="#Patrick Connolly">
+          <p>I was hoping at some point to book an official interview with you. I was not imagining that was today, I guess I just wanted to hang out with you both. Is that OK?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you want the official interview, what’s your estimated date for that?</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I’m just working on a consent form, which shouldn’t take that long, but I’m trying to be thoughtful about it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A consent form?</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Yeah, I guess I’m trying to be conscious of the fact that some won’t talk to me unless everything is totally open. I know you would be one, since you are...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...radically transparent. We can publish the entire conversation to the Internet under Creative Commons Zero, which is public domain.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I think it’s that I’m not booking. I haven’t booked appointments yet until I think through how to offer that. Some people in my community see transparency as not, they have different degrees of transparency that they’re comfortable with.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, but this conversation would be one that’s already happened. It’s just like something that’s copyright that’s expired. It’s like something that’s written in the 18th century.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>As in, you’ve spoken about it already?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, I mean we can release it into the public domain.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Like Plato. In your research, you can always use Plato.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Oh, I guess maybe by example, I’m a part of a group that we have some members who have been harassed in the past, or had stalkers. They came into our group and saw, “Oh, they’re using Slack,” and Slack isn’t open by default.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I see. But this is not the same. We are not publishing the audio file. We’re making an English transcript. All the participants can edit it for 10 days. They get to take out the parts they are not comfortable with.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Yeah, I saw your policy.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Also, if they don’t like to appear under their real name, they can choose a pseudonym.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Oh, I didn’t know.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s all negotiable.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Is that an updated policy?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, it’s the same policy.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Oh, I hadn’t caught that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s the same policy. It’s always like that.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>What about when someone wants their identity to go into a big pseudo-handle that’s anonymous, but everyone’s in the same bucket?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, so, in the recent vTaiwan consultations, of the three ones brung by the Guo Ju law firm, the first one was like that. They talk with all the government, public service. They don’t want to be reidentified at all.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Everybody is like, summary opinion. Every speaker is summary opinion. You cannot guess who is that proposed that.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>How would I know this?</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I’m OK to be recorded, by the way.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>How would I know this going...? I guess I’d read the policy on how you speak with people?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s my office hour visit protocol.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I didn’t know the nuance of it. I guess I knew there was a week to review.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, 10 days, but yes.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>10 days. I think we were having conversations that were probably rehashing and redoing some of the conversations that you had had internally about this. Is there a version of that protocol that includes the options, like a flatter...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, it’s the same protocol. The protocol already says you can take out anything that, by confidentiality, you would not want people to know.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I think it’s the spectrum that I don’t think we were clear on, as outsiders who were following and excited, but we started to reinvent, it sounds like.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is very nuanced. Just exactly as you said, there are in-jokes that people outside this conversation will just not get it. When we publish, we just take those in-jokes out, because it doesn’t contribute to the context.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In its most extreme form, I had a journalist interviewing me, and actually, also two representative from AmCham, the American Chamber. They just asked me a lot of questions, and I provide answers, but they don’t want people to know what they have asked.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They took out everything that they spoke out, so it’s just my answers. That’s still valid, because they say, by AmCham confidentiality, whatever of their firm they work with, they wouldn’t allow their employees to disclose what question they have asked the minister publicly.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I am like, “But my words are my words.” They are fine with me publishing my words.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Is this falling in the default to open territory, where it’s like the most open, and people negotiate retraction?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You must spend effort for parts of it to be not open, because you have to actually go in and edit away every sentence. Then if you do nothing, of course, then it’s open.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>That’s so interesting. I think the part we were thinking through is maybe from the opposite, the clarity, maybe. Maybe on the outside, we didn’t see clarity to all the options that were available.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Some people, I guess it would seem like a bad outcome if someone who was comfortable asking lots of probing questions -- “Oh, can I do this? Can I do this? Can I do this?” -- then they would have more understanding than someone who was a little reluctant or felt pressured.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, but the fact that you actually go back and take out those pressing questions, or at least make it more mild, it actually creates a room for negotiation.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>What about the license? Is that ever negotiable?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It is negotiable. Everything I say is public domain, CC0. Now, if you allow for us to publish, for example, the YouTube video, then we always ask CC BY attribution, but even that is negotiable. You can choose, for example, BY-SA.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you are of a ShareAlike mindset, we agree with ShareAlike as well. That is negotiable.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>How did I miss all of this?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It just defaults to common attribution for the YouTube, and on the Talk PDIS also, there’s a public interview section that says very clearly, “Everything here is CC BY 4.0.” If you don’t agree with CC BY 4.0, then you can ask me on some other forum. It’s like open is the norm, but we understand there is nuances to the norm.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I’m trying to think through all the pieces that we discussed separately, I guess. Another was around, we were calling it “humane transparency,” I think was the term that we used, which you might have come across the...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s good.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It was also navigating the situation where maybe you have Open Space Technology. People are wandering in and out, and they maybe aren’t aware that there’s a recorder on the table. It’s not making itself known.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, you have to put it very clear on the entrance.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I guess we were also wondering how to account for if someone’s talking, they start feeling really natural, and they’re just like, talk, talk, talk. Maybe then they realize, maybe three minutes into a certain part of the conversation, that they’ve been talking very liberally about a person who they’re not comfortable talking about.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Maybe having a timer in the middle of the table, where you know the time code, and they can say, “Oh, four minutes back from this point,” to make it so when they review, it’s easy for them. It’s not painful. It’s not something that...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Actually, they did that in g0v summit, during the lightning talk.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>So awesome.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There is someone from somewhere that’s not as liberal as Taiwan that says, “During my talk, please mute, and turn the camera toward the audience.” You see some of the facial reaction of the audience, but you don’t see them talking. Actually, only the final words...</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>The last sentence. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Only the final sentence was visible and audible, which is, “Please fight for our freedom with the freedom that you have.”</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Audrey, I’m honored to get the “it’s on the next slide” version of your life.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Patrick Connolly">
+          <p>Like, “That’s in another slide.” I guess I have to just write this for myself, and maybe make a little form for people to fill out in advance. I get nervous about the interviews, I think. I’m taking my time to understand, and had lots of meetings, but at some point, it’s procrastination. I need to stay away from that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think the best thing is just do it incrementally. The best questions come from your initial, like we did that with Tom Atlee. The first interview with him, he has all these preconceptions about what Taiwan, about the Sunflower Movement, and things like that that he read from, I’m sure, Wired or whatever other media.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>I wouldn’t say “wildly” inaccurate, but somewhat inaccurate descriptions. Then he had a conception that vTaiwan is very process-based, that it is basically like blockchain, instead of a set of pre-agreed conditions.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There were some weird notions in people’s minds. I’m sure our flow chart doesn’t help.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Then he discovered no, it’s just a bunch of people enjoying food every Wednesday, having fun. Then we had two other conversations. Every time he brought someone from the dynamic facilitation, or from audio, video, because there’s these components in vTaiwan as well.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You ask a question from the angle, once he realized that this is actually not code-based governance, as he thought blockchain governance is.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It’s funny. There’s a quote that I think Liz got from you, just in personal conversation. It was in a draft, but then I’ve never seen it anywhere else in the world. I love it, I use it a lot, and I try to attribute you every time.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t mind.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It’s that vTaiwan is like a “weightless exoskeleton of technology and documentation.” That feels so true. Do you still stick by that?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, of course. I also say a lot of crazy things to Liz, like, “Property is theft from the nature, and identity is theft from the self.” [laughs]</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>She does like discussing property and identity, yeah. Do you have any thoughts on transparency as...I sometimes find it difficult when people are very hard-line on transparency, which I think I sometimes imagined you were, but it doesn’t seem like you are.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Not at all.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>When people feel entitled to the gift of a transparent record. It’s hard to, mental models for that, for discussing it. Some people feel entitlement to government data, which is perhaps maybe more understandable, but to transcripts sometimes, to on-the-record discussions.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I’m really attached to the idea of gifts, because I think that’s something that we all really, a lot of understanding.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, we’re donating our voice to the public. This is what we’re doing.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Yeah, it’s a gift to the commons. It feels like there’s a lot of that around data. Maybe the most fine-grain data that we might store in personal data stores, but also anonymized versions of that, which maybe the value to the commons is still very high, but the loss of the gift, it doesn’t feel that high, because it’s all aggregated with other...</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I don’t know, just that idea of transparency as a gift.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s not even a loss, because basically, you still have a copy.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>You become understood and legible to systems.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You become understood. It’s a beginning of a conversation or a relationship. Basically, I never see data as some tangible asset. I always see data as a beginning of a relationship, like data flow. If it doesn’t flow, it doesn’t go anywhere.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If information wants to be free, then data wants to flow. The idea, very simply put, is that once your personal data is in somebody else’s care, you can start asking what they’re doing with it. They can be held accountable for it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You can have a discussion about the proper use, and even what purpose means, and things like that. It enables a whole different spectrum of conversation once you think of it as a relationship.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Sometimes, the transparency becomes passive if the system hides it, and people don’t know what’s being taken. They don’t know the granularity that it’s being taken with, whether it’s really coarse, or whether it’s super fine-grained.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Which is why I always say, if there’s transparency without accountability, or if there’s participation, but with no inclusion, then that’s openwashing.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I worked on a crowdfunding platform at one point. It’s funny, with money, it feels...</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>What it was trying to do was trying to create a world where, when people recognized they were getting value from someone, and that value was recurring, consistent, and it was forthcoming all the time, they could, on the platform give a weekly amount, a regular amount, that would come out without intention. Intention is hard to focus.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Like Patreon?</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It’s totally Patreon, before Patreon came around, when after it started. It was based on an economy of gratitude, gifts, gifts where the money is detoxified. I give to you, because you’re doing something I like, and I want to give $5 a week, or a very small amount.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>By default, the platform did not assume that I wanted you to know who I was. I would start giving to you, and it would be continuous and recurring, but you wouldn’t know. When we next spoke, you wouldn’t feel like I was your micro-boss.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s still Patreon. Patreon is like that.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Patreon can have identities attached.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>On the other hand, that’s only if the creator want to reward it at some tier.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I think it’s the giver. I think the giver gets to decide.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The giver gets to decide, and also the creator can say, at some level, you start can have weekly conversation with me, at which point, I only allow real name donors, and things like that.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I think on Patreon, it’s easy for the giver to override. The default is very weak.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It does change the dynamics a bit.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, it does.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Maybe you don’t want to know who I am, because then it changes our relationship. It collapses the possibility of the money. When the money defaults to not having identity and not having strings, then it’s like every possible person you meet is a potential donor of some amount.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>When you then are trying to figure out, what am I working on? What should I pivot to? You don’t ask anyone. You look into yourself, and you have this, like, “Oh, all my supporters, what do they want me to do?” It’s a little bit like looking to a personal god.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I do agree. This is why I use Creative Commons Zero instead of attribution for all my code.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Sometimes, I’m not knowing where Creative Commons Zero comes in or not.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Zero means if you use my code, or you quote something I say, I don’t want attribution. I don’t require attribution. It’s just into the commons. It’s a little bit like the donation that you just mentioned, because then we’re just donating into this pool of knowledge, and there’s no need to have any name attached to it.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I think this is where I was going with it. By default, I want to keep some entropy in our interaction. I want there to be a disorder. I don’t want to know who you are. That’s not full data, but that’s a very particular choice that not everyone who gives to me might have.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It’s the information. I don’t want full information. I’d prefer that I was able to set this default, and others knew that I had a very strong feeling for very strong reasons. There’s a bit of coercion in there, I guess.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, not at all. It’s just your API.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I think it feels like maybe that’s not what I get, if it was a system where the default was fully open, and everyone else wrangled back the amount of data they put into a system.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You mean like opt-out systems?</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Yeah, if it’s a slow opt out, potentially like your policy sort of thing, where people have to know to ask for each little bit they want to take back. Then you might not get this unique, standardized experience of metadata.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I think I don’t always know where to fall on that thinking. I feel like sometimes the system needs to standardize how much aggregation is happening, and how much anonymization. That’s the only thought there. Could I have a question on vTaiwan?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, go ahead.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Has anyone thought much about the in-person experience of creating an in-person analogue of Pol.is interactions? I’ve been really interested in a guy named Alex Pentland.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, Sandy.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Do you know him?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes, of course.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>[laughs] “Of course.” It was a very frank response.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re on the same council of collective intelligence, and we met in Taiwan during WCIT.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I have a big intellectual crush on him. I’m still trying to grapple with the math.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Social physics.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>His lab has developed an open source, they call them sociometric badges. It can tie to lots of other data, but at its simplest, you go in and put on a lanyard for a conference, and it has a thing that knows what all the other lanyards’ IDs are.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>As people move around through real physical worlds, talk, join groups, and spend time together, and then move, split up, and join other groups, and spend time together, they’re building a data set of how much time they spend together.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Then it also has a microphone that points up. It knows how much sharing of the building of the conversation is happening. It knows, “I’m talking too much, and probably have been since I came in the room.”</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I’m informationing, sending lots of information, but that’s not an equitable conversation if you’re not sharing information, because you know lots of things. The badges, I’m so curious whether they could be used to take data from...We’ve run workshops inspired by Pol.is and vTaiwan, where we do this live in the room.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>We say, “OK, over there, that corner is agree. That corner is disagree. If you unsure, go behind me.” You’re moving back and forth in between three spots, as you’re announcing the statements. “Who agrees, who disagrees?”</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>In a digital space?</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>In a physical space. It’s people are spending time together.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We kind of do a little bit of that in our New York workshop.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Yeah, was that the one that, did CS run that part?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It felt really successful, because people saw, they were feeling who they spent more time with. They were crossing paths with people. They were recognizing who’s never beside them. The really cool part was that everyone could participate in, for lack of a better word, interrogating the unsure people.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Like, “Why are you unsure?” Is that statement a combination statement? Could you tease it apart? Could you frame it in a better way? There’s something that feels very satisfying about that, but I guess if we had to add an extra step, where we brought all of that into Pol.is, it feels like it would amazing to have it actually projected onscreen.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Using the sociometric badges, you could know, we’ve asked who agrees, who disagrees. Everyone’s staying still. That was the answer to this.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>You could build the Pol.is visualization on the fly, and help everyone in the room -- and maybe in other rooms, or maybe on the Internet, clicking it manually -- participate in building that understanding, like the emotional landscape. I don’t know if I have time for a project while here. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Go ahead.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I have a hard time ordering...</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>I think this is very cool, if we can make them.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Yeah, I would love to.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>That sounds really fun, and that’s a fantastic idea.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I would love to let you borrow this book after. It’s the one where they’re discussing these sorts of things, and it’s so good.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, “Social Physics.”</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I underlined lots.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We have a lot of free room in the basement, so feel free to...</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>There’s a basement here?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>As in, I can store the book here until I come back?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, I mean to run the workshops and Pol.is.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>That’s cool.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Live, whatever consultation. They did Dialogue in the Dark in the basement also. It’s basically a consensus workshop with blind people as facilitators, without light.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>That’s so great.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Everybody feels very vulnerable, and we are literally just voices. The blind people are so confident, and can guide everybody.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>That’s super cool. There’s a restaurant in Toronto that works like that, it inverts. There’s so much good stuff in the world and so little time. I just want to have infinite...Related to that, what is decent work related to vTaiwan?</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Does money have a place? Can money be sanitized, and actually allow people the focus to work on things without breaking the motivations?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You mean like grants?</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I feel like grants distort, because there’s a grant maker. There’s a giver who has interests. Also, there’s a clockwork-ness. In Canada, if you get one grant, and you’re not in any way prepared for the time after that one grant, everything can shatter when the grant doesn’t arrive again.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>There’s conversations around creating a diversity of funding sources, like not just the big grant-making body, but also a hundred mini-bosses.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>You mean like crowdfunding?</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Yeah, crowd. That there’s this, you go from receiving the grant to having many supports through your efforts over that period, and maybe corporate supporters. But all carefully, thoughtfully, so that the desires of the supporters don’t...</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>There’ll always be some influence, but it’s detoxifying the signaling of the money, what the money-givers want, and separating it from their ability.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s a bunch of people that’s coming to vTaiwan from time to time that works on blockchain governance, and working on this, it’s called URSA+ from Jay, which is about, your friend, actually.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Jay, OK.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, who want to build a knowledge-sharing economy based on blockchain.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Blockchain.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s a lot of people thinking about that. Just this morning, someone from DEXON &amp; Cobinhood also visited.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I heard about that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They’re also very interested, and they partner with someone who is like the only Taiwanese, and the only ethnic Hun, really, in Steve Jobs’s NeXT company, and went back to Apple when NeXT got by Apple, and has been core iOS or app store engineer for a few years.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I joined the team the year he left, so we didn’t intersect in Apple. William Wei, that’s the name. He has an idea of, roughly speaking, what you talk about. We talked about quadratic voting and Vitalik’s new paper.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Is that like paid voting?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, an idea where people basically just pay for the politicians to commit to not do something. For example, if you care very much about, I don’t know, protecting a few historical buildings, then you can basically design a blockchain governance that tells everyone who runs for mayor to promise not to touch that historical building during their years as a mayor.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The good thing about this funding model is that first, it’s independently verifiable. If a mayor promised to do something, it’s a matter of degree. If a mayor promised to not do something, it’s very easy to verify.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It seems like there could be a lot of moving pieces in this. Does it involve prediction markets?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t think so.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It feels like a lot of pieces.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It feels pretty detoxifying for me.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>What about, do you have any feeling...I guess I feel more hopeful in the short term about Open Collective.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Like co-ops?</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Yes. I think the entity, the type of organization that the bank account belongs to, is arbitrary.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s the Enspiral movement in New Zealand that tries to reinvent co-ops, like the open co-op. Lots of people are working on this. In Taiwan, just next building is a bunch of people working on what they call platform co-ops.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>How I understand Open Collective is more of a virtualizing of the nonprofit -- or certain organizational structures, but mostly nonprofits -- to, the great way Pia puts is that, “Oh, it used to be one website per server, and that made sense.”</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Then you virtualized those websites, and you had 400 websites on one server. Then it didn’t even matter. They’re doing that with nonprofits and the offerings that they have, whether liability insurance, lawyer, or payroll. You create one nonprofit.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That sounds like the Open Culture Foundation. That’s exactly what they are.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Some parts of it. I think maybe I didn’t understand where the money from Jothon was giving away the grants.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think they just have one rule, which is the g0v grants, the money never comes from the government. They can work on things that are working for people who want to overthrow governments, insurrection-friendly.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Insurrection?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Friendly, yeah.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I will admit, I feel much, much better about the Jothon, the g0v grants. I think I worry about someone having money, if it’s a community member, even if that they’re directing behaviors towards. What I find really interesting about Open Collective is that the relationship doesn’t need to involve giving any money.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It’s that your project, and you now have a zero slice in our bank account, which you can then find your own fundraising sponsor resources, and expand that slice. We’ll maintain a system that allows you to withdraw, that allows you manage repaying people, but it’s not giving money. It’s giving potential.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OCF didn’t start with the grants. It starts as a way for the Python community, for the CodeCup community, for the OpenStreetMap community, whatever to share legal resources and things like that, which is exactly as you describe. The grant came afterwards.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I think it’s the zero slice, that there’s no money given. It’s opportunity, and it’s your motivation that will bring in the money. No one’s ever being shut down. It’s not like, “No, you don’t get the money.”</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It’s, “Oh, you have a crazy idea. We’re not even going to hold your money.” That feels really different. I have infinite ability to virtualize a bunch of projects if I don’t have to pay them. If they can now use that, my abilities, and go out and find their own, it’s a network effect. It’s net-centric fundraising.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think OCF didn’t do that part, mostly because that’s what the g0v hackathons have essentially became. There is now sufficient attendance from people with resources in the g0v bimonthly hackathons.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Just by the nature of pitching your hackathon project, become a de facto way of pitching your message to the people with resources. Then, of course, that is entirely Open Space Technology. We won’t shut anyone out, except for the code of conduct.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>You’ve been to the hackathon yet?</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I’m hoping that one happens before I go back.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>The next one is on December 15th.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I think I go back on the 17th.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Still, you can go there.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s good, so you can come.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Yes. There’s some complications, because my visa’s technically done then, perhaps the day before. I think someone mentioned maybe, would it...Someone, I think, said it might be possible to do it the week before, or the weekend before, although I know it doesn’t move easily.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Or you can watch a video. We will have a live stream.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure, but it’s much better if you are there, because then the dynamic will be very apparent why OCF didn’t do the Open Collective part. It’s because the community took care of that itself.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I can more easily intuit information out of physical reality. It’s harder to do that through all the low-bandwidth means.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think really, the venue itself, Academia Sinica, is providing the legitimacy of these whole experiments, because it doesn’t belong to the administration. It doesn’t belong to any party. It only reports to the president’s office.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Space is very scarce in Taipei, is my understanding.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We have the C-Lab, where you are.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Our event moves around every month in Toronto. We see huge effects of going to locations that are off the transit grid, or away from certain communities.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Certainly.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Is there conversation about partnering with different venues for different audiences, different conveniences?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>vTaiwan didn’t start here. vTaiwan started in the office building of the Science &amp; Technology Law Institute within the III, which is a pretty small meeting space. After I became the Digital Minister, for a while, it moved to Jaclyn Tsai’s office.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>After the Social Innovation Lab established, everybody moved from Jaclyn Tsai’s office back here. That’s the three venues vTaiwan has been. There’s, for a while, I think even before that, there was a coworking space in Handlino, which gets acquired by KKTIX, but that period is really short.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I’ve been really inspired by how g0v offered infrastructure, like I think it was data and power during the protests, where actually in Toronto, the mesh networking community is talking about having and task force for that.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It’s the idea that the least you are attached to any one place, the more resilient you are. It’s this exercise of moving, you start building capacities that exist outside any one of your hosts.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You still have to have a home base to store all those equipments.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>We just have a bag that we bring around. We stay nimble.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, really? It’s miniaturized.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It keeps us from having some nice things. I don’t know, the moving around feels like an important way that we exercise our capacities, stay nimble, and keep...We’re going into novel environments all the time.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It’s like, we pick up people from those environments, and they come with us for a while, bring their energy, their interests, and networks.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Code for Japan does that. They have Summit in different city every year. They can bring those, because they sometimes collaborate with the local government. They can also bring those public servants together.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>They give them therein to the next city, so people will know in the city what happened. You can have more local people join in. They go around, and they say, people, one who was attending Code for Kobe, which is the city in Western Japan, the city of Kobe.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>I ask him why so many small cities have Code for Japan chapters. He said because people were working in Kobe City, and they joined Code for Kobe. When they go back to their city, their hometown, they started to do a similar thing there. It became like a league into Japan, but in Taiwan, that is not really happening.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The high speed rails really changes things. The stops of high speed rails become one city. Then there’s everybody else. It creates a very uneven dynamic. I personally think, if at some point in the future, maybe 2030, whatever, but sometime in the future, we can have a round-Taiwan high speed rail network, or at least medium speed rail network.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That actually solves the problem, unless you really want to go for the Jade Mountain, [laughs] it will actually go through all the major population centers. At the moment, it’s extremely westernized [laughs] toward Taiwan’s West Coast.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Also, the proximity to high speed rail station directly determines conference attendance, civil society power, and things like that. It is true.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Every time when you were talking about the the AirBox Project. I was like, “OK, this is how our digital gap.” [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That is our digital gap, exactly.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>She always had the introduction in her slide...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, about AirBox.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>...about AirBox.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s this slide.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Yeah, every time I saw this...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(Patrick gasps)</i>
+          </p>
+        </narrative>
+        <speech by="#Lisa Lin">
+          <p>...how digital...[laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is a shape of the digital.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>So many sensors. This is so great. I heard about this program, but I had not seen.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>You can see, there’s totally no, almost no, nothing happening in this area.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>That’s wild.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>I’m sure their air are better than upper place.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, yeah, maybe they don’t feel as strongly. I don’t know.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Patrick Connolly">
+          <p>I find it so hard. I think I have this, I will use the word net-centric a lot, and networks. Then I keep wanting to average out, I have this tendency to want to figure out, what is the middle between what’s happening elsewhere, maybe what’s happening in my city, what’s happening with g0v.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>What are the best parts of each that can be remixed? That would kill diversity of approaches.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, because everybody’s doing it, mixing it at a different way.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Yeah. Sandy [mutters] these.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>They’re like groups, and ways we work, is being machines for pulling the best ideas. Like groups being machines to explore, bring in the best ideas, and create cultural norms.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, it’s small world networking.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Yeah. I think it’s just, I don’t know. I always want to morph parts of the community in my hometown, or offer, “Hey, they’re doing this great thing over there,” and see us move towards it. I think I have this imagining that people in other places would find that rewarding, too, or worth doing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Very much so, yeah.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It also feels like we’re all committed to our ways of doing things in ways that are a little sticky. I don’t know. I’m just trying to think through what that means.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The great thing about g0v is that there’s always a bunch of newcomers, not knowing anything about anything, and saying, “We’re just constantly going to do that, and we will hold them in a holding space.”</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It’s the power of naivete and newcomers.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s exactly right. That’s exactly right.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>They don’t know how it works. They have ridiculous demands and unrealistic expectations. Then reality distorts, perhaps.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right, that’s right.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>We had a sticker who, like, “Go.”</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. That’s the kind of people I’m talking about.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>In the summit, in the second day, there was a mom with a kid who is...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Deaf in one ear.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Yeah, deaf in one ear. The mother, she want to do something about the welfare to people like her daughter.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because they are not classified as disabled, they don’t get disability benefits.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>She pitch on the stage, and she hold a conference, because she say she saw a sticker on the table. Do you know the skill of the stickers...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Like Python, Ruby, and Go.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>This is one Go. She thought that is what told her to go. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>She pick up the Go sticker, and then go for it.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>That is a wonderful mistake. [laughs]</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>That’s so cool. I heard her lightning talk, but I missed a lot, I think, in translation. Everyone was speaking very fast. The interpreters were keeping up.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>[laughs] Interpreters, they are amazing.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I always answer the questions wrong when they’re like, “Ask questions of the audience,” raising it for question two, when I’m on question one. I feel like every conversation I’ve had this past week has been one that I wish there was an infinite number of people in the conversation to get, [laughs] just like, “Oh, what do you think about that thing that this person is saying?”</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I’m trying to think. That was around social forces that maybe make us more inclined to dig into ideas that feel like they’re our own. Like, if I make up a life hack, it’s like, oh, every time I go to bed, and I have something to remember, I’ll hang my tie in front of the door or something.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Then I’m like, “Oh, this is great.” There’s this energy that I own this idea. I made it. It’s like, I felt like I built it from pieces that were around. There’s a stickiness to that. Just more so than if I just read about it, and didn’t have any ownership, like I didn’t build it, but just from ideas that were around...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They have a word for it. It’s called social bricolage.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Social bricolage?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>That’s cool. I love there’s a word. There’s a word for it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s a word for everything.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I wonder what the relationship is between having that feedback of creation, like creating a thing from things you take out of your surroundings, like ideas, when you think you created that the world has already invented.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I feel like I accidentally put this into practice by getting really excited about the ideas of others. I will get animated, even though I know, I’ve heard this before. I’ve seen this. I don’t know. It’s like I still give them, “You invented this. Go with it. Run.”</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right, exactly.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Somehow, it seems to fit in this place where we’re building overlapping communities.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Anyway, I don’t know. Lots of loose balloon thoughts. I don’t know where they live. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s OK.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>This was a really good event, the summit. Can I ask thoughts on community building, and can I leave a blank space for asking, and just put things there? [laughs]</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>An empty, do I have to ask a specific question, or do you just have thoughts and feelings on community building?</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>You mean this community, or about the g0v community?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The community in general.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>In general?</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Maybe more vTaiwan, just since I think it’s its own thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>She gave a talk about it.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Patrick Connolly">
+          <p>I wish I could be in all the places.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Yeah, but that one is not actually about the community itself. Which part of this you want to hear?</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>How about money?</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Money? Oh, we don’t have money. [laughs]</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Oh, not good.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>As a matter of fact, we do.(a donation box) [laughs]</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Whoa.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They work pretty well, actually.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>What do I get back, if I put money in here?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Well, pizza. It says on the tin.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Oh, hey.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>“If you put money in, pizzas will grow out of it.”</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Patrick Connolly">
+          <p>That’s amazing.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>That’s how the hackathon works, the big one of g0v, actually. I’m not really, know how to build a community. When I started to do this, I went to lots of small, mini hackathons.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, like the MoeDict hackathon.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Like the MoeDict, or like the Cofacts one.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s how they run it.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Even other communities, because I work in an association which is supporting startups. I also go to lots of startup communities. I learn from them. For the spaces, you already have the space.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(Billy came in with his 3-years-old daughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Patrick Connolly">
+          <p>Those are sweet glasses. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Wow.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(background conversations)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>No, no, we’re having an office hour. We are on the record. We’ll be making a transcript, and the office hour has been going on for almost 50 minutes, which means that it will end in about 10 minutes.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>This all sounds great.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>The main thing is about space. Spaces and people, people who run it, and about the food, right? Food is basically from here (a donation box), and Audrey’s pocket and my pocket. [laughs]</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>How do people...</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Sometimes, people bring food here, and sometimes there is a...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The people do bring a large variety. Shida Lu contributes a lot. That’s our chef.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>There’s a private chef over there. Sometimes, if he was here, it’s how the onigiri, the rice ball comes from. Sometimes, he will make some food for us, like chicken soup, or something like that.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>That’s awesome. Collaborative food-making.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>That’s really good for everyone, around this and about the space, because we really have here. It’s not a problem now.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because this space is dedicated for civic tech for the next four years, anyway.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>The whole space?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, the whole space, but especially that room is dedicated for civic tech.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>There’s a few things that that money can be spent on. What if there’s like, someone has a different idea? Is there clarity? How do we spend money together?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Pizza.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>What if we want to pay someone in honorarium, or start giving someone a little bit of a wage, or an amount, an appreciation?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. Like MG, when she came, I think you talked about this at some point.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>MG say she think we can apply for the grant from OCF or from Jothon, the g0v grant. I’m not sure if, I don’t know. I also started to think about the problem of money from, not because I was think...Yeah, there’s always lots of things to do for the community building, but I not really have the time to do this.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>If I can skip my job, then I could do this. If you want to do this on a long term, I don’t want to rely on grant. I’m not sure if, yeah. I’m not really sure about that. For vTaiwan itself, I think the most important thing is about the community. If we have more people, then we do more...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Things.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Yeah, more things to build a community. I’m not really good at doing, organizing communities, but I’ve been trying.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>You could pay someone.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>What?</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Pay someone who is 100 percent interested in that. No, maybe that’s bad. Maybe it’s bad to pay someone to build community.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Yeah, but I don’t have money to pay someone. There is a project from government, and how you return?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Avross is staff, but she joins vTaiwan in her non-paid time.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>She just volunteers.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, this hour is chosen so that people are all joining as volunteers. None of this is our day job.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>A friend got a grant from the Secure Scuttlebutt Foundation, which is a hilarious word. It’s a protocol for social networks. They receive money from cryptocurrency, from Bitcoin. I think that’s how they got this chunk of money.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s the Pineapple Fund.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Sorry?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Pineapple Fund.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Oh, yeah, yeah, I forgot.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Pineapple, yes. [laughs]</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>That’s wild.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It is someone who’s very rich from crypto donating suddenly to a bunch of, like the Software Freedom Conservancy, and really important infrastructure, open source projects.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>This is the kind of thing I was hoping for. I was like, “All these new money people.”</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Anonymously, with no strings attached.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>They started trying to spend this in a way that didn’t burden them with monitoring, which is very un-grant-like. Normally, grants, the good ones, start off with, “How do we evaluate the success of this? How do we know if we got return?”</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>They didn’t want to do that. They invented a really loose social process for giving enough...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Awesome Fund, the same thing.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Was it inspired by the Awesome?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t know, but it’s really similar. Our New York workshop was, I think, also Awesome-funded.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>How do you talk about it? It’s the chunks are meant to be enough time for, it’s $5,000, and it’s supposed to be one month of work by one person. That’s not true everywhere. Some places, like in San Francisco, that’s a week, tops. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>In some places, it’s way more. They want to keep it simple. They essentially developed a process where there was no focus on the deliverables. It wasn’t about feature development. It wasn’t about needing anything.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Because they valued the certain social aspects, basically the money always went to building community, either because it was they were funding the thing that everyone was most excited about, they were giving them latitude to experiment.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I feel it’s really connected to something that Sandy Pentland talks about. It’s about, don’t apply the incentive to the person. Don’t apply the incentive to the node in the network, because then, when you run out of money, you stop paying, and you remove the incentive, that little node just goes right back to how it was before.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It’s not continuing down the path. What the Secure Scuttlebutt Foundation does is they, instead of applying the incentive to the node, they apply it to the edge of the graph. They apply it to the relationship. They apply it to what Alex calls the social fabric.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>They distort the culture around whatever people are doing. Then when they remove it, the things that were making the actions happen is encoded in the social fabric. It’s encoded in the relationships. It’s encoded in the ways that people work together in the space.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It actually, it keeps going well after you remove the incentive. That feels like what the Secure Scuttlebutt Foundation is doing. They’re paying for social change in their community. They’re paying for new shapes of the network, for new culture.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Then the work keeps happening, and the work continues to happen after they don’t get any more money. I’m really in love with that way of putting money into open source communities, and into internally motivated communities.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I’m curious whether we can do it in the civic tech sector. I feel pretty certain that that would keep it...There was a talk by Clément, a guy from France, about if we’re not careful, civic tech will get appropriated by gov tech.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Only when you make money do you get money, do you get to continue building. Sorry, that was a little, that was ranty.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>[laughs] No.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It’s just...</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Yeah, that would make things more easier, but on the other hand, once you get...You attract different kinds of people, like all of you here...</p>
+        </speech>
+        <speech by="#Billy Lin">
+          <p>In my opinion, what you want to do is to build a Watchout.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I do like Watchout. Are you offering?</p>
+        </speech>
+        <speech by="#Billy Lin">
+          <p>...hard situation to crack the money, to earn the money. They’re already in a hard position.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>A hard position?</p>
+        </speech>
+        <speech by="#Billy Lin">
+          <p>Now, they get a project from the government, but when they get a project the government don’t like, the government maybe will not make them earn money from the government. That’s a problem. Most of the NGOs, especially on human rights in Taiwan, they didn’t get the project from government.</p>
+        </speech>
+        <speech by="#Billy Lin">
+          <p>That make them in a really poor situation that they have nearly no money.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Funding is so big.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>I think that there’s, like Jothon, except for people, like at that day, people, you can donate in the kind of boxes. You will also buy long-term donation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Like 10 US dollars every month.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>For Jothon, and with a donator, you can donate for that project. They use the money to buy pizzas and all those foods at that date. I think that space is free, too.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Could we do that? Can we just hook a Patreon up to your bank account?</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>I don’t think it would be a good idea to go to my bank account. Maybe if they go to Jothon, then it would be nice, maybe.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OCF was set up so that each community doesn’t have to hire an accountant by itself.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Any different small project of g0v, they have different way to raise their money. Like Cofacts, they get the grand. I think they are from the grand. Another, the election guide...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>&quot;Vote Taiwan?&quot; ( <a href="https://councils.g0v.tw/">https://councils.g0v.tw/</a> )</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Vote Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, it’s called Vote Taiwan now, because they got the money from branding. The visual design and the branding is part of that brand.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>I really admire the people who run that project, who call Johnny, and I’m not sure if you met him. I asked him why, because he always be challenged from people in g0v, that why are you taking money from that organization? That organization look like they have different values.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s a very diverse organization, but it’s definitely not pro-DPP. I can say that.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>And not that pro-parties.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s got Fan Chou in it, so there’s some original thinking. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I wouldn’t say it’s partisan, but of course, it’s not the usual acquaintances of human right groups, of course.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Johnny would always be challenged. I asked him in the summit why he don’t use crowdfunding; we can also donate to the crowdfunding system.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>He said, “If I am going to do that,” then that makes him to cover what he covered the source of those money from. He rather to do, “OK, you can see that, is that one even supporting me? But I’m still doing what it comes to.” I think that was wrong. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s pretty good. It’s accountability in itself.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>That’s how he would do. I think crowdfunding is not that diverse, or that decentralized. That money might come from the same resource. It’s not really that...We can try and do that good. I wasn’t thinking about that before two weeks ago.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Before MG brought it up, yeah.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Yeah, I never thought of that. Maybe we can do that after this, so we can have more resource. The only thing I don’t want to do is to take money from the government.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. That’s the grant, the g0v grant. They can come from any resource but the government.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Can the government give money into the pot, and then it gets split up and given to projects?</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Maybe. Maybe, but they will...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t know. Does III contribute to Jothon? I don’t think so.</p>
+        </speech>
+        <speech by="#Billy Lin">
+          <p>I just see that it’s how we keep a supporting staff.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>At the moment, vTaiwan is supported by the space, but it’s not III money. It is science and technology. It’s BOST-allocated money is equally applied, if you are a civic tech group that identify one of the sustainable goals that you’re working on, you get access to use this venue for free.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s not like everybody else has to pay... vTaiwan gets it for free, but everybody else gets it for free too.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I’m trying to think. I don’t have the same feeling about avoiding government money. I don’t know why, though. It feels important to limit influence, but it feels like it can be done in another way, at least in, you have a different relationship to government, started by a lot of government civil servants. They’re a big supporter of us, which is probably different.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Contribution of time, of course. That is always appreciated.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I guess we see... I shouldn’t say we. I think government essentially is like the biggest, we work great beside them. They’re supportive of the things we do. They have the capacity to actually help us with sustainability of projects.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>“Oh, this is great. You experimented. You ran a test. It worked. Let us take care of that for you, and we’ll...”</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s what a lot of g0v, like the labor law calculator, goes. The Ministry of Labor just...</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>The budget?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Just bought it, really, yeah.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Back home, very different government, but it has a sort. It expects to pay huge amounts of money for everything, because it has essentially been captured by vendors who have encoded policy that make it very hard to pay small people.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It has a giant, giant budget that when we look at it from the community, we think if we can just put a little spigot, a little knob in here, and figure out ways to thoughtfully release that money to projects that can make it go so much further, then that is going to seem magical for the government, and the friends in government.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>They’re not used to getting anything for as cheap as that. It feels like it’s a source of financial resources that has been bloated, and will be welcome. It’s funny, it feels hard to imagine not accessing it. I think maybe our government applies less pressure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think the community is not against prize money. Unlike grant, sometimes people go to those hackathons that has prize attached to it. People are generally fine with that, but it’s definitely not seen as a steady income. It is just some event that you go to.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>We’ve had government fund a few positions in our community where you’d think there would be resentment from government money going to one person.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It actually works pretty beautifully, because there’s a general sense in the community that the work of holding a project together, doing the hard work, and maybe the boring work, the being a scrub master work, everyone knows that it’s really hard for an open project to do that.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>There’s a lot of gratefulness when someone is paid a token amount, but a fair wage, to...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Hold things together.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Just be the consistency that the community often lacks when it doesn’t have contracts, money for everyone, and all the normal forces that hold together groups of people who are working together. We don’t have a lot of that, because we remove them.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>They’re our shackles as much and they’re our...[laughs] That’s worked really well, and all partners have been really happy, including I think there’s maybe a hope that there was some money that came as gift-like to the project manager.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>We’re going to work on getting more. We’re not leaving you behind, but this is, we’re supplementing the binding forces right now.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s really good to hear.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Money, though. Maybe that’s the other worry about not having structure. Everyone knows how contracts work. Everyone knows how capitalist economies work. If we’re just looking for money, and we find money, then we put it into the mechanisms that we know from the outside world work.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Those are maybe not, they’re the ones we think of first, but it’s maybe bad for projects. Maybe it twists motivations.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s what the B corps people, that’s what the Yunus System, that’s what the social enterprise people has been focusing on for the past 10 years, is how to align financial incentives with social environmental ones.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Open source is doing people, money and open source is doing things that are more imaginative than...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Like Mozilla. Mozilla Corporation is running pretty well. It’s a social enterprise. It says that on its homepage...</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>What if, for example, if you want to run a long-term project? Money would be necessary for you to run a long-term, if you have a goal, a very particular goal to do good in vTaiwan. This project, for this stage, I think, is not that kind of project.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Especially, it’s related to policy. Once you start to accepting donation, or there will be lots of hands. How do you say that? Lots of political, if they want to get the influence, it will be more complicated to handle. I’m not sure if I cannot do that well. If today, I’m doing a vote, Taiwan is not a good example. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, not at all.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Like the MoeDict, they would be perfect for getting monies and services. Let’s do it. Let’s do the crowdfunding. This project, I’m not sure. I think we need to discuss with who are participation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The thing with MoeDict is that it never required financial resources.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Just kind of...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, it’s like literally zero cost.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It feels like something being neutral or apolitical. The cost is always, someone has to maintain or do the care work, or the community maintenance, or merge forks.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure, but it’s all just time, right? There’s nothing that need to be bought.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Time, we don’t want just one sort of person who has lots of time, like tech people, who maybe tend to have done well, cashed out, or live in certain area of town. Time is cheaper for them. It costing time doesn’t make me feel good.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, but during a project’s bootstrap era, in all open source communities it’s like that. It’s basically one or two people putting in lots in time before it proves to be valuable to other people. Then it starts to develop a model for governance and money or whatever.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I guess I think about ecological succession a lot, like volcanic islands. Lava goes over, then the first species show up. They pave the way for the next species. Then you get moss, shrubs, trees, and birds.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>It feels like because a certain group has a role early on, that doesn’t mean that that’s the right thing to accept later.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I do agree. The blockchain people are totally reinventing that. That’s what we’re seeing, is basically a new generation that’s not satisfied with databased governance as the previous generation of civic tech people do.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The previous generation of civic tech people is almost all centered around data-based normativity. Now, with blockchain governance, it’s about code too. We are seeing a change, because the blockchain people are very good a design long-term incentives to keep people engaged.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think that is great. It basically liberates the mathematicians to be financially independent, and also help other people to be financially independent.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>[whispers] It’s funny, yeah.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I feel like I identify as an anarchist sympathizer, but not an anarchist. It’s like a tending towards, or an asymptotic sort of thing. I think it affects me differently than...My views on money, they feel more urgent.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I feel like it’s almost the projects, money is a project. Money is 400 projects. I’m excited to see 1,000 experiments with money, because I don’t think capital is, we’re not creative enough. It feels like you have different feelings around it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t feel at all attached to money. All the innovations I care about, money cannot buy, so it’s useless instrument.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I do the thing where I camp in parks in the summer, so I don’t have to pay money. I make my own guaranteed basic income, and spend a lot of time trying to think, “OK, how do I invite others into this?” This has given me so much time to focus on things that I care about.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s exactly right.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Don’t you feel you’ve also had opportunities for that that have shaped...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>At the moment, these people pay taxes to pay me.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>You were involved in startups at one point.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That was 20 years ago. More than 20 years ago, actually.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Did it not give you space to build a reputation that let you also have savings, so you could focus?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I never really had any much savings. I don’t feel attached to money. That’s the simple fact.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I don’t either, not attached. Resentful, that I have to care about it sometimes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t have to care about it ever since I was 15. If I need money that month, I take some coding gigs, and I’m done with that. Basically, I participate in the gig economy early as I was 15. I basically just earn whatever I need for that month, and I’m done. It’s usually just a week or less, and then all my time is free.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I feel like I can tell people that I broke my brain by doing this weird, weird economy, living in the woods. Even just working, make a little money to back to the thing you love, feels very challenging for me. It doesn’t feel as simple as just jumping back in, making some money, and then leaving. I guess that’s my own history, though.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m not saying that it applies to everyone. We, the people who started when free software forked off into open source, is very privileged. Such people are in very short supply anywhere that can speak the language of free software and hacker culture, but is also willing to engage with people economically.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That gives us the privilege of being activist, but also pay very well for our knowledge. Then of course, it creates schism in the free software open source communities, especially in the US. Not so much in Taiwan, but then it kind of merged back.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then the open source people got pretty successful, and then they are now saying, “OK, now, the human rights, freedoms are most important.” Then they kind of merged back, especially in the past few years.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>What about, have you spent time trying to convince friends to join in...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>No?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, they join if they want to join.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I feel very differently about that. That’s OK. Sometimes, I’m surprised to find areas of unalignment, which is totally OK. It’s like, we’re converged on something. We agree on so many things, but then there’s a little area where things are different. That’s always, sometimes funny to find, or to realize.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think I try to create a friendly environment for people to join, but I don’t try to convince particular individuals to join. I think it’s easier that way, if I don’t tailor-make the environment to particular innovators, things that make everybody feel welcome.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s my view, and I’m not trying to impose it on you. That’s my view.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>No, I don’t feel that. Tailoring to individuals. There’s so many thoughts on mirror neurons and displaying mannerisms that mimic people, and body language that pulls people in, and helps us recognize maybe if we’re matching body language.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Then I’m not seeing someone else, I’m seeing a self. I’m seeing something that...Where was I going with that? The idea of luring people in, or making the space on the other side of a leap feel welcoming, I think, is a big part of how I imagine my organizing works.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, I think the relationships are alive, and we are just the vessels that it inhabits. That’s one of the crazy things I said to Liz.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>To who?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>To Liz Barry. We are just the vessels of which the relationships, which are the real life-forms, habits.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>We’re actually just tubes, appendages. That’s sweet.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Do you see all of this and think about it in a mathematical network sort of way?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. I used a model of bigraphs — a place graph, and a link graph.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I wish I had those skills. Do you ever get vertigo from that way of seeing things?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Sometimes, I do, I think. It feels like it can sometimes feel disorienting, especially when explaining it to others, and then being like, “What?”</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s a g0v contributor, PM5, who’s also a mathematician. I think he saw the social physics as kind of like a natural language. He’s just watching it unfold. He’s not too attached to any moment-by-moment thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s just maybe a natural transformation for him in whatever category theory that he thinking about. I am not quite there, but I think learning Haskell and learning category theory really helped to not suffer from vertigo.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The whole thing of category theory is seeing isomorphisms and various morphisms that are equivalent among different cultures or different systems. You find the invariants within them.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>That’s wild. I think I only learned about category theory to understand even a little bit of how code can be proofed or proven.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s enough, because you get the idea natural transformation.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Oh, I don’t, definitely.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK. Maybe it only takes you a couple days. I think it’s a useful insight.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>This has been great. I wish I was spending more time in Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Come back.</p>
+        </speech>
+        <speech by="#Lisa Lin">
+          <p>Come again.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re going to Toronto, anyway. [laughs]</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Yeah. I don’t know how you do so many of these things.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Playfully.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Doodling. That’s the pen for writing on the special...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, the iPad, like this.</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>I think CS bought one after maybe the NYC workshop. She draws a lot now.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Cool. So, that’s it for the office hour?</p>
+        </speech>
+        <speech by="#Patrick Connolly">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’ll send you the record then.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
