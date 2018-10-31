@@ -2,7 +2,7 @@
   <debate>
     <meta>
       <references>
-        <TLCPerson href="/ontology/person/::/中國時報" id="中國時報" showAs="中國時報">
+        <TLCPerson href="/ontology/person/::/中國時報記者" id="中國時報記者" showAs="中國時報記者">
         </TLCPerson>
         <TLCPerson href="/ontology/person/::/中央社記者" id="中央社記者" showAs="中央社記者">
         </TLCPerson>
@@ -491,10 +491,10 @@
         <speech by="#唐鳳">
           <p>至於在選舉的部分，因為我沒有黨派、也沒有參與選舉，當時大家都知道有人找我去選舉，但是我沒有答應，所以我在這當中並沒有太多貢獻的部分，主要是在行政院透過開放政府的方式去建立大家的互信。</p>
         </speech>
-        <speech by="#中國時報">
+        <speech by="#中國時報記者">
           <p>在座比較尾聲的時候，我想要問一下，昨天金庸過世了，對於很多人來講武俠小說迷都會有關注，也算是時代的印記。</p>
         </speech>
-        <speech by="#中國時報">
+        <speech by="#中國時報記者">
           <p>不曉得政委之前有沒有看武俠小說，有的話，對哪一部作品比較有興趣？如果是有大師的作品是不是可以跟我們講一下，喜歡的理由是什麼？</p>
         </speech>
         <speech by="#唐鳳">
