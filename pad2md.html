@@ -16,6 +16,10 @@ var x = document.getElementById('input').value;
   out = '';
   for (i$ = 0, len$ = (ref$ = x.split(/\n+/)).length; i$ < len$; ++i$) {
     ln = ref$[i$];
+    if (/^((?:19|2[0-9])\d{2})-(1[012]|0[1-9])-(3[01]|[12][0-9]|0?[1-9])/.exec(ln)) {
+      out += "# " + ln + "\n\n";
+      continue;
+    }
     if (/^\s+/.exec(ln)) {
       out += (replace$.call(ln, /^\s+/, '')) + "\n\n";
       continue;
