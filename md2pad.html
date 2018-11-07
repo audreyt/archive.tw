@@ -21,11 +21,15 @@ var x = document.getElementById('input').value;
       continue;
     }
     if (/^#\s+/.exec(ln)) {
-        out += (replace$.call(ln, /^#\s+/, '')) + "\n";
+        out += (replace$.call(ln, /^#\s+/, '')) + "\n\n";
       continue;
     }
     if (/^>\s+/.exec(ln)) {
         out += "\n" + (replace$.call(ln, /^>\s+/, '')) + "\n";
+      continue;
+    }
+    if (/^【/.exec(ln)) {
+        out += "\n" + ln + "\n\n";
       continue;
     }
     if (/^[🌐📅🏡]|^:::/.exec(ln)) {
