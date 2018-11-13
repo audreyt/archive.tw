@@ -1,0 +1,1425 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Frederic Laloux" id="Frederic Laloux" showAs="Frederic Laloux">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-10-31 Conversation with Frederic Laloux</heading>
+        <speech by="#Frederic Laloux">
+          <p>As a Belgian, chocolate is a serious matter for us.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course. This one is a little bit jumpy, and this one is more regular.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>What does jumpy mean? Spicy?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s bubbling.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Bubbling?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Bubbling in your mouth.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I’ll have to try this.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Thanks for taking the time. I had a chance to spend some time with Billy today and Fang-Jui and Shuyang before, so I feel very privileged. Maybe with you, I had a number of broader questions. I feel when we look at the whole toolbox of participatory democracy that the whole...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The civic tech toolbox, the OGP toolbox.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>...that the beginning of the process initiation, the agenda setting is the piece where I feel that we’re the furthest away from cracking it. When you look around the world, how can ordinary citizens bring up the topic either today to parliament or to participating democracy processes like vTaiwan? The default mechanism is people gathering signatures, like e-petitions.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s one, but they can also attend our weekly Wednesday meetings and bring their cases or when I tour around Taiwan every other Tuesday, they can also bring it then. Personally, there’s three channels to reach me.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>The difficulty I find with all of these is the number of concerns that citizens can have is huge, right, the number of potential topics that they can bring. I find that we haven’t found a powerful way yet to filter.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Sustainable Development Goals.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Sorry?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Sustainable Development Goals. The UNDP collected literally a million voices. As you said, they’re already placed. The UN has sorted them out into 169 concrete topic areas and grouped them into 17, which is how we are sorting things now. It’s very rare that a citizen-initiated agenda falls entirely out of the SDGs spectrum. They don’t often happen.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>The resources that we have to treat projects...</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Wow, this chocolate is really bubbly. This is funny.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I warned you.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Frederic Laloux">
+          <p>The resources we have to address problems are limited, like a parliament can only take on so many bills in a year. vTaiwan, my understanding is right now you can take on...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>About 30 cases.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>You can take on five, six, seven cases a year or something. Very quickly, you have to filter and decide. &quot;We can take on this, but sorry, we’re...&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No. We can export this model.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>What?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We can export this model. There’s other forums, vTaiwan-like forums, to tackle this kind of multi-stakeholder issues. vTaiwan is not the only forum for multi-stakeholder discussion. For example, for regional revitalization, there’s a forum. For the national culture strategy, there’s another forum. Billy maybe told you about the justice reform forum and so on.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I hear you, but it sounds like you’re pointing to the fact that we would have unlimited capacity, which is not true, right? At some point, we need to...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Why is it not true? We do have unlimited capacity.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>How many people in each of these forums are available? What’s the capacity of volunteers, or of paid people, or of the PDIS people?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Hmm... I don’t quite follow your line of thought.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>The reason why in petitions you ask...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Set a threshold?</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>...you set a threshold is because you say, &quot;Hey, we have limited capacity. We set a threshold because we feel that if you get so many signatures, it must mean it’s more important than...&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, it’s not quite that. I think we set a threshold mostly because we want to have a diverse reach of stakeholder groups. If it’s just two people petitioning, there’s no guarantee that there will be sufficient sides in a matter when we invite people to join the discussion either on or offline.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If there’s 5,000 people and they raise a lot of social awareness, both on the pro column and the con column there’s hundreds of people. We can be reasonably sure when we send our invitation there’ll be people from all walks of life that we can actually invite to the table. That is the real reason why we set a threshold.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>The experience that we see... I don’t know if Taiwan...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There is no limitation of how many e-petitions can reach the threshold every year. If it is a throughput problem, as you put it, then we will cap the number of e-petitions that reach the threshold every month or so, but there is no such threshold.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>The reason I’m curious about this is that what you see in the US, where you have a number of states where people can petition to have things go to a referendum, is that...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s no limit of referendum amount by yearly election closed referendum as well. This year, we’re going to have 10. Maybe the next year, we’ll have 20.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>What you find is that the signatures, it ends up not being a very democratic model at all because, basically, you can manufacture signatures. If you have enough money...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>How?</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>You basically pay outfits. What you notice is that measures that get on the ballot are measures that are funded often by special interests in the US. It ends up not being a very democratic process because a few people on their own are able to reach the kind of thresholds that are often set. I’m just curious about how we can crack that problem of how do we prioritize.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Why is it a problem that people pay other people to sign?</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Why is it a problem?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, why is it a problem? What’s wrong with it?</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>[laughs] People who have the means to do that can get their agenda presented on the ballot.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s the same with people who can provoke social outrage or can run demonstrations. It’s different power, but it’s still power. You’re basically saying people with power can gather more people, but that’s, of course, how organizations has always worked and social movement has always worked.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>People can be incentivized by kinship. They can be incentivized by outrage. They can be incentivized by money. To me, it’s all the same. It’s just engagement strategies.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(pause)</i>
+          </p>
+        </narrative>
+        <speech by="#Frederic Laloux">
+          <p>To me, it has a big difference if it’s money or if it’s emotional engagement.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I would like to know more about this line of thinking. If we’re saying money buys the actual decisions, of course, that may be a problem. What we’re now saying is only collecting signatures to show the importance or the priority. It’s just that agenda-setting.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>During the agenda discussion, of course, it’s not using money to buy voices, but just raising the people’s awareness of the agenda. If you buy a full-page advertisement on a major newspaper, you’re going to get enough petitions. That is one direct way to translate money into social awareness. What I’m saying is this is how media has always worked, and I don’t know what’s wrong with that.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Maybe your threshold is set differently at 5,000 voices already, but what you find in a lot of US states is that you actually need to do very expensive door-to-door canvassing. These things are...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Maybe, in some states, the threshold is too high.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I can see that. That’s always because it’s paper signatures, no?</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s not electronic signatures. In our e-petition, it’s electronic signatures. Even for people who have a lot of money, of course, they can buy Google or Facebook advertisements, but their money is not significantly more useful than people who already have a lot of followers on social media, which is why I don’t see this as a problem. We are essentially e-signatures.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I’m interested in this concept of capacity. The problem with traditional parliamentary...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Decision-making.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>...structure and decision-making is that is limited just by the number of people that you have in parliament and then by the political agenda...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>By your time.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>...and by the time. You know that if whatever the exact total, the president has this project and there’s only so many other things that you can do.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Every year, that’s right.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>There’s a huge power struggle on what actually makes it onto the...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The national agenda, that’s right.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>One of the promises of participatory democracy that we rarely talk about is the potential for de-bottlenecking.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For scaling out the decision-making, essentially.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>There’s fundamentally no limit to, &quot;Here’s a problem. Who are the right stakeholders? Let’s get them around the table.&quot; Because they’re stakeholders, they should be interested.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Adhocracy.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Exactly. I’m curious how you think about capacity and scaling. Right now, I’m most familiar with vTaiwan. You were mentioning you have other forums and regional...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s hundreds of forums, vTaiwan one of it.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Is one of them. How do you think about that question of scalability? For instance, my understanding is in vTaiwan, a lot depends on the capacity of people from g0v to show up, from the ministries to show up, from leaders to show up. How do you think about scaling that? Is that a concern for you?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Not at all. We published the entire methodology. I think we’re one of the most well-documented methodologies around. Like last week, g0v Italy just started with budget visualization and the whole thing. We are going to train people in Toronto next week to do the same thing as Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s evidently scaling horizontally. I’m sure people in NYC or Toronto doesn’t need to ask for our permission to run their meetings. It’s clear that we’re scaling out pretty well. These processes, once it’s well-documented, can be replicated.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Specifically, here in Taiwan?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t really care about how Taiwan [laughs] works or not with this methodology. In my view, the regional vitalization or devolution -- I think that’s the English term -- is much more important. All I care about is, for example, Tainan City a few weeks ago just installed their own PDIS-like PO network for Tainan City municipal matters.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Just today, one of the candidates running for Ilan County mayor is promising the same thing.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Interesting.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If every county and even township has these processes, then there’s no need for vTaiwan to intervene on a national scale. Most of the issues that people raised and the stakeholders are domestic and local anyway. Taiwan doesn’t need that many parliamentary laws or decisions.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Actually, in our recent vTaiwan discussions, very rarely do we actually reach the parliamentary level. We find if it’s a regulatory recommendation or if the civil society and the private sector can coordinate on some action, then the issue resolve itself. We don’t need to go to the parliament.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In vTaiwan, less than 20 percent reach the parliament. Mostly it’s regulatory level. I think devolution is clearly the way to go.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Another question that I had pop up for me is that there is real power in the role of the facilitators, people who shepherd cases through the processes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The pre-meetings, the agenda-setting processes.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>The agenda-setting, the stakeholder identification.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>There’s lots of these small decisions that, in the end, become important. There seems to be a level of trust that you’ve been able to achieve. It could be very easy for people who dislike the process to start to doubt the neutrality.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If they doubt, we just invite them to join.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I’m curious about that. Can you say more about it?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course, the pre-meetings are there so that people can look at the transcripts and the records of the weekly meetings. People care about the process. There’s many people who care about how the questionnaires are set, how we reach the number of stakeholders, and so on.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because it’s a open community, anyone can just type on Hackpad, on Slack, or whatever, and basically amend the process. There’s nothing to subtract from and everything to add to. Because of that, we don’t hear that much about total neutrality.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We believe more in a plurality in the sense that people who care or people who think that they can find other people who care can always intervene in the process. Nothing here is at referendum-style power binding level. Everything here is on collecting collective feelings and collective facts. In this level, everybody has something to add.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>It’s a combination of openness, that transparency about what’s happening.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>And us being in the first diamond in the design-thinking terms.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Another topic I was curious about is, if I understood you well in some of the interviews that I watched, at the end, you’re aiming for a rough consensus that goes to some specifications that then get translated into legalese.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The rough consensus, if need to be, sometimes translated to algorithms. Sometimes, it’s just translated to visualization or data. It’s not always legalese, but yes.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I’m curious about that because traditionally people view consensus as potentially problematic in the sense that it gives you veto power. If one of the stakeholders...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s fine consensus.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>What?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s called fine consensus or perfect consensus. What we call rough consensus in Internet governance is more like consent in plain English. It’s, &quot;I can live with it.&quot; It’s this kind of consensus.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I’m just curious if you’ve had cases...I could imagine that some stakeholders in the Uber case, Airbnb case, and whatever, could want to use their power to block that thing because they feel that the status quo is better for them than any new thing. They feel that if this breaks down, they have better access to the parliament to get their...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Has it happen, like people just said...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, Airbnb sent an email to all their members, calling them to...</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I remember that story.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. Of course, that happened, but it always turns out not to be the case they want because the space is designed so that each individual has more degrees of freedom, compared to traditional surveys.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Each individual are given more agency than the traditional mobilizers imagine. With time, people have started to discover that we’re really after common values. If there’s no common value, we don’t push things forward. If there’s a very, very rough consensus, we only act on those that we have very, very rough consensus.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We don’t force consensus with this process, which is why people generally see this as complimentary if not reinforcing the old power model.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I’m trying to think ahead. The old power model, used the setting up as a dichotomy where we can play nice and if it’s not working, then...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s not working.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>...the old power model needs to handle it, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s not just that, but rather the cases that’s brought to vTaiwan are generally cases that the old power model has no idea how to do anyway. Might as well try. It’s more experimental. In the e-petition, similarly. Things that are brought to my purview are cross-ministerial in nature or at least cross-agency in nature.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Again, no agency or ministry want to own it completely, mostly because there’s a structural coordination problem involved. If they think they can’t handle it on the silo model, I don’t even see it because I work by voluntary association.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Another question I have is that a lot of the people who come and participate in democracy are from the facilitation angle. All the people who come from the tech angle, there’s the more traditional facilitation and university professors.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, and also public administration. There’s many different...</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>A lot of these people are in love with the sortation model.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, because it’s more binding.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>In your case, I think because you come from ministries or the relation, you come at it from a stakeholder perspective.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No. I think it’s because Taiwan doesn’t have a jury system. We have no experience with sortation whatsoever. There’s no native culture for it. We’re now considering to install a jury system. It’s still in early planning stages.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>You mean in the penal...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, in the Justice Department.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>...system.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. If the judicial process has more jury system involved, then people has this natural tendency of understanding why sortation works in a binding way or semi-binding way at least. There’s no day-to-day process that involve anything like jury, not even in school, so people don’t have this culture.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is just because of this that we are not connecting to the sortation. Otherwise, theoretically, after the first diamond, the second diamond is best handled with sortation. We don’t have this culture here. Maybe in another generation, we will.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Can you expend on first and second diamond? I’m just curious.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. In design thinking, the first diamond consists of discovering the problem. People are putting their personal experience, their gripes, facts, whatever, evidences. It’s the first time it converges by people deciding on what is the common value around which to share a how might we question. How might we make something better? The theory of change.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If people converge here, it’s a rough consensus because people generally agree that whatever gripe, we have is better solved if we reach this goal. It’s sustainable. It doesn’t say anything about how to reach it. It’s a barrier endpoint.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then, the second diamond is about testing various different way to solve the problem. It’s a iteration of quick prototyping and testing. Then, the second diamond finally converges on a decision that we can scale out to everybody because people are reasonably sure that this is a good solution. That’s standard design thinking.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>How did you map sortation or stakeholder on diamond...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Ideally, of course, the first people who have gripes about this are naturalistic holders. They’re closest to the pain. It’s obviously stakeholder based, especially the initial agenda setting that we need to talk about this. Yes, almost always stakeholder based.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then, of course, this convergence needs facilitation the whole time. Once it’s reached the how might we question, then, of course, it impacts everybody, not just the stakeholders. Maybe all the stakeholder agree this is a great solution, but it would create negative externalities on everybody else.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>By this point, everybody else need to be in. Other than sortation, of course, you can say parliamentarians or city council, whatever, stand for the people. They need to evaluate so that while the stakeholders all agree this is ideal, the citizens is going to pay tax that is five times the current tax rate for this to happen. Obviously, we’re not going to let that happen.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>On the second diamond, what is needed is for the experts, as well as citizens of non-stakeholders to join and to collectively evaluate the feasible solutions that doesn’t leave anyone behind that are essentially pareto improvements.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That is the second diamond’s diverge stage. On the final converge stage, we need to make a choice of what to do collectively. Of course, we can have a referendum. We can have a vote. We can have sortation.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I’m curious, if as part of your stakeholders, you have citizen, let’s think in the Uber case, you have just a general population that was present.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Mostly, is a mobilization problem. They don’t actually care about it, so why are they going to join? Then, that’s where jury duty comes. If people don’t see jury as a duty, we don’t have a easy way to convince people.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Makes sense. I think that’s the part where we could de-bottleneck our current parliamentarian system.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I totally agree.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Get rid of all of the negative externalities of vote and politics and polarization.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I totally agree.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>A question for me here is how will the population at large become comfortable with sortation and the legitimacy of it, even though now we have decades of experience that show that ordinary citizens with the right facilitation can deliberate in a way that’s often way better than parliaments.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Citizens councils, citizens assembly.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>All of these different forms that exist. The standard reaction to almost everybody is, &quot;Are you kidding me? What’s the legitimacy? I didn’t vote for them. Two, I don’t trust them.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They’re not going to come back to the community and convince everybody else. That’s the main problem. Yeah. The difference between big data and statistics is that here is a sample and here is everybody. If we can create a sortation method that involves practically everybody, so that everybody is automatically sorted, then, that stops the legitimacy problem.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In Taiwan, that actually happened in the Tainan City. Not me, one of my acquaintances run the case of citizen deliberation of the Fei-yan village reconstruction project, where the interest of renovation and protection of archeological artifacts and environment are in three different charges.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They involve hundreds of people. In that village, there’s exactly 100 people, so it’s not a sortation. On that scale, it obviously works and the legitimacy is complete.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Yeah. At the larger scale we need to.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Work on virtual reality, yeah. We need to enable thousands of people to be in the same place and talk to each other.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Then, you stumble upon another issue, which is self-selection versus random sortation, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, it’s literally everybody.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>But there’s only so many people who are interested or willing or capable of showing up.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They don’t have to show up... They can just click on a YouTube link.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>What I mean is deliberation takes time. The reason you have jury duty is that...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Deliberation takes time, but it could begin with spare time. It could be a lot of two-minute engagements. It doesn’t have to be two-day. It could be two-day split into a lot of two-minute engagements. People just participate for fun essentially.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>The way they do in pol.is?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Pol.is is one way, it’s a very crude early version of it. Ideally, of course, yeah, people just participate in their spare time.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Maybe it’s because this is too early and we are not there technologically or even in our mindsets. I haven’t come across anything that makes me believe that, at some point, it is actual people being together through virtual reality and actually spending their time of getting to know one another.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Deeply listening to one another.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Deeply listening, deeply understanding your perspective. No two-minute increments allow me to have that bond of seeing you, trusting you, starting to see you in a new light, hearing what is the story behind the story that makes you view that world, that starts to make me question my certainties.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m not saying that the two-minute engagement is a substitute for that. I’m saying two-minute engagements lead to two-hour engagement, lead to two-day engagements. It’s a gateway drug.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Once we have sufficient amount of gateways, then people can participate with whatever modality they feel like.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m not saying that the entire city, everybody donating two minutes will replicate the consensus. What I’m saying is, in every city, if people have it as part of their education system and so on, have the spare time participation idea then, just like Wikipedia.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A lot of students, they just spend two minutes fixing one typo on Wikipedia, but when there is a regional weekly people meet up, they actually show up and do the in-depth thing. We talk about running a center of Wiki art, Wiki museum, Wiki local history, or whatever initiatives. Without the initial two-minute engagement then they won’t show up.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Yeah. I’m curious about this constraint that you currently have and vTaiwan, that the topics have to be...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Emergent.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Emergent and broadly linked to netizens, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>You obviously want people about whom the process is going to be making to be able to access it, and people who aren’t easily online.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The constrain is there is, because there’s no ministry owning cyberspace. We’re in the creative space, as I said. No ministry could say, &quot;Our old way works,&quot; because there’s no &quot;old way&quot; for it.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I’m curious how you see that evolving. Is it just a matter of time that we have to wait until everybody is a digital native, and at that point...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, that’s my thought, yes. Maybe another generation or two.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Of course, there’s ways that we can try to involve people who are offline, but it’s so much more costly.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, we can bring tech to them. That’s what I do in the Social Innovation Lab. As you said, it’s mostly a modality thing. When people are as comfortable as they are currently with their phones with mixed reality for example, then they don’t have to be constrained on small screens and things like that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s going to happen real soon, now. Personally, I live in that world, but well, the future is not evenly distributed.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>We still have to wait a generation or two, but I’m very optimistic about it. I think it’s just a matter of time.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I’m curious. We live in this age of hyperpolarization. I live in the US.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Perceived hyperpolarization, but yes.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Perceived, exactly.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>People actually have a lot in common, but it’s just perceived differently.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Of course, but the way the media frames it... Also, in a very real sense, a growing number of people really wrapped in their identity around I am Republican. I am liberal.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I take all the sides, so I understand that.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>What you see is that when you have deep deliberative spaces, these things tend to break down, because then suddenly I see...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...rooms for &quot;conservative anarchists.&quot;</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I’m curious. Do we have examples here of processes where there was really a very strong polarization? We mentioned breakthrough. Uber in some ways was polarized.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In our e-petition, there was people petitioning for Taiwan to change the time zone to the same as Japan, to UTC+9.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Billy mentioned that survey to me.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s polarization right there.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>That’s a very charged topic, very divisive, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s a very charged topic. We resolved that really, really well.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Can share more about that?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course. It’s one of the cases that Billy, when he first joined, handled. We went through all the arguments, both sides, about how daylight saving or changing one hour of time saves energy, increased tourism, increased stock trade, boosts economy, whatever.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then all the ministries went and provided scientific evidence that it doesn’t actually save energy, it doesn’t increase tourism unless you want to overwork people, and so on.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>People were genuinely surprised that with 16,000 people petitioning pro and con, the ministry are really willing to dedicate a lot of time and effort to make it clearly understandable how exactly changing one hour in time zone will inflict on the society a large, one-time cost, and a not trivial recurring cost. It’s all evidence-based. People are really surprised that we take them so seriously.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The second thing is that once we invite people to meet face-to-face is that the walls start to break down. Even the petitioners from both sides, of course, disagree vehemently about the time zone, they all agree that Taiwan needs to be seen as more unique in the world. That is the common value that everybody can understand.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>After tallying the actual one-time cost, everybody agreed -- and it’s a strong consensus -- that the PRC can just say Hong Kong has its own currency. There’s many countries with different time zones. It doesn’t really make Taiwan independent. Maybe we’ll get 15 minutes of CNN coverage and everybody forgets about it, and we have to pay recurring costs.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>It’s not a good idea. The common value is a good value. This shows that agenda-setting power is different from the final policy-making power. It’s important for everybody to show that uniqueness of Taiwan around the world is important to everybody, but it’s a bad idea if we say, &quot;We make a compromise,&quot; and change the time zone by half an hour.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Everybody agree, if we’re going to pay this cost, we maybe better off to channel it into making more a cultural export of Taiwan, making Taiwan the image of sustainable goals or open government that are distinct from PRC. We can spread the message and so on. All the ministries are very willing to provide such brainstorming ideas, which then we send to all the 16,000 people in petition.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That is the concrete case of the walls breaking between the people who are strongly for symbolic Taiwan independence and people who are not.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>To me, it sounds like a particularly beautiful example, because this is exactly the sort of headline-grabbing topic that in traditional politics gets misused.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, and gets polarized over time.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Get polarized over time, and then one politician sees this advantage to play this out.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. People that they can turn into voters.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Frederic Laloux">
+          <p>It’s a particularly beautiful example of how this...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Reconcile the sides.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Can you quickly share with me what the actual process was? What platforms did you use?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. Billy <a href="https://pdis.nat.gov.tw/zh-TW/blog/%E4%B8%8D%E6%89%93%E5%81%87%E7%90%83-%E6%99%82%E5%8D%80%E6%A1%88%E5%8D%94%E4%BD%9C%E6%9C%83%E8%AD%B0%E6%AD%A3%E5%8F%8D%E9%9B%99%E6%96%B9%E5%9D%87%E8%B2%B7%E5%96%AE/">wrote it up</a>. You can check it out in the PDIS website. There’s a blog about it. Do I have your email? I think I do.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>You have my email.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I can email you that link to the blog.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Otherwise, I can just translate the page with Google Translate and then I can find the blog.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Actually, we have an English page. We pre-Google Translate that for you. This is the one. If you change the URL from &quot;zh-TW&quot; to &quot;en&quot;, we can actually see <a href="https://pdis.nat.gov.tw/en/blog/%E4%B8%8D%E6%89%93%E5%81%87%E7%90%83-%E6%99%82%E5%8D%80%E6%A1%88%E5%8D%94%E4%BD%9C%E6%9C%83%E8%AD%B0%E6%AD%A3%E5%8F%8D%E9%9B%99%E6%96%B9%E5%9D%87%E8%B2%B7%E5%96%AE/">the English page</a>, I hope. Yay, that’s right. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is the complete picture, including the time, the petition, the counter-petition, the ministries, the actual mind map that we use to map the actual slides of how one hour of energy use and so on changes, and how the key core issues lifted this up into about not the fake issue, but the real issue.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We signify the difference. Then basically, their understanding is that the supporters said if we just focus on the GMT, they will leave early because it’s a waste of time. Actually, because they can convince the other side that it is how to improve international visibility, he is very satisfied with it because he can get through to the counter-petitioners with this methodology. Then this is how it actually looks like.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I can send you this link. It’s Creative Commons anyway.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>It sounds like there was a whole part of data gathering from the ministries and then feeding that to participants.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>There’s a whole online part before, then people gathered.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. There’s several pre-meetings, and using the so-called issue mapping technology. Fang-Jui invented this methodology by adapting the Open Policymaking process into the Taiwan administration. You should talk to her about exactly what steps she went through.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>This is a very different process than the discourse pol.is process that you use in vTaiwan, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. There’s no pol.is in this petition, because we don’t see the value of using pol.is. In other cases, we use pol.is for the e-petition also, normally, when people have so many diverse views that we cannot reasonably read through all of them. In this case, the pro and con have maybe only five core arguments each.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Where do you see all this going?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Everywhere, virtually all over the planet.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I was more thinking in terms of depth than breadth. Hopefully, people get more comfortable. People get more experienced.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. We have civics teachers telling their senior high school students to try to find a case where they can find 5,000 signatures as their civics homework. A girl -- 15-year old -- actually found one to ban the use of plastic straws, which will choke the sea turtles.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That directly led to our plastic straw ban on indoor taking of the bubble tea. People are now using stainless steel straws or other receptacles.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>There was a ban here in Taiwan?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, there’s a ban here. That is the outcome where we see the petitioner leading the 5,000 people, which is just a small girl, 15 years old, and says, &quot;This is my homework in my civics class.&quot; We know that we’re scaling people. It’s not just scaling votes. This is part of education now. The next generation will take care of the direction. I’m 37. I’m really old now.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>You’re retired anyway.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Yeah. The people who are 17, the people who are 15 by year 2030 when everybody will be digitally literate, and there will be one analog minister...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Frederic Laloux">
+          <p>Without portfolio.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Without portfolio, that’s right, to talk to, I’m sure, animals and rivers.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>By then, the young people will figure out a way.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>What do you see is the future for you? How dependent is this, right now in Taiwan, of you?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Not at all. The Tainan City, the Yilan County, perhaps, they just run off with it. They don’t need me. The devolution, the municipalities, the regional revitalization, none of this is dependent on me. I’m most just a spokesperson, I think, for the drastic innovation that Taiwan is having in the first few years since the Occupy.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Truth be told, I’m not involved in any operational things now. I’m copied. Of course, I read the transcripts. I bring them to the Premier, but people just run it themselves, and they run it without even letting PDIS know. We have all these national forums that PDIS has no idea about. People read about our work, about our transcripts and replicate it.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>It has reached a cultural soil that is ready enough?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes, exactly. In Taiwan, 23 million people, 5 million use the participation platform already. One quarter of the population. Maybe in the next year or two after the devolution plan happens, we will reach easily 10 million people. Once that happens, people just use it in their school, in their regional community. It’s actually easier. If you only have 400 people, you don’t need sortation.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>That begs the question of what makes that the soil here...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Is so ripe.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Is so ripe, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. Because we have no republican tradition. This is literally the first generation that can do democracy.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>It comes completely fresh.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. You see there was Estonia also.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Probably in Estonia and here also, a sense of urgency or a sense of threat.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, of being in the frontline. We have to be really different. It is true.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Because there’s a big monster already.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Also, they’re also innovating. In a very different track, of course, but there’s real innovation going on there, too.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>The surveillance state.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you ignore the human rights, of course you can do a lot medical research. This is true. I’m not saying that this is justifiable by any means, but it is innovative too, and they are really moving quickly toward their own social goals. Of course, I’m not a minister there.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because of that, I think when we see Taiwan in, for example, in the CIVICUS Monitor, the only place regionally that has an expanding civil society, whereas everywhere else, it’s shrinking or stagnant. I think it’s part of our national identity to innovate on democracy, because nobody else in this area is doing it.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>There must have been probably the catalyst thing with the Sunflower Movement, just the breakdown of...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. It’s a collective wake-up call, because if we don’t innovate, we just become a province of the PRC. Also, that people realize it’s cool for teenagers to talk about politics. Before Sunflower, it’s not at all popular. People are seen as fringe if they talk about politics. Now it’s very hip.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I was curious. On the plane here, I read the Wikipedia article on the Sunflower Movement. On the Wikipedia article, they didn’t talk at all about the deliberation that happened inside the Parliament.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right, or outside on the street.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>The only thing they’ve described, it’s simply a student protest and just a negotiation between...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They did mention the final six points of consensus that’s agreed by public and parliament. They doubled down. They mention the final...</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Is that somewhat documented? I’ve heard you talk about it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It is indeed documented. If you search for deliberation on the street, there is the D-Street project. Actually, after the Occupy, the anti 4th nuclear plant people did another deliberation on the street.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of 20 NGOs or so, it’s all preserved in the...I think there’s a history project at public.318.io. We digitally archive almost everything. You can see all the documents that people used. pamphlets printed, media documentary, graphics, and things like that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They hack folder, this to share bookmark and the links to individual transcripts I think is also archived in the g0v Hackpad. You can talk to these people if you want a reconstruction of what actually happened, and exactly which people wrote what and said what where.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Can you give me the two-minute summary of deliberations?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. Around the Occupy Parliament, there’s 20 NGOs or so, each occupying one corner in the street. Almost everything is live-streamed. It’s like bees and flowers. They cross-pollinate, because each NGO talk about one aspect of CSSTA.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because of this cross-pollination, our work as the communication task force, so to speak, is to archive everything that people talk about. When that happens, more people than people on the street look through those points and make pro and con comparisons, and to link the threads of every day’s discussions and publish it with social media analytics. It’s all on our hack folder anyway.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>At the end of each day, the general media reports about what kind of issues are deliberated on that day, what kind of topics are explored. On the morning of the Occupy Parliament, the students who occupied read about the things that’s discussed yesterday and what has remained to be resolved on that day.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Was some of that relayed by mainstream media, or was that purely...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, I think it’s all civic media. If you look at the e-forum, they report some of those conversations. The e-forum is seen as a neutral media because it’s run by students. The head of the e-forum, Sheau-Tyng Peng now also works in our office.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>The cycle was that during the day, there’s deliberation outside of the parliament...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>On whatever aspect each NGO cares about, and everything is archived.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Civic media...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The civic media synthesized it.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Synthesized it, and the students just covered.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>They bring that into the deliberation inside.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That is exactly right. Maybe they don’t deliberate on that inside, but rather they read it out to the broadcasting and to the mainstream media. There’s some tension, of course, because there’s some NGOs who feel excluded from the students’ main agenda, which is about due process, of course.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Even those NGOs generally are aware that this cross-pollination helps their cause being brought into general political awareness, even though it’s not included in our Occupy. Generally, it’s ostensibly about CSSTA, but for some, it’s a stretch. Even in those cases, the NGOs will come to stage and the fact that their deliberations are recorded.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Did the students inside deliberate, or what?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, they also do. They also do, but in a different way. I don’t want that. I help livestream that. If you want to know what the inside deliberation looks like, different people will give you very different accounts. The people who facilitate the in-parliament deliberations, such as En-En Hsu and Chia-Hua Lu, are easily reachable.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Because I have a sense from listening to you talk about it, but I wonder if I oversimplified it in my mind, that basically the goal from students was to show the politicians how deliberation is done...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. They’re supported by an exoskeleton of NGOs outside.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Then the students end up with a draft, CSSTA? What was the outcome?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Six core principles toward CSSTA. The first is that there need to be a law that treats CSSTA as not something domestic but similar to international treaties.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>The same scrutiny and the same...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, exactly. The last one is that there should be a constitutional forum to talk about constitutionality of this kind of deliberations that set the play field before actually deliberating anything with Beijing. I think that’s the largest scope, the increase in scope.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This one was only partially agreed, the Ma Ying-jeou government to run a national economic forum, because they want to restrict that conversation on only economic and also bring scope, understandably.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Still, in that national economic reform forum, there’s a majority opinion that says the government should make an e-petition platform and an e-participation platform that includes the WeThePeople or regulation.gov and designs so that this kind of thing won’t happen in the future, because people actually have a way to take to the Internet.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s how join.gov.tw was born. It is the collective will of the post-Occupy forum. Even if it’s had some discount, but most activists will tell you that it suffered a discount, but still it made some change happen.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>The other five points were more or less...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course, I can read you the English version. Let me get the quotes right.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(pause)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>There’s four concrete consensuses. Point one is actually a bundle as it is very often in things like that. I’m trying to search for an English version published, which there may not be one.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The first one is actually a bundle. The legalization should be supervised. We need to agree to five core principles, that is to say citizen participation, congressional supervision, human right protection, information disclosure, and government accountability. These are five NGOs carrying that procedure.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>There’s details in that. This is just high-level summary. the second, of course, legislation before reviewing the service trade. Actually, this is already agreed by the head of the parliament even before the Occupy retreated. is an early agreement. A mayor actually also aready supported this point.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The third thing is, which is the discount when it comes to answering this, we will call for a civic constitutional conference, the Iceland style. People have already prototyped a grassroot forum for a civic constitutional conference. People are going to run them all over the place.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>People call for a genuine constitutional moment, for this to be recognized on national stage. This was accepted with the discount that you can talk about the economic part.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Four, very importantly, is the Executive Yuan need to withdraw the service agreement back to the negotiations. The whole ECFA framework need to be suspended before those five details are met, the legal proceeding completes, and also a civic constitutional conference is run. Those five plus one plus one need to all happen before we even talk about CSSTA again.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>In practice, CSSTA was killed with this, was stopped?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. Everything here was agreed by the parliament.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>It will probably be a long time before somebody dares to touch this again?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, the CSSTA. It’s a victory for the occupiers.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I’m curious, by the way, about this message.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This message on my name card?</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is our main message from our Ministry of Foreign Affairs, #TaiwanCanHelp, meaning that we can help other economies to reach the sustainable goals because we literally have all the 17 verticals. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Like many other Asian countries where if you talk about human rights, they may not help that much, but in finance, they can help. Or if on every culture, they can help somewhat, but if you talk about open government, they can help. In Taiwan, we can help all the 17. That’s the main message.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Something to be proud about, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, of course. It’s sustainability.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I often wonder about that. I come from Belgium, which is this tiny country, which used to have a sense of pride around its role in the world. We’ve completely lost that, but you have countries like Norway which still...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Very much leading the thoughts.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>...lead in all sorts of domains. Just recently reading about how Norway is playing a big role in cleaning the oceans and stuff. I feel like small countries like Belgium and like Taiwan, we could punch above our weight by getting involved.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>By committing to help clean the plastics of Indo-Pacific Oceans...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>...and by increasing the biodiversity.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In Taiwan’s marine area, there’s 10 percent of the world’s marine species. It’s a huge biodiversity.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>It’s not even that expensive. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Not at all.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>You’ll have a budget of that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s &quot;Taiwan can help&quot;, because this requires international collaboration.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I was reading this book called &quot;New Power.&quot; It separates the methods of new power, of horizontal power, of getting people’s spare time and attention, and channel it through hashtags and so on into action. That’s the extensible message part.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There is also a new power in the dimension of values, in whether you are actually after your personal power and concentration of decision making or you’re after a collective intelligence and devolution of decision making. These two doesn’t always go together. You can have a new power methodology, but are actually reinforcing the centralized government and the centralized ruler.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Or you can have old power methodologies such as deep canvassing and things like person-to-person doing it that is not digital at all, that it has long tradition where you’re actually instituting new power values by empowering each individual to feel strongly about their community.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The new technologies or ideologies and the new power values are not always in conjunction with each other. What I’m saying is that I’m, of course, right here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m using new power tools and furthering the devolution with the hope that I can disappear any time, and the central government preferably can disappear any time. That’s why I anarchists and the local communities can gradually take over. Maybe not in my lifetime, but take over.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because our generation is the first one to have democratic experience, there are a lot of language in the public demonstration. They’re still very authoritarian, very old power. Because of that, people sometime has the projection that if you have a strong centralized ruler who can very quickly decide after listening to people, with consultation that is both efficient and also popular.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There is many leaders in Taiwan -- I won’t name names -- that are advocating this particular combination. I’m not saying that they’re wrong. I’m just saying I’m following a different philosophy.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Yet a lot of the old power structures are still very much alive, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Like all the ministries and the Parliament are still...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The digital ministers are still ministers. The eight horizontal ministers are also ministers. We co-exist. That’s a fact.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I imagined people would say if you’re willing to use power in the old way, the existing system has no problem with using power in the old way.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>In the short term, you’re losing out.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t care about short-term. I work in the K-12 curriculum. Everything that I produce will only take effect 12 years in the future.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Part of that is just the overview effect. Have you tried looking at Earth from space?</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Earth from space?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, like astronauts. Have you tried that in the VR?</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>No.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Maybe I can show you.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I’ve actually never had a VR thing before. Have...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The idea, very simply put, is you look at the Earth from space. This is my dynamic wallpaper. It actually reflects the time of the day. People often come from a mission to International Space Station and come back to Earth a better person, because of the overview fact. They see the Earth as fragile.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Even for the private entrepreneurs like Mark Shuttleworth and so on, who paid privately for a space trip, it actually has the same effect, which is why he founded this Ubuntu Linux effort. The short-term makes a lot of sense because we’re literally clouded by the clouds. We can’t see people from the other side of the world as neighbors.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s the root of the problem of polarization. It doesn’t feel natural to care the same way of people in Toucheng as people in Tainan for people based in Taipei. Personally, I never had this problem, because I literally grew up on Internet. [laughs] Anywhere that’s connected is my kin.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>And in Germany, right? You grew up in...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, I lived in Germany for one year or two. When I was 24, 25, I did what Erdős did, which is stay in one computer scientist’s home, collaborate on a project, until they can’t suffer me anymore, then they have to find another computer scientist to pay for the ticket or railway.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Paul Erdős.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. I was cross-pollinating between the various different computer language paradigms. I think I visited 20 countries or so and just stayed in random people who I only met online. Turned out they are all very good people.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>With a community like that, it’s impossible to feel too attached to short-term political or domestic issues in any particular locality, which is why I always say I work with and not for Taiwan. That is the core difference.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course, after Sunflower, a lot of people feel that they have a lot of speed and momentum running into the public administration. We are actually. The vector is changing how the public administration moves, because the activists are numbered in, I don’t know, hundreds of thousands. The people who actually push the public administration, maybe number in the thousands.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The public administration itself is much larger than this. All the career public service and employees, it’s easily hundreds times larger. We can’t have one activist for each public service.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>While, of course, it is turning and we’re turning quickly, the inertia is felt deeply by everybody, because we’re still running and not touching the apparatus. Everybody feels we’re moving very fast, but when we reach the public administration, of course the sheer inertia cancels out most of the momentum.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re changing the direction, but the momentum is felt as lacking from a lot of people. Of course, you can say if we put a benevolent dictator to steer the ship and just cruise it to our direction, that will make things so much better. That is an illusion and a very dangerous illusion that other countries in Asia have fallen to. We’re not going there.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Virtual reality. Let’s take a look.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Yay.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, I think it’s charged a little bit at least.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Here we go. What you’re about to see is the Earth, essentially from the vantage point from the International Space Station. You can use your thumb like this to scroll the Earth.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you look at Mars, or moon, or whatever, you can pull the trigger to go there. If you ever get lost, you can just spin a little bit on your chair and re-orient in the solar system, so to speak. Try not to push those two buttons, because they will take you back to the home or the menu screen respectively. I think that’s all you need to know.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, it still needs more battery power. Sorry.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>That’s OK.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Let’s wait a bit.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>How long are you in Taiwan?</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I arrived yesterday and tomorrow I’m going to Shanghai...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You’re literally just here for a couple days?</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What was your research in Shanghai or your work in Shanghai?</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>That’s related to this book I wrote about organizational governance. There’s a two-day conference around the book.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Cool, that’s awesome.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I brought a copy for you if ever you were interested. Feng wrapped it. She’s going to...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. Of course, we’ll...</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I have a simplified Chinese version, but you’re probably more interested in the English version.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, I don’t. Is the simplified Chinese version abridged?</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>No, it’s the same.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then I’m interested in that, too.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>If not, you give it to somebody else. I don’t need it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, awesome. This is great.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>There’s a currently translation underway into traditional Chinese. I’ve been very lucky. It’s become a huge thing today. What’s really interesting is that there’s a movement now, probably thousands of organizations that are taking really quite radical steps in this direction.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s great.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The quality is really good, the translation.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>That’s actually the really cool things happening around the book today. The translation was itself organized thing of 45 people in China.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Really? It’s like crowdsourced.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>They approached and said, &quot;Can we do it?&quot; I said, &quot;Sure.&quot; They self-organized. Everybody translated a little part, and then they had a process to harmonize everything and then to bring it to a higher quality. They found a publisher and then arranged for a contract with the publisher.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, that’s new power right there.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>That’s new power. Pretty much all the translations that have happened have happened in that way, people simply saying, &quot;Can I pay for the translation?&quot; I said, &quot;Sure.&quot; [laughs] Or people crowd-translating.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I read a collaborative translation by people in PRC and overseas, &quot;Harry Potter and the Methods of Rationality,&quot; the HPMOR. I think the translated version at some place is better than the original.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Frederic Laloux">
+          <p>Is it?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Indeed. It reminds me of the book &quot;Gödel, Escher, Bach&quot;, which I read as a child, there’s so many word plays that the translator in Chinese have to find new wordplays. Sometimes, those are better.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I really like the quality of this translation... I’m a translator and interpreter myself.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Oh, you are?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, so I really care about these sort of things.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. I see Otto Scharmer mentioned in the cover of book... He is the author of &quot;Theory U&quot;, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s written here that he’s a recommender of your book. Is there a conscious connection to the Theory U?</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>There’s a connection of consciousness, if you want to. We look at the things from the same perspective. It’s totally compatible. This goes into very granular details of management.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I researched a number of really quite astonishing organizations, which founders have a perspective -- sort of the new power perspective -- on the world that makes them, they simply cannot do traditional management. They simply cannot.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>What was interesting is that even though these different founders didn’t know of one another, what they ended up doing is often...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Remarkably similar.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Almost identical, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Simply because they’re downloading something that is interesting, ready to be...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...a vessel.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Exactly. In that sense, it’s very much compatible with Theory U. What I tried to do in the book is talk about concrete principles that are at play, but then go really into detail about, if you have an organization with 10,000 people and you have no, zero, boss-subordinate relationship.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What to do?</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>What to do? What is in the structure? Who can make what decision? Who gets a pay raise at the end of the day? Do you still have targets? Do you need to still have budgets?</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Be very pragmatic to show that this is no more rocket science. It’s not a pipe dream. There are organizations that do it, and we actually know how to do this now. There’s enough examples.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, this is like just rocket science now. [laughs]</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Exactly.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>SpaceX can do it.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>What is interesting is that in many ways, these practices are much simpler than our practices today.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course, because it makes use of fuller engagement of people. In the same amount of time, you can listen better.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Actually, our hierarchical systems are hugely complex. In many ways, they’re not very natural, so we spend enormous amounts of time navigating.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They’re only engaging with a little part of people anyway. Thank you. I really appreciate the excellent quality Chinese translation.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>How can you see that so quickly like that?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Huh?</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>How can you see so quickly that the translation is good? You barely picked up the book and you said this is a great translation. I’m just curious how you can sense that’s...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I read in batch mode. I just visually scan this and then flip to the next page, but I comprehend in a second pass. I just flip the book and have a visual memory of it, and then close the book for a while to do the comprehension.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>That’s amazing. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s just two different batches.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Is there one way that you could let me through the Oculus system to transfer that?</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Frederic Laloux">
+          <p>I would love to have that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s not &quot;Matrix.&quot; It is just not reading out anything aloud. It’s like engaging only with the visual part of the cortex, and then the read aloud part happens on the second batch. When I was a child, I love to read those classic literature Chinese texts.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They’re not meant to be read out loud. They’re not recording of voices in any way. They’re pure ideographs in a sense. They’re meant to be comprehended in a gestalt. That’s how I learned to read.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>The second pass, do you actually read it or do you have it memorized in your mind?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t have it internally memorized. I have a visual impression, and then the visual impression starts to turn into sounds and concepts in my mind.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>The Foreword to the book was written by -- I don’t know if they translated it here -- a guy called Ken Wilber. Are you familiar with Ken Wilber?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t think so.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I think you would be fascinated by this. Probably one of the most brilliant minds. He’s an American philosopher. I’ll send you the email with some references.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That would be great.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>He interviewed me. We did nearly a five, six-hour podcast around the book. I was wondering, he has this is massive knowledge just in his mind, like side references. When we did the interview, I just realized he knew the book better than I did.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>He has absolute photographic memory. He has read the book once, and he can cite any passage from it. I was like, this shit wasn’t fair. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Actually, with the right app, you can do the same thing.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Every part of that process is being automated now.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Let’s give this a last try and see whether the battery works, and then we’ll wrap up. Let’s see if this works.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>All right, here we go.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Is it working?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. I’d like you to put this on so you don’t have to hold it with your hand. This is for sound. This is the trigger and rotates things. Is it working? Do you see our planet?</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Yeah, it seems to be working.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You can look around. This is actually how our system is like at the moment.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Is this really the solar system right now?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. It’s astronomically correct. You can go to any planet and navigate the Earth.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>The difference in light between North and South America is crazy.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m going to just stand by you and read your book. Spend as much a time you want.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>We have to send Donald Trump to see the world from above.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Maybe Taiwan can help.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Well, there are more than one mayor candidates here who are interested in using the system to deliberate public architecture. I’m pretty sure Taiwan can help very shortly.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>I was just thinking, pay a trip for Trump to go and see the Earth from above.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you touch the trigger here, it’s the one that you can maybe circle around a planet and you can pull the trigger a couple of times to actually go there with your finger, like this one.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Now I clicked on Taipei, and now is showing me population.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, but if you look at other planets, you can use the trigger to...</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Power off. I think it’s...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, it’s powered off. At least we had a glance.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Yeah. Thank you. I liked it. That was a little bit of a historical moment for me.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>All right.</p>
+        </speech>
+        <speech by="#Frederic Laloux">
+          <p>Thank you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Thank you so much.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
