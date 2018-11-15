@@ -1,0 +1,1363 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Aurora Tsai" id="Aurora Tsai" showAs="Aurora Tsai">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Cindy Yang" id="Cindy Yang" showAs="Cindy Yang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Yun-Chen Chien" id="Yun-Chen Chien" showAs="Yun-Chen Chien">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-11-04 Conversation with Cindy Yang</heading>
+        <speech by="#Audrey Tang">
+          <p>Your first brush with civic tech was in Boston?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I was in Boston. I was starting my own non-profit. The non-profit was...</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Basically, in the US, people get new smartphones all the time. I was collecting used smartphones and redistributing them to the homeless, teaching them how to use smartphones.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>That’s how I got connected to the innovation arm at the mayor’s office. They’re called M-O-N-U-M, Mayor’s Office of New Urban Mechanics. A part of what they do is connect the government to private companies, and its citizens. Because I had my own non-profit, I could meet...</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Actually, anyone can meet with someone from the mayor’s office. You book it. It’s a public calendar. You book a meeting. They talk to you. They learn about what you need. They connect you to someone in the government.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Through that, I met some key people who ran the homeless programs in Boston. They helped me with my non-profit. That was very easy. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What was the name of your non-profit back then?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>It was called Mobilizr, but it’s now called GridRise.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Mobilizr.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Then we changed to targeting senior citizens because there’s so many issues with maintaining a relationship. A lot of people we were working with, we would never see them again. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. It’s more transactional in nature, almost.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>We were like, we need to build a relationship. We need to see that they’re changing their way of life. Senior citizens actually was the best fit for what we were doing. We got iPads put in senior homes and taught them how to use technology. In the end, that’s what the...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...opportunity enabling, potentially.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Yeah, empowering them. Other things that the mayor’s office did that I just learned about in class, so I took a class about this as well. They solved a lot of problems that the government couldn’t solve on their own, because they don’t have the technology or the developers or the right talent. They would create RFPs, and then different start-ups in Boston would take that RSP...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Respond to part of the RFPs. Is that competitional in the sense that only one group that would solve one at a time?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Yes. It’s a competition. A lot of things they tackled were very small problems, city-level problems, but very smart ways of solving it.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>One example is garbage collection, which sounds simple, but the way they used to collect garbage, which...I think Toronto does it the same way right now, is just someone goes around and collects the garbage with one route. It’s a fixed route.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>The problem is, Boston traffic can get very congested and you don’t know which garbage you should pick up first. They installed smart garbage bins, so they only pick up the garbage that’s at full capacity.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Then they figured out a way to do it with Waze, so they partnered with Waze. Have you seen this?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, I’ve seen it.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Then the garbage pickup trucks would not obstruct traffic.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Wow, that’s life-changing. [laughs]</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>It’s pretty cool stuff. I think it’s cool.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Cindy Yang">
+          <p>But it’s just collecting garbage.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I have a very good friend named Luke Closs. He co-founded a startup with a few colleagues... they’re all Canadian, called ReCollect. They use, again, mobile phone to send SMS and so on to notice people when to take the trash out. They also partner with a lot of cities to do the city-level messaging, because if anything, that’s the one thing that citizens will actually look at. [laughs]</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Yeah. Texting.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right, and also to remind people when to take out their recyclables and things like that, because just like in Taiwan they collect different things on different days. It’s called ReCollect.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Oh, I like that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think waste management is one of the most interesting things around.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Cindy Yang">
+          <p>I’m glad you like it too. The other thing I noticed...This is not government-related but when I was there, that was 2014 so it was a while ago, but a lot of the schools run boot camps about entrepreneurship. There’s definitely the hackathons that are weekend events. To me, it’s not long enough.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I participated in a lot of hackathons. I also ran some hackathons, and I find that you don’t have enough time to think through the problem, and then people aren’t learning the right tools. They don’t have enough time to learn how to solve a problem right and then they just rush everything and then at the end...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Our hackathons are three months long.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Oh, OK. Great.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We kind of abuse the term hackathon already. But yeah, go ahead. [laughs]</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I was going to suggest that you should do longer style boot camps. Then, for people like me, Taiwanese immigrants, I really care to help, I want to get involved, but I don’t know where to start. It would be very interesting if we could create boot camps and recruited, obviously, Taiwanese students in Taiwan, but also people of Taiwanese descent, maybe.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>You’d get a more diverse experience. A lot of people I know want to go back. They don’t know the opportunities, because they don’t have a network.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Toronto University has a Taiwanese studies program.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Studies?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A three-years program. One of our very good friend, Aaron Wytze, who was the one who caused all this conversation earlier, is going to meet for lunch.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s kind of interesting, because he used to work for the Foreign Office Canada as a dispatch to Taiwan, but after he shifted from Foreign Service to journalism he still very much cares about Taiwan. Instead of talking to government people, he now talks to g0v people as part of the correspondent -- the main correspondent, actually -- for the English g0v News project.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you go to g0v.news, that is our main outreach network for the civic tech networks. Last week in Italy they started a g0v.Italy. They started with exactly the inaugural project the Taiwan people started, which is a visualization of a budget and how people can respond to individual items of the budget to enable a conversation around specific items, instead of something abstract as a whole.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s really powerful. All the municipalities in Taiwan are on board with something like that, and so this message is really, really spreading.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s one very concrete way, if you would like to meet Aaron and be a correspondent.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Does he live here?</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>He’s studying in Toronto University.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>He’s studying at U of T or he works at U of T?</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>Study. He’s pursuing his master’s degree.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>His thesis is related to g0v, right?</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>I’m not sure.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Yun-Chen Chien">
+          <p>I’m not sure his topic, but I thought it’s more about international relationahips.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. That’s right. About the network of civic entrepreneurs, or however you call them.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I went to a different university in Canada. There’s a student chapter. It was a Taiwanese club, but they didn’t have information on how to connect back to Taiwanese government or anything like that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s more like a diaspora than anything.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>It was more for socializing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I know.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>It’d be great if all these different student clubs knew about these kinds of opportunities.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The g0v.news network is really interesting because everything is published bilingually. The focus is actually Aaron’s work and...It’s interesting. I don’t even know his English name.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>Jason Liu.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Jason. Thank you. [laughs] Jason’s work is respectively tried to frame something that’s innovative in Taiwan and bring it to a international audience, or to bring something that happens locally -- it could be around waste management, why not? -- that they think the Taiwanese people would be interested in, and also then bring it back.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s a lot of exchanges both ways.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I definitely need to meet Aaron, then.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re meeting for lunch, so if you don’t have anything for lunch.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>All day. [laughs] I have to check with my boyfriend, but for sure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>He’s local, so you don’t have to meet him today.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>It’s so great. I definitely have a lot of perspectives I saw abroad, Boston’s one example, or even in my travels that I don’t know where to share it or what to do with that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The easiest way is to have Aaron do a interview with you.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>It doesn’t have to be Aaron. You can write an article.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Really?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>And submit to g0v.news.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right. After the g0v Summit, which is this really huge event that we ran how many months ago...</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>...I didn’t say summit. I said submit. She can just write an article...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...I know, but I’m saying, after the Summit, there was...</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>When is the summit?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>October.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>It’s October, just passed. October 5th to 7th.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Last month, a few weeks ago.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What I was about to say is that after the summit there’s many people in Japan, and also other countries, but primarily Japan, actually. They post on their blogs, and things like that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Also, there’s someone from PRC, as well, who wrote up their experience engaging with the Taiwanese community. They submitted to Gov Zero News for syndication. It gets distributed quite widely.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>What’s PRC? Is that China?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>PRC being the politically neutral term to describe the People’s Republic of China government.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>It’s not Taiwan?</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>No.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>It’s China? Thanks.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>Taiwan is ROC.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I know. I’m always...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Taiwan is currently being governed by an entity that calls itself &quot;ROC&quot;, but yes. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t take sides or, rather, I take all the sides, which is why I always use unambiguous terms. Like when I say &quot;China&quot; people have different imaginations, but if I say &quot;PRC&quot; I mean specifically PRC.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I saw that you also manage the center of innovation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Social Innovation Lab. That’s right.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>How is that going? Is there a lot of...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Thousands of activities.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>You guys are very active.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We actually meet there almost every Wednesday evening for dinner. Pizza, and so on.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is how it looks like. This is my office. You see it in my slides or talks. Sometimes there’s self-driving tricycles roaming around.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The rule is very simple. If you have any activity -- there’s huge amount of activities -- that you can say what impact are you going to make on any of the Sustainable Development Goals, then the lab is available for you for free.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The idea, very simply put, is that we want to cross-pollinate as much as possible. Our lady, like people who are data scientists and also work for gender equality, they can tick two SDG boxes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We make sure that there’s many concurrent events happening at the same time so people discover each other. We also encourage recurring events, like the vTaiwan Meetup, who is always every Wednesday, every 7:00 until 9:00 PM.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because the space opens until 11:00 PM every night, after events people mingle. There’s a resident chef. There’s good food. People can enjoy this atmosphere, very much like what you describe in Boston.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I also have a office hour. Wednesday from 10:00 AM to 10:00 PM everybody can talk to me, provided they agree to this radical transparency arrangement.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s really going well, mostly because the space, itself, is co-created by social innovators. They’re not government designed. The soccer field you see is designed by a large charity that works with people with Down syndrome. Charity are brilliant artists, so they turned their art into public installations, and so on.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You really feel the vibe of innovation when you walk into the space. Starting next year we’re going to expand out to the rest of Taiwan, as well. Taichung has already started. Taoyuan, as well.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I have a few follow-up questions on the groups that get involved. You said they’re not government actors. They’re small groups, individual people. How do they know what the biggest problems are, or is it what they see and experience and decide this is the problem they want to solve?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s a great question. Ideally, they would self-organize, but for people who are really looking, like just entering the field, we have a annual summit called the Asia Pacific Social Enterprise Summit, which is not the Gov Zero Summit.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>G0v is more, I would say, civic tech as its core, but with civic media, with activists, and all the social innovators at a perimeter, but with the open innovation as its core to hold everybody together. The Social Enterprise Summit takes a different end goal. It takes the sustainability of business model as the main thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It depends on the first question to ask. In g0v people always ask is your idea published somewhere? Have you written it up? Would you like to submit to the g0v News? Exactly the first questions you asked. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What would you have to share? That’s the first question g0v people asks, but in the Social Enterprise Summit and the related circles the first question is...</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>How do you survive? [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. How do you survive? What’s your sustainability plan, and how do you tie into the larger ecosystem? Are you mostly relying on CSR or are you doing business development? Is your income sources all grants or has it embedded into the supply chain?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s a different conversation. There’s many people overlapping, though, but under the umbrella of social innovation. The civic tech side and social enterprise side are just now slowly converging so that they can see each other eye to eye.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This year’s g0v Summit has a much more than before emphasis on inclusivity and the people with disabilities, people with different social/environmental needs.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s even a agricultural co-op that share their year, or something like that, and how they use sustainable farming methods to work on agricultural lands without destroying the renewability of the land, which doesn’t used to be the mainstream g0v civic tech message, but right now it’s, as of this year, starting to be one of the main messages to connect back to the land and to the solidarity of the people.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Some new themes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m sure Yun-Chen can talk more about this idea, because it’s shepherded by the grant process. Without a grant process people won’t discover the problem. The way you described it, people would just work on whatever they want to work on, but the focusing funnel of the grant process, that’s the main innovation that gov zero people has introduced, and then I get to eat something.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>Sorry, you go eat.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>No, that reminds of -- it’s different, but -- at Stanford, the design school, they have this program. It’s a fellowship that people apply to. They also choose different themes every year. Sometimes, the themes are the same, but they are very specific on, &quot;We’re looking for people who are trying to improve education.&quot; Or something like that, so they gather like-minded people together.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Then usually it’s about someone who’s already made some progress in their business or the idea, which I also really like. It’s more about taking something that’s already a good idea, but scaling it to maximum impact.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>This year, g0v’s, the original theme is open source civic ecosystem. In Taiwan so far, it’s that we have very good engineers. We’ve got very good ideas, but we have very few fundings and very few people can take civic tech as their profession.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Why is that?</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>Why is that? First of all, in Taiwan the NGOs that can afford an engineering team in-house are...not an engineering team, one engineer is already very few.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s very M-shaped. In Taiwan, there’s a few really huge non-profits, like Tzu-Chi.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>They are not technology focused.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Well, they do work on technologies. There is simply just a huge number of small NGOs, which cannot afford...</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>Could not afford an engineer or something like that. The g0v grant is a very small amount, but it’s a start.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>It’s around USD$10,000 to USD$15,000 for one team for six months. Just to support them to grow into a bigger idea. Then, now we have almost finished our third round, and we realize that to push the project further, after the first round, you need to find someone to take over the second round.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>Just like a VC process, you give the seed round, and then you need to find someone for the next round. Also, we try to have some fellowship in Taiwan as well, but so far there’s no process but so many different fellowships in the world.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>For example, Code for America and Code for Australia and Pakistan, they have fellowships that are sending experts into the government. We are looking for that opportunities in Taiwan as well.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>That’s great.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>Also, looking for international fundings, because local fundings doesn’t realize that the civic tech is very worth to invest in. Also, I think in Taiwan, I think at this moment, we haven’t bring the sustainability models to the civic tech people together.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, that’s what the civic tech people can really learn from the social enterprise’s circle. That’s all their focus.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>Like my project right now, that is we are taking government funding, and we don’t know if we can take that funding next year. Our sustainable model is quite questionable at this point.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>For sure. I think that’s definitely one of the shortcomings I saw, too, when I was in Boston. Maybe it’s a little different, but there’s a lot of interesting academic projects going on. Because I was a little different, I came from a business perspective; I went to school for business and worked at multiple companies.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I mostly think, actually, in terms of: how would you run this business? I was frustrated seeing a lot of academic projects because, to me, I just didn’t know how would you create it as a product.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>How did you think, like New York, there are some like the civic hall, they are incubating some civic tech start-ups. What’s your opinion on them?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Actually, I think that is a little bit more accelerator-minded. They tend to find a startup team with different skill sets. Whereas I found that in pure academia, it was more -- not always, but for me -- what I saw is more like-minded skill set people.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>To me, cross-functional teams, that’s the strength, and having someone like a product manager, or CEO role, that would be their job, is how do I find a consumer? How do I create, now, a revenue model, etc.?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I think it’s really important, because I saw a lot of people who either think revenue is bad, charging money is bad. &quot;Because I’m doing something for good, it should be free.&quot; There needs to be a balance.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re totally fixing that view in Taiwan, that economical sustainability is nothing to be ashamed of. It’s right here with social and environmental sustainability.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I don’t know if you guys have heard of Scratch?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course, I met him over teleconference in an event and had a...</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Oh, Mitch Resnick?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We had a conversation.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Mitch Resnick. I did an internship as part of MIT Media Lab. I saw a little bit of what their teams did. That was one of the more, I think, phenomenas where they didn’t really plan for it to grow so quickly and latch on, but they were able to key into something.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Which was that teachers were scared to teach coding, because most of them didn’t really know how to code. They’ve created something that teachers can learn and feel confident in teaching.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I think that was a product-market fit that was just the perfect mix. A lot of times, products don’t have that organically, the perfect fit. You need someone to explore intentionally, and then maybe adjust the product or find a different market, and grow it from there.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>How is this Scratch team funded, though?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Lego is one of the primary sponsors. I believe it’s called also the Lego Lab.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What’s in it for Lego?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I don’t know.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>OK.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Actually, I think Scratch in particular, I’m not sure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Lego has its own thing going, the Mindstorm thing, right?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Yes. I was going to say, Mitch and I think other people of that lab have made Mindstorms, and other more directly Lego-related products. I believe Scratch maybe was inspired as well, because block-based programming, it’s Lego blocks.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh. [laughs]</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I’m not sure what the benefit is, otherwise. I think it’s just philanthropy.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK. Yeah, now that I think about it, the way the blocks in Scratch fits, it looks a little bit like Lego blocks, so maybe it’s product placement.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>There’s definitely a correlation. No.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>I’m just kidding, for the record.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Actually, I think that the benefit is that Lego is an educational toy, so it’s all about supporting STEM and those things, which are very popular in these days.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think the Scratch team is now focusing on making the experience actually bearable on iPad, because the old, Flash-based model doesn’t work.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Scratch Junior, you mean?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>The app?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Actually, I think they’re working on version three or something like that, which is not an app. It’s just a native web page that also works really well on iPad. I am really looking forward to that because I think smaller screens in ed tech, smaller screens, they really distract children.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Anything that has a larger screen, I think, has a much higher chance of actually teaching social skills, whilst using the screen as interactive medium, because two people can look at it at the same time. That’s what I mean.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>There’s co-play. Hopefully, the kids can actually, because the problem with children, especially someone who’s five or under, their fingers are not very precise. You need a large touch area, or they get really frustrated.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>At which age do they use Apple pencil?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Apple pencil. I think they need to first know how to hold an object, so probably more grade one, two.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Seven?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Right now, I don’t know if you know this, but I’m currently creating apps for babies.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I know, yeah. I’ve checked them out. They look awesome.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Oh, really?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You’re the product manager?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Yeah, Sago mini. It’s actually right around the corner.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>&quot;Award-winning.&quot;</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Oh, that’s a marketing thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>&quot;Choice of parents.&quot; [laughs]</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Oh, that’s embarrassing, but yeah. It was influenced by Apple, but we recently added an AR feature. I found that to be very tough, because four-year-olds don’t understand AR.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right, I was about to say. They’re still in the transitional space in their mind, anyway.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>They don’t yet know what’s supposed to be in reality.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Reality.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Exactly, so they think when they see through the camera, it’s there, and they don’t understand that that’s an effect in place. The other thing is, they don’t always hold the tablet properly, because theyir hands are small. A lot of times, a tablet is face down on the table.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>My nephew is three-and-a-half. I know exactly what you’re talking about. [laughs]</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>This all goes back to product-market fit.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Cindy Yang">
+          <p>Just because the technology exists, you need to understand the need for it, and what the audience is gaining from it. Is the audience ready to use it? Just as I found as well for smartphones, for different spectrums of homelessness, there’s different needs, and a different mental capacity.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Basically, what can they do with a smartphone at that stage in their life? That’s what I realized very quickly. I had this dream of, &quot;Oh, once you have a smartphone, you can write your resume on there, and apply to jobs through it.&quot;</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>A lot of people are not ready for that. A lot of people, even just watching YouTube videos, that helps them feel normal. That was step one.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Very much so.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I was very changed by that experience.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think the MIT Solve -- I think that’s the name, Solve, as in solution -- partnered with what they call the Digital Superhero Academy in Thailand.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They thought they wanted something interactive, and as it turns out, just getting social workers to record essential life skills with good, local cultural awareness and narrative, and make the people who are part of a disadvantaged group feel that they can watch it, and bring something useful to their community, that’s actually what they want. Nothing overly interactive, just appropriately designed for their particular use case.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I wish I could do more of that in my everyday life, which is parking my own bias aside, and then getting in touch with more different groups of people, and understanding they think differently from me. Their needs are not the same.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>When they wake up, they’re thinking of other things, like, &quot;Do I have a shelter for my kid to live in next month?&quot; Once you can empathize, it changes the conversation you’d have.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>And of course, what I can do for them, or what they can teach me.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Have you received any ethnography training, or...</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Not traditional ethnography, but I’ve done a lot of design thinking workshops, which is more about...From IDEO, that kind of framework.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Our office is heavily influenced by the IDEO mindset. We have people from CIID doing interaction design, we have people from RCA doing service design. It’s all design thinking based.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think ethnography is unique though, it’s not just design thinking. Design thinking uses that as one of user survey or personal creating methodologies, but the method itself comes from cultural anthropology, which takes a very non-solution view, a more immersive view on things.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There are g0v contributors who are not part of our office proper, but they use ethnographic methodologies. I’m pretty sure MG Lee used that as her paper, her thesis. She basically is in cultural anthropology, and studies g0v, using ethnographic methods, by immersing herself into the g0v community, and then writing something about it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We have also worked with Yu-Shan Tseng, a human geographer. Which is again, exactly like cultural anthropology, except focusing on space instead of people. It’s this at the center. She studies space and the interactions enabled by the social fabric and the social infrastructure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>As if the space itself is alive, and people are just its inhabitants. Still, like she does ethnography on the Social Innovations Lab as its subject.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>And the spaces in there.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. Both processes, I think, have taught me, personally, a lot. Well, I’m their subject, their field research subject, but I really learned a lot about how to kind of step into somebody’s shoes, and just put all your existing bias aside, using those methodologies.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I never thought about the space, but that makes a lot of sense. Even recently, I was thinking about food, and how food is a reflection of your culture and your history. That could be a way of people don’t know a lot about cultures. I was thinking, food is the common thing that, or usually, the first contact people have.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Say Mexican or Korean food. For people in Toronto, that’s their first contact with Korea etc. I was thinking, how could you use that first experience to introduce someone to even deeper cultural significance, or get them interested in that culture? This space is a new one that I thought of.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s a museum here that’s shaped like a shoe?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Bata Shoe Museum.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, I think one of the contributors to that from Taiwan brought a 藍白拖, a blue-white slipper. I think, is that the right English translation? Slipper. That’s just very simple. It’s better with the visuals, but it’s kind of like bubble tea. It’s Taiwan national identity outfit.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>It is, yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Shoes are easier to transport than food and easier to get everybody to try on... Like literally step into each other’s shoes.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I like that analogy.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s also space, in a sense, because it’s close to your body. Something along that line would be very interesting for an intercultural conversation.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I just want to talk a little bit about funding, and about funding issues. There’s two things. One is, have you connected a lot of the different groups, whether it’s social enterprise, or the civic tech groups to, I guess, more traditional...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>VCs?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Just private companies. The HTCs of the world, that kind of companies.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, yes.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Are they interested in funding?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What we’re asking now is, starting next year, they all have their CSR reports.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>By the new Company Act of Taiwan, they have all the obligation to declare it publicly, no matter their capital size, as long as they’re publicly listed. What we’re going to ask them is to use the SDG index, to index their work.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It could be overseas, it could be in Taiwan, it doesn’t matter. We want to know how many HTCs of the world are doing no polity? How many are doing plastic waste management of the marine species, and things like that?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We can put it on a map, visually, and let the people who are working on civic tech or social entrepreneurship to discover them without a lot of overhead. At the moment, it’s not that they’re not interested, it’s just the overhead of talking individually to patrons or collaboratives.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’ll be very frank here, and say to talk to traditional Taiwan grant makers from the government, or from the older generation of manufacturing or hardware communities, the better you are at pitching to them, the worse you are at pitching to Y Combinator or any of those international outfit. It’s almost diametrically opposite.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s very different language, very different thinking, very different values. There’s no right or wrong, because OEM, ODM, semiconductor, these are Taiwan’s core economic supply chain lines, value chain lines. If you talk in that language, it’s very easy to get funding actually.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then this whole, maximizing impact, triple bottom line, all this.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Where social capital doesn’t mean much.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Social capital, it doesn’t mean much. You almost have to create two slides, which someone has a lot of experience of. [laughs]</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Pitching to different audiences.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, pitching to that more ODM, OEM generation and pitching to the more SDGS generation. What we are now doing, instead of pitching individually, to put everybody’s goals and concerns on the same map, and also working with universities, which all now receive funding from the Ministry of Education and what we call universities, social responsibility or USR programs.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Which again will be SDG-indexed, so that their students can work as part of their capstone projects -- I’m sure you have those here, too -- to do social entrepreneurship and solve a social or environmental problem as part of their learning.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because of that, their parents are easier to understand this. First, it’s not really entrepreneurship. There’s no failure. There’s just paper published about the actual experience of what’s working, what’s not. The parents can accept this much easier.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If we start earlier in the process, then people build a network so that actually, when they become entrepreneurs, they know exactly who to look and what CSR resources to use, and BD resource to use. It starts when people are 18 is our work in the past couple years.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>From next September onward, we’re going to start from 15, that is to say, senior high.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Wow, I like that a lot. I have so many thoughts to share. It’s not really a high school, but there is another school in Boston called NuVu studio. It’s immersive in the sense that all day, the students just create a product or something completely innovative and different, that is very practical.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Not theory-based at all, and they start very early as well. I know that there’s a lot of curriculum changes happening in San Francisco. I haven’t seen one that’s, &quot;This is the best idea. This is the best solution,&quot; but I could see that there’s already a lot of experimentation in open-ended learning, or project-based learning.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>PBL, yeah.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I’ve seen the shortcomings as well, which is it’s hard to have a consistent quality of experience. I’m excited towards that kind of education, for sure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Why is consistency important to you?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>It depends on your age. For example, Montessori, so Maria Montessori, right? It’s all about letting the child guide their experience. Then the teacher is the facilitator. I think that at that age, it’s very important to foster the sense of curiosity, mastery, and independence for the kid to feel confident and brave approaching things they’re not familiar with.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I think that will have an impact on the rest of their lives. To me, we still live in today’s society. I still think we need some math foundation.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>You still need to know the basics of mathematics to function in a society. My fear with completely open-ended is, what if you somehow, it is possible that you skip any exposure to math?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In Taiwan, we allow up to 10 percent of the total population of students to be alternatively educated. We’re by far the most open in terms of curriculum in the entire Asia. There are Montessori systems that goes all the way to high school. There is also a lot of Waldorfschule. I’m sure you know that German idea. That’s also from kindergarten...</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Yeah, and Reggio...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>All the major thoughts of education, you can find experimental schools in Taiwan running that, because the law not only allow it, it really encourage them. It’s been like that for 10 years now.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Frankly speaking, a large number of them, exactly around the age when to student has to integrate back to the society, around the age 18-ish. Some of them actually do really well.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>When we do the new curriculum -- which would take effect next September, and I’m one of the committee member -- we took what worked in the experimental education system, and incorporated it back to the national curriculum, into basic education. Yeah, the three pillars, I think we really worked.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s autonomy which is this curiosity-based learning. It’s interaction, which is critical thinking, media literacy, and talking with people who are very different from you in background. Finally, the common good.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That is to say, see people not as means, but as their own subjects with values that we can co-create, intersubjectivity and all that. With these as our new education goal, we don’t focus on skills that much anymore, or on competition within preexisting tracks.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It brings us to a more Scandinavian education methodology or philosophy, which really sets us apart in East Asia.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I think that’s great.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Next September, it’s the first grade of primary, the first grade of senior high, the first grade of junior high is going to roll out a new curriculum, and we’ll see how that works with the rest of society. The science are really good, because then we changed the undergrad system also.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>By the time they are 18, they can enroll in any of the schools, but they don’t have to stick with one department for four years, or six years. They can study for a couple years, get a semi-baccalaureate, go and do anything, and go back to a different school, to a different major, to do whatever.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The idea of major will disappear. By the time, you can work on capstone project for six or eight years, and by the end of it, it’s just a lot of accomplishment unlocked, it’s like badge, a skill tree. After which, you can go to do a PhD, if you feel like.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s a really big change, but exactly as you said, if people decide to skip math altogether, even when they’re 18, that is actually one of the intentions of the experimental school and the basic education, which is why we didn’t quite incorporate that in. There is still mandatory math and language acquisition structures.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>To be honest, if you to really have those values in place, I think you will be exposed to language and math because you need language and math to solve problems and to build things.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, yeah.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I think it’s just people are scared of change. You have to bring evidence.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>On the other hand, if people start learning arithmetic when they’re 20 years old, they can still learn it, right? It’s not rocket science.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>That’s why I think the values part is the most important part. If you believe you can learn it, then you will learn it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. If people feel paralyzed, learned helplessness, and so on.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Even today, when I share some data analysis with my co-workers, a lot of them will just say, &quot;I’m not good at math.&quot; That always bothers me, because it’s not a fixed reality. You need to first change your perspective, to then be able to improve on something.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s a word for it. It’s called numeracy, right? Like data literacy, but before data literacy, numeracy.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>You have to understand that it’s a language, and you can learn any language. Awesome.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s not even a large language. The vocabulary is very small.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Currently, I’m looking to start my own business. Starting next year, I’m still working my job, but I think taking off one day a week to start my business.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, really? Cool.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I was actually looking at Taiwan. I was going to try to disrupt education in Taiwan. That’s when I realized the education in Taiwan is very good, so that’s not a good place for me.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Oh, yeah.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>My focus is preschool. I learned that Taiwan has universal preschool. And the quality of the preschool is one of the best in Asia.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>So there isn’t much opportunity for me.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re going to make it super affordable, so you cannot even disrupt the payment system.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Cindy Yang">
+          <p>Yeah, so I will try disrupting something in North America instead. It’s still a problem here. Affordability is a huge problem. In the US, it’s even worse, because once you have a child, you can only take 3 months mat leave. I don’t know how to say it in Chinese, but maternity leave?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure, yes.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>For three months.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, I know. Totally not Scandinavian.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>It’s the same in Taiwan.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>It’s better in Canada. Is it three months in Taiwan?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Here, in Canada, it’s one year. Justin Trudeau, the Prime Minister, just made it 18 months.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>Wow.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Optional, one and a half years.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>Paternal leave as well?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Paternity leave is shorter, but I think you can trade now. It depends.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re working on that in Taiwan, as well. I think it’s really progressive for Canada to extend this.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Parental leaves are good for the economy. If you’re forced to quit your job, it becomes harder to return to the workforce, and all these other issues.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We rolled out, back in 2015, teleworking for that purpose, but not all job posts can be teleworked. So, exactly.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>My business idea is for the moms who have to stay at home, for different reasons, either because they make less than the daycare cost. That’s one huge reason. Daycare right now is very expensive.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>For someone who has a one-year-old child, it can be, it really depends on what school you choose, but it could be a couple thousand a month. My rent is only $1,600 a month. It’s more than rent.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>How would you like to disrupt this?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Yes, sorry. For these moms who have a very hard decision to make, I want to give them a new choice, a third option, which is the option to start a turn-key business. Essentially, it will be a &quot;start a preschool&quot; kit.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, wow.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>You can stay at home, take care of your kid, start a business by taking on some other people’s kids, for one or two years. What’s great about it is now they have more work experience on their resume. So hopefully, they can get a better job afterwards.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Or, like you said with the entrepreneurship programs, now they have the experience to run another small business.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, and they have to do it anyway.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Exactly, that’s the thing, is they have to stay at home anyway, to take care of their kid. Why not get experience, make money, and then in two years you can hopefully get an even better opportunity. That’s what I’m working on right now.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s an excellent idea.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Oh, thank you. Back to product-market fit, I’m in the user research phase right now, looking for the right kind of parent who is in this kind of situation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Taiwan is probably not the best market for this. [laughs] It’s too affordable.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>It’s definitely more targeted to North America.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Similar to what you were saying with Asian parents, my dad is very against me starting a business. [laughs] Also, when I worked at McKinsey, he was already very upset that I left McKinsey to a smaller company.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If people worked mostly in capital-intensive industries, they think start a business and think experiment and fail and lose a lot of money.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Nowadays with this kind of social entrepreneurship, it actually doesn’t cost much to start a new idea. It’s not like building a new factory. Also, sometime it even costs you negative. There’s negative cost. [laughs] People pay you to start a new enterprise.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Right, because they need...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>All through crowdfunding or in Taiwan, security token offering [laughs] and things like that. STOs, they’re huge in Taiwan. People just randomly start a security token offering, and they get the funding they need for social change. That is also actually a community that I think the civic tech community is just barely overlapping.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>These people, the blockchain people, they are really good at designing incentives.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Yeah.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Cindy Yang">
+          <p>Oh, blockchain. Very popular here, too.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I’m really glad we had this talk. I just felt disconnected. I’ve wanted to find groups that are, like me, on the inside. To me, living a successful life is having a positive impact on society.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I think the more that you can find people all over the world who feel the same way, you realize you’re not alone. [laughs] You’re not crazy.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. If you go to join.g0v.tw, you’ll find thousands of people.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>Do you have name card?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, my gosh. I’m sorry. I don’t. [laughs]</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>No, it’s fine.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>I don’t have name.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I’ll pass my...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Uh-huh.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>Are you still heading to Ottawa later?</p>
+        </speech>
+        <speech by="#Aurora Tsai">
+          <p>Ottawa.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Oh, Ottawa? No, actually, I wasn’t going to Ottawa. I was going to see you guys. That’s why.</p>
+        </speech>
+        <speech by="#Aurora Tsai">
+          <p>Oh.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I wasn’t going to Ottawa, but it’s not hard to get there, because we have a train system. You came from Ottawa, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, we just arrived last night.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>Last night.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Oh, you’re going to love Ottawa.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>You were our first meeting. [laughs]</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Oh, my gosh. Welcome to Canada.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, literally.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Oh, my gosh, OK.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Part of our delegate will stay here. Fang-Jui will stay here.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>If you can leave your email here, I can email you g0v news, or if you’d like to join g0v.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>And meet Aaron. [laughs]</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Yes, I need to meet this person.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Really? It’s all relative. Here, my Chinese is good, but not in Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>[laughs]</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Some of them stay in Toronto?</p>
+        </speech>
+        <speech by="#Aurora Tsai">
+          <p>Only Fang.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Fang-Jui Chang is staying in Toronto.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Aaron, of course, is based here. The two of them will be still around.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I can take them around if they’re bored. [laughs]</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>Thoughtful. Very kind of you.</p>
+        </speech>
+        <speech by="#Aurora Tsai">
+          <p>Fang is our consultant of service design.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I love service design.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Yun-Chen Chien">
+          <p>I’m just adding details in case I forgot who you are.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>It’s OK. [laughs] I’ll remind you.</p>
+        </speech>
+        <speech by="#Aurora Tsai">
+          <p>Fang is now working with the workshop materials. She’s designing with another friend, Alex, and thinking perhaps switching the subject or topics that attendees would like to touch in the workshop.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re running a two-day workshop.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>In Toronto?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In Toronto, on the g0v vTaiwan project’s methods and participatory office methods.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>The group in Toronto’s very new. Our current mayor used to run a business, so he brought a lot of change to Toronto. He started the first civic innovation group in the mayor’s office. This team is only maybe two years old.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>Is there a distinct line in between liberal parties, conservative groups?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Is it partisan?</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Yun-Chen Chien">
+          <p>We’re just learning background information.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I believe US and Canadian politics are different. In the US, you tend to vote for the individual candidate. Here in Canada, we vote for the party.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Honestly, if you put it US and Canada on a spectrum, Canadian beliefs lean a lot more left. We lean a lot more socialist. Even our Conservative party, which is more about cutting taxes and capitalism, [laughs] it’s still more on the Democratic side for the US. I’m not sure if you’re familiar with the US.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>They’re a lot more extreme than we are. [laughs] We have a lot more taxation here. I think, as a Canadian, our upbringing encourages fundamentally different values. You understand that the taxation is for the greater good. It’s more European.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Taiwan is like that, but it’s Taiwan before martial law was lifted. It’s directly the opposite. We do have a intergenerational value reconciliation issue in Taiwan also. I still remember the martial law. When I was in the first grade, the martial law was still in effect. It was lifted when I was in the second grade.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The tone of education is very different. During the martial law era, which run for three decades or something, it is very authoritarian. People are taught that it’s not really for the social good, like for the good of the neighbors, but rather for the prosperity of the authoritarian nation, which is not dissimilar to what PRC is currently telling its people.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>After, of course, the martial is lifted and...</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>It’s more democratic.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...wildly democratic and directly, like the president, then we’ve been much more Democratic-leaning. Now with Dr. Tsai Ing-wen, of course, it’s a feminist [laughs] government in Taiwan also, and utterly democratic.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I think it’s critical. [laughs] At the city level, it’s not really about political values as much. It’s more about improving the city. I don’t know if you guys have seen any Toronto news, but we won this bid for Smart City with the Alphabet Group’s Sidewalk Labs.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>They’re building a smart city from scratch on the east end of the city. Right now, no one lives there. It’s not used.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Wow, bootstrapping. [laughs]</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I think they wanted a city that’s a good size. Sidewalk Labs is based in New York, so it’s also very close for them. Also, it’s important that government is very cooperative. They’re very much looking forward to that.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Toronto’s becoming more and more a destination for tech people.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, yeah.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I don’t know if you know this, but Canada deals with, historically, with what we call &quot;brain drain&quot;...</p>
+        </speech>
+        <speech by="#Aurora Tsai">
+          <p>We had the same...</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>...which I think Taiwan definitely has.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We know how it feels like. [laughs]</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Yeah, I can see that. My whole family immigrated, so I definitely see that. In the Canadian brain drain, our top programming talent completes co-ops in San Francisco. It’s very hard to compete with [laughs] the Facebook or those kinds of...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Getting easier nowadays. [laughs]</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I think there’s more tech opportunities in Toronto now.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Our biggest success in the last five years is Shopify. It was very important that they chose to stay in Canada. Slack was a Canadians start-up as well, but they moved to San Francisco. [laughs] I think a lot of Canadians understand you have to move to San Francisco, because of the network, the benefits are there, the VCs are there.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>That being said, more and more, Toronto is being more of a hub.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>This is important for putting us in the context. Tomorrow, we’re going to have the workshop, and it’s good for us to know...</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>How it’s changing.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>...what people are thinking.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>The changes are exciting. There’s definitely still a lot of tension. All cities have these kinds of tension, like public transport is still bad. Those kinds of things can always get better.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Our previous mayor had a lot of issues, [laughs] corruption and those kinds of issues. That accountability from the city, or even all levels of government, that’s still something we can all work on.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I know that they publish open data. Like you said, Taiwan has the budget publicized. But to be honest, I’m not sure how many people look at this data, [laughs] just things like that.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>It’s true.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>How well is it integrated with their journalistic pipeline? If the city government publish a press release, does it link back to the evidence? It’s the little things, but it’s those things that count.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>For sure. Another thing that has been a shining light for Toronto recently is the chief city planner, Jennifer Keesmaat, she recently ran for mayor. She was a leading force. We have a lot of wasted areas that are not very pedestrian-friendly. It’s a lot of places under the highways. It’s called the underpass.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Owned by the city?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Yeah, it’s public property. She helped revamp these spaces so they could be used by the public. Now, several different underpasses display artwork. It’s not really graffiti. When you walk around Toronto, you’ll see there’s a lot of street art now that is very well done.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s great.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>There’s that, and they made it into a skating rink.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Ooh.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Yeah, it’s cold here. It’s just a very long skating rink that you.</p>
+        </speech>
+        <speech by="#Yun-Chen Chien">
+          <p>That’s quite creative.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Wow, that’s super creative.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>That’s something that’s good. [laughs] Another good thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Definitely, yeah.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>You’ll find similar issues that all cities face.</p>
+        </speech>
+        <speech by="#Aurora Tsai">
+          <p>I guess Toronto is changing toward a better side. Don’t you think that’s exciting?</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Also, that’s my perspective [laughs] as someone living Downtown Toronto, this age bracket, 30, and I have a job.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Cindy Yang">
+          <p>Someone else in another situation might not feel the same as I do...We also have increasing crime, increasing homelessness. [laughs] Definitely, bigger social issues are not being solved. People are turning a blind eye, but you know when you get desensitized because you see it all the time?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I read a report that says the Canadian government, the federal one doesn’t quite use the Sustainable Development Goals to index these social issues, perhaps because the previous version, the Millennium Development Goals...</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Yeah, MDGs.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...was seen more as a developing world thing. Canada is providing help for sure, but surely Canada doesn’t have those problems. [laughs] I don’t know how the SDGs are being viewed now in the public.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I haven’t really heard much about that here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. That’s what Aaron told me as well.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I’m excited for you guys. I’m sorry I can’t attend. I won’t be able to.</p>
+        </speech>
+        <speech by="#Aurora Tsai">
+          <p>That’s all right. We’re learning from you a lot this morning.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Cindy Yang">
+          <p>I feel bad...</p>
+        </speech>
+        <speech by="#Aurora Tsai">
+          <p>It’s good to know about Toronto in Canada just by chatting with you.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>I’m trying to think. It’s funny, because I never intentionally study Toronto.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Cindy Yang">
+          <p>I always study other places. I just live here [laughs] ...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right, it’s your hometown. [laughs]</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>...so I don’t really think of it as a subject.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK, cool.</p>
+        </speech>
+        <speech by="#Aurora Tsai">
+          <p>Cool. Thank you for taking the time.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, thank you for making the time.</p>
+        </speech>
+        <speech by="#Cindy Yang">
+          <p>Of course.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’ll make a transcript. We will not publish right away; please feel free to edit for 10 days.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
