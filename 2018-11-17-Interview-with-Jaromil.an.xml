@@ -1,0 +1,139 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Cameraman" id="Cameraman" showAs="Cameraman">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Jaromil" id="Jaromil" showAs="Jaromil">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-11-17 Interview with Jaromil</heading>
+        <speech by="#Audrey Tang">
+          <p>...let’s start again.</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>Hi, everyone! I am in Taipei with all the Dyne.org crew.</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>We are the lucky guests of the conference on the intelligent urban fabric.</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>I have the honor to be here with the Digital Minister of Taiwan: Audrey.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes! I’m Audrey Tang. I’m a poetician -- I write poems.</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>We are... [laughs] That’s very unpredictable and fantastic.</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>You remind me of our friend, Birgitta Jónsdóttir, that is also a great poet, and a great minister as well...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...and also anarchist.</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>...also anarchist, fantastic.</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>Basically, I am here to ask you about the platform that we run, Algorithmic Sovereignty Observatory in Europe.</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>What is the impact that you see in your work, and on the society of Taiwan, of algorithms?</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>The most powerful impact that they have, and what can be fixed? What can be improved?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For the sake of brevity, I’m just going say &quot;code&quot;, but when I say &quot;code&quot;, please think &quot;algorithm&quot;.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Code is having a large impact, of course, because code is like law, but it’s not a law of text. It is a law of physics.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In cyberspace, code determine what can happen, what cannot happen; what is transparent, what is opaque; and things like that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It establish a normativity that is legal by design, just like physics. You cannot violate a physics law, because it’s just not possible, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This basically has a different position than a text-based normativity, where you can do something -- it may or may not be illegal -- depending on the interpretation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The impact is having a pre-set boundary that is either agreed by the social norm, which is a positive impact; or it’s set by a few people, which is a negative social impact.</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>That’s a fantastic suggestion. Also, should we talk about code? What is the difference between code and algorithms?</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>Code sometimes is a little bit more boilerplate, no? Algorithm is at the core, like how does it function.</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>I’m curious, why do you shift it to code?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>First, because &quot;code&quot; and &quot;text&quot; are both one syllable. In a poet’s words, they rhyme better.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>As for algorithms, it’s very difficult to rhyme &quot;algorithm&quot; with any other word... &quot;Anarchism&quot;, I think, rhymes with &quot;algorithm&quot;.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In any case, yes, the algorithm, of course, is the spirit that imbues itself in the code.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>So when I say &quot;code&quot;, think &quot;algorithm&quot;, but what affects people is a manifestation of the algorithm, which is the code.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They are two: In the spirit, it’s algorithm. In the flesh, it’s code.</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>So it’s very much like law?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes, and like other spiritual beings. [laughs]</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>Hopefully, law experts that are watching us understand the nuance and understand how valuable is this transfer...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...well, the legal hermeneutics evolved from the spiritual hermeneutics, so they totally understand.</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>Fantastic, and you totally understand how to speak to Europeans.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes. [laughs]</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>I think you are very lucky here in Taiwan to have the legacy that you are creating. There is a government that is very enlightened. You are very young in spirit, in mind, but also...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...totally non-partisan. Post-partisan.</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>....and very dynamic. I hope that in Europe, we see more and more hackers that can actually shape and relate to the new generations.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>To fork the democracy.</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>Yes. [laughs] We are working on it.</p>
+        </speech>
+        <speech by="#Jaromil">
+          <p>Thank you very much, Audrey.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Thank you so much. Cheers.</p>
+        </speech>
+        <speech by="#Cameraman">
+          <p>That is the best definition of algorithmic platonism I’ve ever heard.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
