@@ -7,7 +7,7 @@ my %names;
 while (<>) {
     utf8::decode($_);
     next if /^\s*$/;
-    next if /crosstalk/;
+    next if /[\(\[]crosstalk[\)\]]/;
     if (/((?:\s\w\.|[-'\w ]+)*):/) {
         my $n = $1;
         if ($n =~ / /) {
