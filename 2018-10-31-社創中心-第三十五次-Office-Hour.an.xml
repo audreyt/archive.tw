@@ -8,6 +8,8 @@
         </TLCPerson>
         <TLCPerson href="/ontology/person/::/胡育銘" id="胡育銘" showAs="胡育銘">
         </TLCPerson>
+        <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳">
+        </TLCPerson>
       </references>
     </meta>
     <debateBody>
@@ -15,11 +17,6 @@
         <heading>2018-10-31 社創中心 第三十五次 Office Hour</heading>
         <debateSection>
           <heading>張永健、胡育銘、Lawrence FU</heading>
-          <narrative>
-            <p>
-:emoji_1f310:  此為逐字稿共筆頁面，如有任何欲調整自己發言之文字，敬請直接點選於此頁面左上方圖示「筆」進行編修，呈現黑底畫面即可直接編寫，內容無須存檔，系統會自動保存。預定於107年11月21日公開，將公開於  ，非常感謝。              <a href="https://pdis.nat.gov.tw/track/"><a href="https://pdis.nat.gov.tw/track/">https://pdis.nat.gov.tw/track/</a></a>
-            </p>
-          </narrative>
           <speech by="#張永健">
             <p>很高興有機會拜訪，先介紹自己，我現在是在IBM大中華區負責雲部門，雲部門的雲平台、中間件、大數據、私有雲、公有雲。</p>
           </speech>
