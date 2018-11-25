@@ -1,0 +1,835 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Adrien Sadoka" id="Adrien Sadoka" showAs="Adrien Sadoka">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Carl de Poncins" id="Carl de Poncins" showAs="Carl de Poncins">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-11-13 Panthea and Timescope visit</heading>
+        <speech by="#Carl de Poncins">
+          <p>Do you know what we do?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A little bit. They briefed me, but it is OK if you just...</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>Basically, we both use technology and digital to make culture more accessible, but in a live way. We don’t use digital technology to be on the Internet or in virtual things, but to augment real places, and to encourage people to be engaged.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>What I do at Panthea is the following: <a href="https://issuu.com/pdis.tw/docs/panthea-digital_brochure-2018?e=0">Panthea is a company specializing in surtitling</a>, which means that we translate the shows, the live performing arts in several languages.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In real time?</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>Yes, using multiple reality glasses. The spectators wear the glasses. We use Epson technology. Exactly.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I see that.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>The concept is to have the text while you watch the show and you can understand it.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>We started with this technology three years ago at the Avignon Festival. That was a co-production with the National Theater of Taipei, the National Theater and Concert Hall. We had the performance of King Lear by Shakespeare in French with supertitles in French, English, and Mandarin. Then the show went to perform here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Carl, have you worked with like automated translation services?</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>No.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, not yet? You’re not currently streaming like from Google Translate?</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>No, because this is not...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It has to be pre-scripted?</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>Yes, it doesn’t work for theater because the quality of the translation is not sufficient, and there is a latency time that is not acceptable for theater. It’s even more difficult than translating a book. If the computer is translating it, it’s even more difficult because it’s happening live, so you need the translation at the moment where people are speaking.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>For example, in German, the verb is at the end of the sentence so you cannot know beforehand what will be said.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is my domain, [laughs] so I know that.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>What we are using is augmented reality to ease the service for the end user. What the end user needs is to have the text in the right position at the right moment. Everything that technology can do, we use, but what technology cannot do, we do manually.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>It doesn’t matter in the sense we are not looking at simplifying things. We are looking at adding a new service, and people can pay for that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Full accessibility.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Is it AR in the sense that if I look away the text disappear, or does the text stay with me?</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>We can parameter that. At the moment, we don’t see a lot of benefit of having interactivity. It’s good that the text is moving with your eyes, actually. It’s better.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course, because people are usually watching this way only anyway.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>Not always. Sometimes, things will happen. There will be a blast in the back but the actor continues to speak. You are looking back, and you want to understand what he is saying.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Ah, OK.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>In the opera, several people will sing at the same time from different places. You cannot look at both at the same time so you need the text to follow you. The technology allows it if you want.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>To have an immersive theater.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>It’s also possible to position it. That’s definitely possible. It’s the very beginning. As far as we know, there is no real application of smartglasses yet on the market for the public domain. There are some niche applications for surgery, for maintenance in hostile environments.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Elevator maintenance is the classic example.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>Even that, I’m not so sure about the benefits. Super-imposing reality is a help, but I know that when you interview maintenance people they say it’s good enough if they get the information in an earplug. There is a camera so a very skilled technician can analyze the situation, but then he will give his recommendations on the phone not super-imposing it on the screen.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Super precise, &quot;You have to touch here,&quot; it very rarely happens actually.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>Yes, exactly. I’m not sure because of course technology evolves. It’s exciting on principle, but what I see in theater and the opera is that people need the text, and they have to move their head to find it, and they cannot have all languages at the same time.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>It’s very useful, and performing arts is a growing sector with more and more needs. For example, when I was here two years ago, we had a discussion with the National Theater. It’s a leading place for the identity of Taiwan and the shining of its culture, so making it accessible to more people is very useful. You cannot expect everyone to speak Mandarin before they come.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, not at all. How good is the resolution of this technology? Is it 300 pixels wide? How many pixels?</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>The resolution is 921,600 HD (horizontal 1280 x vertical 720 dots) x 3.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>This technology is now the one that we use, and the National Theater in London has purchased 50 of them to put for all people that are hearing impaired to get the translation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s good enough at least for the hearing impaired people.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>It’s good. We have...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Maybe not sign language though. I mean...</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>We could have it in the future. For the moment we don’t, because sign language takes a lot of space in the field of vision. It’s complicated, but we are going to test probably next season with a theater in Gothenburg.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I ask, because early next year sign language will be an official language in Taiwan. It will be given the same status as other written languages. Of course, as you said, it’s not always possible to give room to a sign language, but even in a simplified form, it’s very much...</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>It’s definitely possible. Our software Spectitular(r) manages text and sound and image, but having video is not a problem. It’s all cloud-based, so it’s collaborative.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>There’s also people that prepare the translations who can do it... If the specialist of sign language is based in Taipei, and it’s happening in Taichung, you could have someone who is doing it in an online platform, and it’s automatically available.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This greatly interests me, because it will be a real need, and need will be by law.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>The big hurdles we see for the adoption of this is that it’s very new, because it’s one of the first applications in the world for smartglasses that is really useful. It’s a pioneer thing, so we need to find customers that want to take that risk to be the first. It’s a big hurdle at the moment.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>The second hurdle is the financing of it. We are talking to public institutions whose mission is to promote culture, so it ends to be accessible to as many people as possible, but a lot of them have budget constraints, so they are trying to go around the law. They say, &quot;We do the minimum possible,&quot; but they are not very motivated to do it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What about the other end, like social enterprise and charities for deaf people?</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>We are talking to them. In the UK, it’s the first example that there is. It’s not happening with us, but we are in close discussion with them, and there is a sponsor, I think standard sponsor. Accenture is the company who sponsored the content, the programing, and then there is a body for art and cultural accessibility that has financed the National Theater for a certain number of shows per year.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>For the moment, I did not see a theater or an opera that was motivated enough on their own to decide to finance it. We do some tests. We did one at the Opera Garnier this year, the French National Opera, and they are interested, but they want to find financial resources for that.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>I’m an entrepreneur, I’m not a public financing person, but it’s happening now. What we see is that people get extremely excited and not the geek people. Not people like you and me, but the older people. People that cannot hear anymore.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>This summer at the opera we had... The most amazing thing was an old couple, probably 80 years old. They could hardly walk. They used these super futurist glasses.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>They were incredibly excited because they said, &quot;We could read it because it’s written... It’s, it’s high resolution, and it’s, uh, we can choose the brightness. And so, it works,&quot; which is, for us, the promise of a use case that really matches with a need and with people that have money to pay for the tickets as well. There is a great social benefit to it.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>This is what we are at. We do many other things but this is our most advanced technology. That’s what we’re most excited about.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Great. I see Timescope has a Oculus Go as well.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>I have one at home.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>I’m sure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Probably in the office, I need better equipments.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>I see you have a Vive. You have a Gear.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>[laughs] Yes.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>I have no doubt you know about VR.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What do you do?</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Before explaining exactly what I do, I often start by a question. If you had the very cool power to step back in time, which place, which time would you love to see? What would it be for you?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The beginning of the universe, of course. [laughs]</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>That’s the first time I have this answer. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because then I can know whether there are multiverses, like why was the universe created? Just a great physics question.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>You’re interested in the why...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>[laughs]</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>That’s a very scientific dream. Most people in France say the Revolution, the Middle Age. That’s very interesting.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>We actually pretty much do this. My company is called Timescope. We develop time travel experiences thanks to virtual reality. We do two things actually.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>We invented a hardware, which is called the Timescope machine, that you see here. It’s a VR terminal that works as a self-service system. You arrive in front of the machine. You are let’s say in a time now in a historical place. You say, &quot;I want to go back to that time.&quot; You pick a content. You adjust the headset to your height. Then you can start a 360-degree experience and go back in time.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is very smart because then you avoid the translation problem. You only have rotation. People will feel much better.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Exactly. You don’t have to put the headset. You don’t have to wear it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Just discrete.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>You do the 360.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>You don’t get so sick.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>No translation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is one of the design that will avoid the VR sick. Congrats.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Because you are holding the machine. Thank you.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>We do the hardware. We also do the content. That’s our specific thing that we do. We invented the Timescope machine that is now installed into 30 places in France, Paris, Le Havre, Arras, north of France, soon in the south of France.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>We also produce 3D content which is actually three kinds of content, content which are historical reconstructions where we do the whole production process from the generalizers of the historical sources to the 3D content at the end of...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You have AI to hallucinate color and details?</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>We use mainly CGI.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Ah, it’s not really photogrammetry from old pictures. It’s more inspired by old pictures.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Exactly.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>[laughs]</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>It would be great if we could technically use...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because there’s a AI lab in Taiwan that takes very old or bad resolution, like 2040p, 240p. It use AI to hallucinogen 4K or 8K...</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Whoa, that’s great.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...by imagining details basically. [laughs]</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>That’s interesting. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You’re mostly CGI.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>We gather all the historical sources. Then we model them. We are the specific touch about the CG that we use, that we produce, is that is very photorealistic and story-tells.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>We also work on urban projects to show the future of locations, that can have past or that cannot be very rich in terms of past, on urban projects that need to be explained to the people. The Timescope is also a way to explain to the people how it will be.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>When we were talking about fake news, it’s very different. But it’s also a way to avoid rumors and to speak in a very powerful way to the people. You know that VR is a medium which is very, very strong.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is also you or is this somebody else?</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>No. I know I have to check this out because I know that I saw that there is a Timescope that...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is SomaSoft. This is not you.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>No, this is not me.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Very confusing branding. [laughs]</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>I’m the one owning the Timescope brand. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Maybe you can do something about it. [laughs]</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Definitely.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You don’t have an Oculus version or you do, but it’s not on the store?</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Oh, yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Is it not on the market of Oculus?</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>This is not on the Oculus market. It’s on the terminals that we have. We don’t put it online because usually, the experiences are made to be tried on-site directly.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I know. You will have to file a trademark [laughs] case if you are going to put them.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>I know I need to go for them.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Maybe not now.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Exactly. Would you like to try?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Let me see if I have battery left in my headset.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Meanwhile, have you worked with VR before or it’s all AR?</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>It’s all AR. We don’t do VR because we take people to performing arts. We don’t use VR at all.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Because the natural extension will be people watching at home the theater that’s streaming into the devices.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>I had this very, very interesting meeting at YouTube in New York City three years ago about this. We talked to the YouTube VR guru. I don’t remember her name. She’s very well-known in this field.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>She was paid by Google to experiment shooting in virtual reality. I seen the results. She said, &quot;When I filmed the concert and I showed it to people, they didn’t...the experience was pretty poorly rated because they compared it to the experience in the concert hall. And they said, ’Yeah, it’s not as good as it. It’s kind of faking the experience.’&quot;</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>Then she said, &quot;The most rewarding result we had was I was filming stones on the beach...&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Natural tracks.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>&quot;...because you could access to details that you would not normally see.&quot; A bit like in a game where you can go, and then you explore something from the close...She said this is when we measure the satisfaction of the end users. This is where it’s most exciting.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That they probably don’t need subtitles, or just don’t...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Carl de Poncins">
+          <p>No. This is to explain that allowing people through VR or AR to experience something at home has to be proven yet to be a benefit.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>So far, we’ve found maybe the planetarium really worked, like seeing how the solar system evolves...</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>It’s something you cannot see better in a different way, right?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly, yes.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>It’s unique value proposition. I guess that’s the key thing. It’s something you cannot do differently. She’s the connection.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>I’m not a designer of how it works. I focus only on the use case. I think on Timescope as well. In fact, when there is a connection with something that justifies your presence, it’s a huge added value. Then you can leave something that nobody else can leave.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>[French] Yes. You are ready for me? No?</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Sorry, I have no battery any more. I put it all on during the whole day !</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Ah, OK. Live demo, it’s always like that.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Adrien Sadoka">
+          <p>I’m going to demo you these videos so that you can see the kind of contents that we produce. To give you an idea of it. For example, that’s Paris, the river bank, 400 years ago.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>That’s exactly what the city hall looked like. The Galeries Lafayette, if you’ve ever come to Paris, you might have seen the gallery.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>The beginning of the 20th century, that’s the Eiffel Tower, which is the equivalent, I would say, of the 101 Tower. From this point of view, we have four timescopes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, this is beautiful.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>Whoa. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>[laughs]</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>We work on making it really realistic. Paris at the...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The World Exposition.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>...the World Exposition, exactly. When the...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Rafael was first killed, yes.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>...was read, yes. Then many other places in France. Sometimes it’s also very strong and very dramatic when we use World War I, when we reconstruct the trenches. This is for Kering, the luxury brand, where they are located.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>That gives you an idea of the kind of content.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is great. I want to show you the Taiwan Digital Asset Library, the TTAL. The idea that I got from a participatory budgeting experience I had in Paris. I think it was 2015, or something. I was staying in the 3ème, and there was a petition in the participatory budgeting that says let’s make a 3D version of everything.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I full voted for it, because I don’t have to be a citizen. I only have to provide a hotel address, so I voted for it. It didn’t get the budget.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Then I become Digital Minister. I can do whatever I want. Now we have a collaboration between the Ministry of Culture. I don’t know whether you’ve talked to their people, but they’re now very all-in in VR. They now use point cloud and videogrammetry, photogrammetry to scan all the historical buildings.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They open source the content, using Creative Commons. Anyone can not just walk into a old temple, but actually do a lot of investive experiences. Using old photos, they can very easily do alternate texturing...</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>That’s cool.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...and make an easier pipeline to the kind of timescope that you’re producing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re offering this service and content for free, so every filmmaker around the world can use Taiwan as their backdrop. I think that this too have a lot of synergy.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s a easier timeline for us to produce, but you offer something unique that you can install on Taipei 101. [laughs]</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Definitely. I think that Taipei 101 is really like the observatory. You’re pointing at 101 Tower with big nice view would be such a cool experience to see how Taipei has changed over...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The next logical question is how expensive is it.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>It really depends on how...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Assuming we have the content. Assuming we produce the content.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Assuming that’s possible for you to produce the content. I know you have a 3D studios. I have met some of them.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah?</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>That’s possible.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>We recommend if that’s the case, to give insights to the production so that they can produce something which has the potential...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course, you could become like consultants or something.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>In terms of budget, to give you an idea. For a Timescope machine, usually depending on the number of timescopes, depending on the engagement period, which means more rental, we are between 1,000€ to 10,000€ a month.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That sounds OK.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>1 to 10 gives you an idea. If it’s more, our main contracts are on a long-term basis, four years usually, since it’s installed on a historical location. It’s designed to stay in outdoor spaces.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Usually that’s where we stand.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then I think this is a very good combination because there is already a lot of projects using ordinary Oculus that’s going on in Taiwan. Exactly as you said, if they compare it to the real thing, it’s disappointing.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>Deceptive, yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then they take out the glass and find the reality to be much better.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>If they choose the language themselves, and they hold a machine. It’s like riding in something. We know that it will be a prepared experience, and people will subjectively rate it as better.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>We have 96 percent of people who rate the experience as &quot;Wow&quot; and &quot;Cool.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s good, because it’s the same as our text filing system, ha-ha...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>...which we also co-create with people. Anything that involve a action by the person themself is better.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Definitely.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If it’s all passive, it’s just like watching a movie, then it doesn’t work...</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Completely.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...because it’s low resolution, bad movie. [laughs] An active component I think is very important.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s fascinating to learn about your work, and I think the Ministry of Culture, in particular, will have a lot to talk about.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I will be in the C-LAB. You’ve been to the Social Innovation Lab, right?</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The app, and the VR space. You remember it’s part of a larger place?</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Larger Place is now converted into the C-LAB, the Taiwan Contemporary Culture Lab, which you did not see, because it is really new. It just opened a couple of months ago.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s really new, but it is really good that we have this place dedicated for contemporary culture experimentation because it doesn’t have to make economic sense. People can just commission any kind of event and it’s sponsored by the Minister of Culture.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For example, two days later, I’m going to participate in Sleep 79, which is a lot of people just spending a lot of prime time in the carts that are shaped like this. I’m going to read out Mozilla Common Voice for two hours from 9:00 to 11:00, for people to sleep while I read for the AI corpus.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Obviously, performative.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Adrien Sadoka">
+          <p>That’s cool. That’s interesting.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Things like that can be done in this huge open space that it doesn’t make any economic sense. But the Minister of Culture is very willing to sponsor this kind of work, so it’s perfect for piloting.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you want to convince a institution to buy 5,000 copies, they will not think about. But if it is just 100 or 50 copies for an experimental pilot, then it’s well within their small procurement budget. I think this is a great help.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>You think in our case, it would be the Minister of Culture who would be our direct plant, or it would be like a mix between you and the Ministry of Culture?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think the Ministry of Culture has all the content. For you, this would be a higher approval rating delivery device for the project they’re already doing anyway.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t think they will actually commission you to do a historical storytelling of Taiwan in the old indigenous places because they’re paying this amount for real, true, huge teams to do a meticulous creation that’s not just historically correct but culturally significant.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They’re making into like Netflix movies and things. All the derivative parts, they have that already. They will be interested, I think, in this particular vehicle of delivery. You can provide consultant because their movies are two hours or three hours. Obviously, nobody is going to stand there for three hours...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...no matter how good the content is. [laughs]</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>They will recommend to do two minutes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. Which two minutes to choose? Which two minutes to show which angle, even though they do film in 360, but which initial angle to project?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think that is your specialty is like a choreographer or a director. I will keep an eye on the possible events where the Minister of Culture showcase their historical overlays. I think that is the better combination.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Another possibility is starting next year, we will have what we call original revitalization project, where we encourage all the townships of about 50K to 100K people to find its historical identity and historical stories. The idea is that people if they care about their history in that township, even if they go to Taipei for college, they will go back to make their home community better.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If during basic education. You don’t give them something to do to associate with the local history. When they go to Taipei, they don’t come back anymore. [laughs] That is another possibility, which will not be the Ministry of Culture. It will be up to each municipal government.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>Municipality, yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They will have a lot of budget and care to curate this kind of history. In which case your other specialty, which is taking old photos and doing modeling. That becomes useful to them, because they don’t have the...</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>You want us to do modeling?</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Yeah. They don’t have the ready specialty like the Ministry of Culture’s flagship projects do. They only have local universities to work with. That is one possibility.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>I think the next step would be, I mean the closest one, would be to talk to the Ministry of Culture about our technologies...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Or just visit CLAB. You will see all the experiments going on.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>[French]</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>We have a French tech night.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>We have a French tech night tomorrow.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>Tomorrow, I think.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I know.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>It’s not international.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I don’t know, but...</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>I don’t know.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Tech for Good, is that the name or no...</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>I don’t remember.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>No. I think it’s another thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s a different thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then I don’t know.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The CLAB is now Ministry of Culture’s premier place to showcase emergent technology that interacts with culture.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>In the case of Panthea, we have two contacts here that are in charge of self-acting for the national theater, with Cami, who we worked with them three years ago on the Avignon project.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>If we were to imagine something here, we would have people to interact with to hire for this project for the content, and to collaborate with people with the organizations of hearing impairment. We would not start out of the blue from the distance, which is very good.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Another possibility is to start a small project, but enlist the help of one of our international startup hubs. There is one in Linkou, in New Taipei City, called the Startup Terrace. There’s a lot of companies working in that dimension as well.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The other way is to think outside of Taipei, because I’m sure you are connected with the Taipei theme anyway. There is another city called Kaohsiung. It’s in the south part of Taiwan. They are actually in charge of most of the 3D modeling and the other industries, even though they’re not very loud about it, but they’re actually very active in terms of AVR.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Kaohsiung city government has a space dedicated to immersive experiences. It showcases a place they call the Kosmos, K-O-S-M-O-S, and they just started. I think they’re also be very willing to look into showcases similar to the natural theater one.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Do you know if there is something in Taichung?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In Taichung, there is of course the Taichung Opera House.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>That’s why I’m asking. I’m wondering if there is also a hub for innovation and tech.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That is kind of independently operated, the Taichung Opera. If you do it in an accessibility angle, I can connect you with people from Taichung City that cares about the elders. We had our social enterprise submit in Taichung.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I know it is a priority for them to increase participation of the elderly and the otherwise disabled people so that they reintegrate into the society instead of being alone at home. From that angle, I know the person, but from the tech angle, I don’t really know.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>Do you know the people from Tower 101?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes, of course.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>If you could connect to us would be good.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The previous chair of 101, Christina Sung of SERT.tw, I think is perhaps a good contact, because, first, she knows the right people, but also that she really cares about social entrepreneurship. She manages one of our independent social innovation investment board.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>She has also access to people who really want to make the experience better for the arts and the society, rather than just from a purely financial return perspective. She’s one of the leading impact investors, so I think it’s a easier angle, if she think it’s a good fit.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>Thank you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Usually you can take 10 days to edit this transcript until you can put on all the relevant URLs, the films, the YouTube that you want to show or whatever. As long as both of you are ready, even before the 10 days, you can tell me and I will publish online.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Once we publish this transcript, then the introductions can happen in a public way, because I don’t do exclusives, it will need to be in public knowledge.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>If you introduce, it’s...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s a link to our transcript...</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>To our...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...full text that you can click online. Everybody can see it. If you’re interested, here is this email that you can write to.</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>We need to create a specific URL?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, you don’t have to do anything. I will do that.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>I’m a radically transparent minister. The way we work is very simple. On my name card, there is a website, PDIS.tw. Once you go there, you will see the English version. Basically, this is everything that I did and everything that I had a conversation with.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For example, people from RedHat just visited. If you click &quot;RedHat Visit,&quot; you will see exactly who said what, where, why. I did that for all the meetings, even internal meetings that I’m a chair of.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Did we say smart things? [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s why you’re given 10 days to edit, so you can edit to make yourself sound smarter. [laughs]</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>OK.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s true for like more than 3,000 people that I spoke with as a minister. This is also a good machine learning process to understand the language alignment and automated translation, and stuff.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Once our conversation gets published here, I will then send an email with the published link.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>I get it. I understand.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you are ready before 10 days, just let me know so we can publish it. Is that OK with you?</p>
+        </speech>
+        <speech by="#Carl de Poncins">
+          <p>Yes, definitely. Thank you so much.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Thank you so much.</p>
+        </speech>
+        <speech by="#Adrien Sadoka">
+          <p>Thank you so much.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
