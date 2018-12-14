@@ -25,7 +25,7 @@ var x = document.getElementById('input').value;
       continue;
     }
     if (/^\s+/.exec(ln)) {
-      out += (replace$.call(ln, /^\s+/, '')) + "\n\n";
+      out += (replace$.call(ln, /^\s+/, '').replace(/\]（(.*?)）/g, ']($1)')) + "\n\n";
       continue;
     }
     if (/[：:]$/.exec(ln)) {
