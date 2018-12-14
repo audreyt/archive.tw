@@ -16,7 +16,9 @@ var x = document.getElementById('input').value;
   out = '';
   var names = {};
   ref$ = x.split(/\n+/);
-  out += (ref$.shift() + "\n");
+  if ((ref$.length > 0) && (!/[：:]/.exec(ref$[0]))) {
+    out += (ref$.shift() + "\n");
+  }
   for (i$ = 0, len$ = ref$.length; i$ < len$; ++i$) {
     ln = ref$[i$];
     if (/^\s*$/.exec(ln)) {
