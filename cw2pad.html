@@ -27,7 +27,7 @@ var x = document.getElementById('input').value;
     if (/[\(\[]crosstalk[\)\]]/.exec(ln)) {
       continue;
     }
-    if (/[-'\w ]+:/.exec(ln) && /^((?:\s\w\.|[-'\w ]+)+):/.exec(ln)) {
+    if (/[-'\w ]+:(?!\d)/.exec(ln) && /^((?:\s\w\.|[-'\w ]+)+):(?!\d)/.exec(ln)) {
       var n = RegExp.$1;
       if (/ /.test(n)) {
         names[n.replace(/ .*/, '')] = n;
@@ -41,7 +41,7 @@ var x = document.getElementById('input').value;
       out += "\n" + (replace$.call(ln, /^\[(.*)\]/, '($1)')) + "\n";
       continue;
     }
-    if (/[-'\w ]+:/.exec(ln) && /^(?:\s\w\.|[-'\w ]+)+: +/.exec(ln)) {
+    if (/[-'\w ]+:(?!\d)/.exec(ln) && /^(?:\s\w\.|[-'\w ]+)+: +/.exec(ln)) {
       out += "\n" + (replace$.call(ln, /^((?:\s\w\.|[-'\w ]+)+): +/, "$1:\n    ")) + "\n";
       continue;
     }
