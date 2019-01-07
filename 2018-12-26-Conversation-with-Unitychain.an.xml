@@ -1,0 +1,610 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Jon Jones" id="Jon Jones" showAs="Jon Jones">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Joshua D. Tobkin" id="Joshua D. Tobkin" showAs="Joshua D. Tobkin">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Juin Chiu" id="Juin Chiu" showAs="Juin Chiu">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Larron Armstead" id="Larron Armstead" showAs="Larron Armstead">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2018-12-26 Conversation with Unitychain</heading>
+        <speech by="#Audrey Tang">
+          <p>So we’re on the record according to the radical transparency protocol.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>Yeah, very cool. We’re live.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Not really live... You get to edit it.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>We’re recorded.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>First of all, thanks for having us. You’re an inspiration. The first time I heard you speak was at Meet Taipei. We’re Unitychain, by the way. I’m Joshua.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>Jon.</p>
+        </speech>
+        <speech by="#Juin Chiu">
+          <p>I am Juin. Nice to meet you.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>We’re all Js.</p>
+        </speech>
+        <speech by="#Juin Chiu">
+          <p>All Js. [laughs]</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>We’re working on solving blockchain scalability. We think our approach may have figured out a way to stay decentralized, secure, and have great speed, which is formally known as the Trilemma, coined by Vitalik. We do this through use of what we call the Unity Protocol and DHTs.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>We’re in Taipei. We love Taiwan. Jon’s been, for a while, doing Taiwanese. I’ve been here now three months, and I’m otherwise living in San Francisco. I think we’re going to have an R&amp;D department in Taipei for a very long time.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Awesome. Where are you based at the moment? Do you have a office here? Oh, do?</p>
+        </speech>
+        <speech by="#Juin Chiu">
+          <p>A small one.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>We’re based out of Impact Hub, near [Chinese].</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You’re a neighbor with a lot, actually, social innovators, and the Gogoro Charging Station. [laughter]</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>Exactly, yes. We’re on first floor, so we often hear the, &quot;whoop, whoop, whoop, whoop.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s exactly what I mean.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>It’s like singing.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Cool.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>It’s great to hear what you’re doing, just in the broad scope of Taiwan, and how radical your approach is. Even with the IoT stuff and blockchain, I know that you guys are quite familiar with Iota.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>Which we recently studied. Juin just did a deep dive on it. He’s our lead researcher. We like to study all different types of protocols to learn from different projects. We think it’s important to keep an open mind, because it’s such an interesting field, a lot of things to consider.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>Certainly, we think that we’re working on important technology for society. We’ve recently created a proof of concept, maybe it’s relevant to show you, actually. We have a video.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>OK, I’ll pull that out.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Is it public? Is there a...</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>This is actually, unfortunately not. This is just for us. This is like, Christmas Eve, we had it. We just recorded it.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>The core concept here, there’s not too much to show right now, but basically, we have a blockchain running from a DHT. In case anyone’s wondering, DHTs are distributed hash tables. They are incredibly scalable. It should be able to handle up to, frankly, millions, of nodes.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>It’s technically infinitely scalable, with more nodes in the network.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>What you’re about to see is a very rudimentary, hard-coded proof of concept, but we have a DHT implementation called Kademlia. We were running very basic, rudimentary Unity Protocol consensus on it. This is our CTO speaking here.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(video begins)</i>
+          </p>
+        </narrative>
+        <speech by="#Larron Armstead">
+          <p>Now, what it’s doing is it’s actually seeding. It’s seeding a bunch of, we hard-coded these public and private keys. It just did some seeding, contacted the nodes, and said, &quot;OK, let’s make these addresses, and set these balances,&quot; basically. That’s what just happened there on that side.</p>
+        </speech>
+        <speech by="#Larron Armstead">
+          <p>Now, we have the UI. I’m going to refresh this. That’s riggy right now, but that’s where we’re at. The first thing you have to do is get wallets, and that’s just a hack right now to make it load the seed file, basically.</p>
+        </speech>
+        <speech by="#Larron Armstead">
+          <p>There, we just loaded it into a DHT. These are logs of what’s basically happening. Now, these are all the public and private keys, basically, just all the addresses that we have loaded. Right now, we can start transactions. It’s just going to do 10 random transactions. Boom, it’s just randomly doing it now. This one’s a bad, so we add and do bad ones, too.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>Nice. Just to show that it’s not always a consensus?</p>
+        </speech>
+        <speech by="#Larron Armstead">
+          <p>Exactly. We don’t have the full consensus in yet. We need to mess with DKG, and mess with having more masters. It is storing in a DHT right now.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(video stops)</i>
+          </p>
+        </narrative>
+        <speech by="#Joshua D. Tobkin">
+          <p>That’s basically the concept. These errors are showing that there isn’t consensus being reached. This is the early stages. This is the precursor to our test net. We’ve only started developing on the actual coding of this about five weeks ago, but we’ve been focused on just research in the meantime.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>There’s a lot of things we could learn from other projects, first of all. Like Laren just mentioned DKG, distributed key generation. There’s a project called Dfinity that we’ve learning from. It turns out some of the mathematics they use is similar to us. There’s some properties that are similar in our approach, which is good to see.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>That we’re not in a complete black box, that there are other people smarter than us looking into this and qualifying and validating these ideas.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>Some of the innovations are the architecture, using a consensus on a DHT. Also, Unitychain consensus itself. We have a layer of Unitychain, called RNG Protocol. It’s basically a very unique way that we come up with an authentic random number.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>On-chain randomness.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>Yeah, on-chain numbers, not random generation.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>Finally, we utilize DID, or decentralized ID, in our system, because actually, we feel like in order...Of course, it’s a civil prevention mechanism, to have one person, one node, one vote. That’s kind of our mantra.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>We believe that a public blockchain should be of individuals and real people. It’s almost very democratic. We believe those are the things that set us apart.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>We’re happy to meet you, and to start to build a relationship with you. As we make developments, product upgrades and updates, it would be great to periodically, maybe once every quarter, just, &quot;Hey, this is what we’re doing,&quot; just so you’re aware of it.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>We wanted to ask you a couple questions. Juin, you had a couple questions about just the ecosystem?</p>
+        </speech>
+        <speech by="#Juin Chiu">
+          <p>Just some general questions, since Audrey is now the Digital Minister. We would like to hear some of your advice on the...They’re not Taiwanese, so how can they...What’s your opinion on the open source community in Taiwan? What’s your general advice on that?</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>I think how we can integrate more. My wife is actually Taiwanese. She’s also considered a co-founder. Just ways that we can, as a company, be more integrated with Taiwan. Maybe have some help from the government?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Open source is a national priority. We directly fund, for example, the Taiwan Open Source Software Collaborative thing, twoss.io which mostly showcases two existing ecosystem, why it’s a good idea to have open source contributors, what kind of open source solutions have worked.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Whereas before, only proprietary software has occupied those positions, and how those shiny new technologies, because of accountability requirements, watching governments and so on, almost have to be open source.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That concept has to be explained over and again to existing players, and so on. It is mostly an industry awareness project. You can find the relevant details at twoss.io. The other thing that we focus on is in education.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We make sure that in the basic education -- that’s to say K to 12 -- when the students are exposed to digital technologies for the first time, they own it in a kind of personal computing kind of way. That means that the schools are highly encouraged to use open source solutions.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If the students, after graduation, choose to use proprietary software, that’s their choice, but we’re not going to create vendor lock-in as part of basic education. That covers with the broadband as human right and the national computation platform making.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s very easy for the students to experiment on GPU and related technologies. It means that we think it will be a democratizing force, instead of leaving parts of the population behind. That’s the basic education. The new curriculum, embedding these values will be rolling out next August. It’s called [non-English speech], or the 108 curriculum.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You can find all those details, including how we’re moving from a skill set-based education to a character-based education. Because these are being ultimately the way, but these are core to cure humanity.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If we focus on sustainability and things like that, are all part of the new curriculum. You can find that in the K to 12 new curriculum website, at, I think it’s NAER, the website. That’s open source, also plays a large part.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Finally, and more personally, interested in getting the procurement process to be open by default. It is not just open source, but actually the publication of the procurement data, and making sure that the open API, which is a Linux Foundation standard, is embedded to the same degree as the accessibility standards.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>So that, for example, now when their government procures a website, it needs to be available, not just to sighted people, but also for people with blindness. Then we say, in the same vein, machines are kind of blind people, too.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you don’t make it accessible to machines through APIs and make it human only, then the vendor could be disqualified for being unprofessional, or for charging extra to do an API. Basically, API-first procurement through government digital service guidelines.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s something I think, longer term, will have an equally if not more impact than open source procurement. If you buy open source, but then it depends on a huge proprietary database, that open source is not very useful.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>On the other hand, if you build a large proprietary interface, but then mandate that it has to talk through open APIs, then it makes it very easy for MSMEs, for medium and small businesses, to build around the public API, even though the core may be proprietary. That’s the overview.</p>
+        </speech>
+        <speech by="#Juin Chiu">
+          <p>Do you think that the government, like for example, now we’ve seen some countries, Europe, they’ve started to utilize blockchain, integrate the system into their...Do you think that’s the future?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re using distributed ledgers already on these, but mostly for accountability, for cheap. It’s an easy way to build an append-only audit log, for example the AirBox project.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Which, of course, when integrated with the government data in CI.taiwan.gov.tw, people here worry about the government mutating their data. People in the government worry about people confusing these data sources with more official data sources. It’s a large debate in Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Using DLT, people can make sure that nobody goes back to time to modify those data. That makes it easy for people to trust each other. That’s especially true because the computation center is in the National Center for High-Speed Computation, the NCHC.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We have a collective intelligence, ci.taiwan, which will be the TW website that basically shows how we aggregate all the meteorological data, all the air quality, water quality, the disaster recovery. There’s an English version, too. Recently, we just held a competition on how to best make use of these aggregated data.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>DLT plays a crucial role, because people have to trust that even with the huge number of GPUs that the NCHC has, it cannot disrupt the validity of the public chain. I think that is crucial. One of the winning teams actually, in this competition, I think makes a very good use of AirBox data.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s basically looking at PTT, which is like Reddit. It is a local bulletin board. Whenever people start talking about air quality, it may be old data. It may be a rumor, it may be great news, or whatever. People gather around and talk about it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They wrote essentially a chat bot, a bot user that just automatically puts in the latest measurement, with beautiful visualization, and phrased in a way that’s not government speak, but actually Chinese speak or netizen speak, and engage.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course, everybody knows that it’s a bot, but they can participate in the discussion to steer the discussion into a more evidence-based direction. It’s a really good use, and if people question about the bot’s authenticity, accountability, methodology, then the creators can say it’s all open source.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You can check the evidence trail, and the data you use is also on the DLT, if you really want to check that, and so on. It’s a cheap way to get people to trust each other more. We have many uses for along that lane, but not as cryptocurrency.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>DLT, for sure. DLT is what we’re also framing ourselves to be DLT launching, not cryptocurrency. We will have likewise some unit of measure for computation services. Speaking of education, you mentioned one of them as part of our community-building efforts, we actually will be focusing a lot on education.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>We know that if you create great quality content once, it’s very, what do you call it? The costs of letting an additional person have access to it is basically minimal. We will produce a lot of quality content and educational material, and that will be broadly, of course. It’ll be just about DLT, at least to say, &quot;This is what we’re doing at Unity Chain,&quot; just a little of that.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>That’s certainly, we think it’s important education, sharing the information, and getting people involved. Especially from the young age, so high school to college. Create some programs to help them out and initiatives.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>There’s a lot of brilliant people that are in school, and even not even in a school. I’m a college drop-out.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>I’m a junior high school dropout.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Joshua D. Tobkin">
+          <p>I’m not even going to send my kids to school.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter and crosstalk)</i>
+          </p>
+        </narrative>
+        <speech by="#Joshua D. Tobkin">
+          <p>No, but seriously, also, in Mandarin, too. We’ll do it in English and Mandarin. We’ll do translations. We see that Taiwan is a great location geographically. Also, with Southeast Asia, it’s easy to get to Hong Kong, Korea, Japan, China.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>Also, politically.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>Politically, yeah. A lot of people speak English. Great resources, high IQ, on average, so that’s great. Actually, when I met Jon, he was in Taiwan. If it wasn’t for Vitalik, I’ve heard him talk about Taipei or Taiwan a few times.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>If it wasn’t for that, I probably would have been a little more skeptical, like wait a second.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>I think we made the right decision. My first time here was in June, July. We’re still a startup, very much. We’ve been self-funded until now. Things are moving fast, and we’re very optimistic that we’re on the right path.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>This is important technology that we want to bring to the world. I think more than anything, we would love to, as we make these milestones and hit these milestones I’ll show you...We’re actually, we’re not forking the existing chain, and just doing a proof of state, concept. We’re doing a whole new model.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>As a result, of course, you don’t know exactly how it’s going to unfold. If we’re able to pull off what we think we can pull off, or create something that is more fair, more democratic, more open, and potentially more impactful for the world.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>We’d love to keep you updated on this as we move forward. You’re an inspiration to us. It’s super cool that someone in government would have someone like you put in such an important role.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>At Meet Taipei, Juin was like, &quot;Oh, you guys have to see Audrey speak.&quot;</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Joshua D. Tobkin">
+          <p>I was like, &quot;Whoa, yeah. ML, machine learning, AI, blockchain.&quot;</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>Anarchy. [laughs]</p>
+        </speech>
+        <speech by="#Juin Chiu">
+          <p>I personally saw some of Audrey’s videos on YouTube already, and really inspiring. I just told them that, &quot;Hey, you’re going to see it.&quot;</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>I did.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I am that kind of minister, too.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Joshua D. Tobkin">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Two years ago, I became the Digital Minister. My first visitor outside of the administration subject to this radical transparency rule is Vitalik.</p>
+        </speech>
+        <speech by="#Juin Chiu">
+          <p>Oh, wow.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>I really enjoyed the talk. It’s all on YouTube, anyway. We talked, especially around openness. At that point, everybody understand that the broad spectrum of Ethereum is one, [laughs] and how to make governance work.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We talked about liquid democracy. We talked about all sort of different governance possibilities. Of course, with some imminent milestones, it’s easier. People start getting their act together once climate change become very serious.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Joshua D. Tobkin">
+          <p>It’s getting serious already.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right. That’s like imminent existential topic triggers a governance change. That’s essentially what Vitalik and I agreed on two years ago. I saw that you’re also working on governance through your Gnome Validator node system.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>We believe governance can only be really achieved if it’s truly a democratic public chain. One person has one node only. I think it’s much easier to have on-chain governance built in.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>Blockchain is perfect for governance, at least for voting. That’s clear. As long as you can prove one individual, one node, or one individual, one entity. Then, of course, liquid governance, the ability to delegate your vote and change it with a few clicks.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>It’s a direct democracy. That’s the way it should be. I’m sure the Founding Fathers of the United States, had they known about this technology, they would have designed it that way. Why wouldn’t you? We are thinking about on-chain governance from the beginning, and we’re designing it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s good.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>Actually, that’s one of the beautiful things about going last in this game. We got to see all these other projects, like Tezos that just focuses on governance. OK, that’s interesting, a study that we said...</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>We got to study these protocols, to pick and choose the parts that we liked, the parts that we didn’t think worked out very well. We’re trying to build a unified plan, of very long-term thinking. I personally believe that this type of technology is game-changing.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>It’s simple, in a sense, but I don’t think, originally I didn’t realize how much non-trust there was, how many middlemen, non-trust, and how important transparency was. Of course, you say that, it sounds like, &quot;Yeah, it’s obvious.&quot;</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>When it’s technologically and mechanically proven to provide that kind of capabilities, it does change society on a big, big scale.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It does.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>It changes things, really, We are thinking about on-chain governance. I think the future of government is going to be direct democracy. If not on planet Earth, at least on Mars.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. We’re doing our part by handing out PKIs to foreigners as well. There’s [Chinese]. There’s this combo card with IC and NFC interfaces that we can currently use to file taxes and whatever.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Just last year, we started handing it out for foreign people as well. People told us that the digits don’t look the same, because the national ID here has the digital as the second letters, the letters as the second letter for foreigners. That’s going to change, too.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>It’s all going to be unified.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s all going to be unified with numbers. Foreign people becomes like A7, or 8, or 9, where we are like A1 or 2, or 0. I’ll be using the zero.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>I think it all speaks to a much more, as you said, a more digitally aware way of the building blocks of democracy.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>That’s wonderful, that’s wonderful. Actually, I’m curious, I would love to hear in a snapshot, what do you think the world’s going to look like in 20 years?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Wow. [laughs]</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>I would love to see you think the world is going to look like in 20 years, as far as let’s just talk about governance.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>First of all, I am not a crystal ball. [laughs]</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>I know, of course.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I tend to think that the future is already here, just not evenly distributed. We see a lot of potential futures. In Taiwan, what I can say for sure is that 20 years from now, the Jade Mountain will be exactly one meter higher, because it’s growing five centimeters every year. [laughs]</p>
+        </speech>
+        <speech by="#Juin Chiu">
+          <p>We know that. We know that’s true.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s a metaphor, too. If you’ve been to Taroko Gorge, you can see how the plate tectonics clash, the Pacific on one side, and the continent on the other side. That’s actually what shapes Taiwan. In 20 years, we’ll have as many earthquakes and typhoons as, maybe more, because of climate change.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That describes not just the meteorological, as measured by the civil IoT system, but also the social changes as well. The authoritarian past, and the democratic future is going to clash event more violently than we saw in the referendums the past month.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If we do our earthquake prevention right, if we do smart governance through accountable and transparent institutions, then everybody raises higher. As you said, in a more benefiting from the plurality — we get to curate from the best of the direct, participatory, and representative democratic thoughts.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s if we make the society itself resilient enough to survive these ideological clashes. That’s for Taiwan. Whatever happens to humans, the Jade Mountain will raise.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Joshua D. Tobkin">
+          <p>That’s for sure. That’s one thing I’ve noticed. I have lived in different parts of Asia before, in Hong Kong, some time in China, in South Korea. Taiwan is very progressively, politically, and the society.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>Small things like not having trash cans all over the place keeps it clean. Sure, Taipei, especially is an older city, but it’s a clean city. That goes to show a lot about just the people. It’s interesting.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Just this space, there’s a lot of thoughts put into universal design, accessibility, and things like that.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>That was wonderful. You guys have any other questions while we have Audrey’s time?</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>Yeah. That was our proof of concept that we showed. We’re also working on RNG protocol. It’s interesting, because we’re trying to create a non-deterministic random number generation using live data, having consensus on the nodes that get the live data, and it goes through a morphing algorithm.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>Essentially, we were solving a problem that we want to, for our chain, we want a higher level of random number generation for security, and for also equitability, so everyone has an equal chance.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Scalable consensus.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>Exactly.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I have read the light paper; I know the math.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Not all of it, but an overview of the problem space.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>That’s great. Actually, you mentioned the IoT all around Taiwan, trusting government sources. These are, maybe at some point, actually, it would be pretty cool if we could integrate with that data.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>Pull in high entropy sources from barometer data.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>From sensors.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>From sensors, exactly.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>As long as you go to the DSP, you can see through the sensor things platform all the existing...</p>
+        </speech>
+        <speech by="#Juin Chiu">
+          <p>Audrey passed the UI over to our channel, so check it out later.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’ll have a larger grant/competition next year, anyway. Feel free to make creative use out of it.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>Wonderful. That sounds great. We do have a lot of cool things under the hood that we’re planning. Anything we have on our website is just our, we didn’t publish everything. We’re actually working with a couple of PhDs in January that are experts in DHT, distributed hash tables.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>We’re doing the right thing by sourcing out and connecting with people that are smarter than us, or more expert in different fields, bringing them together, and sourcing the right people.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>I have one more thing. We’re thinking on the lines of when we should open source. We have this idea of seeding our network with ultimately good actors, hopefully. Our idea is to see the network with at least 30,000 nodes before we open source. That was the idea, to just protect us in the short run.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Closed beta and stuff.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>Yeah, it’s like a closed beta.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>Is that aligned with...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That sounds good.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>Cool, like a milestone where we feel like the network is...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For early participants, you probably have to do at least read-only source access to the people running those nodes, because otherwise there could be a bottleneck for...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Jon Jones">
+          <p>Take over the government.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>No, totally. We’ll make it clear that it is our 100 percent intention to open source it, once we feel like we’ve sufficiently seeded it with a majority of good actors. These systems can be delicate. I appreciate your time so much.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The open source community, I think, appreciates a project that is not just put out as a package, but actually has some discussion and some internal conversations around. That’s actually, when I was working with Apple, I think they handled the Swift open source really well.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s not just a shiny new language putting out there, but actually a real community, and also seeded with good actors, so to speak, and with the full intention of getting it portable to non-macOS systems, and fully interoperable by intention on day one.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course, that delayed the open source a lot. They had to put everything together for the project to be in a useful position on day one, when it’s open source. There’s an internal user group thing. I think developing in the open, in the front of those early adopters, makes a lot of sense.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Just make them, not just early adopters, but essentially collaborators. They don’t actually have to understand the code, the math, and whatever, but they can join with the confidence that they are running something that they are part of.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That creates also loyalty to the community. Especially if you’re running it as a liquid democracy thing, I think it’s very important that people understand that, just like the electoral law, and all the interpretations, they are all free of copyright. You can’t get sued if you copy the laws itself.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think at least the core rules pertaining to the liquid democracy, that really needs to be completely open.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>Absolutely. Basically, I just want to make sure we’re on record that we’re committed to open source, and to participate that route. It’s just a better way to develop, anyways. Thank you so much for your time.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>We will definitely stay in touch.</p>
+        </speech>
+        <speech by="#Jon Jones">
+          <p>Maybe we could set up another meeting in three month or so.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>Yeah, just to show you guys what we’re doing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Checkpointing.</p>
+        </speech>
+        <speech by="#Joshua D. Tobkin">
+          <p>Yeah, checkpointing, exactly.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Jon Jones">
+          <p>Can we have a photo?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Oh, yeah, sure.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
