@@ -18,8 +18,6 @@
         </TLCPerson>
         <TLCPerson href="/ontology/person/::/羅柏" id="羅柏" showAs="羅柏">
         </TLCPerson>
-        <TLCPerson href="/ontology/person/::/盧胤雯" id="盧胤雯" showAs="盧胤雯">
-        </TLCPerson>
         <TLCPerson href="/ontology/person/::/賴致翔" id="賴致翔" showAs="賴致翔">
         </TLCPerson>
         <TLCPerson href="/ontology/person/::/陳嘉豪" id="陳嘉豪" showAs="陳嘉豪">
@@ -154,16 +152,16 @@
         <speech by="#林雨潔">
           <p>財政部部分，目前臺灣中小企銀已經開辦了添好孕貸款，以上是彙整各部會的報告，衛福部的部分要麻煩衛福部進行說明。</p>
         </speech>
-        <speech by="#羅胤雯">
+        <speech by="#盧胤雯">
           <p>衛福部補充有關於本案的辦理情形，第一個是針對醫療協助跟補助的部分，這個部分針對產前遺傳的診斷、唐氏症篩檢的相關配套，有一些是優先提到羊膜穿刺補助額度，針對多胞胎的部分，有一部分還要作研議，這個部分都是在相關的資訊提供。</p>
         </speech>
-        <speech by="#羅胤雯">
+        <speech by="#盧胤雯">
           <p>有關於剛剛提到公幼托資源的部分，衛福部現行有五個縣市是採多胞胎共籤，或者是家長自行選擇的抽籤方式。</p>
         </speech>
-        <speech by="#羅胤雯">
+        <speech by="#盧胤雯">
           <p>另外，在育兒津貼的部分，因為這個跟等一下的提案人有一些關聯，今天院裡整合做這一個部分，所以這個部分我們就不特別補充。</p>
         </speech>
-        <speech by="#羅胤雯">
+        <speech by="#盧胤雯">
           <p>另外，有關於社會支持的部分，衛福部也會來協助，也就是有關於家暴、兒虐及防治的這一塊，有關於相關資訊的整合，部裡面也會針對現有相關資訊來作友善整合，以上補充。</p>
         </speech>
         <speech by="#唐鳳">
