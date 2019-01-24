@@ -28,8 +28,8 @@ var x = document.getElementById('input').value;
       out += (replace$.call(ln, /^\s+/, '').replace(/\]（(.*?)）/g, ']($1)')) + "\n\n";
       continue;
     }
-    if (/[：:]$/.exec(ln)) {
-      out += "### " + (replace$.call(ln, /[：:]$\s+/, '')) + "\n";
+    if (/[：:]\s*$/.exec(ln)) {
+      out += "### " + (replace$.call(ln, /[：:]\s*$/, '')) + "\n";
       continue;
     }
     if (/^[（(]/.exec(ln)) {
