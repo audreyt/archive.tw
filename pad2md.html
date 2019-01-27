@@ -29,7 +29,7 @@ var x = document.getElementById('input').value;
       continue;
     }
     if (/[：:]\s*$/.exec(ln)) {
-      out += "### " + (replace$.call(ln, /[：:]\s*$/, '')) + "\n";
+      out += "### " + (replace$.call(ln, /([：:])\s+$/, '$1')) + "\n";
       continue;
     }
     if (/^[（(]/.exec(ln)) {
