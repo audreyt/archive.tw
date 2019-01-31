@@ -1,0 +1,1019 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/洪彗庭" id="洪彗庭" showAs="洪彗庭">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/葉松霖" id="葉松霖" showAs="葉松霖">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/謝宛庭" id="謝宛庭" showAs="謝宛庭">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/鄭鈺潔" id="鄭鈺潔" showAs="鄭鈺潔">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/黃子維" id="黃子維" showAs="黃子維">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2019-01-15 AP Buster 團隊來訪</heading>
+        <speech by="#唐鳳">
+          <p>我們會做逐字稿，我們會有一個共筆，大家都可以編輯。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>今天就是想瞭解一下，因為以我的理解AP buster是環保署那70幾個點，然後再加上空氣盒子？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>我們沒有加空氣盒子。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以全部是用「國家測站」的點。事實上環保署最近已經有一個……我不知道你們知道不知道「wot.epa.gov.tw」？就是 aiR 空氣網，他們現在有放「政府感測器」，這個是環保署的，已經多非常多點了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>政府感測器的概念是微型測站，掛在好比說路燈上的一些國家維護位置上，大家最關注的，像工業區之類的，會按照大家關注的程度去佈國家的點位，就會比本來的那77個要稍微細一點。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>第二，如同你們看到的，現在的分布並不是很均勻，之後還會再多補一些點。所以會變成如果即使要做反投放，很可能是在掌握比較到的這些地方，不然就是變成要用LASS的資料。但是你們本來沒有……我看簡報，本來以為你們有用LASS的資料？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>LASS下面有環保署的API，我們是從API抓data下來，但是那個data是記錄測站的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>實際上沒有用到空氣盒子的資料。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>剛剛有聽到新聞稿換成鄉民語言，也包含翻譯回去的部分嗎？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>還有？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>其實還有一個預測模型，針對PM2.5的歷史資料，可以預測下一個時間點，就是比較長做在空氣污染資料庫上的預測。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>比較典型的題目。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>對，比較典型的空氣資料。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>下一個小時之類的？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>拿著feature就是風速、風向、PM2.5的值、月份及小時。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>風速、風向及時間？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以其實不是用擴散條件的固定公式，而是機器學習，覺得怎麼樣就怎麼樣？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那很好。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>因為我們只預測下一個小時，所以很準，算是滿準的，但是確實會隨著預測的時間，會遞減。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>新聞稿轉鄉民這邊，我覺得很有意思。因為要想辦法讓公務同仁都從新聞稿改成鄉民語言，其實對他們來講是認知上的轉換，並沒有那麼容易。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就很像我如果跟他說因為雙語國家政策，所以新聞稿你們都要用英文出，那會覺得新聞稿要訓練兩、三年的程度。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是如果有類似google翻譯的API，他們繼續寫中文的新聞稿就好了，只是我們要有一個英文校正的人去看中翻英出來的那個東西到底有沒有問題，但是看著這個時間是遠小於翻譯的時間，所以對所有人來講都是省很多力氣。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>同樣的道理，從官話翻成鄉語，如果能用某種方式，就可以有效一直產生出鄉民語言，他們只要有一個鄉民把關就好了，最後放出去以前，看一下就可以了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>第二，反投放的部分，我們在CI的時候，我其實不是很確定你們反投放的方式、做法及內容是什麼，所以這一個部分也可能可以稍微解釋一下？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我最終的目的其實會想要回去跟民生公共物聯網的指導單位，也就是科技會報，介紹這件事情。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是怎麼做也是要跟你們討論的，畢竟從你們的身分投放是一個做法，從一個學校的身分投放是一個方法，從環保署的官方帳號投放是一個做法。這個也想聽聽你們的意見。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那就請用這些模組一開始的想法、實際的狀況跟我們說明一下。</p>
+        </speech>
+        <speech by="#謝宛庭">
+          <p>先從第一個，一開始的想法就像剛剛所講的，想要在PTT這個平台po文，如果要po文給鄉民的話，就要用他們的語言，所以那時我們就在想我們有的東西是什麼，我們有的東西就是新聞稿的內容，因此我們利用PTT蒐集一個關於空品議題的新聞資料庫。</p>
+        </speech>
+        <speech by="#謝宛庭">
+          <p>另外我們也需要了解鄉民講話的方式，因此爬一個鄉民在討論空氣品質的資料庫，我們從八卦版、高雄和台中的地區版爬有關空品的標題、內文甚至是回復。因此就有兩個database。</p>
+        </speech>
+        <speech by="#謝宛庭">
+          <p>在訓練model的時候是用一個轉譯模型。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>沒有問題。</p>
+        </speech>
+        <speech by="#謝宛庭">
+          <p>其實是VAE，可以想像如果autoencoder的話，那就是新聞的input，出來會是新聞的out put，那如果有GAN的話就會生成另外一個風格，以這次的應用來說，就是從新聞風格變成鄉民的風格，當然也是能從鄉民的風格變成新聞的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>後面這段有沒有測過？</p>
+        </speech>
+        <speech by="#謝宛庭">
+          <p>後面沒有很仔細去看，但是也是有一些結果，但是就沒有很專注去看他的樣子。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那個在輿情蒐集上也很有意義，鄉民的一些意見反映可能會被略過，但是翻成可能很正式的語言，也許就不會被略過。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們現在實際兩邊的資料庫大概有多大？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>其實主要是希望鄉民的資料庫多一點。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是後面的domain多一點？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>新聞稿的話，就是從文章、內容去切句子，但是鄉民會從下面的推文。因為剛剛有說資料的元素會，我們會找到資料文章，有關於空氣品質並沒有想那麼多，因此想說回覆一起加進去，然後包括一些比較直白或者是比較酸的話。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>我們還有做一件事，也就是政治類的刪掉，也就是寫政治人物，有關於政治的……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>某某負責。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>就是有一些市長的名字特別容易出現，就是把整句過濾掉。</p>
+        </speech>
+        <speech by="#謝宛庭">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>簡單來講，連續推文，是算成一句？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對，有出現這個情況，也就是有可能會斷，因為我們是手動切的，就自己看。應該是可以寫成一個rule base。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，這個不難。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>就直接爬下來，然後一個個切。我們要風格轉換，所以我們也有一定的限制，我們希望兩個資訊，一個是空氣品質的資訊，第二個是地區的資訊，因為我們要跟測站作連結，測站在哪一個地區，轉出來的文字就要包含那個地區跟那個地區的空氣品質資訊，所以我們在做的時候，一定要看包含某個縣市的名字、測站的名字，怎麼描述都要說。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是這個跟地區有什麼關係？南部人講空氣品質不好的方式，跟北部人不一樣嗎？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>地區的目的是為了跟測站的資訊連結。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是地區是填空的？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以要有地區，但是不依賴於地區？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對，就是一定要跟地區。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>空品越壞越強烈，就是single dimension？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>他們講的方法。</p>
+        </speech>
+        <speech by="#謝宛庭">
+          <p>應該是說在PTT上面po文只要有紅色警報的時候就會開始po文，紅色底下就不太放。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以等於只有一個bit而已？</p>
+        </speech>
+        <speech by="#謝宛庭">
+          <p>對，他們那個就是紫爆或者是嚴重之類的。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>很難說特別強烈，他們都有一套形容的方法。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>OK。簡單來講，你們基本上是只有看有人在講空氣品質？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對。如果形容是好的，我們會抓下來，我們會看是不是只有抓抱怨的，但是很多是講反話，所以我們都拿下來放到我們的資料庫裡面。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>反正紫爆的時候一定會有人放，但是PO的時候可以用各種創意的方法講出來？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對，不管是正向或者是反向，都會有他的效果。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>瞭解。所以並沒有按照時間去做序列，完全不管，因為假設鄉民的風格從之前到現在沒有改變？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>新聞稿也是一樣的情況？</p>
+        </speech>
+        <speech by="#謝宛庭">
+          <p>對，新聞稿都是紫爆或者是紅色警報的時候才會有稿出來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是title或者是全部？</p>
+        </speech>
+        <speech by="#謝宛庭">
+          <p>都有。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>一開始去看標題，反正太少了，就全文，然後找了有用的句子當作我們的資料庫。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個新聞稿在描述某個區域空氣品質狀況不好，所以你的translation是同一區域嗎？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>不是，但是也是講某個區域的空氣品質不好，我們可以做替換，替換我們要去。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是這個替換是？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>Rule based。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以你要做的事情在preparation stage，就是你把那裡面區域的部分detect到，然後變成一個token，實際在轉換的時候，就是把那個地區塞進去這樣子？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個domain有什麼差別嗎？只是你的variation會變多，就是推文的domain變多，有什麼好處嗎？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>你是說有關地區嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，你剛說希望corpus變大……</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>鄉民的句子有太多種風格，就是你很難想有正面跟負面，我們還是希望越貼近他們越好，所以鄉民的句子風格變成是越大越好，跟地區沒有什麼關係，但是句子的風格，鄉民很多變，因為每個鄉民的風格不太一樣，所以我們希望更貼近那個平常人講話，因此我們也希望鄉民的corpus越大越好。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>因為通常都是對某個地區去進行空氣品質的描述，我們也希望描述儘量相似，就是形容的方法不一樣，因為本來句子不少，要上百萬句做英文的比較快，也就是講話風格轉換，所以這個比較小的domain上的話，會希望他們儘量match在一起，做得比較起來。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>可是這個是by character？就是他的variation，是直接挑你當初domain裡的某一句，但是替換掉？還是沒有，就是一個個字生成？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>一個個字。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>一個個字生成，最壞的情況是token跟本來的重複，是嗎？就是幾個字repeat？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是自動翻譯，有時候會兩個token一直repeat。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>現在train的情況已經收斂了？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>其實仔細看會有一點卡，但是假如事先不知道的話，我覺得是可以處理。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們沒有做圖靈測試？（笑）</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>還沒有。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以我可以看到一個好比像sample，你沒有放在網路上嗎？或者是放在哪裡？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>PTT。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們有放回PTT？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>有。可以找那一篇，但是現在找不到。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>好像找得到，有人跟我說有人去找。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們現在已經有一個帳號了，就是機器人的帳號？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>已經有了。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>被附身了。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>因為需要一定的限制。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>就會被肉搜。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>我第一次PO的時候超緊張，超怕被水桶。</p>
+        </speech>
+        <speech by="#謝宛庭">
+          <p>可是我在想資料庫大不大，也有跟每一段時期鄉民講話的風格有關。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>那時候剛好選舉前。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>特別酸？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>這一類的文章特別多。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>其實鄉民風格很難。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們在比賽那一次的……</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>要投影到上面嗎？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>可以。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>比賽那一次的投影片上面……潮州……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我是評審團召集人，這個簡報我有看過。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>是要看那個之外嗎？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>就是其中一篇。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>可以投影嗎？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>直接投。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>這個是轉出來的，我們轉出來是當title。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>內文呢？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>我們有template，因為我沒有辦法生成那麼長的句子，我們是一句句，我們只能一句map到另外一句。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個我理解。但是潮州跟高雄？</p>
+        </speech>
+        <speech by="#謝宛庭">
+          <p>因為是在講工業區。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>我們那時候有把市長的名字切掉。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個是每一個地區是不同的template？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>這個不是我們的，這個是鄉民回我們的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個是網友回文？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你show的本來那一篇，這個順帶一提，也是可以生成。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個也是滿厲害的，不太需要domain knowledge。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>我們問過。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>這個也是自動放上去的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個我知道。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>下面有回覆，十幾分鐘後也有剛剛那一篇。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>內文這一句不是生成的？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>不是。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>中間那一句也不是，中間那一句是新聞句。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>我們新聞句也有拿進來用，但是當作新聞用。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以後面是新聞句。「東北季風」的部分？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>那個是模板。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>模板是套實際的風向進去嗎？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>沒有季節。所以是這一句話的這個標題。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>喔！OK。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>但是轉出來當標題。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>新聞句當body，然後帶進去的是地區。然後「有沒有卦」也是模版？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對，因為要滿足一定的字數才可以po文，所以我們轉不出那麼多字，所以只好用這個。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>空氣品質是API生成？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對，我就用那個API，會自動生成圖片，然後再一起去。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>從這個圖片看得出來只有官方測站？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對，這個有一點陽春。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>至少那個圖片可以請某個廠商換掉。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>這個是鈺潔自己做的圖。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對，她手刻的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>手刻的意思是？</p>
+        </speech>
+        <speech by="#鄭鈺潔">
+          <p>寫一個code去讀data進來，然後自己去畫。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>然後打幾個同心圓？</p>
+        </speech>
+        <speech by="#鄭鈺潔">
+          <p>還有很多版本，那個是同心圓。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>原本還有菱形的。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>我們覺得這個比較自然。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>OK。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>我們不知道怎麼放下來。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>就是screenshot，或者是直接放APP抓。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>還沒有全自動，所以自己生。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就是高過一定的預設值，你就去PO。這個還有在運作嗎？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>我們不敢運作。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>對，因為這個圖太明顯。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個圖只出現一次。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>我們放過兩次還是三次？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>可是前面還沒有圖。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>是複賽的時候……</p>
+        </speech>
+        <speech by="#鄭鈺潔">
+          <p>再建議加一個圖。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是按照這個邏輯，其實你們推文也可以回，對不對？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為你推一張圖的道理是一樣的，在大部分的web介面上還是會顯示成一張圖，如果沒有記錯的話，所以事實上也可以是別人PO了，然後你會回覆？</p>
+        </speech>
+        <speech by="#謝宛庭">
+          <p>對，但是如果要做到那個的話，就要先做輿情分析，先知道他們講的話。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>就從回覆去看。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>是被推爆就要趕快看一下。</p>
+        </speech>
+        <speech by="#謝宛庭">
+          <p>可是要回什麼，也要看他們到底講了什麼，而我們要回什麼的感覺。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個簡報裡面不是有提到嗎？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>其實現在做的並沒有針對回文的內容，如果想要回文，就像剛剛所講的，需要針對鄉民的po文或者是內文，先做一點，然後再決定到底怎麼樣的……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們知道「美玉姨」嗎？他們是去比對一個謠言，然後高達八成像就回，其實是非常簡單的邏輯。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以一開始有些謠言只是一個網址，然後再補回，其實是完全不同的東西，好比說youtube後面的代碼，因為每個後面都有幾位數的代碼，所以兩個影片可能前幾碼都差不多。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>為什麼？</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為內文就只有一行網址，所以剛開始的時候，網址八成像也算八成像。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>好白癡！（笑）</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就有使用者反應說這個不是謠言，為什麼被回，因為網址只差幾個字。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以如果要往這邊做的話，就要去看在版上放的，看起來像鄉民會加空氣品質的文章，八成像再跳出來之類的，這是future work，還沒有實作？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>沒有。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們現在爬哪一些版？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>八卦而已。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>新聞也是從八卦，然後「新聞」的那個tag？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我本來以為有地區版。所以沒有地區版？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>有想到過，還沒做（笑）。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>精確度不太夠。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>有爬高雄的啦！</p>
+        </speech>
+        <speech by="#鄭鈺潔">
+          <p>好幾個有在講空氣品質的地區。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>就台中跟高雄。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>因為很多地區都沒什麼人，但是最多的是高雄。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>高雄版，你全部混起來，並不是在高雄那邊有另外一個模型？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>其實沒有，我們都同樣一起做，因為後來是地區也可以做完，就還好。不過會吸引哪一個縣市有關於空氣污染PO文最多的是高雄、台中及台北。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>瞭解。好比像你爬高雄的，你就看到像高雄空污這一句話？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對，有包含高雄。還有空氣污染，還有再過一個，也就是我們過濾政治類的文章。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>瞭解。放回去基本上就是你剛剛所講的概念，你生成的是標題，前面那個domain是亂數挑一句？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>一開始生成的嗎？</p>
+        </speech>
+        <speech by="#鄭鈺潔">
+          <p>亂數挑一句。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>Input那邊是random sample？</p>
+        </speech>
+        <speech by="#鄭鈺潔">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>原因是沒有好的ranking方法？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>也沒有多什麼程度可以講什麼話。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好比像激起的推文數量，好比某一些寫法，就會比較有人回。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>空污這個議題推文的數量，我覺得都被弄掉，都是政治的，如果是推文數量的話，因為那時有稍微看一下，有關於政治議題。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>重點是下面並不帶風向，並不是當時記得風向。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>他們就是想要這樣做。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>你為什麼要這樣說？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>我在選舉前看文章是這樣子，但是還是一群人認真討論這一件事。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>回覆你們是說是有機器人？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>不過就兩篇而已嗎？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這樣我大概瞭解了，有沒有什麼想要補充的？像future work，你們會想要在什麼別的domain上做嗎？</p>
+        </speech>
+        <speech by="#謝宛庭">
+          <p>應該是看需求，如果希望內文也可以自動生成的話，可能要著重那一塊，那就是一個model，像一開始新聞的句子怎麼出來，那又是另外一件事，一開始的句子，我們現在是做sample，要怎麼挑這一句話之類的，那又是另外一件事，如果想要分析回文，然後我們可能有回覆別人之類的，那也是另外一塊，就是看現在的需求是什麼。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>而且像這個可以應用的……因為現在是空污的這一件事，其他那三個資料庫，如果PTT上面，他們也有針對這一種東西會碰的話，其實好像也可以做。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，當然。防災絕對有很多相關的，地震當然更多，但是地震大部分都是兩個字而已，好像怎麼change就是這樣子，大家都沒有時間。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>想像空污要不要做。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>OK，好喔！應該這樣講，你可以投一下你的簡報嗎？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>可以。其實也可以做在其他的social network，PTT比較有自己的……其實做在自己的，像用新聞的語句講應該就可以了，做在FB或者是做在其他的上面。</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>（處理網路中）</i>
+          </p>
+        </narrative>
+        <speech by="#唐鳳">
+          <p>趁處理投影的時候我問一下，你們的預測模型是看他一小時之後，預測會高過一個水準就去做嗎？本來的想法是什麼？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>本來的想法是預設下一個小時會很嚴重，或者是當下就很嚴重。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，因為預測下一個小時是有意義的。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>好像有三個。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>真的。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>我們先預測那個值，再看我們要設哪一個section。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>OK。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>不過有評審說變化其實沒有那麼快，並不是一個小時之內就可以變化那麼大。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，但是那也是因為你們現在用的測站都是比較長的測站，對不對？如果他們新佈的那一些衛型感測器，每3分鐘就有一個比較能做。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>中間那個就是警示器，也就是大規模的時候，會自動放到PTT上。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我剛剛講的意思只是說，如果解決方式比較小的話，好比像是微型測站，我看到的空間比較密，理論上可以預測到比較小尺度，就是不會像高雄的空氣，而是某一個小區域的空氣。這有沒有用是另外一回事，但是我是說應該做得到而已。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>鄉民風格回來的這個我們沒有sample。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>沒有。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是你們可以隨便挑，就是骰一句你的鄉民domain就翻得回去，不是嗎？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>可以。但是現在出來的結果可能會滿大概……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我可以看一下兩邊的資料庫長什麼樣子嗎？我大概可以腦補。你們都是整篇文章來，然後你們自己按照句號去切斷點，然後過濾，全部就這樣子？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>如果是鄉民的話，那還要加推文。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>感謝，差不多了。子維有沒有要瞭解的？</p>
+        </speech>
+        <speech by="#黃子維">
+          <p>我有幾個好奇的地方，你們當初做這一件事，初衷是什麼？單純是為了比賽……</p>
+        </speech>
+        <speech by="#黃子維">
+          <p>還是因為PTT上面有一些訊息，不管你講的，他是在帶風向，或者是跟事實不符，除了比賽這個動機以外，我只是好奇你們有其他的部分？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>因為之前有看paper，是做prediction，做prediction是用FB上面的response，像response frequency，可以預測得更準確，因為在比較local的地方，像從衛星雲圖上，或者是照片上沒有辦法很精準看得出來，空氣污染是很嚴重的，但是透過在那個地區的FB上，可以更準確。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>因為FB的資料不好拿，可以想到社群在臺灣的PTT最大，因此最後想要看，然後看是不是發展到可以丟一個訊息到這個社群看有沒有回應。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>是看po文的次數。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>看這個平均會高一些。所以其實很直觀，空氣嚴重的時候會想要發廢文，然後看一下很多是暴雨，所以想說是不是可以做這一件事，就是從測站的數字來轉換成文字，這個是比較客觀的，不帶政治色彩。</p>
+        </speech>
+        <speech by="#黃子維">
+          <p>你們有想像過這一件事或者是你期待接下來怎麼發展，對你來講？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>沒有。這個是很簡單的，我覺得很有趣，真的做得起來，就去看看是不是真的有回覆。後續也有想過是不是在回覆端，其實沒有什麼時間，因為原本的過程都非常地緊湊，我幫他準備資料庫，那時的壓力就很大，因為不曉得是不是做得起來，所以就沒有想那麼多。</p>
+        </speech>
+        <speech by="#黃子維">
+          <p>我的意思是，假設你們有更多的時間或者是更多其他的資源，因為你剛剛說發了兩篇文，你會希望常發這個文，目的是把正確的訊息，也就是環保署77個測站的資訊帶到PTT，你會希望頻率更高、內文更準確還是怎麼樣？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>我們想說可以再設計，可以隨機一點，感覺很容易被抓出來。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>大家都知道這個帳號是政府這一端在po文的，大家的回覆就不會是那麼客觀，就不像一般可能回覆的樣子。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>最初的想法是這樣子。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>在鄉民中PO這個文，拿到一些real的意見，但是一旦頻率太高或者是怎麼之類，就不是這樣子。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>如果是專門回文的話，就比較沒有這個問題？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>對。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>PO文的次數不可以太頻繁，但是回文的次數可以每一筆回怎麼樣？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>對。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>就是隱私很低，抓誰講話頻率，我有看誰在這個議題上講什麼話。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>像radit上面其實有一些說自己是機器人，就是維基百科機器人或者是什麼機器人，就是有一些觸發條件，但是PO的時候很明確說是機器人，就是專門回文。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>就是設定這樣的角色。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>對，如果回文的話，倒是沒有這一種一定要是真人的感覺，你說你是機器人的話，好處就是就算有一些詞句不太行，他就覺得機器人本來就是這樣子，也要求不會那麼高。</p>
+        </speech>
+        <speech by="#黃子維">
+          <p>最後一個問題，因為你們有觀察PTT上的貼文跟回文，我好奇的是，就你們的觀察，在PTT上的討論，不管是有意或者是感受，空氣品質對於鄉民來講，會連結到的政治人物，像被你們過濾掉的，是地方還是中央？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>是中央。</p>
+        </speech>
+        <speech by="#黃子維">
+          <p>當台中的空氣不好，就你們的觀察，大部分的人在選舉前是罵林佳龍市長或者是？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>罵中火。</p>
+        </speech>
+        <speech by="#黃子維">
+          <p>就是罵台中火力發電廠。就是連結因果關係？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>大部分是這樣。兩個候選人都有。</p>
+        </speech>
+        <speech by="#黃子維">
+          <p>兩個候選人都有？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>都酸。</p>
+        </speech>
+        <speech by="#黃子維">
+          <p>不太會提到環保署或行政院？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>都不會，都是市長，很多。</p>
+        </speech>
+        <speech by="#黃子維">
+          <p>高雄也是這樣？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>陳菊也是。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>像柯P都是，工業區，過濾掉那一些就可以過濾掉非常多。</p>
+        </speech>
+        <speech by="#黃子維">
+          <p>幾個關鍵字就cover到了？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>很多。還有賴……賴什麼的……</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我看到推文裡有出現。</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>（demo中）</i>
+          </p>
+        </narrative>
+        <speech by="#謝宛庭">
+          <p>右邊是新聞，左邊是鄉民的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個是已經結巴斷詞後的？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對，我會再塞，這應該是比較乾淨的。</p>
+        </speech>
+        <speech by="#謝宛庭">
+          <p>但是這個是資料庫，並不是轉換前後的句子。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>右邊是新聞稿？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>對。</p>
+        </speech>
+        <speech by="#黃子維">
+          <p>這樣是一句一句對照嗎？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>沒有。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>沒有意義。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>所以是PTT資料庫多很多。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>像這一句，有地區嗎？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>沒有。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以是那一篇有地區？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>對。其實也會加幾句比較偏激的話。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>因為是一個個字生成，所以就會去學前後的關係。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>會想說一些罵人的話。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>這個分詞是怎麼樣？我的意思是，「是不是」是一個生成的token？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>其實發現很多，但是後來發現繁體中文的字典，切的效果就非常好，後來換一個字典之後就很不錯，我就找到一個很不錯的字典。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>我也有再新增一些詞進去，我手動切，反正可能比較切不好的句子，我再手動調整詞頻。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>所以這個詞典有「阿姆斯特朗」。可是「功德院」被切成兩個詞。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>沒有把「功德」篩掉。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>沒有嗎？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>我有篩「賴功德」，但是沒有篩「功德」。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>可是「做功德」已經是一個形容詞，在講人。</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>這個是正向的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>但是像這個，「台中市吸火力發電廠的廢氣給北部用」，你生成到這一句話，這一句話可以用嗎？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>不會到生成，因為我們有一句是「人民吸廢氣」。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>它不會生成一樣的話。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我知道，但是這兩個token的前後關係很怪，對不對？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>有一點。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>好，這個我瞭解了，謝謝。果然還是要看資料會比較清楚。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>你們自己會有意願要發展這個嗎？</p>
+        </speech>
+        <speech by="#葉松霖">
+          <p>（搖頭）</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>瞭解。那會有意願好比像指導接下來做這個的同仁嗎？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>如果有人有興趣，想要繼續把它發展上去的話，我們很希望可以，我們自己沒有時間。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我覺得你們指導也是滿好的，也是確保有符合本來的想法。所以這個source code你們打算怎麼處理？</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>還沒想。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我之前寫的是open source出來，誰要就拿過去用之類的。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>因為放github有一個好處是美玉姨為何要先放github，然後再讓大家知道，主要是沒有留log，第二個是除了cofact之外的別的資料庫，等於是非常紅，覺得什麼是謠言、什麼不是謠言，有些問題你可以看source知道什麼時候修好的，至少滿好看的，如果你們也覺得短期之內沒有想做的話，把它丟github是一個可能性，大家都有一把槍，不會有誰撿到的問題。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我差不多了。我想我們有十天的時間可以編逐字稿。年後我們再找時間來看一下，如果那個時候你們有一個preview，倒不需要包成什麼套件。</p>
+        </speech>
+        <speech by="#洪彗庭">
+          <p>我以為說包成docker。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>那個我來包就可以了。在某個specific……的東西，其實也不需要prediction model，就是你剛剛講take and train，那個是第一個部分，如果可以的話，丟到上面，然後貼網址給我的話，我至少自己看過，跑不跑得起來再說。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>我們相關的討論會做逐字稿，我們等於用非同步的方法繼續這一個對話。但是最終的目的是，確保真的想要做operation的同仁，有充分的授權去公開做這個operation。如果對研究有興趣的人，繼續拿得到版本資料，就是你們也可以覺得這個未來有什麼想法，你們可以用顧問的角色告訴他們，我目前的想法是這樣子。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>如果直接是用環保署測站的話，無論是國家測站或微型感測器，我覺得還是可以從比較客觀的domain開始。</p>
+        </speech>
+        <speech by="#唐鳳">
+          <p>謝謝大家。</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
