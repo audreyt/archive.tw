@@ -1,4 +1,5 @@
 <html><meta charset="utf-8">
+<script src="convert.js"></script>
 <style>
 body, html { padding: 0; margin: 0 }
 textarea { width: 100%; height: 50%; padding: 0; margin: 0 }
@@ -11,46 +12,6 @@ textarea { width: 100%; height: 50%; padding: 0; margin: 0 }
 <script>
 function convert(){
 var x = document.getElementById('input').value;
-
-  var out, i$, ref$, len$, ln, replace$ = ''.replace;
-  out = '';
-  var names = {};
-  ref$ = x.split(/\n+/);
-  if ((ref$.length > 0) && (!/[：:]/.exec(ref$[0]))) {
-    out += (ref$.shift() + "\n");
-  }
-  for (i$ = 0, len$ = ref$.length; i$ < len$; ++i$) {
-    ln = ref$[i$];
-    if (/^\s*$/.exec(ln)) {
-      continue;
-    }
-    if (/[\(\[]crosstalk[\)\]]/.exec(ln)) {
-      continue;
-    }
-    if (/[-'ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ\w ]+:(?!\d)/.exec(ln) && /^((?:\s\w\.|[-'ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ\w ]+)+):(?!\d)/.exec(ln)) {
-      var n = RegExp.$1;
-      if (/ /.test(n)) {
-        names[n.replace(/ .*/, '')] = n;
-      }
-      else if (names[n]) {
-        ln = replace$.call(ln, /^(?:\s\w\.|[-'ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ\w ]+)+:/, (names[n] + ':'));
-      }
-    }
-
-    if (/^\[(.*)\]/.exec(ln)) {
-      out += "\n" + (replace$.call(ln, /^\[(.*)\]/, '($1)')) + "\n";
-      continue;
-    }
-    if (/[-'ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ\w ]+:(?!\d)/.exec(ln) && /^(?:\s\w\.|[-'ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ\w ]+)+: +/.exec(ln)) {
-      out += "\n" + (replace$.call(ln, /^((?:\s\w\.|[-'ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ\w ]+)+): +/, "$1:\n    ")) + "\n";
-      continue;
-    }
-    if (/\S/.exec(ln))  {
-      out += "    " + ln + "\n";
-      continue;
-    }
-  }
-
-document.getElementById('output').value = out;
+document.getElementById('output').value = cw2pad(x);
 }
 </script>

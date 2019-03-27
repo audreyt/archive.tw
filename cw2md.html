@@ -10,8 +10,8 @@ textarea { width: 100%; height: 50%; padding: 0; margin: 0 }
 <textarea id="output" readonly style="background: #000; color: white">
 </textarea>
 <script>
-function convert(){
-var x = document.getElementById('input').value;
-document.getElementById('output').value = pad2md(x);
+function convert () {
+    var x = document.getElementById('input').value;
+    document.getElementById('output').value = pad2md(cw2pad(x));
 }
 </script>
