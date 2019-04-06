@@ -1,0 +1,381 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Aurora W.M. Tsai" id="Aurora W.M. Tsai" showAs="Aurora W.M. Tsai">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Greg Wong" id="Greg Wong" showAs="Greg Wong">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Omri Morgenshtern" id="Omri Morgenshtern" showAs="Omri Morgenshtern">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Spencer Low" id="Spencer Low" showAs="Spencer Low">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2019-03-15 Meeting with Agoda</heading>
+        <speech by="#Audrey Tang">
+          <p>Hi.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Hey. First of all, I think I wanted to come personally to reiterate how important Taiwan is for Agoda and how much we consider ourselves...I can say a lot of things about Agoda.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Go ahead. [laughs]</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Two things that I think we are very proud of, for one is that we are very good with tech. We call ourself internally the Silicon Valley of Bangkok.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s great.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>We like to bring a lot of talent in and to grow the local talent internal. Secondly, I think Agoda is very consumer facing. We try to, everywhere we go, and Taiwan is one of our biggest markets, one of our most important markets, put the consumer face first, meaning if there is any doubt whether we can give something more to the consumer, we’d rather take the hit and have the consumer happy.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Directionally, we believe that if the consumers will be happy and we come back, then we prosper.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s a relational, not a transactional relationship.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Exactly. It’s relational. It’s relational. I think there are a few things that we wanted to discuss.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course, you can start a sandbox flow which is, again, a relational, not a transactional [laughs] relationship so that you will have single window into this multi ministry process.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>The question is, do we need to start the sandbox process.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Our fear, to be honest, with the sandbox is how open it will be or whether it’s semi, if we feel that it’s open and won’t contain us. We have other things to talk about that may be relevant to the sandbox, but we can try to do that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In the sandbox, depending on whether the existing regulation needs changing or not, there’s two tracks. There’s a consulting track where we just change the interpretation, but it applies for everyone. There is the experiments track. We work with innovators to say, &quot;OK, let’s try this provisional regulation for a year, just for you, and see what happens.&quot;</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>How long does it usually take when you submit to the sandbox until you know which track you’re on?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s a MSME question. Usually, we take a month to clarify stuff and one month to determine the track. Now it’s already reasonably clarified, so she’s saying one month.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>One month? Got it. Interesting. Probably that’s what we need to pursue.</p>
+        </speech>
+        <speech by="#Aurora W.M. Tsai">
+          <p>Do you have a law firm to represent you?</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you have the law firm, and the law firm plans to contact the MSME maybe mid April, then the one month probably starts counting from mid April. Maybe by mid May, you’ll know whether it’s just a consulting track, or if it’s even more avant garde [laughs] and we’ll have to experiment.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Got it. That’s great. I think we pursued it.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Have you deploy it in other jurisdictions?</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Yes, we are now early stages. We are growing it as we speak. I think we are about to start in the US.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Taiwan is always, from a regulatory perspective, relatively difficult for us to penetrate. On the surface, unless you guys tell me it’s not, it sounds like a sandbox type of activity.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It is well within the kind of consulting track just to make sure which interpretations are in your way, so the speak. Maybe it could be made to work. You’re setting a domestic company in Japan to support that? They don’t require you to become a...</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>It depends on the jurisdiction. Some jurisdictions, they need specifically. In Japan, no, they don’t require anything. We don’t even need to apply for a license in Japan. Thailand, we need to apply for a license, as an example.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You will have to have a local company anyway. That is then seen as a processing company for your overseas HQ. As part of that consulting track, you can say, &quot;But what about us also carrying other payment options that are not specifically for this just transactional pipeline? but rather,&quot; as you mention, &quot;Alipay or Line Pay or whatever else?&quot;</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>For the sandbox?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...for the sandbox. Then they can go through the usual process to say, &quot;Oh, this part is existing interpretation. This part we maybe need a sandbox experiment.&quot; That both simplifies your flow of administration of bureaucracy, and it also makes it much more clear that this is a addition to what you’re already intending to pursue.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Perfect.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For the regulators, it will not be seen as confusing, like you were trying this. If it doesn’t work, that, and things like that.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>We’ll package it to do one thing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Great. We’ll definitely do that because, again, it will be great if we can bring it to Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Definitely.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Last topic is more generic. The question is how can we help generate more business in general? Because we have a lot of people coming, as I said, inbound. We have a lot of time when he is there booking with us.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>The question is what can we do in order to help the government to bring more people to Taiwan? We have all sorts of options at our disposal, from emails that we can send to millions of customers, from ads that we can put on our platform. Push notifications, you name it. All sorts of things that we can do.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>We don’t know exactly who we need to walk with. Under that umbrella, call it, there’s always a question about we know that there were subsidies before that we were part of, and then we got excluded, I think, in the generate subsidy.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>I think we are coming back to those subsidies. There was a new subsidy announced a couple of days ago where now every hotel can decide if they want to accept them. The question about those subsidies, whether we can do something in order to help explain what I mean.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>We understand it’s a pain now for the hotels to get the money back.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s also a pain for the tourism bureau. They’re overlooked [laughs] to just handle those receipts.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>We are very good with tech. The question is maybe we can centralize everything, at least on our bookings. It’s something that everybody else can copy if it works for you.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>We can give the discount, because my understanding is that the hotels give the discount to the...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. Then they go back to the tourism bureau for reinvestment.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Maybe what we can do is we can give the discount on your behalf, and then we can centralize where it going and get the money back. In that way, the hotel, we give the discount out of our own commission, so the hotel is not affected.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>I don’t know what’s the processing collecting in the back, but maybe we can do it centrally. We have the people on the ground, and to go through the processes. That’s another thing that we had in mind. Anything that we can do in order to help either domestic or inbound travel, we want to try and do.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>At the moment, the tourism bureau, according to their regulation, is only accepting those receipts by a postal mail. If you want to introduce the tech, the tech will be on the back end process to help the hotels to generate a month’s worth or a week’s worth of those receipts in a systemic fashion, and then just send it to the post office, and so forth help to minimize their work.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For the tourism bureau, I think at the moment, that part, there’s no mission to mission part is what I’m saying. The bottleneck is always in checking of those receipts. If you’re interested in alternating the hotel’s part, you can as well begin without consulting the tourism bureau.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The tourism bureau, I think, at the moment, is very interested in getting them processed faster. One thought is maybe and I have noticed maybe if you carry some mission to mission deal, to let tourism bureau what happened when.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There hasn’t been counsel with other transaction that actually happened. Of course, they will have to give out those reimbursement only after receiving the receipt. At least there will be no backlog. The backlog can be significantly shortened.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Can we help build a system for the Tourism Bureau?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Have you talked to the Tourism Bureau?</p>
+        </speech>
+        <speech by="#Greg Wong">
+          <p>We’re meeting them this afternoon.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then by all means, bring it on.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>By the way, not only for the benefit of Agoda, for the benefit of all.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think that will be very much appreciated. What I’m saying is that when you present your idea, you can state you’re committed to help the hotels anyway.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then the Tourism Bureau may or may not want to simplify the work, because you’re generating a machine readable receipt. It’s a byproduct. It’s not like you want to do this specifically for the Taiwan space, because it’s just how your system works, right?</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think it would be less seen as you said, that it’s a bilateral deal. Instead, it will be improvement of the existing backlog processing. As for specific cases, have you worked with any Tourism Bureaus on campaigns before, like the Lantern Festival or anything?</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Not that I know.</p>
+        </speech>
+        <speech by="#Greg Wong">
+          <p>No.</p>
+        </speech>
+        <speech by="#Spencer Low">
+          <p>With the Thailand government. You’re looking globally?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, any tourism bureau anywhere.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Globally, yes.</p>
+        </speech>
+        <speech by="#Spencer Low">
+          <p>Globally, yes. With South Korea, and Thailand, Singapore. We’ve had some discussion with Taiwan...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>How does that work? They present a message and newsletters for you?</p>
+        </speech>
+        <speech by="#Spencer Low">
+          <p>That’s right. For example, Thailand went through a period when inbound tourism started slowing down. We were able to use our marketing power throughout Asia to feature destinations, hotels deals, etc.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That works. I think it is well within the Tourism Bureau’s purview. If there is any regulatory impediments or whatever, we can always go back to the sandbox platform. I don’t think for this specifics, there will be any regulatory issues.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Other than that, anything...As I said, we like the consumer. We don’t mind investing in order to create relationships, not only transactions. We have a lot of tech and data science, and we like to deploy them. The people like to solve difficult problems, and they like to solve problems. Happy engineers, happy company, I always say.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Anything else that pops into mind where we can help? We know what we know about the Tourism Bureau, but anything else, we’d be very happy to consider and maybe even to do. Again, we’re not necessarily interested in Agoda benefiting solely or anything like that. We’re interested in improving a process, making something better, making tourism...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Getting this particular message out, making tourism work more efficiently for everyone, is a great message. Now and again, like every quarter or so, there will be feature cases for the sandbox platform. If you’re willing to attend some of those PR events that will get that message out.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It is true that when I started my first startup that was 1996 that Taiwan’s continental law system was particularly not helpful for startups.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>We’re trying to get a new message out in saying that we’re now working in months or at most two months. It could be through sandbox, through e petition, through participatory budgeting or through regional revitalization, but you’re not going to have to wait for four years for getting something changed. That’s a new message we want to get out for the new regulatory co creation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s off the top of my mind something that we can definitely collaborate on.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Again, if down the road there is anything whatsoever that you guys think that may require some external firepower, then keep us in mind.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Does the SMEA people have any questions or thoughts?</p>
+        </speech>
+        <speech by="#Aurora W.M. Tsai">
+          <p>They’ve already made an appointment to meet with your law firm on the 12th.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They’ve already worked all the scheduling out.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Great.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Right. We’re good?</p>
+        </speech>
+        <speech by="#Spencer Low">
+          <p>Just by way of informing you, we do have a courtesy call with the FSC this afternoon. We’re looking forward to that. We’re also delighted to extend again our invitation to you to come and speak to Agoda in June. We’re looking forward to confirmation on that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, we’re scheduling that.</p>
+        </speech>
+        <speech by="#Spencer Low">
+          <p>The Agodian community is very curious about what you might want to talk about, if we can start...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Usually, I just put up a Slido website where people can ask me anything on their mobile phones and like each other’s questions and I just go ahead and answer the ones with the most number of likes, and then move on to the next one until time runs out. I envision something like that. All we need is WiFi connection and a projector.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>We do the same in our townhall. Exactly what we use, Slido and we do exactly the same.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. It’s good that we’re on the same technology.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Yes. It works. Tested.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re good?</p>
+        </speech>
+        <speech by="#Spencer Low">
+          <p>Fantastic. We talked about CSR the last time we were out here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We did.</p>
+        </speech>
+        <speech by="#Spencer Low">
+          <p>If you had any other thoughts.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I recommended that you look into that Activate Asia Summit, the Asia Pacific Social Enterprise Summit. That’s the major event that we’re running. Other than that, we’re looking much more at evolving CSR into business development, not just one shot CSR deals, but rather something that you generally feel that is of value to your customers and that you can introduce time again.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’ll try to feature as much of that as possible at the Social Enterprise Summit. There’s also the Social Enterprise website, which is SE, for Social Enterprise, .pdis, that’s our office, .tw. If you look into se.pdis.tw, there will be a virtual catalog of all the registered social enterprises.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The buying power, which is our version of social buy, we recognize any companies that includes the social entrepreneurship into their supply chain. If they purchase, I don’t, one million dollars per year, I come out and give an award.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s proving to be too popular. Maybe this year you have to buy three million dollars for me to give an award. You’ll see the whole thing there. There’s also a registration database for all the social entrepreneurs working on particular social issues registered in Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>All of them may be your supply chain partner as well or for you to recommend the digital catalog to your hotels or whatever. All the resource, including the related government ministries resources are all online in the same website, so please take a look. We’ll see what we can work.</p>
+        </speech>
+        <speech by="#Spencer Low">
+          <p>Is that in English as well?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The website is in English as well. In any case, Google Translate works.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Spencer Low">
+          <p>True. I wondered also, I was very curious. I’m so sorry we didn’t have the chance to visit your innovation center. I wonder if you could describe that, what you’re doing there...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s open every day. You can just take a quick tour of the place. It’s very open. It’s near the Jianguo Flower Market, one of the busiest place in central Taipei, opens weekends from 7:00 AM to 11:00 PM. I’m there every Wednesday as my personal office hour.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We also hold regional tours every other Tuesday or so.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Actually, just this afternoon, there is a telemeeting between people in HsinChu, mostly working in coops and so on, and the 12 related ministries in Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Usually, I tour around Taiwan personally, but the related ministries are in Taipei. We use two way teleconferencing to make consultations more fitting into what people’s natural habitat, rather than asking people to travel all the way to Taipei to give 15 minutes of presentation. I walk and live with them for a while.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The people here in Taipei, just through telepresence, understand what’s it like to be there. If you have some time, feel free just to drop by.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>It’s an open office...?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s an open office. The entire Cultural Lab, the whole C-Lab is open. There’s regular shows, exhibitions, and culture stuff going on.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Interesting.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s in section three, Ren’Ai road, and number 99. Just drop by. You don’t have to book anything in advance.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Yeah. We should go.</p>
+        </speech>
+        <speech by="#Spencer Low">
+          <p>We should.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>It sounds fun.</p>
+        </speech>
+        <speech by="#Spencer Low">
+          <p>Outstanding. Just always a pleasure to see you. We look forward to every opportunity to share. I don’t know if you were available for lunch today, or an early lunch. If you are, we would love to...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We are traveling to HsinChu.</p>
+        </speech>
+        <speech by="#Spencer Low">
+          <p>OK, on the next occasion, then.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Thank you so much for having us.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, thank you, and maybe see you in Bangkok.</p>
+        </speech>
+        <speech by="#Omri Morgenshtern">
+          <p>Yeah, definitely see you in Bangkok.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
