@@ -82,8 +82,12 @@ function pad2md(x){
 function md2pad(x){
   var out, i$, ref$, len$, ln, replace$ = ''.replace;
   out = '';
+  x = replace$.call(x, /^#+\s+/, '# ');
   for (i$ = 0, len$ = (ref$ = x.split(/\n+/)).length; i$ < len$; ++i$) {
     ln = ref$[i$];
+    if (/^[【🌐📅🏡]|^:::/.exec(ln)) {
+      continue;
+    }
     if (/^###\s+/.exec(ln)) {
       out += "\n" + (replace$.call(ln, /^###\s+/, '')) + "\n";
       continue;
