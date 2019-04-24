@@ -1,0 +1,707 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Amit Jain" id="Amit Jain" showAs="Amit Jain">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Renne Chou" id="Renne Chou" showAs="Renne Chou">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Willy Wu" id="Willy Wu" showAs="Willy Wu">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2019-04-10 Meeting with Amit Jain</heading>
+        <speech by="#Amit Jain">
+          <p>First of all, thank you so much for making the time. It’s a pleasure seeing you. I think we met in Tokyo the last time.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>It was at the Elevate Summit mid last year.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think it’s very impressive, that VR demo?</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Exactly. It’s very impressive.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>The use of Oculus Go is a very nice touch and generated quite a response.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>We are making good progress on the Elevate. We’re still on target for final testing in the next year and a half to two years and commercial run maybe a year after that.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>That’s on track. Good progress. Also, autonomous, very good. It is another big vision that we have.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, we launched the Taiwan CAR Lab, I’m sure that you know about it, in the Shalun City, which I talked about in the Uber Elevate Conference. You’re more than welcome to try it out.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>I would love to one of these days. Good progress, plus for these dimensions. One of the reasons today, Minister, I wanted to get your advice was on something that you are probably familiar with that’s impacting how we operate today, and all the rental car partners and drivers with us, which is the 103-1 regulation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, the rental/taxi separation.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>The rental separation. The consultation period is going on currently with a date of two weeks from now. I just wanted your perspective. I’ll lay out some of the thinking and what we are seeing, but would love your own perspective.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK. You are currently in Taiwan working with both rentals and taxis?</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Correct.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’ve used Uber to call both, [laughs] so I think you are in a uniquely interesting position to see that if the taxis metered by distance, versus rentals by hour, is clearly separated how will it impact your allocations?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think most people use Uber to make short travels. That would necessarily mean that most of the currently operating under the rental part, they will need to get an additional license, in order to become e-taxis.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s actually what I talked with David Plouffe when he came a couple years ago. He was saying that the examination to get into the professional driving license and the operational license is kind of difficult, and we are happy to streamline the process. I’m very happy that since then, Uber has been working with the drivers to get their professional driver’s license.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The hurdle at the moment is less than two years ago. If your rental car drivers decide to become e-taxi drivers, it’s an additional exam to go through.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>From your understanding, there’s a taxi license, there’s a rental car license, but the diversified license is not?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s part of the taxi license.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>That’s the multi purpose taxi...</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>OK, that’s the...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. That’s what I mean by e-taxis.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>One of the challenges that the rental car partners that we’ve talked to are seeing is one of the proposals is limiting it to a one hour rental for any trip. Most of the trips that the rental car drivers took today took less than an hour.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>95 percent is less than an hour, which means they will not be able to do the current way that they are structured. That will be a big loss. The challenge, at least as far as our understanding, is this multi purpose kind of permit is...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Let’s just call it e-taxi. [laughs]</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Let’s call it e-taxi.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>One is there is no dynamic pricing. Two is there are supply caps on them, number of licenses that we can get. Both of those will make it very challenging to switch and come under this...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There is a surge pricing clause, actually, in the e-taxi...</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>We go by meters, still, so each car is...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s part of the 2015 consultation’s result is that we created e-taxi that could respond to the need. For example, when it’s raining or whatever, and there could be surge pricing. The thing that we didn’t go into was offering discounts under the meter, so it needs to be at least at meter or above, but not under meter.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>There’s a floor on the pricing, but currently if you want to operate an e-taxi, you would still need to have a meter in your vehicle. The surge pricing is multiplier of the meter pricing. That’s actually a very manual way to do the pricing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m sure we can automate it, though.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>Yeah?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>By the time that your algorithm is updated, I’m sure that as long as you pre-announce it somehow, like how the formula is to the passenger before they click the button, I think it does satisfy the e-taxi regulation.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If the e-taxi regulation needs adjustments, we are very happy to look into the regulation to make sure that it makes sense with your current implementation of surge pricing. It’s not meant as a technical burden to block you from using the e-taxi plan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Most of the worrying that I heard about is the cap of the total number of e-taxis. The total amount of taxis — including fleets as well as independent taxis — there is a cap, and it’s shared by e-taxis as well as traditional taxis.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>But as far as I understand, even if all of your current rental car drivers decide to become e-taxi drivers, there is still sufficient room in that cap. It’s not like you will hit a cap right away.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>It’s pretty close to the cap.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>That’s right. If you’re going to grow by 10 fold, then we need to talk. But at the moment, there is no job loss even if everybody decides to become an e-taxi driver.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>From your perspective, Minister, where should there be a meter in the taxi? Is there a scenario where you see the meter going away?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah. That was also part of the e-taxi consultation. The meter is meant as a transitional device. We are actually looking into the possibility of virtualizing that meter. The meter is there mostly to give accountability, so that people can know exactly how it’s being calculated.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m sure if they can use the app to call e-taxi, they can also trust a virtual meter in their phone as long as it satisfies certain criteria. That’s never something that we want to technically block the app implementation.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>One question for my understanding.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Can this license be transferred with the current rental car companies, or will the driver have to partner with the new taxi fleet company or somebody else who might have a taxi license existing?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They will need to partner with someone who has a taxi license. It could be the same driver and the same cars, but there would be a new plate for the car.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Is there a way to do this while still remaining with the existing rental car partners? Many of them have invested a lot of money to buy the cars as well.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, I understand, which is why I say it’s a matter of the plate. It’s not a matter of car. We’re not saying that you have to buy entirely new cars. I do hear that the cap is actually quite close. There is limited room to grow. In that, I do concur.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That is partly why there is a clause in the new rental car service that says if a municipality decides that it needs to move some of the rental cars into de facto taxi service, then the municipality can just decide so, and MoTC will never say no.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>That’s the one hour minimum.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, because it is meant to separate the rental versus taxi.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>For that part, I think it’s in the regulations that says the municipal governments get to...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Can override.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>Yeah, can override the decision. That’s the only part. There’s still a return to garage requirement?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No. I think that’s a misunderstanding. We’re very happy to clear that misunderstanding.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There is exactly the same clause in the regulation for e-taxi. The e-taxi clause basically says, because it’s not painted yellow, it’s not allowed to just be hailed by anyone hailing from the pedestrian lane.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s what clause means. It means it cannot be hailed to stop on the road. It’s the same wording as e-taxi. We’re not saying e-taxi has to return to garage after each trip, either.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>That’s why we were very confused. From our understanding, having a lot of consultation with different lawyers, that’s the advice we were receiving, that this could potentially mean that the vehicle will need to return back to garage.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I would concur that the 立法理由, the third column, the explanation column, is a bit ambiguous. That, I would concur. If you look at the text itself, not the rationale, the text is actually the same as the e-taxi.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If this is interpreted into that you have to return to garage after each trip, that it will actually apply to e-taxis. I don’t think that’s the motivation. I do think the rationale could be clarified.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>How do we get that clarified? It would be very helpful if we could get some written clarification from you or MoTC.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure. Actually, have you seen the short video at <a href="https://www.youtube.com/watch?v=pvwo_7fQYuQ&amp;t=7m44s">志琪七七</a>?</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>Yes, I have.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It contained that clarification from the MoTC Department of Railways and Highways.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>I think for us to be very comfortable with the operation that...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You would need a written statement?</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>We need a written one from the MoTC or from the government.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course. It’s now during the consultation period, and your ask is very legitimate. I’m sure it will be treated as part of the consultation input. They will, of course, address that as part of the reply to consultations. That will be the time point.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>Since we’re talking about a consultation period, we do have some comments on the consultation.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>One of the other things that, Minister, you’ve been a champion of is transparency and collaboration. With your website, join.gov.tw, with the 103-1 proposal, there were over 7,000 comments that were on the website with some proposals, changes. Many of them actually had concern at what would happen to rental car companies and partners.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>I’m not sure the MoTC has seen that or taken that into consideration.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They certainly have.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>They have?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Any particular perspective emerging from that based on the input?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The first thing is that clarification is badly needed, because many have misinterpreted the return to garage rationale. It’s a stretch, but I can convince myself to read the rationales column that way, although it’s not intended that way.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think the MoTC do need, after consultation period, to make a version that is free from ambiguity. That will be very helpful to everybody involved. That’s the factual part.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Many people worry about the difficulty in converting from the existing rental car investment into e-taxis. That’s something that the MoTC is actively looking for. We know that there are sufficient licenses, but we haven’t a very clear communication around that matter, especially by municipality. That is something MoTC is actively looking into.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Finally, the municipal override part. I think that is intended as any mayor can decide that within their municipality, they don’t actually want to add on the number of taxis. If so, they can do an override. That part, MoTC need to communicate more clearly as well.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>How quickly, Minister, do you think the process will be from converting former rental car licenses to an e-taxi license?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For the driver, it’s relatively simple. They just pass the exam. If there is already available license for them to partner to, then it’s usually just a matter of a couple of weeks or so.</p>
+        </speech>
+        <speech by="#Willy Wu">
+          <p>I want to address because similar to what Amit here said is, in addition to helping other drivers, a lot of rental car companies also invest into vehicles. That is something that we shouldn’t forget, because they will be added as well.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They have their own apps as well.</p>
+        </speech>
+        <speech by="#Willy Wu">
+          <p>Yes. These are the local platforms that were built, because two years ago, we had this business model. It’s very important to make sure that these rental car companies...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They have the optional to carry over to the e-taxi.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>The companies.</p>
+        </speech>
+        <speech by="#Willy Wu">
+          <p>The companies, yes. The companies need to have...Perhaps they should also immediately get some sort of...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>License.</p>
+        </speech>
+        <speech by="#Willy Wu">
+          <p>License something. Without that, all the drivers get taken care of and then left the company itself.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. That’s very important.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>Their needs also have to be heard. What’s currently very challenging for us is that, what happens if you transfer these drivers to become e-taxi drivers? What happens to these companies, the rental companies that are there that invested so much?</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>We do as a platform, as their partner feel the responsibility to also just not abandon these...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course. Those are two tabs in your app, one for rentals and one for taxis. You don’t want to abandon one of the two tabs. That I do understand.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>Another thing is that, let’s get into that scenario where these 10,000 drivers are transferred to e-taxi.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Like the majority of them.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>We don’t see how this will benefit taxi drivers, because that’s just adding 10,000 more taxi drivers to the competition.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Well, they are already competing now.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>The thing is, when they are added to the e-taxi category, we see this benefitting the taxi companies, because there are plates that these drivers need to purchase from the taxi companies, and they will be working with taxi dispatchers. This would benefit sure these companies.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>In terms of how this will benefit the existing taxi drivers, how this will improve their livelihood, it’s very challenging for us to see if the government doesn’t have an appetite to deregulate pricing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>What we have heard is that surge pricing doesn’t concern them at all, but the undercut pricing does. It creates a competition environment that they cannot actually compete, because no taxi driver is allowed to under meter or to offer a discount. Some fleets tried that years ago, and it’s not legal.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you talk about deregulation, as in giving the freedom for taxi drivers to offer discounts, I don’t think that can be addressed by the current consultation on rental cars.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>It’s actually not about offering discounts. It’s about allowing dynamic pricing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That we can totally do, as long as it doesn’t undercut the meter.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>I think the challenge, Minister — if I can jump in – is Uber globally must have maybe about four million drivers active on the platform. A lot of them are former taxi drivers, all the taxi drivers in the various countries that they are in.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>For the significant majority of them — if not of all of them — their earning on a platform is higher than what they earned when they were driving a taxi. It ranges from 15 percent higher to 30 , 35 percent higher.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>That’s the key reason why many driver partners have come to the platform. It’s beneficial for the drivers.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I understand that.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>The way we can do that while still offering competitive prices to riders is increasing the efficiency of how much a car is utilized. That’s a fundamental business model. If your car was utilized 15 percent, if you can utilize it 50 percent, you can make the driver more earnings while giving a rider low prices.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We hear the same wish from the local fleets that develop their own apps, too.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Correct. The challenge with that is you cannot increase efficiency by that much if you don’t offer a pricing flexibility on both ends. Pricing flexibility is required, for example, on off peak hours, when demand is low to offer a lower price so that demand is higher even in those times.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>My concern with this one is we will move the drivers over to an e-taxi license but their earnings will actually be hurt. They will earn less than what they are earning right now because we will not be able to increase efficiency by that much over that taxi driver today. That is my concern with what we just discussed.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You’re asking, essentially, that in the off peak hours, to have the freedom to offer discounts?</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Off peak hours is one key area. Then you do a microcosm, supply and demand balance. Any time demand is less supply is more, have the flexibility to offer the lower pricing as well.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Do you have any numbers that says, during the off peak hours, if you can get, I don’t know, 10 or 20 percent off over the current meter, that covers a large majority of the cases?</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Yes. Actually, I’d be happy to give you case examples from multiple countries that have done so.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Other e-taxi fleets are actually asking the same. If we’re saying all e-taxi fleets are allowed to have a off peak discount by some definition of off peak, andif that covers both your needs and the existing e-taxi fleets’ needs, because the e-taxi policy is a regulation, it’s easier to change.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It is just like the optional meter installation which is also something pretty much all the e-taxi fleets are asking. You just signaled that you would like that as well?</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>It should be optional, in my mind. It should not be mandatory for somebody to have a meter, or a printer, or a radio dispatch device. If you are using an app, you don’t need all of those things.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. Of course, then we would say that in the app you have to offer exactly the same information that you would have on a physical meter.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Absolutely.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The e-taxi regulation is not immutable. It’s not like we were keeping it fixed forever.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>It would be really productive if the current e-taxi operators and the de facto... Actually, you’re partnering with the Crown Taxi fleet, right?</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s an e-taxi operator.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>Yes, tie in to e-taxi.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you can work with them a little bit to get maybe your internal consultation to what it wants from the new e-taxi regulation, that would be very helpful.</p>
+        </speech>
+        <speech by="#Willy Wu">
+          <p>One thing that we’ve seen in other countries around the world is also we would want some sort of pilot. Changing a lot of these to prove that this is effective to using data might take some time. What we’ve done in other countries is, for example, using some kind of things such as Uber Flash.</p>
+        </speech>
+        <speech by="#Willy Wu">
+          <p>We can use the platform and have taxi be part of this, but also, give that flexibility to either give them the up front pricing or have the flexibility before going in and changing all the regulations like a sandbox. Maybe that’s something that we can explore here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Do you two have any municipal interest in getting the pilot running...? I ask because the local regulations —and fines too — are the municipal’s business, right?</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you don’t have the mayoral buy in for this, actually, there is very little what we in the central government can do.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>That’s the challenge.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>In Hong Kong, for example, one of the things, as Willy said, was we’ve got people who are doing point to point. Then we started on boarding taxi as well. This is a pilot that we would run for the next six to nine months.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Test every assumption that we’ve made on taxi driver earnings. That help to calibrate what the final regulation comes to. So that we’re not doing something which causes some change in a way that we not thought through or that is very negative to the rest.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There may be unforeseen corners, too, that people do not anticipate. You said there was a challenge in getting mayoral support here?</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>That’s the challenge. I don’t think the government either whether it’s a municipal or central government wants to be the first to run this pilot. We really would need some help with the regulatory sandbox space where we can run a pilot and prove that it’s actually an effective method.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>I’ll give you an example. If we approached the MoTC about this pilot and they would tell us that you should go to the city government.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Especially a rural city... That’s really what MoTC wants.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>Let’s face it. This will be best tested if it’s in a metropolitan area. They would ask us to go to the city government. If we approach the city government, they would tell us that since you are not a taxi dispatcher or you’re not a taxi company, you are not allowed to run this pilot.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes. You need to ask one of your three e-taxi partners to approach them.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>The challenge for the partners is that if they start asking for this then they get a lot of push back from others in the industry.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>You think that they’re not strong enough to resist that pressure?</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>The fact that we are here today is evidence enough that we’re not able to.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>If so, have you ever considered to get into the business of being an e-taxi fleet operator?</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>To be an e-taxi fleet operator?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>That’s a conversation that internally we are having. We’ve been debating and debating.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Then you wouldn’t have to depend on your partners to resist the push backs.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>Yes. There are pros and cons.</p>
+        </speech>
+        <speech by="#Willy Wu">
+          <p>With everything that’s happening, we will also want to quickly show that this method works. It’s also having to do with time such as if we go through the whole process, it might take us a month before even test out this pilot of flexible pricing to taxi beyond an Uber Flash model.</p>
+        </speech>
+        <speech by="#Willy Wu">
+          <p>What we’re trying to do is quickly show that, &quot;Hey, can we find a sandbox somewhere?&quot; We’ll show it to everyone that this will work. That’s what we want to pitch for as well.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>Yes. That’s the challenge that we’re currently facing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If the sandbox is small scale, would that still work for you? Is this mostly about publicity, or do you actually want a large municipality to get as much data as possible? As we talk about that, the larger the municipality is, the more entrenched the existing rental and taxi fleets are.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>We currently operate in Taipei, New Taipei, Taoyuan, Taichung and Kaohsiung. None of these are...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>...are small enough.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Renne Chou">
+          <p>I don’t know what the small scale definition is that you’re referring to. In order to run a pilot, it will have to fit the actual transport landscape. It will have to be useful for the people who live in the metropolitan area. In order for us to test it, it will need to at least be, say, a medium sized city.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>A medium sized city. OK.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>They tested this in Mumbai before with the taxi part of the deal, but it’s a very big city.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Renne Chou">
+          <p>We have some examples from Singapore and we have examples from Hong Kong that we’re piloting. Even Japan, now, is looking at the deregulating taxi pricing.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It goes together with the municipal override. If a mayor wants to try Uber Flash, they can simply say, &quot;For the next X months, I’m going to evoke the mayoral override on the one hour rule.&quot;</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Correct.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>For a mayor to say that, that also means that by the time of X months, that they better show some evidence to the citizens.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Evidence either way.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes. Exactly. It needs to be a fair experimentation.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>For sure.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s preferable to you as compared to a very small scale, purely political construction.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>There are two things that are preferable. One is scale that you can show results.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Two is a certain period of time that gives this transition and us to be able to prove that it works versus a sudden flip of a switch where you say, &quot;All rental cars and all rental car partners now convert to this one.&quot; That’s our preference.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>OK. You summarized it well.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s not necessarily about Uber Flash though? It could just be a transitional period from rentals to e-taxi proper.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s two things. That’s what I’m saying.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>It could be a transition period, Minister. Again, unless the dynamic pricing and the supply caps are clear, my sense is it’ll be more of a pilot than a transition to complete the policy. You don’t know how some of these will work if it’s not pure dynamic pricing and low supply caps. That’s the challenge.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Across the world, those are the two conditions that determine how successful this model has been for the other partner. Those are the two asks, which are still not completely clear as we just talked about.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We just talked about it’s surge on one way, not the other way. [laughs] It’s currently not hitting that cap but close.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Almost.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Amit Jain">
+          <p>Those are the two conditions.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We’re very happy to talk about it for a start. There’s a e-petition that calls to re look into the e-taxi regulations too.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>Is that on join.gov.tw?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes. It’s also on join.gov.tw. It’s not regulatory pre announcement. It’s an e-petition.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>Has it reached the threshold already?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yes, it has. It calls to the municipality to re look into the current e-taxi regulations that make it more fitting to your partners as well as other e-taxi fleet operators.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>To recap, the return to garage and the current distribution of caps that are the two numbers that MoTCs can clarify to make sure that everybody is on the same page, essentially.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>We are going to solve is one largely, Minister is that 10,000 partners and 200, 300 rental car partners, the drivers don’t lose their livelihood overnight. And rental car partners don’t lose the investment that they’ve made over the past two years. They have legitimate and regulated business.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Certainly.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Those are two key aspects.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We share the same concern. Anything else you would like to explore?</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>In terms of process because we are very, very interested in trying this pilot to show that we will bring benefits to the taxi drivers as well. Process wise, how would you advise that we do this, call it Uber Flash pilot? I understand that there are sandboxes now.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There are. If you enter your application into the sandbox.org.tw system, then they will take a month or so to find you partners, basically match making with municipalities that are interested.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>There’s an existing process. We’ve done this for many other things like the Upark, which is another app that lets you install a small lock on your private parking space, basically converts it into a parking lot.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>But then the MoTC said &quot;OK, if you’re on average over a period of months, operates less than eight hours a day, then we say you’re just a part-time parking lot. We’re not charging you the same tax as a professional parking lot.&quot;</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That is one of the cases where the platform economy sandboxes work pretty well. That’s because everybody sees that it’s different from professional parking lots. It’s like self managed parking lots, basically. So there is a process.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s meant for municipalities to enter this kind of partnership. They don’t have to absorb all the risks themselves, basically, because they’re overseen by the Ministry of Economy Affairs throughout.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>I remember that you were in charge of the Sharing Economy Consultation. There were public hearings, and all that.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. We renamed that regulation to &quot;Platform Economy&quot; right after the consultation, because that name was the consensus.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>That was two, three years ago?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That was in August 2017.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>I’m just wondering if there was a plan, because this issue is such a controversial issue, and there is so many comments and discussion going on. Do you have plans to host similar meetings?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Multi stakeholder consultations around e-taxi regulations?</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>Yes.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Truth to be told, a recent e-petition raised this possibility to participation officers in the MoTC. They’re currently still working at the MoTC chain of command to get the minister’s and the MoTC staff’s feedback on whether it is a good idea to hold multi-stakeholder consultations around e-taxi, which is the topic of the petition.</p>
+        </speech>
+        <speech by="#Renne Chou">
+          <p>Can you disclose some timeline on this piece of work?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I just checked with them today. As far as we know, they are still in the MoTC approval process.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Because that timeline would then, then lead to overlap with the current timeline.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No, I don’t think there will be any overlap, because the MoTC will first give a summarized response, including clarification, to the 103-1 consultation, which is about rentals. It is not about e-taxi; it’s about rental cars, so there’s no logical overlap between the two consultations. I think it’s very likely that they will just give a summarized feedback, including clarification to their current 103-1 rental consultation before they determine how to respond to the e-taxi petition.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>If there’s a big difference between the two in terms of timeline, and a decision is giving on 103-1 in two weeks, then drivers might not be able to switch to the final e-taxi version...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I agree. A kind of sunrise period, or at least a systemic way to do the conversion, I think they’re high on MoTC’s priority.</p>
+        </speech>
+        <speech by="#Willy Wu">
+          <p>That’s for sure. I wanted to make sure there’s no big gap, or else there will be a period where the driver, themselves...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That would be...</p>
+        </speech>
+        <speech by="#Willy Wu">
+          <p>Yeah, that would actually hurt both the drivers.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That, we totally understand.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>Thank you so much for your time.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Thank you for your time too.</p>
+        </speech>
+        <speech by="#Amit Jain">
+          <p>I appreciate it as well. Always a pleasure. Thank you for pushing technology, pushing progression in Taiwan, which obviously you’re a champion of the future.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
