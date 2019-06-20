@@ -1,0 +1,435 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Dboy Liao" id="Dboy Liao" showAs="Dboy Liao">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Kazami Hsieh" id="Kazami Hsieh" showAs="Kazami Hsieh">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Neil Tan" id="Neil Tan" showAs="Neil Tan">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2019-05-22 社創中心 第五十次 Office Hour</heading>
+        <debateSection>
+          <heading>uTensor</heading>
+          <speech by="#Neil Tan">
+            <p>唐鳳，email那個……應該是說我們幾個開始，我們幾個也在美國的同事，然後最主要那時候想做一個實驗，形成一個最省電的(AI)計畫。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>那個model上可以用，幾乎在IoT上可以跑？</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>對，或者是任何可能的，有可能是sensor跟機器人上可以用，一開始這個案子參考了像Tensorflow，所以我們在外面宣布這個專案的時候，我們也有跟google的人聯絡，他們也很喜歡這個專案，可是他們的方向是，他們知道這個地方、這部分很重要，像我們都有提到一群contributor跟community在這個專案上，我們會想要兩邊至少想辦法合作或者是merge這個專案。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>至少把你們的路線圖各自畫出來？</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>對，就是不要做重複的工作。所以首先的話，我們會先做到computation kernels中間的共用，之後我們再看是不是要再做更進一步的merge，可是最主要的原因是因為當初的inference framework，因為我們認為有很多像IoT、機器人，我們做這個project從開發這個引擎到做這些applications，當初是因為沒有引擎的存在，我們沒有辦法做後面的，所以我們就這樣做，過程也讓我學到很多。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>我有看到你研討會的簡報。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>所以現在我認為比較像research的那一種責任的話，一個團體的目標的話，這樣的話，因為現在現有的體制裡面，我們四個人經營的，有三個人在臺灣，所以如果這樣的話，我們能在這邊延伸運用，可以帶動一個open source在臺灣的發展，有一些research在分散式的需要跟機器人事實上是有共同點的，這一些東西比較需要長的時間去做，因為會跟fundamental的AI research有關係。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>這一種事情不一定完全適合在我們公司，或者是在其他的startup做這個東西，可能是一、兩年。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>有一點像open AI在做的那一些題目。</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>我換一個方式講，因為我們現在主要是用python在寫，之所以會做這樣的決定，主要有兩個因素，一方面是python很多相關套件比較成熟與完整，第二個是data scientist的社群還是python，我們剛好也跟我們想要做的事是一致的，我們希望可以吸引到比較多做可能背景是做IoT的研究。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>我理解。我說越往後面，這一些必須變成一些side project。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>你說現在的？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>對。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>直接講，因為我覺得google對這一方面有興趣，他們有出Tensorflow lite，他們自然會到這個space，但是我們如果跟他好的關係，你說設計架構這一些有幾個可以做，這個滿可以做的，這個可以支持……這不是三個人的事情，大概一個團隊。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>大概三十個人的事情。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>差不多。我們當初可以選擇說可以一輩子做這一件事，但是我們覺得如果有能力去控制或者是modify這個framework，或者是去做research，在臺灣像有一個open AI或者是deepmind的這一種組織，因為現在跑最快、最有錢的是grow這一方面，所以我覺得這個是不錯的機會，讓臺灣有這個組織的存在。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>現在我看到一個是跟現有的晶片商去整合，就是所謂的AI on Chip，其實大家都知道這個是Infer on Chip，沒有什麼Learning on Chip，那可能就要2023的事情。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>這是我的理解，如果有錯要跟我講。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>現在沒有on Chip Learning，不是看這個。</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>不是，試試看在IoT上做。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>一個是軟硬整合的概念，把越來越多的東西放到Chip裡面去做，這個並不是三個人的team做出來的，另外一個是現有的各種不同的晶片用異質，其實fusion算是其中一種的應用，因為以應用端來講大家比較聽得懂，但是事實上意思是本來做不同的事情，放到同一個learning的概念，那個其實你們的技術也很可以有所貢獻，但是同樣的，要做到末端使用者看得到的東西，不是三個人，很有可能是三百人。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>你說臺灣有沒有人在做這個，有吧！做Chip的大廠都想要做前面這個，傳統上做robotics的這些都很想做我後面講的這個題目，我覺得不是臺灣有沒有隊伍的問題，一定有隊伍，現在只是說你們的技術在這個裡面要扮演什麼樣的位置。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>當然，還有一些是純做一般的，像杜弈瑾他們，他們是很好的例子，他們不需要加入整個國家隊，直接找一個程式、醫院、雅婷逐字稿，就可以開始他們的training，或者是靠其他的基金。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>請問是哪一個？</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>AI Lab。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>他們是跟業界？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>他們的組織架構是一個非營利組織，所以這個結構反而讓他跟醫院合作，做人體實驗者同意的，像他們現在開始做一些醫學，這個跟深度學習非常像，或者跟台南合作做一些無人機的巡邏應用，因為他們是非營利組織，還有一個滿好的架構，所以從concept轉到用一台無人機，用齊柏林導演生前，來做訓練，把他的願景做到一樣，這樣就非常好，然後就做出來了，因為大家很願意來完成這個任務。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>裡面還有用了最新的AI技術，其實360的攝影機滿爛的，每一個角度都拍到，然後就用得非常逼真，其實是幻象，如果有足夠多的影片之後，這個幻想就很真實。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>我的意思是，如果你只看他的factor的話，其實也不用等著，你只要找一個有資料的，跟一個有技術能力的，想要什麼東西會做無人機等，其實湊一湊就做出來。但是那個是很難養你剛剛講的比較深的去做異質運算、裝置端學習。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>我就是很擔心這個。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>我想這邊還是要做一些整合。但是大的那幾個做晶片的，其實應該都很有興趣。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>可以去聊一聊。我當初沒有馬上接觸業界是，因為我不太確定如果支援從業界過來的話，很多時候會比較短，除了沒有支援外，其他短期會有，但是像唐鳳所講的，要養這個team不是支援的事情，因為我們每一週有一個專案，理論上學到新的東西，因為這個team是要培養的。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>會希望專案是有連貫性的，team在做這一件事的時候，我們要對fundamental research會增加。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>你們跟老師的關係怎麼樣？</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>我沒有在跟他們接觸。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>臺灣理論上有四個AI收單大學，負責旁邊其他所有大學。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>我不知道這個事情。</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>哪四個老師？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>不是老師，是四個中心，這四個當然只是收單，就是台清交成。</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>老師的話，我不知道，如果是FB上，有關學界跟機器學習的，接觸比較多的老師，我比較熟的只有蔡老師。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>因為這個是科技部的「AI創新研究中心專案」，台、清、交、成。台大有三個應用，一個是醫療影像，這個是短期的，因為就是要快速很多專案，另外一個是所謂AI人文社會研究計畫，講的就是AI比較軟的，但是很重要的東西，RegTech這一些東西，但是跟你們比較有關係的是每一個個別中心是競爭關係，所以會提他的研究計畫，說接下來四年要在這個領域有什麼，這個競爭型計畫才比較像你們可以進去的地方。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>看起來是這樣子。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>好處是，大學不像這一些大公司，沒有過度調節的問題，過四年還是在，沒有什麼差別，也不可能被併購，所以會比較有縱深，但是你們可能也要有一些相應的調整，就是你們就會需要大部分的事情要想辦法弄成研究生可以幫忙進來的模組。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>這個不會有太大的問題。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>可能就是要做一些比較像教材、教法的東西，因為研究中心的目的是讓他們的大學生願意去他們的大學，因此這個變成有吸引力的課程，他們覺得學會之後，出去業界有用的技巧，這個對他們是最重要的，所以就是說當然教學研究是互相平衡，但是你們有研究空間的同時，也必須要對教學有所貢獻。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>你的意思是，有可能像research的單位，還有跟現在已經有的大學裡面的AI center collaborate。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>如果你找一下，就是AI創新研究中心的話，就可以看到是在哪一些東西在run，科技部也有一個總窗口，叫做「Airmost」。</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>可是我看到的是「Most AI research」。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>差不多，我講的是他FB的名字。</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>喔！OK。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>大家都架自己的網站，我沒有批評它的意思。（笑）</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>不見得是<a href="https">https</a>。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>我們應該跟上。</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>看錯了。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>因為是org.tw，並不是gov.tw，不受國發會管考，是受科技部指導，但是科技部的網站，而是生產力中心的網站，這一些都不是重點，重點是有專業、<a href="https">https</a>，這樣的年代這樣就足夠了。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>我的意思是，你們不管打一個電話、傳私訊給小編，其實都滿好的，因為他們有非常多的meetup，他們每個禮拜都有meetup，像跨域觀摩交流會，像紡織價值鏈、中華郵政大數據之類的，他們的目的是有題目來的時候，看這四所大學有沒有興趣，有興趣的話，這四所大學每一個旁邊都有一些大學，然後就可以分過去變成研究案，所以不管是產學研究或者是大學做research，然後那一家公司做development，它都可以有很乾淨的seperation，他們就可以變成做研究的team，你就要operationalize，因為你operationalize就不用做研究了，所以架構的目的就是要讓做研究的繼續研究，然後這一些推動中心是把研究找到出海口，或者是反過來講，把產業的需求變成這個。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>所以我覺得你們這個形狀，比起像人工智慧學校或者是工業局、經濟部做的那一些，已經完全不用研究，只是導入生產線的東西，我覺得科技部這一個好像比較適合。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>所以是在科技部體系之下，不是大學，是分配給大學，但是是給科技部？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>對，因為科技部一向都沒有自己的東西，科技部所有的東西是決定哪一些大學拿到比教育部還要多的錢。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>OK。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>所以你才會一直看到哥倫布計畫、愛因斯坦計畫，就是這樣子。</p>
+          </speech>
+          <speech by="#Kazami Hsieh">
+            <p>像如果是科技部的計畫，那個計畫跟屬於哪一個大學合作之後，那個成果應用上有什麼限制？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>是這樣的，科技部補助，就是補助這一個研究中心本身，因為他唯一的要求是要公開，這個是科技部最在意的事情。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>公開什麼？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>不管是paper或者是參加conference，你要做得出東西來。</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>Source code算嗎？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>這個就是每一個研究中心自己決定了，我看科技部只要有founding的，大概很多會放在GRB裡面，就是政府資訊，GRB其實是很不錯的系統，納稅做出來的研究，但是裡面是極少數，幾乎我都沒有看到誰在做。</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>那個是好事或者是壞事？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>我覺得是這樣，要看機關本身是不是使用者，因為科技部的H，科技部自己不一定用得到，我覺得這個還是回到軟體工程的概念，營運持續管理的前提是你自己是利害關係人，你自己有在用，如果我這個部會砸了錢做這個，但是我自己用不到，還要求source code也沒道理，因為每一天source code是一個burden，當然我們瞭解有一群歐盟的人在說public money、public code，但是這並不是常模，但是如果機關自己是使用者，我們有一套服務的指導原則，還有GDSG營運持續管理的要求，我們希望不要變成是找這一群研究者，你用了之後他們去研究別的題目，你去找下一個廠商，然後發現是黑盒子，既不能布署、也不能改動，這樣子就白繞，對不對？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>所以我們從BCM的角度會要求，只要在機關裡，不管是內部或者是外部的使用者，至少留一份，不要說持續整合，至少加起來的東西。但是科技部的這個研究計畫，我猜科技部自己不是用戶，所以也沒有什麼source code的問題。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>瞭解。</p>
+          </speech>
+          <speech by="#Kazami Hsieh">
+            <p>如果說成果要拿去做一些其他的東西，有沒有什麼限制？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>你想像中是什麼樣的限制？</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>因為我還必須要談，像這樣研究出來……</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>裡面不外乎著作權、專利權跟營業祕密，著作權是最容易解決的，大家都有一些標準的方法，像open source code等等太多了，專利是想要請？</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>專利是滿貴的，但是這個算是KPI之一嗎？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>不會啦！這個是你們自己說了算，如果不產生專利，不會怎麼樣，他要求的是，最好常常有被sight的東西。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>我知道，比較像學術的東西。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>如果裡面有營業秘密的話，就可以說那部分的研究，那一個部分要受營業秘密的保護，但是那個部分可以archive，這個我想應該是互相一開始講清楚就可以的。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>應該是說如果有一些像成果或者是code，我可以拿去做其他，像我要做一些東西，會不會受到一些限制？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>如果一開始著作權上就是採用開源的授權，那當然沒有問題。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>這個是可以談的？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>對，絕對是可以談的，就很像大家最近在看android哪一些部分開源的。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>應該是很最近的事情。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>只要講清楚就不是問題。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>早上睡起來就覺得這個是什麼新聞。</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>很大的新聞。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>已經弄了十幾年了。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>社會上本來沒有人知道開源授權到底是什麼，一夕之間所有的記者都在問。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>每個人都變專家。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>沒錯。也不錯啦！對不對？沒有任何消息都是好消息，看有什麼可以幫忙的？</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>這個方向就不錯了，尤其是當初科技部這邊的計畫。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>試著看看。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>我們這邊還要討論出一個在這一方面最統一的research方向，我覺得最主要是臺灣這邊真的是……</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>是啊！然後異質運算跟晶片整合，如果你們現在覺得skill還比較大的話，我建議持續關注，那個是經濟部的技術處在做，他們大概7月會有一個，其實這個都是網路公開的資訊，你看臺灣AI的相關方案，裡面有一部分是AI on Chip，就像我剛剛講的這兩個。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>不知道這個跟research方向是不是有直接關係？</p>
+          </speech>
+          <speech by="#Kazami Hsieh">
+            <p>可以說有關，也可以說無關，他們現在做AI Chip，很多時候是某一個運算，我們那時提到的是把這個mode全部運算到RTL，放在FPGA裡面，然後直接走，所以這個其實以鄰國性來說的話，會比他們少，比較像AI computer，這個model都在裡面。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>本來是有出一個加了PGA的，就是收了那個東西。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>就是它的裝置端的架構會越來越複雜，會複雜到很像現在有一個名字是「半通用」，現在名字太多，我其實已經沒有辦法。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>不過現在看起來，大家對於AI chip的發展其實是滿關注的。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>非常關注的。而且臺灣一向就是做這一種，然後另一波的架構是很厲害的。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>其實還有一個想法，我們之前team有討論過，像這一種軟體，不管是像micro這樣子，或者是還有一些做的軟體，我們有滿大的好處，是一個區域，因為對下面是對硬體，然後對上面是對research，其實有人提過他們做硬體的，然後他跟google說把AI趕快訂出來，他們這樣很難做。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>但是以software的角度，那個是AI整天在墊……</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>對，不知道哪一部電影。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>對啊！可是如果我們能夠對這邊有點控制的話，有一點像regularization的概念，可以對上的研究者說麻煩軟體這樣寫，麻煩考慮一下會不會跑很久，或者沒有辦法直接運算做到。對於硬體、下面的話，像硬體廠商，可以說現在看到最上面，也就是直接接觸，未來的部分，所以這中間的環節是滿重要的。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>這個題目是所有的人都想做還有一個是誰也不想先投入，但是後來沒有人用的標準。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>對啊！</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>就是Betamax，就是很久以前是Sony的，很久以前錄影帶的格式。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>以uTensor來講，我們未來會在TensorFlow Lite的format裡，其他部分看要怎麼做。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>我覺得跟TensorFlow Lite是很聰明的，因為等於那一些磨合的成本是有人吸收的，我覺得至少接下來一、兩年會比較好。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>我覺得大致上是好事，我們要想辦法……</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>我知道，我充分瞭解。好啊！那我覺得這樣子聽起來，也滿清楚的，就是你如果找得到research夥伴，至少你們這邊養人的負擔可以稍微減輕，也有一批很新鮮的肝。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>是啊！在這一方面有兩個想要問的問題，像research，事實上很多接research的能力，我會想說他們未來可以留下來。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>就是研究生畢業可以到你這邊。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>可以直接接。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>當然，但是這個就在他的curriculum裡面有多……因為你open source，所以你沒有辦法禁止他帶槍投靠別人，因此要真正吸引他，你在這邊發paper是繼續發paper，你做的至少是對人類無害，對不對？（笑）這個很重要。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>我現在就很怕。</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>你說怕我？</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>對。</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>為什麼？</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>你說先求貢獻，再求無害？</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>不是，不求有貢獻，先求無害。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>喔！我聽錯。</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>我還想說這個可以講嗎（笑）？</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>可以留住人才、可以吸收人，這個是很重要的一點，這個是reputation，所以我也會更進一步瞭解，像跟學校合作，也就是這一方面未來的分配會是怎麼樣。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>當然，這個很重要。也就是貨比四家。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>謝謝。</p>
+          </speech>
+          <speech by="#Dboy Liao">
+            <p>逐字稿可以改嗎？</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>都可以改（笑）。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>我想先這樣子，然後如果之後你們有什麼公開議程，好比像簽約合作，好比像MOU，這一些東西如果需要我錄影支持，隨時讓我知道，因為我覺得把open source這一個東西推出來，這個滿重要的，而且我們趁著全世界都在講open source，稍微推一波。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>因為我覺得臺灣事實上，我不知道大家怎麼想，我覺得人才這一方面上，一開始不少。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>超強的，大部分都跑掉。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>要有人把他們留下來。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>對，就是要有人把他們抓回來。其實這幾個已經很有指標性了，像微軟200人，Google買了HTC，但是他們都很願意加碼，這樣的好處是至少人才跟外商有一樣的學習環境，因為有一些東西是你要加碼接觸到最新的資訊才養得起人，你又不需要離開臺灣，我覺得有這樣子的土壤是非常重要的，因為不然的話，就不會去想臺灣的社會運用，人已經不知道在哪裡了，如果他還在想的時候，我覺得就可以練下一代的人，我們人才的鏈就只會變比較廣。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>而且人才在一起也會有一些組織。</p>
+          </speech>
+          <speech by="#Neil Tan">
+            <p>瞭解，謝謝唐鳳。</p>
+          </speech>
+          <speech by="#唐鳳">
+            <p>不會，謝謝。</p>
+          </speech>
+        </debateSection>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
