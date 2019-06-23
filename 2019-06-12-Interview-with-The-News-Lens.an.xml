@@ -1,0 +1,73 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Cat Thomas" id="Cat Thomas" showAs="Cat Thomas">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2019-06-12 Interview with The News Lens</heading>
+        <speech by="#Cat Thomas">
+          <p>They’ve got tens of thousands surrounded the legislature. They were supposed to have the debate today?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Mm-hmm?</p>
+        </speech>
+        <speech by="#Cat Thomas">
+          <p>They’ve canceled it. Well, they postponed it because they’re saying the legislators can’t get in. Basically, you have...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>They’re deferring the substantial deliberations.</p>
+        </speech>
+        <speech by="#Cat Thomas">
+          <p>Already last night police were stopping and searching students on the way in and stopping and searching cars. They used pepper spray at 9:30 this morning.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We watched the livestream. I watch it until 3:00 AM.</p>
+        </speech>
+        <speech by="#Cat Thomas">
+          <p>Like me! See how tired I am.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>I don’t know what’s next, right?</p>
+        </speech>
+        <speech by="#Cat Thomas">
+          <p>Well, they’ve delayed it I suppose. I suppose the question is I’m probably going to write this up later, and I have you right here. You’ve just come to an exhibition, which is about the sunflowers, which was also a movement which was not authorized. There was no authorized demonstration in the strike today. These demonstrations on the street are not authorized by the government.</p>
+        </speech>
+        <speech by="#Cat Thomas">
+          <p>If you just had any comment or some thoughts on that maybe.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Hong Kong’s protest is mostly about people currently looking at the PRC and seeing that in terms of sustainable development goals, they’re 16th goal is about a strong institution for a fairer justice system.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m sure that if the PRC have reached those goals and if they are independently assessed as having the same fair trial system as people in Hong Kong enjoy, then there won’t be as much outrage to this extradition law.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The reason why they went to the street is that people can plainly see that the right to the rule of law — the right to a fair trial and things like that — are at the moment not present in PRC to the same level as we enjoy in Taiwan and they enjoy in Hong Kong. Also, they are not showing a very encouraging trend of improving rapidly over time.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If the PRC wants Hong Kong to adopt this extradition law, I think it’s best if they can just focus on implementing correctly the 16th goal of the sustainable goals by making their trial process fair and transparent and generally trusted by the international community.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Only then would the legitimacy of the extradition law make sense to the oversea community and also for everybody concerning this protest, including people in Taiwan.</p>
+        </speech>
+        <speech by="#Cat Thomas">
+          <p>Thank you very much.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>No problem. Thank you.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
