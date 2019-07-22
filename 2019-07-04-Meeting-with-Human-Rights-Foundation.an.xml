@@ -1,0 +1,459 @@
+<akomaNtoso>
+  <debate>
+    <meta>
+      <references>
+        <TLCPerson href="/ontology/person/::/Alex Gladstein" id="Alex Gladstein" showAs="Alex Gladstein">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Hannah Ellis" id="Hannah Ellis" showAs="Hannah Ellis">
+        </TLCPerson>
+        <TLCPerson href="/ontology/person/::/Jenny Wang" id="Jenny Wang" showAs="Jenny Wang">
+        </TLCPerson>
+      </references>
+    </meta>
+    <debateBody>
+      <debateSection>
+        <heading>2019-07-04 Meeting with Human Rights Foundation</heading>
+        <speech by="#Audrey Tang">
+          <p>The Oslo Freedom Forum is coming back to Taiwan.</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>Mm-hmm.</p>
+        </speech>
+        <speech by="#Hannah Ellis">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It’s the mid-autumn festival? That’s September 13th.</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>Yes, indeed.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m very happy to join.</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>We can’t wait to have you join. This year, we’ll be focusing a lot about the election interference. That’s been a really big issue of concern here in Taiwan, but also greater Asia and around the world. We’re going to have a really cool information warfare expert, Molly McKew. She’ll be on stage to talk a bit more about election interference, not only here, but globally.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Her main, dominant area of expertise is Russia and how Mr. Putin likes to interfere with elections across Europe and North America. She’s excited to talk about how China’s been interfering here with the media, political life, and even civil society.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>She’ll be joined by Melissa Chan, who’s a terrific journalist based out of Berlin. I think she was the first journalist thrown out of China in the 21st century, actually, the first of many. Also, Yuan Yang, who’s the Financial Times tech correspondent in Beijing. She knows a thing or two about how the Chinese government uses technology.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>We’ll have them in conversation, which should be fun. The day before the event is a really cool opportunity if you think it’s interesting to...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The 12th?</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>The 12th is a good opportunity to perhaps invite some of the speakers into conversations with politicians, to working groups, or even just private meetings with policymakers, given that they’ll be here. They will arrive the day before, on the 11th.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I am free from, I think, 2:30 PM, all the way to maybe 7:00 PM or 8:00 PM.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Last year, we visited human rights groups and the Yuan brought us into the Legislative Yuan. We had a very interesting meeting with the bipartisan heads of the commission, which was a special treat for the speakers.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>I think most of them coming from countries that are still authoritarian have a tremendous amount of respect and are inspired by Taiwan’s story. That’s what makes it so special, I think, in many ways.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It wasn’t tripartisan?</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Not as tripartisan as we would have liked.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>[laughs] OK.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>This year, we’re ensuring that it’s tripartisan. We’ve already had two meetings with the NPP.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s good.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Right, Jenny?</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>Yeah, we met Freddy Lim and Sabrina Lim.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s good.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>We also met...</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>Karen Yu.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>...Karen’s office. What’s interesting is Karen’s office was talking about how she leads the social innovation group in Parliament.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right, in the Legislative, yes.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>We want to work with them to collaborate on a Tech for Good event the day before, which hopefully can engage some of the startup community. That’s a big goal of ours, so that’s something we’ll look at as well.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The Tech for Good, in your idea, is it most about civic engagement, as in civic tech? Or is it larger, as in impact tech, like addressing climate change and things like that? Are you focusing mostly on the mission of the Freedom Forum, or are you also looking at...?</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Obviously, Tech for Good could mean a lot of things.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Very much so.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>We’re going to focus on our mission, which is civil liberties, privacy...</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>So it’s civic tech?</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>...and challenging the surveillance state would be some key themes. One of the things we discussed with the city of Taipei, who’s also one of our supporters, is this idea of a smart city that they’re trying to build. Too often, people don’t realize that a smart city is a surveillance city unless you do things the right way.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Unless you focus on smart citizens.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Unless it’s a human city.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>We will see if they’re interested in a dialog, of sorts. What would be interesting is to have this conversation, either on the outskirts or in the middle of the program, on how can we ensure that the smart cities here and elsewhere in Asia are built with citizens in mind, as opposed to with control and surveillance in mind? That’s one of the themes we may explore at that event.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s all on the 12th?</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Yeah, it’s ripe to do different collaborations and side effects, possibly with the universities. Last year, we did some things with different schools and colleges. There’s a lot of young people who attend these events, which is really fun for us.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The venue would be?</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>Huashan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>It would be Huashan? Awesome. That’s a great venue.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>We just did the tour today.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>1914.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>When you walk in, there will be two buildings. One will be registration and expo. Wikimedia Taiwan will have an area where people can edit Wikipedia pages. We need more contributors for a lot of these topics in different languages.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>We’ll have a café that has some exhibits on different projects that we work on around in the world in various places, like Saudi Arabia, Cuba, etc. It’ll be just a general networking space where we’ll also serve lunch later in the day.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Then the other building will be the theater. This is where we’ll have the presentations, the talks, the panels, and then also breakouts. There’ll be a range of different programming throughout the day.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I saw that the Marriage Equality Platform is also co-hosting?</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>Yes. They were a partner last year with us. They were in New York City for WorldPride. We had a chance to meet with them.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Awesome.</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>They’re really excited. They did this really cool popup in New York City called Wedding Banquet. Did you hear about that? Very cool. We’re trying to see if they could bring some of their aspects from that popup and bring it to our networking space. It’s really interactive and engaging. Obviously, in Taiwan, same-sex marriage is a really big deal. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Very much so. We’re actively exporting that.</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>Yeah, definitely.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>One of our speakers who’s coming will be an interesting addition to that conversation. She actually has a challenge for the same-sex marriage movement. She spoke at our event in Norway a few weeks ago in late May. From Kenya, her name’s Audrey Mbugua, and she’s a transgender activist.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m aware of her.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>I think the conference, in many ways, is meant to push the boundaries of what you’re comfortable within different areas. She says, basically, that the rest of the same-sex marriage movement doesn’t really do enough for her and her folks in her country. It’s an interesting conversation that she’ll have with us. We’re excited to bring her here to Taiwan.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>In Europe, they are also working on neutral gender at birth, neutral gender by choice, or other issues like that. That’s going to be a topic in Taiwan, too, in the next couple years. Now that we have a solid marriage equality framework, people can put a lot of their attention and activism to more intersectional issues. I think that’s a great addition.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>We’ll have Hong Kong in the spotlight, with Denise probably being the opening speaker. We’ll have Mr. Thae and Yeonmi Park as well, who’s a well-known North Korean author. Her book has sold a lot of copies here in Taiwan, so hopefully, she can join. We’ll have North Korea in the spotlight.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>We will have Netiwit, who’s a very well-known student leader from Thailand. We’ll also have Esther Htusan, who’s a Pulitzer Prize-winning journalist from Burma. She’s someone who helps expose the Rohingya massacre and ethnic cleansing crisis. Amazing woman, just incredible, so she’ll be here as well.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>We have the panel we mentioned that’s going to talk about election interference and disinformation, so we should be hitting a lot of topics. In the breakouts, we’ll explore a few other areas. Jenny, what do you hope we can touch on there?</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>At breakouts, we’re going to talk about Hong Kong and Taiwan. Of course, we share this bond against China’s authoritarianism. We’re going to explore gender equality. We’re in really cool and exciting conversations with Taiwan’s Foundation of Women’s Rights Promotion and Development . We had a really exciting conversation, and we’re going to see what we can do.</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>We met with Women’s March Taipei the other day, and that was really exciting. We’ll try to get them involved. Outside of gender equality, we’re also talking with Taiwan Association of Human Rights, Eeling Chiu. She shared this really cool idea that maybe we can do. They have this 李明哲 video. Do you know about it?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>Maybe we can have that on loop. There’s a lot of possibilities for not only our expo space, but also our breakouts.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I think it’s a great idea.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>We’ll have a conversation on how money and payments relate to human rights. I was here this week also speaking at the Asia Blockchain Summit. I had a conversation where I brought together some experts and entrepreneurs to discuss why Bitcoin matters for freedom.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>We’ll be having a similar conversation in terms of why we need money that is not controlled, confiscatable, and surveilled by governments and corporations.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>By Bitcoin, you mean cryptocurrencies in general, or specifically Bitcoin?</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Specifically Bitcoin.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Wow, OK.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>At least this is the conversation I did this week. There’s lots of potential for things like Facebook’s project and others to grow. I just have concerns, personally, about their intentions and how they will roll those things out.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>The interesting part about Bitcoin, for us, is in terms of when you look at how payments work. For example, today in Hong Kong, people are able to buy a public transit ticket, top up with cash, and be able to travel without being spied on by the government easily.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>They’re also able to use cash to buy burner SIM cards for cellphones and go into Telegram groups without disclosing their identity, very important for coordinating for protests.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>In the next decade, cash will disappear. Only eight percent of the world’s transaction are paper or metal anymore. When that goes, we need a replacement for what cash provides in terms of privacy, fungibility, etc. There’s a challenge for the Bitcoin community in terms of can they deliver on scaling and making Bitcoin more private so that it can be a solution in that area?</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>We have some people from many different countries who are using Bitcoin to get around financial barriers and obstacles.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>For example, one of the guys who’s coming is an entrepreneur from the Philippines. His name’s Luis. He’s been using a Bitcoin-based payment rail to help some of the 10 million Filipinos who live abroad who are non-resident workers who need to send their remittances back home.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Traditionally, you send a $100 or $200 remittance from, let’s say, Korea, Seoul to your family. You have to pay 7.5 percent, on average, and it could take many days or even weeks for it to get home. On their platform, it takes just under an hour, a half an hour, and the fee is 3.0 percent.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Shortening the corridor, that’s right.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>We’re going to explore the cutting edge of that in one of our breakouts as well, which I think should be interesting. We can bring in some of the community that I’ve been meeting. This is my second time at ABS, so I think that’ll be cool.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>This is extremely broad and inclusive. [laughs]</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Yes, but also focused on civil liberties, civil rights, and freedom of democracy, explicitly so, and, hopefully, provocatively so.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Of course.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>One of the reasons we started the Oslo Freedom Forum many years ago is that there wasn’t really a global conference series on the same level as the World Economic Forum, TED, or the Clinton Global Initiative when it existed, that focused explicitly on these basic freedoms.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>They were side events or peripheral themes if you go to TED or something like Davos. If you count the thousand panels of Davos, four of them cover this or something like that. At the UN, it’s even more ugly in terms of the organizational units at the UN, for example, the Human Rights Council, are literally run by dictators.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>We wanted an alternative platform that civil society and troublemakers could run. That’s really the idea behind Oslo Freedom Forum. It’s a perfect home for it here in Taiwan, we think.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Very much so.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>It complements other events in Mexico City, Johannesburg, and the mother event in Norway, as well as a one-day event that we do in New York in the fall. We hope to grow something here. It’s been totally inspiring to see the reaction so far. Last year’s event was sold out, and people were just so glued to the content. Hopefully, it works again.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>You were there, Jenny.</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>Yeah.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. Suppose I have all morning for you. How can I be of maximal use to you?</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>Let’s see. I think there’s a lot of opportunities. Obviously, you can help us with promotion. We’ve been doing these really cool unite moments onstage. Perhaps you can go on stage for a little bit and connect with one of our speakers, maybe with Audrey Mbugua. That’d be really cool.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Sure, of course.</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>That’s just an idea.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>We can figure out logistics. When will you be back to Taiwan? In September?</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>We, as staff, will probably start arriving on the 10th. I think what Jenny suggested is a great idea. Essentially, what we try to do is pepper, in between the activist talks, brief moments where we can share collaborations between either our organization and some of the other folks we’ve helped or local initiatives.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Within your portfolio, there may be a particular civil society organization that you’re particularly proud of or excited about. Maybe that’s a time to even focus on that. Even though the focus of this event is not on, domestically, Taiwan, per se, we do want to make sure that civil society leaders here get to speak out and get their work noticed.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’ve been part of the open culture movement in Taiwan. That includes both OCF and Wikimedia.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>That might be a natural fit.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Your two partner organizations feels very close to me. [laughs] The language of open culture is my native language. Of course, the entire open culture grows out of fundamental freedoms. Without freedom to assemble, speech, and expression, there is no open culture to speak of.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The freedoms are the necessary foundation for the open culture to thrive, as we see in many places in the world. Long as you have a thriving, not even democracy, just ensure of basic freedoms, nowadays, the Internet can just bring the best and brightest to the locality and deliver social innovations that is really good for everyone.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Those kind of themes, I’m very happy to coordinate both making this message more public, domestically, as well as working on specific civil society organization or international guests, one-on-one meetings.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I’m just giving you my available time. If you arrive on the 10th, I’m available, at this moment, from 5:00 PM onward to maybe 8:00 PM. On Thursday, as I mentioned, I’m available from half past 2:00 to 8:00 PM or something. On Friday, I can give you the entire morning. If you have anything that runs in the late afternoon, I can also be around from 4:00 PM onwards.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Fantastic.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s three blocks of time. The earlier you let our staff know [laughs] how do you plan to use that, the more sure that I will be able to guarantee my availability.</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>Wonderful. Thank you so much. Are there any other civil society organizations that we should be connecting with while we’re here, also ensuring that Taiwanese voices are heard on this international platform, and we have a conversation and dialog both ways?</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>If you have already connected to the Taiwan Women’s Center, then from Taiwan Women’s Center and the Marriage Equality Platform, I think you have all the right connections for the marriage equality side of things. I think you’re in good hands.</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>Wonderful.</p>
+        </speech>
+        <speech by="#Hannah Ellis">
+          <p>Great. Fantastic, fantastic.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Fantastic, cool.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Is there any message that I should mention in the MOFA’s tweet that would work to your benefit?</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Let’s think about that for a second. At dinner last night, we were discussing with a bunch of people who have massive Twitter followings.</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>How to tweet.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Do you tweet just immediately, or do you wrestle over the text for hours? We can take 30 seconds here.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>[laughs] That’s right. We can take a while. I don’t have massive followers on Twitter. I think it’s just 25K or something, and this will be syndicated by our embassies.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>No big deal. [laughs]</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>@MOFA_Taiwan is like 55K, so not too bad.</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>They’re great. Their Twitter is great. Let’s think.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Whether it’s you, MOFA, or your office, looks forward to welcoming the speakers and guests, and exploring these themes that can unite us, democracy, human rights, and civil liberties.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>I will tag also #OsloFF. That’s the hashtag?</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Perfect.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Or do you prefer @OsloFF?</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>The handle’s probably better.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>The handle is better? OK. We’ll work it in.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Amazing.</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>Fantastic. Thank you.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Anything from your side?</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>No, I’m just very excited that we’re here...</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Jenny Wang">
+          <p>I’m excited to get this conversation going. I’m thrilled that the Oslo Freedom Forum is here. Speaking as a Taiwanese American, I think it’s so important. This platform really shows that Taiwan cares about human rights and democracy. It’s so rare for Taiwan to be seen by the international community, so it’s really exciting that we’re all here and working on this global fight together.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Since we passed marriage equality, nobody confuse Taiwan with Thailand anymore.</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>It’s a plus.</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>Let’s continue on that trajectory.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>That’s right. Very much so. Anything from MOFA?</p>
+        </speech>
+        <narrative>
+          <p>
+            <i>(laughter)</i>
+          </p>
+        </narrative>
+        <speech by="#Audrey Tang">
+          <p>Yu-Hsin here is our MOFA delegate.</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>Oh, hi. Wonderful, thank you.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>You have nothing to add, really? That’s good, then, I think.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Yeah, we’re good.</p>
+        </speech>
+        <speech by="#Jenny Wang">
+          <p>Thank you so much.</p>
+        </speech>
+        <speech by="#Hannah Ellis">
+          <p>Thank you so much for your time.</p>
+        </speech>
+        <speech by="#Audrey Tang">
+          <p>Thank you.</p>
+        </speech>
+        <speech by="#Alex Gladstein">
+          <p>Thank you.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
