@@ -1,0 +1,18 @@
+<html><meta charset="utf-8">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.15/lodash.min.js"></script>
+<script src="convert.js"></script>
+<style>
+body, html { padding: 0; margin: 0 }
+textarea { width: 100%; height: 50%; padding: 0; margin: 0 }
+</style>
+<textarea autofocus id="input" onchange="convert()" onkeyup="convert()" onkeydown="convert()" style="background: #ddd">
+</textarea>
+<br>
+<textarea id="output" readonly style="background: #000; color: white">
+</textarea>
+<script>
+function convert(){
+var x = document.getElementById('input').value;
+document.getElementById('output').value = genGraphviz(x);
+}
+</script>
