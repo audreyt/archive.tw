@@ -116,3 +116,90 @@ function md2pad(x){
 
   return out;
 }
+
+const md2json = (x) => {
+	let output = {
+		'topics':[],
+		'contexts':[]
+	}
+	let lines = x.split('\n')
+	let speaker = ''
+	lines.map( line => {
+		let lineOutput = {}
+		let category = ''
+		let text = ''
+		// speaker
+		if ((/^###/).exec(line)) {
+			speaker = line.replace(/###|\s/g, '')
+			return
+		}
+	  else {
+			if ((/id="/).exec(line)) {
+				// <a category id="id">text</a>
+				if ((/<\/a>/).exec(line)) {
+					category = line.match(/<a (.*?) id="/)[1]
+					text = line.match(/>(.*?)<\/a>/)[1]
+					id = line.match(/id="(.*?)"/)[1]
+					lineOutput = {
+						'id': id,
+						'speaker': speaker,
+						'category': category,
+						'text': text
+					}
+					output.contexts.push(lineOutput)
+					return
+				}
+				// <a category id="id"/>text
+				if ((/\/>/).exec(line)) {
+					category = line.match(/<a (.*?) id=">/)[1]
+					text = line.replace(line.match(/<a (.*?)\/>/)[0],'')
+					id = line.match(/id="(.*?)"/)[1]
+					lineOutput = {
+						'id': id,
+						'speaker': speaker,
+						'category': category,
+						'text': text
+					}
+					output.contexts.push(lineOutput)
+					return
+				}
+			} else {
+				if ((/="/).exec(line)) {
+					// <a category="text"/>
+					category = line.match(/<a (.*?)=/)[1]
+					text = line.match(/="(.*?)"/)[1]
+					lineOutput = {
+						'category': category,
+						'text': text
+					}
+					output.topics.push(lineOutput)
+					return
+				}
+			}
+		}
+  })
+	return output
+}
+
+const genGraphviz = (x) => {
+  let output = md2json(x)
+  let vizOutput = ''
+	let graphviz = ''
+	vizOutput += '【心智圖】 \n\n ```graphviz \n digraph test { \n nodesep=1.0 \n node [style=filled, fillcolor="#fff9b1", shape=box, color=none] \n '
+	output.topics.map( topic => {
+		vizOutput += '"' + topic.text + '" [label="' + topic.text + '"] \n'
+		for (let i = 0; i < output.contexts.length; i++){
+			if (topic.category == output.contexts[i].category) {
+				vizOutput += '"' + output.contexts[i].speaker + output.contexts[i].text + '" [label="' + output.contexts[i].speaker + output.contexts[i].text + '", URL="#' + output.contexts[i].id  + '"] \n'
+				if (_.findIndex(_.groupBy(output.contexts, 'category')[output.contexts[i].category], {'text': output.contexts[i].text}) == 0) {
+					vizOutput += '"' + topic.text + '" -> "' + output.contexts[i].speaker + output.contexts[i].text + '" \n'
+				} else {
+					vizOutput += '"' + output.contexts[i-1].speaker + output.contexts[i-1].text + '" -> "' + output.contexts[i].speaker + output.contexts[i].text + '" \n'
+				}
+			}
+		}
+	})
+	vizOutput += '} \n ``` \n\n'
+	graphviz = x.replace(x.match(/【以下開始記錄】/)[0], vizOutput + '【以下開始記錄】')
+	return graphviz
+}
