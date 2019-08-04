@@ -54,6 +54,34 @@ function pad2md(x){
       out += "# " + ln + "\n\n";
       continue;
     }
+	if (/^(##)/.exec(ln))  {
+      var label = (/([^#]*)$/).exec(ln)[0]
+      var text = ln.replace(/^##/, '').match(/#(.*?)#/)[1]
+      out += '<a ' + label + '="' + text + '" /> \n\n'
+      labels.push(label)
+          continue;
+    }
+    if (/(#.*){2}/.exec(ln)) {
+      labels.map( lb => {
+        var label = (/([^#]*)$/).exec(ln)[0].match(lb)
+      })
+      var text = ln.match(/#(.*?)#/)[1]
+      var id = text.substring(0,2)
+      if (ids.length != 0) {
+        ids.map( d => {
+          for (var i = 2; i < text.length; i++) {
+            if (text.substring(0,i) != d) {
+              id = text.substring(0,i)
+              break;
+            }
+          }
+        })
+      }
+      ids.push(id)
+      var tag = '<a '+ label +' id="' + id + '">' + text + '"</a>'
+      out += ln.replace(/\s+/,'').replace(label,'').replace(text,tag).replace(/#/g,'') +'\n\n'
+      continue;
+    }
     if (/^\s+/.exec(ln)) {
       out += (replace$.call(ln, /^\s+/, '').replace(/\]（(.*?)）/g, ']($1)')) + "\n\n";
       continue;
