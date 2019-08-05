@@ -68,15 +68,14 @@ function pad2md(x){
         var label = (/([^#]*)$/).exec(ln)[0].match(lb)
       })
       var text = ln.match(/#(.*?)#/)[1]
-      var id = text.substring(0,2)
+      var strCount = 2
+      var id = text.substring(0, strCount)
       if (ids.length != 0) {
-        ids.map( d => {
-          for (var i = 2; i < text.length; i++) {
-            if (text.substring(0,i) != d) {
-              id = text.substring(0,i)
-              break;
-            }
+        ids.map( i => {
+          if (i.includes(id)) {
+            strCount++
           }
+          id = text.substring(0, strCount)
         })
       }
       ids.push(id)
