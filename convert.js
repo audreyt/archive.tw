@@ -43,6 +43,8 @@ function cw2pad(x){
 
 function pad2md(x){
   var out, i$, ref$, len$, ln, replace$ = ''.replace;
+  var labels = [];
+  var ids = [];
   out = '';
   for (i$ = 0, len$ = (ref$ = x.split(/\n+/)).length; i$ < len$; ++i$) {
     ln = ref$[i$];
