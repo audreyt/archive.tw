@@ -59,7 +59,7 @@ function pad2md(x){
 	if (/^(##)/.exec(ln))  {
       var label = (/([^#]*)$/).exec(ln)[0]
       var text = ln.replace(/^##/, '').match(/#(.*?)#/)[1]
-      out += '<a ' + label + '="' + text + '" /> \n\n'
+      out += '<a ' + label + '="' + text + '"/> \n\n'
       labels.push(label)
           continue;
     }
@@ -79,7 +79,7 @@ function pad2md(x){
         })
       }
       ids.push(id)
-      var tag = '<a '+ label +' id="' + id + '">' + text + '"</a>'
+      var tag = '<a '+ label +' id="' + id + '">' + text + '</a>'
       out += ln.replace(/\s+/,'').replace(label,'').replace(text,tag).replace(/#/g,'') +'\n\n'
       continue;
     }
@@ -105,7 +105,7 @@ function pad2md(x){
     }
   }
 
-  return out;
+  return genGraphviz(out);
 }
 
 function md2pad(x){
@@ -143,7 +143,7 @@ function md2pad(x){
     }
   }
 
-  return out;
+  return genGraphviz(out);
 }
 
 const md2json = (x) => {
