@@ -229,6 +229,6 @@ const genGraphviz = (x) => {
 		}
 	})
 	vizOutput += '} \n ``` \n\n'
-	graphviz = x.replace(x.match(/【以下開始記錄】/)[0], vizOutput + '【以下開始記錄】')
+	graphviz = x.replace((x.match(/【以下開始記錄】/) || [])[0], vizOutput + '【以下開始記錄】')
 	return graphviz
 }
