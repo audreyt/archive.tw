@@ -6,6 +6,9 @@ function cw2pad(x){
   ref$ = x.split(/\n+/);
   if ((ref$.length > 0) && (!/[：:]/.exec(ref$[0]))) {
     out += (ref$.shift() + "\n");
+    out += ':::info\n'
+         + '🌐 This is a collaborative editor for the meeting transcript. If you want to adjust your own speech, please click on the "Pencil" icon at the top left corner to start editing. The system automatically saves each edit. It is scheduled to be released on XXXX-XX-XX and will be published at https://pdis.nat.gov.tw/track/ to the [public domain](https://github.com/audreyt/archive.tw/blob/gh-pages/LICENSE). Thank you for your contribution to the commons.\n'
+         + ':::\n';
   }
   for (i$ = 0, len$ = ref$.length; i$ < len$; ++i$) {
     ln = ref$[i$];
@@ -211,7 +214,8 @@ const md2json = (x) => {
 }
 
 const genGraphviz = (x) => {
-  let output = md2json(x)
+  let output = md2json(x);
+  if ((output.topics || []).length == 0) { return x; }
   let vizOutput = ''
 	let graphviz = ''
 	vizOutput += '【心智圖】 \n\n ```graphviz \n digraph test { \n nodesep=1.0 \n node [style=filled, fillcolor="#fff9b1", shape=box, color=none] \n '
