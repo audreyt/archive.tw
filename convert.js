@@ -146,7 +146,7 @@ function md2pad(x){
     }
   }
 
-  return genGraphviz(out);
+  return out;
 }
 
 const md2json = (x) => {
