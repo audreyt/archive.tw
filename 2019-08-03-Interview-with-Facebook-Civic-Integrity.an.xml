@@ -540,9 +540,6 @@
         </speech>
         <speech by="#Audrey Tang">
           <p>No problem.</p>
-          <p>
-              <img src="https://raw.githubusercontent.com/Code4SA/indigo/master/docs/logo.png" />
-          </p>
         </speech>
       </debateSection>
     </debateBody>
