@@ -12,7 +12,7 @@
         </TLCPerson>
         <TLCPerson href="/ontology/person/::/彭巧菁" id="彭巧菁" showAs="彭巧菁">
         </TLCPerson>
-        <TLCPerson href="/ontology/person/::/徐展銘" id="徐展銘" showAs="徐展銘">
+        <TLCPerson href="/ontology/person/::/許展銘" id="許展銘" showAs="許展銘">
         </TLCPerson>
         <TLCPerson href="/ontology/person/::/怡君" id="怡君" showAs="怡君">
         </TLCPerson>
@@ -520,13 +520,13 @@
         <speech by="#唐鳳">
           <p>而且現在人臉辨識的錢省下來了，可以再多花一點力氣來做使用者體驗設計的蒐集，做得更精細一點。</p>
         </speech>
-        <speech by="#徐展銘">
+        <speech by="#許展銘">
           <p>我問一下，虛擬卡這一塊，醫院的部分，現在是門診看診、掛號、批價，健檢這一塊都沒有？</p>
         </speech>
         <speech by="#郭貞吟">
           <p>暫時不測。</p>
         </speech>
-        <speech by="#徐展銘">
+        <speech by="#許展銘">
           <p>未來想要再擴大嗎？檢查層或者是病歷室嗎？</p>
         </speech>
         <speech by="#郭貞吟">
