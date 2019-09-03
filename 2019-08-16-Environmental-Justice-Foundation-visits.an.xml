@@ -123,12 +123,11 @@
                 <speech by='#Max Schmid'>
                     <p>Potentially.</p>
                 </speech>
-                <speech by='#Max Schmid'>
-                    <p><blockquote>
-<p>(laughter)</p>
-</blockquote>
-</p>
-                </speech>
+                <narrative>
+                    <p>
+                        <i>(laughter)</i>
+                    </p>
+                </narrative>
                 <speech by='#Audrey Tang'>
                     <p>No, seriously.</p>
                 </speech>
@@ -508,12 +507,11 @@
                 <speech by='#Audrey Tang'>
                     <p>That’s right.</p>
                 </speech>
-                <speech by='#Audrey Tang'>
-                    <p><blockquote>
-<p>(laughter)</p>
-</blockquote>
-</p>
-                </speech>
+                <narrative>
+                    <p>
+                        <i>(laughter)</i>
+                    </p>
+                </narrative>
                 <speech by='#Max Schmid'>
                     <p>We work with a group that mainly focuses on this, and we’ll recommend that they enter that hackathon. I think that would be really good. I think, again, returning to the broader concept of transparency, we’d be really keen to see if there’s ways for obviously, being aware that you’ve got elections coming up, and that there’s a focus there.</p>
                 </speech>
