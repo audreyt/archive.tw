@@ -68,8 +68,11 @@ function pad2md(x){
           continue;
     }
     if (/(#.*){2}/.exec(ln)) {
+      var label = ''
       labels.map( lb => {
-        var label = (/([^#]*)$/).exec(ln)[0].match(lb)
+        if ((/([^#]*)$/).exec(ln)[0].match(lb) !== null) {
+          label = (/([^#]*)$/).exec(ln)[0].match(lb)
+        }
       })
       var text = ln.match(/#(.*?)#/)[1]
       var strCount = 2
@@ -83,7 +86,7 @@ function pad2md(x){
         })
       }
       ids.push(id)
-      var tag = '<a '+ label +' id="' + id + '">' + text + '</a>'
+      var tag = '<a name="'+ label +'" id="' + id + '">' + text + '</a>'
       out += ln.replace(/\s+/,'').replace(label,'').replace(text,tag).replace(/#/g,'') +'\n\n'
       continue;
     }
