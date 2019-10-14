@@ -86,7 +86,7 @@ function pad2md(x){
         })
       }
       ids.push(id)
-      var tag = '<a name="'+ label +'" id="' + id + '">' + text + '</a>'
+      var tag = '<a name="'+ label +'" id="' + id + '" style="cursor: default; color: black;">' + text + '</a>'
       out += ln.replace(/\s+/,'').replace(label,'').replace(text,tag).replace(/#/g,'') +'\n\n'
       continue;
     }
