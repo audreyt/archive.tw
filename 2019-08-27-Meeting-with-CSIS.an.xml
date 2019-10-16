@@ -1,0 +1,1967 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Daniel F. Runde" id="Daniel F. Runde" showAs="Daniel F. Runde"/>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+                <TLCPerson href="/ontology/person/::/Christopher Metzger" id="Christopher Metzger" showAs="Christopher Metzger"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2019-08-27 Meeting with CSIS
+                </heading>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        How is your work in Taiwan blending with other phenomena such as ICT and the digital disruptions that are happening, and what that means for the future of the Taiwanese economy and how Taiwan will make new connections with countries such as countries in the new southbound policy over the next decade, because I think my view is that as countries progress, they are going to follow the path of Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        They want more innovation-led economic growth. They want to leverage their people. They want to leverage their creative economy. They want to leverage the knowledge economy. What Taiwan has achieved, other people want or are going to want, and it’s an attractive form of soft power as well as an important part and a growing part of Taiwan’s economy.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I know you’re a critical part of that, given your ministry without portfolio role as a digital minister. Thanks for receiving me, and tell me a little bit about, how did you end up becoming digital minister? How do you see your role as digital minister?
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I have some other questions for you, but tell me a little bit about yourself and tell me about how you became digital minister.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure. We occupied the Parliament in April 2014 for 22 days. After 22 days of Occupy was that the head of the Parliament then agreed to the demand of the Sunflower occupiers, which is to open up policymaking.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Instead of treating things like the cross-strait service and trade agreement as something that’s perfectly administration-led and the Parliament has no substantial discussions. The theory was – legitimacy theory of the Occupy – was that the MPs were on strike, because they refused a substantial deliberation of the Beijing trade agreement, so people occupied the place for public deliberation – that’s the Parliament – to debate this by ourselves.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I was helping with the communication both for everybody, like tens of millions of people, online and half a million on the street to nevertheless get a idea of what’s being discussed that day.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Which aspect did they care about the trade agreement? Maybe they own a company. Maybe they work at a co-op or whatever, and they just enter the trade or the serial number of their company, and they can see immediately how the CSSDA affects them.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        From there, they can choose one of the 20 or so NGOs who has a public deliberation booth of sorts to talk about that particular aspect and gradually through 22 days, a set of consensus emerge, which is then ratified or accepted by the head of the parliament.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is a public demonstration, but demonstration not as in protest, but as in demo, demo as in showing a new version of governance system that actually can get people’s voice on the street into a coherent consensus.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        After that, at the end of that period in 2014, all the mayors that run with the platform open government, which is also very trendy in the US at that moment, won the mayorship even when they did not prepare for the inauguration speech. People who are against open government all lost their mayoral elections.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        At the end of that year, the ministries decided to hire in each ministerial position an understudy or reverse mentor, depending on how you phrase it, to work with existing ministers on how to work with the general public on policy making in the early stage in a deliberative fashion.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I was then recruited by then Minister without Portfolio in charge of digital economy and law, Minister Jaclyn Tsai as her understudy/reverse mentor. I worked for what was then for one and a half years, something like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then came Dr. Tsai Ing-wen’s cabinet. I was asked if I can just take Minister Jaclyn Tsai’s office, which is literally this office. Then I just became the Digital Minister doing exactly the same thing as I’ve done since the Sunflower Occupy, which is to enable listening at scale for policymaking. That’s the short answer.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Great. Tell me about, how do you see the role of…How is the digital economy changing the way governance and government is happening here in Taiwan? Are you optimistic about the future directions?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Very much so. Previously before the Internet, it’s easier to talk to a specific person than is to speak to just random strangers. Now it’s flipped. Actually, President Trump is a really good example, because it’s through Twitter, instead of the usual…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        60 million followers.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly. That’s larger than any…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        “The New York Times” has seven million maybe, and, I don’t know, CNN has one and a half million.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s exactly right, so it’s easier actually now to talk to people you don’t know than to talk to people that you do know or do know you. Because of this, the government’s role really changed.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Previously, we see ourself as kind of organizers. The ministry of economy will organize the people who care about economic growth. The ministry of environmental protection would gather people who care about sustainability.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sometime of course they have conflicts in their values, and the career public service will have to absorb all the tensions without breaking and remaining anonymous, which is really unfair, by the way.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For the digital economy, you mentioned we also have people who work with the disruptive innovators on one hand, but also people who care about the social justice and equality on the other hand.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Again, the ministries may fight on behalf of the interests, but nowadays, with the new hashtag, people just organize out of nowhere. People no longer need politicians to organize. People can just have #metoo, #climatestrike, whatever, and then just out of nowhere, organize themselves.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If we insist on making a new agency, or a new team, or a new task force whenever there’s a emerging topic, the government will be paralyzed and unable to function, as many liberal democracy nowadays face the same problem.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Our theory, which is ratified in the UK Digital High-Level Group, is called COGOV, or collaborative governance. It’s a really old idea, like centuries-old idea, but it’s implemented very efficiently in the digital space by asking a different set of question.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Instead of asking, “Who are the representatives and how can we arbitrate between their interests?” we’re now asking, “So we’re a space here, and given our different positions, are there nevertheless some common values? Given common values, can anyone deliver innovations that deliver on those values together?”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The digital tools that we use all emphasize on the things that people actually agree on. This is what we call gongshi here or common understanding in English, so people actually after using our digital tools, see that first, people may have different positions, but that’s their friends and families who share their feelings.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is in the actual map visualized by people’s response to Uber using non-licensed professional drivers in 2015. That’s our first intervention using this tool.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        People can see people holding different positions are in fact their friends and families and also people’s competition is not on getting more trolling or divisive opinions, but actually gathering people’s more nuanced, eclectic ideas.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        At the end of the consultation, everybody can see most people agree on most of the things most of the time, and there, we just ratify these instead of using social media and popular institutional media in a way that concentrates on the maybe five things that people ideologically are split on. We just recognize this, but we don’t just ratify this.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m really optimistic. In fact, this tool is used all over the world, including, this one is actually in Bowling Green, Kentucky, or something like that, and it’s being introduced also in the Congress of the US as part of the CrowdLaw initiative, Committee of Modernization, if I understand it correctly.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think generally, just as social media can divide people in its previous iteration, these new tools can actually unify people and form a polity.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        One of the things that’s being talked about, about open governance is the issue of data privacy. One of the things that there’s an easy temptation, if I look at mainland China, things like the social scoring or the facial recognition.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        There’s been discussions about open data and open government. That’s, I think, wonderful in theory and I’m in favor of it, but how do we prevent it bleeding into Big Brother?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I do have to make the difference between the radical transparency as we practice here, which is making the state radically transparent to the citizen, and the social credit system, which is to make the citizenship radically transparent to the state.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even though it’s the same English word, it’s actually two diametrically opposing things, so there’s no way to bleed into one another if you have two tracks running opposite direction, or I guess on the earth, which is spherical…In any case, you can’t really overflow, and by making the state radically open, accidentally make the citizens open to the state. It just doesn’t work like this.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        On a related issue, how do we think about the issues of digital inequality or digital divides? 20 years ago, we talked about a digital divide, just having access to the Internet.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Access to the Internet is being largely solved through smartphones. How should we be thinking about how we enable, make sure that there’s not digital haves and digital have-nots in the future?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, we do have broadband as human right.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Really?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, anywhere in Taiwan, even on the topmost of the Jade Mountain, which is like four kilometers, almost, growing five centimeters every year – maybe in two decades, it will reach four kilometers. In any case, even there, you have 10 megabits per second.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Anywhere in Taiwan, if you don’t have 10 megabits per second, it is my fault. Because of that, we don’t divide of the kind of have areas and have-not areas. If anywhere in Taiwan there’s no broadband, that’s our problem. That’s the first answer.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The second is that it must be made affordable. Otherwise, the only rich get to use the Internet. For unlimited 4G connection above 10 megabits per second, in Taiwan is currently around less than 500 NT dollars per month, which is like what, 13 US dollars, 14 US dollars? Again, it is super affordable.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I see in your business card, you have the colors and the circle of the Sustainable Development Goals.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Talk about, how do you see, how is Taiwan doing on the Sustainable Development Goals, and what is the role of technology in achieving the Sustainable Development Goals?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure. Taiwan, we not only have the VNR, the Voluntary National Review, but Taipei City, Taoyuan City, and maybe other municipality will soon follow, all have their own Voluntary Local Reviews. They learned that idea from New York City, I believe?
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, we use SDGs as a 
+                        <a href="https://si.taiwan.gov.tw/">
+                            common index
+                        </a>
+                         to unify the different sectors together.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Instead of having the business community declaring their CSR reports, and the charity and social sector declaring their benefit reports, and the university deliver their university reports on impact, it’s actually tracked using the same system, what we call the Social Innovation Platform.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For every county and city, they can declare the three or so SDG goals that they are focusing on, with the other ones in supporting role. It not only lists all the different organizations, maybe 400 of them in that particular place, but also how they work together, regardless of their organizations’ side.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think Taiwan is one of the most if not the most jurisdiction with the public listed company declaring the GRI standard, which is the kind of next-generation CSR where sustainability is the strategy, not just something nice to have, charity using the SDGs as the common index. That’s our numbering system for our assessment.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is actually not something new in Taiwan. For a particular SDG, for gender equality, we actually had that assessment co-creation structure for 12 years now.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because of that, we are very intentional in having this the SDG-like governance where there’s one more seat of CSO leaders that reviews each and every project, and each and every bill per year, and that introduce new measurements in agenda dashboard that then produce a theory of change.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        By the theory of intersectionality, we’re now applying this to circular economy, that’s SDG 12, to carbon footprint reduction, to all the other SDGs, but we already have this impact-based, not policy-based measurement co-created with the CSO for 12 years, which led to marriage equality impact in Taiwan, of course.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Our national cross-ministry or cross-sectoral hackathons all use the concrete goals, the 169 goals, as their topics. We actually ask everyone who participate in the presidential hackathon to form data collaboratives, but with the value being driven by one or more of concrete Sustainable Development Goals.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Again, for us, it’s a common indexing system to make the international community understand what we’re doing here in Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Tell me about, if I say, “Digital,” what percentage of your economy is digital?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Everything is digital.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        How about if I think about e-government, what does e-government mean to you, and what does it mean for Taiwan?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s interesting how we used to use the word “e-“ for like “e-mail” and everything, right?
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Right.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The dash…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        E-commerce.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        E-commerce, then we first lose the dash. It’s just email, and nowadays, it’s just mail. When we say, “Oh, just mail me.”
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        “Send me a mail.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        “Send me a mail,” we mean an email. The E is no longer there.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        It’s assumed.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s assumed. If you want the paper-based mail, you have to specify, “Paper mail.”
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        “Send me a snail mail.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        A snail mail. That’s exactly right. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because of that, I think Taiwan, because of broadband as human right, we already conduct most of our commerce, economy, including entertainment, through OTT channels and things like…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        What’s OTT?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Over-the-top, meaning that it’s not served by the telecommunication hardware provider like cable TV or, I don’t know, Betamax, VHS, whatever, but rather, it’s Netflix, it’s YouTube. It doesn’t matter where they are physically residing. We don’t care about that any more. It’s streamed into the device.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This applies to pretty much every other parts of the economy as well. What I’m getting into is that the way we present the SDGs, we don’t put digital in its own layer.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We see it as a kind of unifying force that unifies the economic, environmental, and the social aspects of the SDG, by ensuring that everybody have reliable data, that people can form effective partnerships, and also people can share their innovations across sectors.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a enabler. It is not by itself a goal. It is a mean toward the other 16 goals.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        If I say to you, the Internet of things, how do you think about the Internet of things here in Taiwan?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’ll read to you my job description, which answers this in its first stanza. [laughs] “When we see the Internet of things, let’s make it the Internet of beings. When we see virtual reality, let’s make it a shared reality.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        “When we see machine learning, let’s make it collaborative learning, and when we see user experience, let’s make it about human experience. Whenever anyone tells us the singularity is near, let’s make sure the plurality stays here.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The idea very simply is to replace those industrial words with the human-centric words that ensures that when we’re talking about the Internet of things, we’re not saying that a particular sector, be it private or public, should dominate the society. I’ll use one example, which is really quick.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When we talk about IoT – in Taiwan we say AIoT, Assistive Internet of Things or AI – these environmental IoT devices, they’re built by the social sector, maintained by the social sector, in a open-source way that reports to a distributed ledger that’s a blockchain, enabling everybody worrying about air pollution anywhere to participate in the data collaborative. This is called the AirBox project.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For the public sector, when we think about issues like this, we always say we can’t beat the social sector. We must join the social sector. Our role is to first ensure that they can set up the AirBoxes in the places such as industrial parks that they don’t have access to because they’re private lands.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We own the lamp, so we can contribute by hanging AirBox on the lamps there, setting up it as part of our renewable energy wind power plants, and things like that. We always assume that the social sector has a higher legitimacy than the public or the private sector.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We join such system produced by the social sector, which is also international. This is how we approach the Internet of Things versus Assistive, AIoT. Second, it’s enabling social impact.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Let me try out a statement on you. Everyone likes the Internet of Things until you learn that Mainland China has the off switch. Talk about cybersecurity and the issues around that. I get the sense that many of the folks who have sold our technological future have been technological evangelists and hyper-techno-optimists, and have skipped some of the speed bumps along the way to techno-Utopia.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Talk about how are we going to protect ourselves from hostile actors, whether be it Mainland China, North Korea, other actors who could just shut down the whole system or use it against us, have all the driverless cars crash into each other or this sort of thing.
+                    </p>
+                </speech>
+                <speech by="#Christopher Metzger">
+                    <p>
+                        Data privacy, too, with Cambridge Analytics.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        They’re separate.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        These are two things.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Those are two things.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I can talk about that, too. For cyber-resilience, not too long ago, maybe five years ago, before the ICANN independence from the US – Depart of Commerce, I believe – the US held the kill switch.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Yes, I know.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Nowadays, after the ICANN “independence” really nobody has that off switch anymore. The previously-agreed cyber norms get broken – for example by folks from the Chinese continent – all the time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That state can engage in industrial espionage and say that it’s a form of non-market subsidy. The fact that we’re facing a world where state-based actors don’t just engage during escalations, it’s their everyday job to be part of the non-market force in a market, the old notion of ICT security, cybersecurity, and so on really doesn’t work in this new configuration.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a reactive framework saying that, if something happens, you do something to counter it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Nowadays, it happens all the time, which is why we’re switching to the mindset of cyber-resilience. There are three aspects of cyber-resilience I would like to highly quickly. The first one is of threat hunting. Our network services…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I’m operating as if my Gmail’s read all the time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly, and Google tells you about it. The first day I become digital minister, they show me a banner that says, “You’re being targeted by state-sponsored persistent threats.”
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Who could that be? [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly. Who could that be? [laughs]
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I think you have to say, “Whatever I put in my Gmail’s gonna end up on the front page of the South China Morning Post.” I would have said the Washington Post, but let me say it might be on the cover the South China Morning Post before you know it. How’s that?
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s great. I can learn from your way of thinking. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        What you’re saying is notions of cybersecurity, once we handed over ICANN, we…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The previous norms are gone. What we can do is that we must stay resilient when parts of the Internet become infiltrated.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        How stupid was that? That was colossally dumb to let go of that. That was a strategic error.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        How about this issue that my colleague, Mr. Metzger raised? Let’s call it using technology to divide us, pushing social buttons…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sowing discord.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        …micro-targeting people, then data-mining and manipulating them using their prejudices, bots, deep fakes. Can you talk about that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s actually my next slide. It’s called proactive defense. It’s not quite defending forward, which is a bit closer to the offense side. [laughs] It’s a step less than that. We are not quite getting there.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What we’re doing, seriously speaking, is that we’re legally defining intentional, harmful, untruth as not freedom-of-speech eligible. It’s outside protections of freedom of speech.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        What’s an example?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Harmful means that it’s harming the public – not the image of a minister, which is just good journalism.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        If I yell fire in a crowded movie theater?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s a classic example.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        That’s the classic example of you don’t have free speech to do that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you’re intentional, of course. If you’re just repeating whatever other people have said, then you may not be intentional because you have good reason to trust that person to have seen the fire firsthand. But the person with the intention…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Who starts it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …who starts it or with the intention to provocate it even if they know better, then they are no longer protected. We changed quite a few laws to be consistent with this new doctrine.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        How are we going to deal with the world of deep fakes?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Be proactive. First of all, what’s important is that whenever deep fakes or other disinformation campaign happen, within one hour, in all our ministries, they are not equipped to push out a meme, meaning something that goes viral on the Internet, that clarifies this, is genuinely funny, and reaches more people than the original disinformation campaign.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is a example. There was a fake picture, not really a deep fake, [laughs] that says perming your hair will be subject to a $1 million fine. This sowed discord.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Did a government probably put that together? Could a government, state-sponsored actor do that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It could. Essentially, they developed the technology. They do the A/B testing on end-to-end encrypted channels. I think they’re opportunistic in the sense that if something goes viral on those conspiracy circles, they can amplify that into their indirectly controlled media.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        For example, is Mainland China putting together rumors or deep fakes to try and divide your society?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Well, Twitter just showed to the world that PRC is actively coordinating such political campaigns.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        You have a political election season right now. Could you imagine…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In the previous one…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        There’s been arguments in other societies, including mine, about interventions by state actors in the elections. You have an election in January. Would you be surprised if the PRC or some other malignant actor were to operate in a variety of ways to create division and sow discord in your society using digital means?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We do have evidence already that in the previous mayoral election, people who are from a IP address from the PRC and declare themselves to be employees of Tencent – but they have 15 people all looking the same, so who knows, from that angle anyway– just operating disinformation campaigns for one particular mayoral candidate in foreign policy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I assume people know this about that particular operation. Twitter just released a public dataset of a block of IP address in PRC that doesn’t need a VPN to access Twitter to do disinformation on Hong Kong.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If the PRC has a IP address block that doesn’t VPN to access Twitter and post only these things, we can safely assume that the state at least permitted their use outside of the Great Firewall.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It may or may not be the PRC administration. It could be the PLA, too.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        25 years ago, we’d have said that the Internet was going to create a lot of freedom.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It did.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        In some ways it has, but you now have examples of societies like China, where you have the Great Firewall where it’s actually done the opposite. How will digital impact closed societies like Mainland China?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a great accelerator, no matter which direction you’re going.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Can you imagine a scenario where there’s some popular uprising in Mainland China using digital means where people say, “We’re going to have a meet-up”?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re seeing one right now…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        In Hong Kong.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …powered by Telegram. In Hong Kong, that’s right. It’s the leaderless movement that the Sunflower Movement…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Was in Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …pioneered a little bit from those technologies, although, at that moment, it’s not entirely leaderless. After Umbrella, I think Hong Kong people took five years to perfect that art. It’s now truly leaderless in all aspects.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Could you see it in Mainland China outside of Hong Kong? Could you imagine a scenario? They have hundreds of thousands of people censoring the Internet all the time. Is it possible that there could be some sort of leaderless movement to call for greater democracy? Can you imagine a scenario where there’s a digitally-led democracy movement in Mainland China?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Imagine there’s no countries? It isn’t hard to do.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        In your lifetime, will there be democracy in Mainland China? I think it’s possible.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If Hong Kong concludes well, it sets a example.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        What does conclude well in your mind? I hope it concludes well, too. In my mind, what I think it means is that Xi Jinping backs off of this law and returns to status quo ante. Isn’t that basically what the best outcome is at this point?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Well, Sunflower was not only demanding the retraction of the CSSTA. The CSSTA, it could be said that it’s de facto dead at that moment anyway, just like the extradition law now.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        What’s the CCSTA?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The Cross-Strait Service and Trade Agreement that would enable PRC service providers to offer their services in Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        he Occupy changed the discussion so that, from that Occupy onward, we disallowed any PRC components in our 4G infrastructures.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I want to come back to 5G, 4G, and Huawei.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In a sense, we led the world for five years now. [laughs] In any case…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Could you imagine a scenario where there’s a digitally-led movement in Mainland China, non-Hong Kong? In your lifetime, could you imagine a digitally-led democracy movement in Mainland China?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What I’m getting at is that we call Sunflower a victory, not because the CSSTA was rejected. We call it a victory because the administration genuinely show that it need to run a national forum on how to enable further public participation, similar to, for example, what President Macron did following the Yellow Vest.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a governance change. It’s not only a single issue change. That was a result of both the Occupy and the Yellow Vest, although these two are really not comparable.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In any case, what I’m getting at is that no matter whether it takes place on the streets as in Yellow Vest, or whether it takes place in a single occupy, as in Sunflower, if the governance attitude changes as a result, then I call it the successful conclusion or “concludes well.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Using that definition, I can certainly imagine that in the Chinese continent outside of Hong Kong, that there would be provincial or other levels of the government that results in this kind of change, following a successful demonstration.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I’d been following a little bit the election here in Taiwan. I’m convinced that what the mistreatment of the citizens of Hong Kong by mainland Chinese forces is being watched here in Taiwan, and there’s sort of a triangular, triumvirate, mainland China, Hong Kong and Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I believe that one of the reasons that the mainland government has not acted even more harshly in Hong Kong is fear that it will have a political impact here in Taiwan. Do you agree with that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I do. In 1989, after the Tiananmen, a year after that, there was a similar protest, the Wild Lily movement here in Taiwan, and it concluded well.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        This was post-martial law.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That was post-martial law, but there was a real doubt in how the…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        The government of the time was going to operate.
+                    </p>
+                </speech>
+                <speech by="#Christopher Metzger">
+                    <p>
+                        Exactly. It would require constitutional change, and many people did not expect that President Lee Teng-hui would actually act on the constitutional change agenda.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        He did.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        He did, and the occupy, the Wild Lily contribute a lot on that, but people were able to come to the same table and continue this constitution amendment discussion for a decade or so, because nobody want to repeat Tiananmen, right?
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        What percentage of the population of mainland China supports the PRC government?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Nobody knows about it.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Take a guess. What’s your guess?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Supporting the PRC government, I think it’s a majority. Supporting specific political restrictions imposed by the Chinese Communist Party? That may be lower.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        It’s a function the deal that they’ve made, which is, “I’ll provide you jobs and high growth, and you stay out of politics.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Up until now, they’ve provided it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Up until the trade escalation.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I think there’s been a change in Washington and it doesn’t matter if we have a Republican government or a Democratic government. I think there’s been a change in how we think about China. Some of it had to do, I think there was a before and after the emergence of the Asian Infrastructure Investment Bank, there’s a before and after the Belt and Road Initiative.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I think there’s a before and after this treatment of Hong Kong. I think especially if it ends poorly, it will be a historic error on the part of the mainland Chinese government. This is not 1989.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You can’t censor a massacre.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        You can’t censor the massacre. You’re not going to be able to censor the massacre. The American government was not dealing with the end of the Soviet Union and the end of the captive nations.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I don’t know what mainland China’s GNP per capita is these days. I don’t know if it’s $8,000 per capita. At the time, it was $2,000 or $1,000, so we’re now dealing with a much different kind of an economy and a much different player, so it’s not a question about we’ve got to continue on a process.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I think that we’re in a very different place, and this is a very different ball game. I think they understand that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They do understand that. Otherwise, they would already…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        They would have already crushed what’s happening in Hong Kong.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly. Yes.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Are you a digital optimist?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        We shouldn’t fear deep fakes, and cyber attacks, and Internet of things being turned off with a off switch, and mainland China taking all our driverless cars and crashing them into each other, we shouldn’t worry about it, and people stealing my privacy. I’m being a little provocative, but I think you know what I’m trying to say.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s fine. A few things. Deepfake is not new. Anybody who watched “The Lord of the Rings” movie, the movie one with Gollum in it, have seen a deepfake, the motion capture of the Gollum’s face. That technique, the movie CG industry have been using them for…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        For decades.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …for decades, and the only thing change…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        We’re just applying them to real life.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …is that a personal computer can now run it.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        You don’t need a Hollywood studio to do it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly. The only thing change is the democratization of this technology.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Of these technologies.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Right, and so the element of surprise is not there, is what I’m getting at.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        In your mind, is it a question of educating in values in the society? Is that basically all you can do?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, but we can do a lot using only that. I mean, each clarification message is a education, and we use public funding to fund the TV series, “The World Between Us,” which was sponsored by a special budget item by the government, and it’s very highly rated on IMDB and HBO Asia.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That literally is a major literacy TV series, and the Ministry of Culture has a lot to do with this.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They argue that this is the actual infrastructure more than roads and bridges, just to inoculate people against the virus of the mind status quo by showing how the newsroom works, by showing how people sow discord, how people and things like that to do a kind of who-done-it, this kind of operations, intentional or not.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Can you imagine this being in the elementary schools?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We are introducing it in elementary schools today, actually, beginning this September.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I want to talk about, I want to come back to the issue of 4G, 5G, Huawei. I notice that there’s no Huawei technology here in Taiwan. Why is that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now, it was certainly not my idea, I cannot take the credit. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Basically, in 2014, there’s a fierce debate because there were 4G infrastructure providers that really wanted to use PRC technology. Actually, that question was raised by Terry Gou…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I know him.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In any case, Terry, at the time, legitimately asked the NCC whether it’s OK for him to deploy a 4G core technology framework using…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        With Foxxcon, or ZTE, or?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That was Huawei. The National Security Council and the NCC deliberated on this issue I think for couple of month, did a systemic risk analysis and decided that there really is no…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        The risk was too high.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There is no meaningful “private sector company” coming from PRC. Every private sector company can become a state de facto owned company.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Do you agree with that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I do. Just look at all the party branches within large companies.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        The founder of Huawei used to be Chinese military, army, PLA.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In any case, even if they had no connection at all, the PLA and the CCP have a lot of ways using non-market forces to assume direct control of any private owned companies anyway.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        We have a global problem. I would describe, there has been a collective freak-out in Washington realizing that in terms of quality and price, the only competitive actor today for 5G is Huawei. How is the global system going to respond to the challenge of Huawei being price competitive and quality competitive on 5G, when there literally exists no other actor today?
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I have my views about how to solve this, how would you go about solving the challenge of Huawei being competitive on a price and quality basis and having no other competitor today?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m not focusing on any specific company because you can see that in pretty much everything that is a market of increasing return, meaning that the early mover has the advantage.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You see the PRC doing state subsidies in both market terms and non-market terms, to even public listed companies, and to companies well after the incubation stage.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In US, in Taiwan, in Europe, in everywhere else, the states…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        We don’t do that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We do state subsidies up to maybe startup incubator stage, sometimes for strategic terms, like in DARPA Grand Challenge.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Or Sematech.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly, but then, if they become a company with 5,000 or more employees, there’s no state subsidy anymore, outside a few…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        It’s very, very unusual…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s very unusual.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Like the Chrysler bailout in 1980. or the TARP in 2008.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Right. It’s seen as exceptional.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        How is the 5G problem strategic problem going to be resolved?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think, first, everyone have to recognize that this is not about being price competitive. This is de facto state subsidy on the increasing return market. We need to understand in these terms.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I understand that, but…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        And then, we can all collectively wait half a year.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Wait half a year.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Because somebody else will enter and solve the problem.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right, because then the PRC essentially absorbed the research cost.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        You’re saying, other competitors will enter the market quickly.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They already entered the pocket. It’s just the price is not the same as Huawei.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Can you see a future, is there a 6G two years from now or three years from now?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Not two years. Maybe twice that…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Five.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Should we be worried about countries in Africa or Latin America using Huawei pipes?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There is a path dependence. People who chose…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        That’s what I’m worried…Once you choose it once, you’re stuck with it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you chose Huawei for your 3G, which they sometime give out for free…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        They all did.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …then it’s much more difficult to switch to another vendor’s 4G infrastructure.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        It’s like ripping out the old railroad tracks and building new rail road tracks.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Exactly. The cost for upgrading to 5G or 6G in the future, the real cost is not the infrastructure cost but actually the path dependence or debt that people already owed.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I’m convinced that the World Bank and the Asian Development Bank and the alphabet soup of development finance agencies that aren’t well-known…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OPIC, JPIC, and so on.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        …whether it’s the International Finance Corporation, JBIC, the International Finance corporation, OPIC, are going to be required to set aide 20, or 30, or 40 percent of their spend over a several-year period to finance an alternative to Huawei. When you rip up the railroad tracks of Huawei and replace them with somebody else, I think that’s coming.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right, and something that’s not like railroad tracks is that Huawei is really just a system integrator. If you look into its components, it’s coming from maybe US, Japan, Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        A lot of the components are American components or Japanese components.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Taiwanese components, too.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        They’re an integrator.
+                    </p>
+                </speech>
+                <speech by="#Christopher Metzger">
+                    <p>
+                        The semiconductors.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        They put it all together.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The semiconductors, the chips…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Isn’t there someone else that can be a better systems integrator than them? There ought to be.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Taiwan can help.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        That was my lean. Taiwan can help. That was my thought is, Taiwan can help, minister.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        You’re not losing sleep about the 5G issue.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        How about the issue of mainland China making enormous, big, historic bets in AI, virtual reality, I don’t know, sort of fourth industrial revolution technologies, are you losing sleep about mainland China becoming the global leader in these technologies?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No, because it’s hard for them to actually export that particular governance mechanism. It would require a massive change in the privacy laws in the target country.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Is that coming any time soon?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Let me try this out on you. I think there’s a lot of fear, this feels like the fear the United States had about Japan in the mid-‘80s,that we were going to be surpassed by Japan. I would posit that because of their censorship, and their lack of privacy, and their restrictions.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        On personal freedom, their one-child policy, their sex-selective abortions, their lack of a creative economy, and we’ll come back to that, that ultimately, that they’re going to grow old before they grow rich, and the best outcome is that we have a Japan-style sort of a larger version of Japan where they kind of demographically run out of gas, 20 years from now. Is that a real possibility?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It is, and I would also add that when it comes to cars, or Sony, Japan was competing on essentially American terms.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        After a while, the US changed the terms…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Changed the terms.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In any case, what I’m getting at is that China in its governance model, and its focusing on AI and so on is basically operating with Chinese characteristics, and these require…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        It’s not exportable.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s not easily exportable without a de-facto annexation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Other than Taiwan, which is a special case, they don’t really have a legitimate claim anywhere else to annex their government systems.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I hear lots of arguments about China having an attractive model for authoritarian societies. I actually think it’s not very easily replicable.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No, not at all.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Let me come back to the issue of the creative economy and the digital economy here. It seems to me that Taiwan is making a series of big bets about its future.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I think I was saying earlier, I don’t know if I’ve said this on this conversation, that as countries move up the development curve, what they want, maybe I said this at the very beginning, that they don’t want to sell rocks out of the ground like mining.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        They don’t want to sell energy products, or they don’t want to sell agricultural commodities. Commodity based economies will only get you so far. For a country to escape the middle-income country trap, which Taiwan has done, you have to have an innovation-led economic-led growth model. You have to have a creative economy. You have to have a knowledge economy.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Can you talk about, how has digital…There seems to be, there’s a series of digital disruptions to the innovation-led economic growth model here in Taiwan? Talk about those disruptions, and how are government house education and how’s the private sector responding to these digital disruptions?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure. One example is Gogoro. It’s almost a unicorn now. It’s a Taiwan company that doesn’t really sell motorcycles. It sells a way of managing the energy grid using swappable batteries. They’ve very popular here. You can see the Gogoro motorcycle scooters everywhere.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think they get trendy in Taiwan because of three things. First that in Taiwan, people genuinely care about the environmental impact.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        You have a very small space. If the air sucks, you don’t have any place else to go, right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right, and the density is very high in terms of population, at least on the westside which is the western area. In any case…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Anyway, what I’m getting is that for unicorns like Gogoro in Taiwan, they sell very well here in Taiwan because people care about the commons, including the environment to get…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you randomly poll anyone from the street, asking, “What’s your top social concern?” they’re going to tell you food pollution or environmental pollution.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Really? Food quality, or environmental pollution.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. We have evidence that…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Nobody wants to have milk that poisons their children or makes them go blind like what just happened in, as we all know, in other parts of the world.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, in a nearby jurisdiction. Definitely not Okinawa, though.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Nearby jurisdiction.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, and they sometimes serves as warnings, as examples, such as the ASFV, the swine fever virus, which has spread to lots of nearby jurisdictions. All of these serves as a constant reminder that the commons is something that we have to maintain from the private sector also, so the tolerance of private sector that pollutes the environment is…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Much lower.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Mulch lower, almost zero in our jurisdiction, or sometime negative really, as people suspect and then they go on strike and refuse to buy something and turn out to be a mistake, but it’s considered OK to do that. Better to be cautious than sorry.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        All this shapes a economy that delivers innovations by not sacrificing the social environmental goals, and that’s what I’m getting at is that innovations like Gogoro in Taiwan is much more exportable because every other nearby petrol station about these things as well.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        If you’ve got to set up a shared value, what you’re offering is more exportable. Is that basically what you’re saying?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        How about the…?
+                    </p>
+                </speech>
+                <speech by="#Christopher Metzger">
+                    <p>
+                        Maybe just touch on the education again. You mentioned elementary…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Yeah, I’m talking about, how is education going to have to change…
+                    </p>
+                </speech>
+                <speech by="#Christopher Metzger">
+                    <p>
+                        What kind of digital CLs are we focusing on yet?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Starting this year…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Sorry, are you worried about people losing jobs to robots?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No.
+                    </p>
+                </speech>
+                <speech by="#Christopher Metzger">
+                    <p>
+                        Easy question.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        That’s an easy question. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s a easy question. We didn’t lose our jobs to automobiles…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        To auto mobiles and….
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It used to be that “printers” were people.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Right, stenographer pools, typist pools.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. It used to be people identify their profession as printers or computers. These were words used to describe people’s profession, and nowadays, these are entirely automated.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s no human who declared themself a computer or a calculator any more…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Yeah, about 50 years ago, or 70 years ago the calculator was a job. Computer was a job.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        A printer was a job.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        A printer was a job.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Nowadays, editor is still a job. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        That may be going away, too.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Not so quickly. As a translator myself…
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        That may be going away, too.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Translator is such a great example.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        [laughs] Maybe in…I don’t know.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. Also, as a professional translator in my previous life, I don’t really enjoy the part of the translation that’s looking up dictionaries. I enjoy the part of the translation that is creative, making the cultural adaptations, making sure that people receive our messages in a way that corresponds to the original.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        The idiom, and the subtlety, and the nuance between the lines.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. The nuances of it, and that’s the creative end. I don’t enjoy looking at the dictionaries. I for one, welcome the assistive intelligence, which is what I call AI, that can take away all those mechanical parts. I don’t enjoy them anyway. I focus on the parts that are creative.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I don’t presume to speak to all innovators and translators in Taiwan, but I think it does make sense if humans just focus on the part that we enjoy, which is the creative parts.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        How is education going to have to change in this world, where digital disruptions are disrupting business models?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right, which is why we’re changing the curriculum, starting now actually, to not emphasize any competition between individuals based on their particular skills. The skill-based, scoring based linear education is gone, by the new curriculum.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        That’s radical.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe not radical in Finland, where this has been rolled out for quite a while now.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Isn’t that radical in Asia?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It is radical in Asia. As far as we know, we’re the only jurisdiction in East Asia that have gone this far.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Is this creating a backlash among parents?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Fortunately, the parents of the primary schoolers now is the generation after lifting of the martial law and educational reform, so they learned mathematics and so on in a constructive way. If we introduced this just five years earlier, there would be a huge backlash because then the parents at that time are still Marshall era educated.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We waited almost a decade actually to introduce this particular curriculum. We knew that we had to do that.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        How about in terms of how the government operates? Taiwan has had an enormous amount of success having a knowledge-based creative economy, ICT. Various parts of its economy are based on that. There are a series of digital disruptions coming. How is the government preparing, enabling, or supporting transitions that are coming out or going to come?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Two things. The coming out part and the going to come part. The coming out part is easy because our lifelong education system is actually really well-maintained. Both by the social sector as the community colleges and also by our universities, which is literally everywhere. [laughs] We have too much universities. That’s our main problem, actually.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They’re now all very eager to turn themselves into a lifelong education center, not just serving the people who are 18 years instead, which are declining in numbers anyway.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In any way, what we’re getting into is that once you get the society not identified on any particular skill, but rather on the social impact that your job is having on the society. Any automation is by definition assisting you and not replacing you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        AI is actually the best teacher. Anyone can now learn other languages very easily, through the likes of Duolingo, and just gets retrained by themselves.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        That’s amazing.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re not worried about this coming part of automation. The near future where automation is going to take not only the mechanical case of major parts of our cortexes, but It actually also the synthetic part, like making the art and things like that. That’s what the society needs to address more and also the attitude.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We need to start identifying ourselves, not in terms of individual achievements because it’s just like racing without a mobile, but rather what kind of common good that we as a community can provide to each other as individuals and not as reified by machines.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is very difficult. That is, again, what the SDGs is trying to do anyway by the year 2030. If you look at the goals, it builds a holistic picture of how to identify as a human being in 2030. That’s harder. That’s much harder. For the immediate, like next five years, we’re not worried.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Let me ask you about digital currencies, blockchain, Bitcoin and digital currencies. Are you going to see an adaptation of digital currencies here in Taiwan here in the future?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure. We have a fintech sandbox designed for them to show their worth.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Are people using them today? If I want to go to a store, can I use digital currencies to buy stuff?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you go to FamilyMart, I think you can buy some Bitcoins.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Will it replace real currencies?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        It’ll be an addition to.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Are they regulated by central banks?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No. The Central Bank in Taiwan takes the position that it is just a speculative virtual good.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        It’s speculative?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, it can also be seen as a security. If you use it like ICO, which is the classical use, or sometimes misuse and abuse, because it’s like an initial offering but is purely speculative or even more so than the IPOs, then we take an approach that we mandate a due diligence, the same responsibility to declare and so on. Basically, security by any other name. It’s a security.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you decide to issue an STO through Ethereum tokens, you have to declare exactly the same threshold for professional investors and so on. Again, security by any other name is a security, not matter what you call it, crypto or not. That’s our stance.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you don’t qualify for this, which is kind of difficult to qualify anyway, then it’s just speculative like gaming. We’re not specifically regulating those, because regulating those gives them legitimacy.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        You’ve been very generous with your time. Thank you very much, Minister.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        I’m very grateful. Very interesting conversation. Thank you very much.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Let me take three more minutes to address your points about privacy, which is important.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What we are seeing, because we are part of the APEC Cross-Border Privacy Rules already. We are also very keen on getting to GDPR adequacy. We have to navigate between the European norms and Pacific norms.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In any case, these two, although they differ in some particulars, in particular data localization, they have much more in common when you compare it with the PRC norms, which is diametrically opposite.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The first thing to recognize is that privacy, if you frame it as an individualistic right, then the EU agenda and the US agenda may look different, but if you frame it as something relational, as in fiduciary – if you hand your private data to your lawyer or something, accountant, psychiatrist – you expect them to act in your best interest.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        How would you know? You would demand explanations, and that means accountability. The accountability framework earns the trust, and if we earn the trust of citizens, citizens make trust back somewhat.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is something the EU and the US both agree on, and what the PRC rejects, kind of on the axiom level rejects that, that trust needs to be earned by the government from citizens.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you just use this view to view data as something that builds relationship over time, then all the jurisdictional differences, and the USMCA paradigm, and the GDPR paradigm, and so on, eventually converge. It’s just every culture have different norms of how quickly to trust strangers, to which degree, but it’s the same overall.
+                    </p>
+                </speech>
+                <speech by="#Christopher Metzger">
+                    <p>
+                        So you’re optimistic?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of eventual convergence on the EU and the US views on privacy? Yes.
+                    </p>
+                </speech>
+                <speech by="#Christopher Metzger">
+                    <p>
+                        I would say most people in the US, I feel, are very pessimistic about the EU and the US norms.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you look at the Californian laws about the de-identification, anonymization, and so on, they are clearly already geared toward EU definitions. You do have a common law system in California that successfully, to a degree, adapted the EU norms. It’s just a matter of time to make parts of it Federal if people do have consensus on it.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        One last question. Are you optimistic about the future of democracy and human rights here in Asia? I’m thinking Mainland China, Vietnam, other countries that are more closed societies here.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. I’m pretty optimistic on that.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Good. Thank you.
+                    </p>
+                </speech>
+                <speech by="#Christopher Metzger">
+                    <p>
+                        A positive note to end on.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        That’s why I like coming to Taiwan. You’re the pilot light of freedom in Asia.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Literally.
+                    </p>
+                </speech>
+                <speech by="#Daniel F. Runde">
+                    <p>
+                        Keep it burning. Thank you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
