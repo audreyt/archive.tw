@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Interviewer" id="Interviewer" showAs="Interviewer"/>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2019‑09‑13 Interview with HRF at Oslo Freedom Forum
+                </heading>
+                <speech by="#Interviewer">
+                    <p>
+                        If you could introduce yourself for people who don’t know?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Hello, I’m Audrey Tang, Taiwan’s Digital Minister in charge of social innovation and open government.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Why are you here today?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m here to deliver the opening remark, to share with the world that Taiwan has built a way to counter disinformation, to make sure that everybody have digital broadband access by relying and indeed trusting more on the social sector, rather than concentrating power on the public or the private sectors.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        As Oslo Freedom Forum is known to human rights activists, technologists, politicians, artists, what’s the value of crossing these disciplines into one goal and fighting authoritarianism?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I am a hacktivist myself. [laughs] I’m working with the government now, not for the government. For me, my office is already a intersection of all those roles.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re promoting this idea of co-gov, as called by the UN — Digital Interdependence — that means that around things around digital, it’s not just the technologists making the decision, nor are the lawyers making all the decisions.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Rather, everybody who are constituents, who are fighting for something, for a social cause, environmental cause and so on, should all be at the table and make policies together. This kind of norm first architecture approach is exactly embodied in the forming of the Oslo Freedom Forum.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Why Taiwan? You know that we do several events in Mexico, Taiwan, New York. What is the value of this country in promoting democracy across the world?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Taiwan is the only jurisdiction, in our region within the Indo‑Pacific, that currently, as evaluated by the CIVICUS Monitor as absolutely open when it comes to the freedom of assembly, the freedom of speech, the freedom of press, and things like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Every other country facing disinformation crisis have taken some actions that concentrates power somewhat back into the state, but only in Taiwan, we countered disinformation by making the state transparent completely to the people. Every other jurisdiction is being tempted around making their citizens more transparent to the state, but we’re not going there.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Going more towards Hong Kong, if that’s OK with you, when you see millions marching on the grounds in defiance against Chinese authoritarianism, what does it bring up for you personally?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Personally, only five years ago, I was in our parliament, and not by invitation. We occupied it, and so that’s called the Sunflower Movement of 2014. That was because, at that time, the government was rushing through the Cross‑Strait Service and Trade Agreement, or CSSTA, a deal with Beijing that they said did not need congressional approval.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Since the MPs were on the strike, so to speak, so people took their seats and begin their work, which is to deliberate the CSSTA, very much in a way that are leaderless.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We didn’t do completely leaderless movement back then. We have around 20 NGOs or so coordinating different aspects of the movement, but the demonstration was not just a protest. It’s a demo of how it could work in a leaderless environment.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The Hong Kong protesters have perfected that art of “being water,” turning leaderless movements into an art that I very much admire.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        How is the “one party, two systems” broken, in your eyes?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        How is the “one country, two‑party system” broken in your eyes?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sorry, that’s not even true. It’s “one country, two systems.”
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Sorry. “One country, two systems…”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re one country with many parties, but that has nothing to do with parties… More like “one country, no parties?”
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …and we’re on the record.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sorry. Please, repeat.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        How is the one country, two… Now, I’m messing it up.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        How is the “one country, two systems” broken?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think none of the Taiwan presidential candidates have anything to even consider that so‑called “one country, two system” policy now.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We can see that when it’s an authoritarian system on one side and a democratic system on the other side, the delineation between the two inevitably cause conflicts in cases not just jurisdictional, but also in cyberspace where they overlap with no clear territorial boundaries.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        What does today’s, the last four months in Hong Kong’s protest movements, what does it mean for Taiwan’s future?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Taiwan’s future is growing upwards, toward the sky. Our highest mountain, the Jade Mountain, is almost 4,000 meters now, and it’s growing 5 centimeters every year, so we just keep rising up toward the sky.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Taiwan being at least rising for four million years now, is older than humankind, and so it will continue to exist along with our beautiful biodiversity. 10 percent of marine biodiversity on the Earth is around the seas around Taiwan. Our job as Homo sapiens is to protect this plurality so that it’s sustainable, and that we can leave a better planet seven generations down the line.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Is there anything else you’d like to add in relation to Oslo or Hong Kong?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’ll just repeat my closing remarks, and so you can send a copy of that video for me.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        That’s fine.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        “Ring the bells that still can ring. Forget the perfect offering. There’s a crack, a crack in everything, but that’s how the light gets in.”
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (singing)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Darkness breaks apart…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Darkness breaks apart. Express your dreams and sing our song.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Freedom and liberty belong to your heart. May glory make us strong.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        May glory make us strong.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
