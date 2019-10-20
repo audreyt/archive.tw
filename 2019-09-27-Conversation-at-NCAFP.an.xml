@@ -1,0 +1,2382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Susan M. Elliott" id="Susan M. Elliott" showAs="Susan M. Elliott"/>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+                <TLCPerson href="/ontology/person/::/Audience Member" id="Audience Member" showAs="Audience Member"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2019-09-27 Conversation at NCAFP
+                </heading>
+                <speech by="#Susan M. Elliott">
+                    <p>
+                        Minister Tang, your talk at Asia Society was one of the best presentations that I’ve heard all year.
+                    </p>
+                </speech>
+                <speech by="#Susan M. Elliott">
+                    <p>
+                        We’re very honored that you’re here today to speak with a group not only of our members but other experts. This is something that, I think, Taiwan is a leader in, in digital technology and the kinds of transparency and openness in government that you are promoting.
+                    </p>
+                </speech>
+                <speech by="#Susan M. Elliott">
+                    <p>
+                        Thank you very much. For those of who don’t know Minister Tang – you’ve been in your job about…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Three years.
+                    </p>
+                </speech>
+                <speech by="#Susan M. Elliott">
+                    <p>
+                        …three years. She showed me she has a new card.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Susan M. Elliott">
+                    <p>
+                        This is something we can all learn from. Change your logo, change how you do things. She has a long history in being involved in technology and education and government. We’re really looking forward to hearing what you have to say.
+                    </p>
+                </speech>
+                <speech by="#Susan M. Elliott">
+                    <p>
+                        I’d just like to preface our talk. First of all, we want to thank the ambassador, Ambassador Lily Hsu.
+                    </p>
+                </speech>
+                <speech by="#Susan M. Elliott">
+                    <p>
+                        Just for those of you who don’t know, we have Don Zagoria, who’s the head of our Forum on Asia-Pacific Security.
+                    </p>
+                </speech>
+                <speech by="#Susan M. Elliott">
+                    <p>
+                        We also have Grace Warnecke, who is our Chairman Emeritus, who served as the Chairman of the Board for many years. Then, to my right, we also have George Schwab. This week, people have been calling me the new George Schwab…
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Susan M. Elliott">
+                    <p>
+                        Then we have other members of our board here. We have John Connorton and also Richard Howe. We’re very interested in your presentation.
+                    </p>
+                </speech>
+                <speech by="#Susan M. Elliott">
+                    <p>
+                        One thing I will tell everyone, for those of you who have participated in our events before, because the minister is very into transparency, that this is not our usual Chatham House Rules. Things won’t be attributed to people, but your message is being recorded. Is that right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. Just to be clear on that, it’s Chatham House Rule-ish in the sense that none of you will appear with a personal identifier. Rather, the speakers will just be marked as “Audience Member.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Everything can be co-edited for 10 days, so that we can simply see the whole transcript online in a system called SayIt.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        All of this will be anonymized in a sense that there is not even Speaker One, Two, Three, Four. It’s rather all “Audience Member.”
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (shows the [SayIt](https://sayit.pdis.nat.gov.tw/) website).
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you’re interested in my work as digital minister, today marks the day that I published the 1,000th meeting transcript.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Susan M. Elliott">
+                    <p>
+                        It’s a special day for you. It’s a special day for us. We’re really much interested in hearing what you have to say because already you’ve given us more technology and more innovation in this meeting than we normally have. Thank you very much. I give the floor to you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you. I would like this conversation to be as interactive as possible. Please do interrupt me without raising your hand at any point. Just say whatever.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is my office, the Social Innovation Lab in Taipei.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This place is where I hold office hour, where every Wednesday from 10:00 AM to 10:00 PM anyone can come and visit me and talk for 40 minutes at a time, provided that they agree to have the transcript, after 10 days of coediting, published to the Internet, to the Commons.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is very interesting because by itself it’s a really good way to counter disinformation already. When you have a minister that you can just reach out to every Wednesday, a lot of room for rumors just disappears because you can check me next Wednesday. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s like if you have a friend that you go to movies every Wednesday. If you hear rumors about them, you will not easily believe them. You will just say, “Hey, let’s talk it over.” [laughs] That’s good.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The fact that it’s radically transparent, meaning it’s published to the Internet, is also good. Otherwise, I’ll have a lot of lobbyists visiting me, talking about only their private interests. Because it’s going to be radically transparent, everybody who visit me in the space talk about the global goals for the public interest, just because it’s radically transparent.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is one of the few ways that we’ve been improving the trust from the government to the citizens, trusting the citizens more instead of demanding trust from the citizens as in authoritarian societies.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I was asked to talk a little bit about disinformation. Just maybe one-tenth of my time is spent on this issue, so I’ll be really quick. If I’m using too many acronyms, just stop me and start asking questions.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Disinformation is a global threat to authentic journalism and to open societies.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan the word news and the word journalism translate to the same word, 新聞. Someone who work in the news, a journalist, is a 新聞工作者.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s no words differentiating between news and journalism, which is why in Taiwan we never use the F word to describe news, because that would also be an affront to journalism, which is why we stick to disinformation. Because both my parents are professional journalists, so I cannot even say the F word out of filial piety.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We have a legal definition on disinformation and it’s coded into law now. It’s intentional harmful untruth where the harm is to the public, like public health, public democratic processes, and not harming the image of a minister, which is good journalism.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It must be harmful to the public, it must be untrue and intentional for it to be considered outside of the protection of the usual freedom of speech as protected by our constitution.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s various ways to tackle disinformation, many of which assumes more control in the public sector in concentrating more power to the administration. As the end of this month we will see, in Singapore, for example, an administer, that’s like me, can issue a general correction order to any media about anything that we feel is wrong.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They must publish the correction. Also, must their fellow institutional media, and social media, as well. They say that this even extends to telegram. I don’t know how that even works.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In any case, that means that any minister’s words is, by definition, stronger than any journalist’s words because you can make the other media correct that journalist is, strictly speaking, not a takedown notice thing, but it really does concentrate more power into the administration.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m not saying it’s right or wrong. I’m saying all our nearby jurisdictions are considering that, to a lesser extent Japan, but mostly only Taiwan is devising a set of solutions that does not make a minister’s words worth more than a journalist.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That would still concentrate power on the social sector and the journalists themselves, and democratizing journalism as we go. That is the three reactive and three proactive LINEs of defense.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’ll go through, very quickly, the three reactive ones that only triggers when something seems like disinformation begin to emerge.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The first one, which is very intuitive, is that all our ministries are now equipped with sufficient personnel, budget, and mimetic engineers to roll out a viral clarification one hour, at most, after each trending disinformation is detected by our system. There’s no exceptions to that. Our prime minister then adds some design to it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is a typical clarification message. There’s the so-called triple two rule. The title must be 20 characters or less, like “Perming your hair many times within a week will be subject to a one million dollar fine, it’s not true,” so 20 characters.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Within the body the text must be 200 characters or less. You see a younger version of our premier that says, “I may be bald now, but I would not punish young people with hair.”
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        And a fine print that reads, “What we have actually done is we have introduced labeling requirements for hair products starting 2021.” very simple. That’s the clarification, but it’s not the mimetic engineering.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is the mimetic engineering. The second image of our premier as he looks now says, “However, if you keep perming your hair many times during a week, even though there is no fine, it will damage your hair and you may end up looking like me.” [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s good humor. He makes fun of himself, not other people. It’s genuinely funny, so it really did went viral. More people saw the clarification message than the people who saw the disinformation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        People who have seen this clarification, we have numbers to back it up, almost never click the Share button when they see the disinformation afterwards. It serves as a very good vaccine or inoculation against the viral nature of disinformation, just by humor.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes?
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        How did you track that? Where did you pull the numbers?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Quite a few ways. For example, we have partnerships with LINE, with Facebook, with Google, and PTT. Facebook, in particular, have a collaboration platform with the Internet Fact-Checking Network, the IFCN, and then the IFCN has numbers around the reduced virality of the profiles that FactCheck has classified as false, which I’ll go into in my next slide. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We do have numbers too to back it up, and we also have numbers to say that if we roll this out, even like 120 minutes after the fact, it’s not as effective.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If we rolled it out five hours after the fact, the traditional news cycle, that doesn’t work at all. It must be 60 minutes or flop, so that is the first LINE of defense. Am I making sense? OK.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        I would [ask if you said how do you track it, but you have a lot of people working on this? So for example, if you find something that’s…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, how do we even know it’s trending?
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Yeah and how does the minister then make a comment so quickly, how do you coordinate all that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Great question. In each ministry there’s a cross-functional team of at least five roles of graphic design, of text, of political acumen, analysis of the connection to the career public service, existing database of frequently answers questions and open data, as well as one coordinator that talks with every other ministry. There’s 32 ministries, and each one has this kind of teams for rapid response.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We treat it a little bit like cybersecurity incidence response, except requiring more creativity. Also, the premier and our president is very willing to serve as the actor, or actress, as the model for the model, right?
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Previously, when only minister-level participants starred in these viral clarifications. It’s OK, but it kind of only touched the people who were already sympathetic to the ministries.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        However, when the prime minister and the president started featuring their photo in such clarification messages, it touches everybody. That is the difference of the level of political buy-in that we got since the previous regional election. Yes?
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Intentional harmful untruth. Talk a little bit about the harmful, and how you are defining it, and allowances for allowing that word to evolve over time and harmful.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you’re harmful to the public, for example during an epidemic like SARS, mislead people about the diseased areas and inviting people to come to places that actually has SARS, it’s demonstratably harmful to the public health, and we have existing laws to punish such behaviors regardless whether it’s online or offline.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The harmful is based on existing codes of law that looks public harm in the physical space without digital technologies, many of them written before social media.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then systemically reevaluate and see that on social media if you do exactly the same thing, you get judged exactly the same way, as you would have if you shout in a public square. I think we’re not adding any new laws for that metric, for public harm, we’re just looking systemically at all the existing laws that punishes public harm through disinformation and upgrade them to the digital.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        How would you deal with a president who engages in disinformation?
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audience Member">
+                    <p>
+                        So far, our president has been really consistent. She has been accused of not actually submitting a dissertation thesis to the London School of Economy, a very popular conspiracy theory for the past couple years, and she responded by more transparency, by donating the entire thesis to the National Library, and allowing free downloads. I was just downloading the dissertation this morning.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think that the point here is that of course people are going to look at the presidential actions and works for inconsistencies, but for us the only remedy is always radical transparency and more transparency, instead of the other way around. That’s been a consistent demand, even between the people who are so-called Pan-Green and so-called Pan-Blue.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Both sides are demanding that the president being more open about her dissertation and she replied swiftly, and indeed offering everything for public to download. That, I think is one of the rough consensus of the Taiwanese political culture, is if you’re the president you need to be more transparent. All right, I’m not talking about any other presidents.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Definitely not.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Let’s move right on. The other question that was asked is that how do we know it’s trending, and how do we know it’s trending in a timely fashion? Because if it take us five hours to detect it’s trending, it’s gone.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        First of all, Taiwan, almost everybody has an end-to-end encrypted chat channel called LINE, it’s like WhatsApp. It’s end-to-end encrypted, it’s not even running out of hardware in Taiwan, it’s a Korea/Japan venture, and they say they have no control whatsoever, there’s no vector to the encryption.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They only know the stickers that people send to each other, because they sell those stickers. Otherwise, they have nothing to reveal about the content of the messages. However, we have witnessed that people have used LINE as a testing ground, a proving ground, for disinformation before they will pay Facebook a lot of money for precision targeting.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They will actually first look at A/B testing on the various conspiracy groups in LINE, and see which misinformation, not necessarily intentional, are divisive, that sows discord in a kind of organically viral way. Then they take the best of those crops and add more engineering around it, and then spread it to the public.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a very familiar behavior pattern, so if we can know what is trending as disinformation on the LINE, end-to-end encrypted system, then we have noticed of what disinformation operators is about to use, basically, because they source their material from there also.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We took a page from counter spam. I remember 20 years ago Bill Gates was saying that most of spam is unchecked, because sending email is free of charge.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        He suggested that we start charging a postage stamp each outgoing email, otherwise spam will ruin the Internet. Indeed, at that time, half of my inbox was people who are royalty with $10 trillion if I only pay a few transaction fee.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We solved that not with laws, of course there was the CAN-SPAM Act and so on, which helped, but really it’s solved by a simple invention as the Flag As Spam button, if you just look at your email box at the moment, you will see a button that looks something like this, and then there is a new folder created for you called Junk Mail.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        These two, together, solve the spam issue, because voluntarily donate their supposedly private messages into the public to analyze for people at Spamhaus which is the international coalition of people that tracks the sender’s patterns, and if the sender matches those patterns, the next time it doesn’t lands to you inbox anymore, it lands to your junk mail folder, which is strictly speaking not censorship.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We are all free to go through the junk mail if we have too much time, but it does solve the spam problem by making it no longer economically viable to expect return when you send unsolicited email to con people, basically.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We convinced LINE to adopt the same button, and by we, we don’t mean the government, actually, the social sector, the g0v movement in Taiwan which systemically look at everything the government has done wrong, or haven’t been doing, and built alternate government services to deliver on those public service. It’s a fascinating concept.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Minister Tang, g0v probably a new thing for most of the audience here, so…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        G0v is spelled g0v.tw, is a very simple domain hack, is a hack as in ingenious, creative thought. Very simply put all the public service in Taiwan websites, and is something in g0v.tw.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The legislation, LY, the executive Yuan EY, the participation platform join.g0v.tw, and so the idea of g0v is that for each government website that people don’t like, instead of going to the street, they’re just going to build, for example, an interactive visual, budget, of the budget website of government.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Instead of gov.tw, just change the O to a 0 on your browser, like this. Then you go into the shadow government which is always open source, always interactive, and always more fun.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They have, and by they I mean we, have systemically forked – that means taking to a different direction – around 2,000 government services, around a hundred of which has been then adopted back to the public service. It is a way to fork the government, so to speak, phonetically important.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audience Member">
+                    <p>
+                        Is it voluntary among government officials, so that you’re not required to put it there, just whatever people want to share, they put in there?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. It’s entirely a voluntary sector thing. Some career public service do participate in hackathons, sometime anonymously, but most of time it’s just civic hackers. People who care about those public data and want to understand in a more interactive way, they step in whenever the government shouldn’t or isn’t doing something that the public feels that they need. Yes?
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        I can just put a pull request, and make an edit, and someone approves it, or I get to merge it back myself?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly. Even the logo itself is free of trademark or copyright. For example, when people in Italy said oh, it’s such a good idea, they just registered a simple domain name, g0v.it, so g0v it. Anyway, [laughs] then if you go to g0v.it, you see a carbon copy of our idea, but implementing in Italy with or without endorsement of their direct democracy minister.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a way for permissionless innovation as we like to call it. It also, because it’s free of copyright, if the government thinks it’s a good idea, we just merge it back and make it part of public service. It’s a really interesting way to turn against or pro-government into literally altering the government pull request, requesting the government to pull from the social innovation. That’s a great way to put it.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Do you encounter problems with what you started out with, about disinformation, so that someone who has access to this can come in and put something in that might be harmful to the government or false, and then people then get confused on what is actually the reality of what they’re seeing there?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yep, that’s a great question. How do we prevent hostile takeover? Back in the spam era, people also worried what if we just flagged all the political opinion we don’t like as spam, and they become junk mail senders? The solution really is that we look not at the content, but rather the sending behavior of the senders.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What is at the end being put into the artificial intelligence of that era, called Bayesian network is the behavior pattern, not the actual content itself. The actual content itself is just kind of raising a signal, that something people don’t like, but at the end it is professional network analyzers and algorithms making a judgment of whether it’s a coordinated inauthentic behavior.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Or it’s a real person or…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Or it’s a real person and their freedom of speech must be protected. That’s what stopped the Internet community from blocking the entire block of African country that I will not name from sending email, is because people there have freedom of communication, too. You can’t have collateral damage, just because they have open relays and commercial spam ventures in that area. Normal people there need to have their right to email as well. That’s by…
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Can’t block everyone.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, that’s by behavior analysis. The LINE system is very simple to use. The CoFact, which is a g0v project, started out as a simple chat bot. Whenever you see a disinformation, you suspect a disinformation you flag it as spam by forwarding it to the bot, and that’s it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s just simple. The bot sends everything that two or more people have reported into a public URL list, so you can see the trending reports. People who meet every Thursday face to face for fun, is like a book club, but they read new rumors instead of books. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then collectively fact check it, and contribute more sources to prove or disprove parts of it. A little bit like a book club really, is just a voluntary, hobbyist club that really takes their work really seriously, actually.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In any case, their evidences, or their corroborated categorization eventually gets triggered into the Taiwan Fact Check Center, which are run by professional journalists, and they use professional journalistic standards, and they accept only crowdfunding, not any political funding and report their fact check steps to the wide public on the cases where they feel that there may be public harm.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        These two together, the crowdsourcing site as well as the journalism sourcing site, serves as kind of two-stage filter to make sure that disinformation is discovered in a timely manner, and everyone can participate in the flagging of disinformation, so much so that LINE has then agreed to build in it into an app itself.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        On the app now, you don’t have to add that robot as friend anymore, you can just long-press any message on the LINE system and say, “Flag as spam,” and it will automatically send that to CoFact to the TFCC, to Mygopen, to Rumor and Truth, to all its fact-checking partners in order to act on it in a timely fashion. We just started by adding a Report As Spam button on an end-to-end encrypted channel.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then we get a really good dashboard, you can see the LINE, digital accountability dashboard, of what exactly is going on right now in their end-to-end encrypted system, basically showing people who voluntarily donate to the spam database.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Do you have any demographic on who’s likely to report spam, does it share across ages, or different…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There are researchers doing this analysis right now, but because the feature of that LINE is really know, new as in two months ago, so we don’t yet have sufficient data. There is a lot of research interest in that regard how social order responsible somebody feels as a flagger. That’s a great question that will with LINE on that.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Can you also create using, for instance, the riots/demonstrations in Hong Kong, and how that is being treated on social media, and how your system works in using that as an example?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure. Hong Kong mostly runs on Telegram, which is not exactly end-to-end encrypted by default, but it could be, opt-in end-to-end encrypted channel. It’s also running on LIHKG, which is a Reddit-like bulletin board system. In Taiwan they’re counterpart would be the PTT. I think in Hong Kong, a lot of voluntary fact-checking is done just by that platform, and by participants alone.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They have also a shared dashboard of all the informations that they receive, and the sources, and whether it was really a nurse or protester that got her eyes damaged, or whether it was a real, well, minister, well in the Catholic sense that stopped a gunshot, or whether they’re just an actor, or things like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The movement, by itself, has something like that, a crowdsourced fact-checking effort going on, but then of course heavily biased by the fact that all the participants are already identify with the anti-ELAB movement.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        How are you, or using your system, or the dissemination of information in Taiwan, I’m not talking about Hong Kong, I’m talking about that as an incident, and how is that, how are you using your system, to fact check the news in Taiwan in that…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As I said, these are professional journalists and volunteers, respectively. They are interested not only about political news, in fact if we look at the Taiwan Fact-Check Center, political news isn’t even that popular.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We can look real examples, what people feel like must be speedily checked. They of course relate to public harm, but my point is that it’s not necessarily political. For example, using your cellphone next to a microwave will cause an explosion. OK, that’s public harm. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        We also deal with that here.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. If you don’t finish your food in a tin can, and you put it into the refrigerator you will suffer from tin poisoning, [laughs] a lot more. If five-year-olds play video games non-stop, one of their eyeballs disappear. What?
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        These are the everyday messages that’s been crowd and fact checked. It has nothing to do with politics.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s mostly people who care a lot about their families, on the LINE channels, and they really feel they owe an obligation for their grandchildren, or their grandparents, let’s not to be discriminatory, their families, extended family members to understand the importance of not let their micro ovens explode or something. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That ends up being the most viral on the LINE network. This is used to fact check not really news in the sense of journalistic output, although there are news outlets that produce real-time news by translating “The Onion,” not understanding that The Onion is not a news source, it’s a satire source.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That gets corrected really fast. I think it’s not really comparable to the Hong Kong case, where people have a concentrated action to bring action right now. Nowadays in day-to-day operation, it’s mostly health-related like this.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        This digital transparency is not applying in the political foreign policy world at all? OK.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Mm-hmm.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        I’m trying to understand.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        My office is one volunteer from each ministry. The ministry of defense never send anyone to my office, nor am I forcing them to. Maybe someday they will wake up to it, but anyway. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m not thinking it’s a short-term job. Neither did Council for Continental China Affairs, I guess for similar reasons, but Foreign Service did send someone after a year of this operation, because they understand now that there are parts of public diplomacy where they want as many people know as possible, as opposed to the not on Twitter part of Foreign Service.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There used to be no such distinction, because our Minister of Foreign Affair didn’t even have a Twitter again. [laughs] With Minister Joseph Wu we now do, and a pretty popular one on that. They send someone to me, but only to work on public diplomacy.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        What do you mean for example if you saw a reputable source that reported something, say the “New York Times” reported about something happening in Hong Kong, but then someone in Taiwan, that supposedly has misrepresented something that happened elsewhere, that wouldn’t be really part of what you’re doing…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It is, actually, like literally. The trending video is literally Joshua Wong literally committing atrocious violence on the street. How does that even work?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Right, and this is just step-by-step fact checking of how this rumor have spread of which external sources was used, of what kind of coordinated action was there to spread this piece of video, of what kind of post-production or editing have done.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Whether that was Joshua Wong after all, probably not, and so on and so forth. There is one pertaining to Hong Kong, but that’s only because they only managed to get this one trending. Most of the others CIBs that the PRC people did around Hong Kong, did not end up…
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        CIB? CIB is…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Coordinated Inauthentic Behavior. As recently revealed by Twitter, there is a block of Internet addresses within the PRC that can directly bypass the Great Firewall, and directly operate hundreds of thousands of accounts on Twitter.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because of that, they can’t say the state knows nothing about them, they have to at least bless them to go beyond the Great Firewall without requiring the use of a virtual private network bridge to access Twitter.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Twitter said here is all the dataset, including the metadata, the hashed identities of these people, and draw your conclusion yourself.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s many independent media report and data journalism around that dataset in Taiwan, as we speak, as a really trendy subjects. Of all their CIB messages, I think only one managed to get somewhat viral in Taiwan. We only need to fact check that one from the Taiwan Fact-Checking Center. The other ones wasn’t even believable, so, yeah.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Using an example…
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Excuse me one second.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Using an example in this country, was a conspiracy theory that President Obama was not born in the United States. He was born in Kenya. That’s trying not to be a readily identifiable fact when you search and find a birth certificate. Would that be viewed, that type of an inquiry, would that be viewed as too political outside the scope of…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Not at all, because it doesn’t concern national security.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        It does concern politics, and it does…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It concerns politics.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        It concerns elections, it does effect credibility of who’s saying it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, yeah.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        I’m just trying to understand the reach…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of the system.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Of the system, what you do and do not do.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The system of radical transparency extends up until anything that’s classified, right? If people ask for classified information, of course the ministries involved will say, “We’ll get back to you after 10 years,” something like that. There’s laws concerning the declassification of such materials, but birth certificate probably isn’t top secret.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Probably.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        [laughs] Right? That falls neatly well-outside the LINE of confidential and top-secret information. In Taiwan, like the dissertation case of Dr. Tsai Ing-wen, which is really comparable to the case you mentioned, is easily met with radical transparency. Their family just found an old copy of her dissertation, because she moved many times.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They finally found it somewhere in a garage or something like that, and then scanned everything, and then just published on the Internet. Problem solved. That falls well within the radical transparency realm, because her dissertation again, is not national secret or top secret.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes?
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        One of the areas that’s interesting is some of the definitions of these things. I just wonder, are you borrowing a definition of CIB or have you created your own, and if the later, how did you think about that? For example, what counts as coordinated?
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        On face, some things are very obvious, from my perspective, some things are very obviously coordinating and inauthentic, but there is debate especially in the fact check community around what reaches that level. I just wonder how you…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The CoFact community is organic community. It is like asking how does the Wikipedia community come to a consensus.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        All right, it’s become less of a definition and more of a practice?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Right, the legal definition is just around disinformation, intentional harmful untruth. We think this regime, whether it’s coordinated, whether it is something like that, it’s an evolving thing and everybody learns.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        …for interpretation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Everybody learns, right, exactly.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Awesome.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Minster?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes?
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        You mentioned earlier about every ministry, 23 ministries had this kind of a core unit…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Coordinated, yes.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Coordinated, had be required to respond to this kind of disinformation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In one hour.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        In one hour.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        You are talking about another track of this fact-checking things, that is a voluntary basis. How do these two…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Work together.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is a great question. As I said, top secret, confidential, out of table. Then the rest is unclassified. Unclassified information, this team learns that whenever the Taiwan Fact-Check Center calls, or wherever any of the fact checkers, I don’t know, AFP or whatever, calls, just give them the whole info package, and without any rhetorics, or anything like that. Just give them what we have.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Indeed, because Taiwan is ranked top one open data, open government data, when we still have that index running, so by the Open Knowledge Foundation, so more likely than not, the things people are asking already have an ongoing data record that’s already published upon collection.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s just people are not aware that such a thing is on our open data platform. Most of the time all it takes is a link to our open data platform, or our frequently asked questions, and then issue solved.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For things that are more factual in nature, instead of opinion in nature, the fact-checkers will make sure that they get the right links in real time, so that they can race against the virality of the disinformation with the help from the government. We don’t tell them what to fact check, nor do we instruct them what is fact or not. Indeed, our CNA, our state media, can and has been fact checked.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is kind of symbolic, because is truly democratic when even the official media can make some mistake. They did make some mistakes, and get fact checked for it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is completely, these two arms the one that around clarification and the one around crowdsource and independent verification, this one reinforce this one, but this one is not at all controlled or de facto controlled or operated by the state.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That brings us to the third defensive action, which is around election, which is special. There’s already a very transparent campaign donation act in Taiwan that for each individual donors, the amount, the identity, when did you donate, and how they’re using your donations and so on, is published not only as summaries, but as spreadsheets that everybody can download from the control yuan, which is a separate branch from the legislative, or the courts, or the administration.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s there to make sure that everybody stays honest. It’s a fourth branch of our government, called the control yuan. They used to be that they do the auditing and only publish the summary, but then we occupied the parliament and asked for more. In any case, the long story short, they publish everything as machine-readable spreadsheets now.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Perhaps because of that, in the previous election we saw that many campaign donation money because this one’s too transparent, refrained from going through this one, and instead just bought precision targeting on Google and on Facebook, mostly these two.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        These are not transparent, these are not accountable in the same way control yuan can see, and more importantly foreign people cannot donate to our campaign donation, but foreign people are free at the previous election to buy precision targeting for the political campaign.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For that period, I think PRC is one of the largest incoming territories of such political advertisements, but somehow they banned Facebook at the PRC, so I don’t know where does advertisement went, but in any case, we are saying that this must stop.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We talk with Facebook and friends, and implemented, actually the US Bill of Honest Advertisement, which as I understand is still on the track, or not? Of being legislated.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think we’ll get there first. The Honest Ads Acts basically says any precision targeting on any sort of institution, or social, or any media is campaign donation, and must be disclosed exactly the same way with the real name, or the registration number of the donor company, and so on, revealed.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We thank Facebook for implementing it, they’ve already implemented it. By the next election, the advertisement money will be traced.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If they ultimately came from a source outside of our jurisdiction, then the person within our jurisdiction that accept this proxied payment, will be subject to a, I think US one million dollar fine, every time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Basically saying like foreign money have no place to play, if it’s political advertisement during election season. This is, again, just treating something that is new to the democratic system as something old, political campaign donations, and reusing the existing text to purpose that kind of public accountability.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        By allowing for more independent media analysis after the election season, and many people are already saying that we should have real-time reports of that using distributed ledger, and that too is being considered implemented.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        When you were able to find, because when we were in Taiwan last year after the local election, and I remember hearing people discussing this about these I don’t know if I want to call them foreign actors, but this disingenuous advertising that couldn’t be attributed. Were you able with working with Facebook or other social media to get some information on who was doing these kinds of things?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes. Facebook have worked out a counter-disinformation, self-regulation principle, a norm package as we call it. That is signed on by Facebook, Google, PTT, LINE, the usual suspects. It’s not retroactive, sadly.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        For future elections…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They signed on it without committing to retroactively provide any data. Perhaps because they’re still working out their differential privacy parameters, but in any case, it’s not retroactive. The real test will be on the next presidential election.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        …presidential election.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        You said you fine the actual candidate? That they get a…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No, no, the person who accept the payment. Facebook of course doesn’t want to pay that fine, so they have to reveal that it’s from a locally registered company or local natural person. That’s just like anti-money laundering. You have to recursively prove that your ultimate funding source came from something domestic.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Would there be individuals? For example, if I were a citizen of Taiwan, I could accept money from a foreign government, and then I put this disinformation onto my account, making it look like it’s mine when in reality it…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Right, so you issued advertisement by your, cash flow came from something extraterrestrial, [laughs] sorry, extrajudicial, but on the other hand, that’s where the anti-money laundering rules go into play, because if it’s a large amount, then that automatically triggers AML anyway.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Your bank, for example, will be able to correlate with the information provided by Facebook to highlight any suspect cashflows, unless it’s bitcoin or Libra, but in any case, in normal cases, we’ll be able to identify the ultimate source of funding.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        What if it’s a made-up, an artificial person, so it’s not a person, but someone who looks like a person because I read about this as well, where you have things that maybe it’s disinformation, and it looks like it’s coming from Susan Elliott, but someone stole my identity or whatever, and then or it’s a made up identity, and then people see this and they say, oh, she said X about President Tsai, and in reality, it wasn’t true, it was all made up.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, so deep fakes. Deep fakes has been a constant in Taiwanese politics for since I had the right to vote, that was 18 years ago. I think it’s kind of accepted that journalists in Taiwan at that time called animated news was introduced using motion capture and cartoon characters to just reenact news, even though they may turn out wrong in the end.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This kind of psychological inoculation is already in the Taiwanese population, that we are well aware that in the “Lord of the Rings” movie, Gollum is entirely synthetic character, but you can use motion capture to very convincingly generate such a fictional character, or indeed to impersonate any other.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think we’re kind of well aware of the possibility of that. The only thing changed is that what used to require what we call a render farm, a lot of computers, can now be done in your phone. That’s the only thing that has changed, is the democratization of this technology.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        It makes it harder to track then, I would think, if it could be done on your phone, or no?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s already very hard to track anyway. If the generated video or picture is low resolution, there is literally no way to tell whether it’s fabricated or whether it’s genuine, just like if you’re just generated 140 letters of a Tweet, there’s no forensic evidence enough to know whether a machine wrote it or a human wrote it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If it’s a hundred times more long, of course you start to check about internal consistency, common-sense writing style, and so on, but if it’s just a tweet there’s no way to tell authentic versus inauthentic.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s much more effort being now put on ensuring that all the candidates have the blue mark, or the gray mark of authentic identity, of ensuring that everybody have two-factor authentication, of ensuring that if I post a picture there’s technology such as Truepic that takes into account my phone, the GPS, the nearby cellphone towers, all those forensic evidences and write a fingerprint of that into a distributed ledger, a blockchain, to make sure that this photo is genuine and have not been doctored with.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It can tell the difference between a photo and my phone taking the photo on a display screen. These kind of technologies are on the rise in Taiwan, but I think we already have the kind of mental preparedness of deep fakes.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Can I just ask, because this sounds for me, especially as an older person, it’s very complex, and how much resource, not just human resources, but even financial resources is your government putting in to doing this kind of thing, because it sounds like it would be…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, that’s my favorite topic.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audience Member">
+                    <p>
+                        But maybe not, I don’t know.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Huge amount. [laughs] That was the three defensive LINEs, and here are the three proactive LINEs. The first one, and the most important one, is to make an IMDb 95 percent, HBO Asia trending TV series about media literacy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Everybody who have watched this 10-part TV series, understand framing effect, the polarization effect, how institutional social media coincide how things like, the plot is very intriguing, it’s a mass killer with his sister now anonymized working in the TV station reporting about mass killing and the capital punishment controversy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s really good drama, and people really liked it. Even young people and very old people are fans of this TV series.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Can you watch it with English subtitles?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, yes. Yes. It’s exported everywhere. I think it’s trending on Japan now. Literally, the title as translated to Japanese and the original Kanji is “The Distance Between us and Evil.” So how close we are to evil.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is a really good tagline, really good title, because then people start asking each other when they share a random sensational, provocative message on social media, are we being closer to evil? This is conscience, right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is, at the end, the only thing that can counter the manufactured addiction of the social media age, that people stop and think, am I contributing to evil or not?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This I think is a very powerful tool, it’s entirely publicly funded. It’s a product of our public television, and we allocated a huge number of special budget just to get these done in a highest quality possible, and export to everywhere that suffers from media literacy and trust crisis in journalism, which is everywhere. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is also good business. In any case, this forms part of the material that our primary school teachers are now using as our new K-12 curriculum, which rolls out this September, and I was at a committee I was a co-designer.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This curriculum, unlike the one 10 years ago, puts teachers as just facilitators of learning, of co-learners, instead of holders of any authority or any perfect answer. Because that authoritarian education scheme of how much do you agree with your teachers view of the world determines your score, actually it’s the backdoor to both authoritarianism and disinformation. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You just frame it like your primary school teacher said it, and people automatically believe. That is very dangerous to democracy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We are now reshaping the teacher’s role into introducing interactive, playable games into the high-quality TV series of having the students form their own hypothesis and just experiment on those hypotheses.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        At the end, this public awareness that there are information operations happening, that there are truths and half-truths on the Internet and there are creative and critical faculties within our brain that we can use to further democracy is very important.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Not only for people in primary school, but all the way to the long-term healthcare centers, and the college universities and people who are around 70 or 80 years old. My grandparents, all my four grandparents, love this kind of public education material.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We also partner with the likes of Google and Facebook, who then partner with our social sector, like elderly care association and so on, to translate the digital literacy materials into something that their age group can understand, maybe as an interactive board game.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We spend huge amount of budget as part of our new curriculum on this kind of education material. It’s one of the nine core competencies of our new education system.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Education, always important, yeah, that’s the cover photo of the TV series, “The World Between Us,” or literally “The Distance to Evil.” That’s the highest-budget item.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The slightly lower-budget item, which involves President Tsai being named the model digital citizen of LINE Corporation [laughs] , perhaps because she is not asking them to turn over their encryption key [laughs], is essentially LINE now saying, “Your clarification messages is too funny. It’s newsworthy by itself.” [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Instead of being a content forum that spreads disinformation, LINE want to be a content forum that spreads organic, healthy food. [laughs] Basically, LINE Today is the news section of LINE. The top one, the section that’s on the top, is entertainment and gossip. The second section is real-time clarification. Then it’s the rest.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s good because it gives us really good visibility. Clarifications reach more people before they even receive it from the end-to-end encrypted channels. Also, they are genuinely funny, so people would organically share them. Also, it’s a kind of entertainment and gossip, as well. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is our partnership with LINE Today. Facebook and Google and so on also sign on the same counter-disinformation agenda by basically making the fact-checked-as-false things less viral and by making these kinds of clarifications more viral whenever they can help it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is very important, not only just to discredit the disinformation, but also to make sure that clarifications reach a wider population by default in those channels. This is what we call a notice and public notice.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We notice disinformation. We create a public notice. Our social media partners help disseminate the public notice so that people learn something and see something funny, even when they are not aware of the original disinformation. That is the second LINE of proactive action.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        The picture you showed of President Tsai, is that just a picture, or does she actually have a public service announcement, something that would draw people in and not only entertain but…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, they now livestream all the time.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        So she does.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        She does. Our deputy premier played a video game called Devotion. That went viral before it’s taken down from Steam, because they contain a small scroll containing the word “Winnie the Pooh.” I think it’s pretty harmless. [laughs] I have nothing against Winnie the Pooh. [laughs] In any case, they were taken down nevertheless.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Was it misinterpreted through maybe translation…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No, it’s not misinterpreted. It’s just you don’t make a video game containing the word “Winnie the Pooh” in the PRC territory. It’s a joke that they cannot afford to make, which is unfortunate.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In any case, I have no additional commentary. Just saying that a deputy premier played that game as a kind of show of solidarity, and people follow along. Our premier chime in. There’s a real dialog going on. Easily half a million people watched the deputy premier. It’s a kind of maze game where you navigate on an old apartment house which was haunted.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The Minister of Interior, for example, just say that if your house is still like that, there is government policy that helps you rebuild it. [laughs] During the video game session, you get like six ministers all doing public service announcements. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        It’s informational. If your house is in poor condition, here’s what you…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s also educational, so edutainment. This is by far the more interesting way our premier, our deputy premier, and the president is doing public service announcement now. It’s really funny. It went viral. It’s genuinely fun. That’s why our media partners like the content.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It loses them clicks and advertisement, they will not actually partner with us. It means that our production level is at a level comparable with content farms, that they would choose us as content partners.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is not reserved to the officials of state. People in the opposition party, they can and have done the same. Actually, the New Power Party is maybe even better [laughs] than we are.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They have an actual rock star as their MP. [laughs] MP Freddy Lim, he really knows how to make such clarification messages and have them go viral. We don’t have a monopoly on this as the administration. Anyone can do that.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        They do it separate from the government. For example, if I’m a member of the KMT, I can do something similar.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Is it funded by the government, or it’s independently funded by the political party?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s all independently funded. The public service announcements, of course, are funded by the original fund for public service announcement. We just change the format. Individual politicians and individual campaign offices are sponsored, of course, by their party or by individual donors or whatever.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They can bill themselves as clarification but not as fact check. It’s two very different things. LINE Today features clarification as well as fact check.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        It’s more giving different point of view, as opposed to disinformation. It’s two different parties. One has this point of view. One has the other. It’s nothing wrong. It’s just we have differing point of view.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. It’s more deliberative in nature. As a nonpartisan myself, I think we arrived to this because in the Taiwanese cabinet there’s more ministers who are independent than ministers of any party. We’re in a kind of party political neutral zone in which to make such policies. It’s a blessing.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Finally, as I mentioned, you can just talk to me on Wednesdays.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly. It’s not just me. The team in each ministry is also happy to talk with you on any issue that you care to talk about, as long as it’s not confidential or top secret. We rely, for example, on our petition and participatory budget platform, where there’s 10 million active users, unique users, out of 23 million Taiwanese, which is almost half of our population. It’s really popular.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        People go there not because they can read 60 days of regulatory preannouncements just like they can do in regulation.gov. I’m sure it’s not the hottest section. [laughs] Nor because they can participate in the participatory budget of their city, although it’s somewhat more trendy, but because they can raise petitions.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Anyone who collect 5,000 signatures…We calculate that ratio based on We the People here, which is another petition platform that demands, for example, NASA to explain why they have not constructed Death Star.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We learned from there and built our own national petition platform. 5,000 people can demand minister to have a real dialog with the petitioner and with stakeholders, if necessary. Every other week, we just run such open collaborative meetings with petitioners.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Around two years ago, when we first formed the PO network, there was a petition because we allow pseudonyms. You must use SMS to authenticate, but you can use pseudonyms.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s a person with the pseudonym “I Love Elephants and Elephants Love Me,” raised a petition that says the government should ban the use of plastic straws, as well as any single-use plastic utensils that pollutes the sea and cause carbon issues, or whatever.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In no time, like a few days, they got 5,000 signatures. All the ministers thought it must be a senior environmental activist to collect signatures in such a rapid time. Turns out, she’s just 16 years old and it’s her civics class assignment.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        “There’s a petition website. Find something that people like.” [laughs] It turns out she’s really good at social media networking, and she cannot even participate in referendums, which is 18 years old. She cannot vote. That literally is the only way that she can shape public policy, and so she is very good at that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We met with the young woman and we invited the people she named, namely the people who produce such plastic straws and chopsticks. They say that when they enter into business 30 years ago they were social entrepreneurs because hepatitis B was a problem in Taiwan. It’s very prevalent.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They produced such plastic utensils to prevent the outbreak of hepatitis B. They are socially responsible people. Nowadays hep B is cured. You take a pill, it’s gone, and so they are all ears about new materials.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The young girl talked about something like sugarcane waste that could be circularly used in a zero carbon fashion. We forged alliances. Now when you are in Taiwan indoor drinking plastic straw is banned, and you do get sugarcane waste made straws, or any other waste that lower the carbon footprint.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a story of people who don’t have voting power otherwise who control the agenda-setting power of the environmental minister, who eventually partner with the private sector.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Once you participate in such a meeting, which is livestreamed and live transcribed, there’s no way for people to understand this as anything other than a collaboration. Disinformation lose one vector because people have the entire context in their mind now. They cannot be persuaded into hating each other, and people see the fruit of collaboration.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The petitioner gets a large scholarship from one of the insurance companies and don’t have to go to strike on Fridays, [laughs] so that’s one of the happier stories.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s the third of our proactive. It doesn’t cost any budget, but it really does take a lot of the vitriol away from public discourse by having people to collaborate openly.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s more or less my presentation. Partnership is really important. We use the metaphors from spam as something that’s a virus of the mind of epidemic of the distrust, and we use a public health metaphor instead of a war metaphor to talk about such things.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s not the only solution, but it is the only direction of solution Taiwan can afford to have with our history in the martial law, in effect. Nobody want to go back, even slightly, to the martial law.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s my talk. Thank you.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (applause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audience Member">
+                    <p>
+                        It’s interesting because the last example you gave of the young woman who was able to change policy by the social media campaign is very similar to what we’ve seen by the Swedish girl Greta – I forget her last name - who has called attention to global warming. It sounds like in the system that you have that your government perhaps listens more than other leaders…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right, especially to the nonvoters. We always say that these 16 years people, they lead the direction of the nation, and so each minister actually hires such a person, always below 35, but usually below 30, to serve as the reverse mentor of the minister.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Together they form the Youth Council at the administration level, headed by our premier, himself. I’m one of the co-chairs. The other co-chair is the founder of Impact Hub Taipei and has really good young connections to the UNDP and friends.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They care about whatever their minister cares about. It’s a reverse mentor, because their minister is like their understudy. They care about whatever their minister cares about, instead of just on issues concerning young people. They offer fresh directions to tackle the sustainable development.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Every minister has this younger person who’s the…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, and altogether it’s 35 in our Youth Council. I’m 38 years old, I’m too old now. [laughs] I used to be the reverse mentor of the previous horizontal minister in charge of law, Jaclyn Tsai.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        I have one question, is how did your ministry get started? This is really innovative and something that is not someone who’s my age, obviously, would think about. How did you get buy-in? How did the whole process of digital technology get started with the Taiwan government?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We invited ourself by occupying the Parliament. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        That’s going back to the political roots of all this radical transparency.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There was a political point. I don’t have my old slides, but I can find a proxy of it, I guess. Just a second, it’s somewhere here. Let’s look at one of the older slides.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        You remember the Sunflower Movement? Audrey played a role during that period of time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I still have my old slides here. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That was 22 days of nonstop livestream of an occupied Parliament.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        People occupied it because the MPs were on strike. They were on strike because they refused to deliberate substantially the Cross-Strait Service and Trade Agreement with Beijing, citing that it’s a regulatory level thing and not a treaty or law level thing, and so they shouldn’t have any say on it meaningfully.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Considering the MPs were on strike, people took their position and do their work for them. That was our legitimacy theory. It’s organized by around 20 NGOs, each one looking at one aspect of CSSTA. It’s a real deliberation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The g0v movement made a lot of tools, like if you enter your company registration number or your name of your company it shows exactly how the CSSTA affects you in a very factual, not at all partisan way of deliberation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        People talk about the impact on agriculture, on labor, on telecommunication, on allowing them into our 4G base stations [laughs] , and things like that. Each NGO deliberated one aspect. It’s all livestreamed. It’s all transcribed. It’s all available online.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Every day we inched toward rough consensus a little bit. It’s certainly nonviolent in the Occupy Parliament area. After three weeks, a set of rough consensus emerged. The demonstration is not a protest.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a demo. It’s a demo of how using digital technology, half a million people on the street can come to a consensus in peaceful way. I wanted to say a leaderless way, but it’s not really true at that time. There’s still 20 NGO leaders. There are still leaders of the movement. Later on, Hong Kong would perfect that into truly leaderless, but anyway. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The Sunflower technologies that I helped setting up is really just a technology for representation of what’s really happening in the occupied areas. That defies disinformation because people want real information if it’s easily accessible to them. A lot of the thoughts around making facts spread faster came from the 2014 Occupy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That was then informed by my father’s involvement. He was a journalist covering the Tiananmen Square event up to the 1st of June that year. His PhD dissertation was about the communication structure during the Tiananmen movement.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        He was doing his PhD in Saarbrücken, in Germany. I was literally grown up among his field subjects, who were all pursuing their advanced degrees anyway because they’re exiles. They can’t return to Beijing anymore.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They are not all necessarily from Beijing. They just happened to be there. They have to finish their learnings elsewhere in Europe. I grew up with these people. We talked about democracy all the time. That’s my earlier root.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        After we invited ourselves in and demonstrated that this technology really works and g0v really can fork, not only the transparency part of government, but also the participation part of the government, then we get a lot more volunteers to join.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, we have the same year that’s personal computer and lifting of the martial law and the same year of Wide Web, as well as our first presidential election campaigns. For us, Internet and democracy is the same generation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We don’t have the split between people who study public administration and people who study digital technology. It’s the same generation of people who can do technology on the Internet as well as democracy. We don’t have a history of the republic to protect and honor.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s no legacy system, so to speak. When we start designing our democracy, Internet is already part of it. That also contributes to the buy-in from the administration.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Also, because at that time, really the administration was struggling with a lot of emergent issues, such as Uber, they really want this kind of technology, what we call listening at scale, to come to consensus about how to regulate Uber in a way that we can show conclusively that everybody agrees with.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That was then where we are invited as reverse mentors to the ministers and applied the same technology that we deployed during the Sunflower Occupy into public administration, we always, after deploying such technologies…Called pol.is, this particular one, where you see one sentiment from your fellow citizen.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You agree or disagree. As you do, your avatar moves among the people who share a similar sentiment. This is a space for reflection and for feelings and not for trolls because there is no reply button.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you have a reply button, the people who have the most time on their hand wins the argument by default. If you don’t have a reply button, then people really cannot make a personal attack. They can only propose something for other people to vote on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        After a while, you start seeing the polarized poles to start converging more into the middle because people compete to resonate with both in group and also across the group. Every time, as long as we run it for three weeks or more, we always see this shape.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is a real consultation run in Bowling Green, Kentucky. It’s a kind of virtual town hall thing. There are usually, of course, five divisive issues. If you read institutional or social media, you would think that’s all there is about politics. I’m sure that nowadays, here, maybe it’s just one issue.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In any case [laughs] , actually there are a lot of consensus among people of different party affiliations. The top consensus of Bowling Green, Kentucky is that in our K-12, where we have STEM, we really should add arts and make it STEAM, as simple as that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is readily implementable. It doesn’t even cost much. It’s missing in the current public policy. Everybody across parties or whatever ideologies say they want it. Why don’t we just ratify it? There’s no reason not to ratify it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This basically is the technology we brought from the Occupy into the national government. After solving the issues of the likes of Uber and so on, this now become a standard way for us to listen to people.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Can you tell us where the young people of Taiwan are politically? That is, my understanding is there’s much more skepticism, weariness of the mainland among the younger generation. Is that correct? Secondly, what is their political party affiliation? How many of them are KMT? How many are New Power Party? How many DPP?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If by younger people we use the Youth Council definition, under 35, then it means that don’t remember the martial law anymore. The martial law was stopped in ‘87, when I was six.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I still remember the martial law, how bad it affected journalism and free speech. People younger than me, as few as three years younger than me, don’t remember because they were three when martial law was lifted.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        By nature, they are educated in a place where there’s always a cacophony of voices because of the World Wide Web. It’s much less likely for them to believe in any authoritarian narrative. By nature, they are antiauthoritarian.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because of that, the more authoritarian parties, traditionally the KMT, didn’t enjoy as much support as before. However, that changed when Mayor Han ran for the Kaohsiung mayor; there were plenty to young people seeing him as changing the nature of KMT and therefore associate themselves publicly with him.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Today, for people under 35, Han’s support rate is around 20 percent now. Last year it used to be higher for young people.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        What caused the drop-off?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This March, Mayor Han visited the LOCPG, the Liaison Office of the Central People’s Government in the Hong Kong SAR. That became a liability when the Hong Kong protests broke out, as everybody had to distance themselves away from the “one country, two system” idea, including Mayor Han himself.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It used to be that KMT maintained a certain distance with the idea. Their position was, “That’s not our interpretation of the “1992 consensus.”” The interesting thing about the words 共識 in Mandarin, by the way, is that it doesn’t readily translate as “consensus.” It may translate as “consent” or “something we can live with,” a common understanding.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now, after Hong Kong, everyone drew the line against “one country, two system.” Mayor Han in particular said “Taiwanese can never accept it, unless it is over my dead body.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There are other often cited reasons as well pertaining to his work in Kaohsiung. However, as I’m not a Kaohsiung citizen, I’m not well-informed about that aspect.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        They’re antiauthoritarian, meaning there’s very little support for reunification with the mainland?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Well, many young people don’t even use the word “re-“unification now, as it implies there was a time where PRC government and the government in Taiwan were somehow unified, but there was just not such a time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Some people are also moving away from the word “mainland.” We say, sometimes, the Chinese “continent,” as a translation for 大陸地區. Translating that word as “mainland” would seem to mean that we’re on the fringe or something… Well we’re not on the fringe.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The Taiwan islands are pacific islands with long Austronesian traditions that goes all the way to the Māori. For young people, the nationhood is being shaped by a much more vocal indigenous population, as well as a much more multicultural society.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Beijing is aware of this. What are they doing to combat it?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They run startup incubators and attract young people to various coastal cities to start entrepreneurship. Polls show that some people may come there and do entrepreneurship, but it doesn’t change their antiauthoritarian tendencies.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        They also send a lot of students to be educated in China. What happens to them?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s kind of like startup incubators in the form of university. It’s to further their work prospects. Polls show that people who lived in Taiwan for 18 years and then visiting Beijing or Shanghai and so on actually reinforce their commitment to democracy.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Even if they study in Beijing or some place in China.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Plus it’s also a big disinformation campaign…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …where?
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        In Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Well, they of course fund people who could sow discord. There was a Foreign Policy article about it in June, by Paul Huang.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I would argue that they have limited and indeed diminishing returns by now. People do get inoculated, even organically, even without all those clarifications.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        People get tired of the same conspiracy narrative, especially when it turns out to be not happening. Hong Kong really amplified this resistance in people’s minds, as well.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        To what extent do you think the young people in China have the same impression as young people in Taiwan of the Chinese government?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If they were older than teenagers, like 20 years old?
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        I mean like university students.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. Then they still remember a time that the Internet censorship wasn’t that bad.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Are you sure?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Many people are aware now that running VPN is punished, and that what used to be a harmless, I don’t know, homosexual comics that they share on bulletin boards, is now very dangerous material to be in possession of. They also understand that it has been severely limited.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It used to be that they can draw things about Winnie the Pooh, and now they cannot. I think they’re aware of that. Then people even younger than that, was born under the new censorship environment, may find it natural.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Is the New Power Party and the DPP disproportionately supported by young people?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s an interesting question. First of all, I don’t believe in political parties, I’m just this independent conservative anarchist.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think people find an affinity to the post-regional-election Dr. Tsai, because she took on a much more interactive role, a much closer distance to the young people, strategically, during her campaign for a second term.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Also genuinely, because she’s very much interested in sharing, on KKBox, which is like Spotify, the music that she listened to when she was writing doctoral dissertation, awhichnd really builds emotional bond with people. One of them is “Imagine” from John Lennon. [laughs] In any case, this means that people are more attracted to Dr. Tsai, not all of which necessarily translate to the DPP.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s like how maybe people are fans of Freddy Lim, but not necessarily of NPP – by the way, Freddy recently quit the NPP. Anyway, my point is that if the affinity is to a person and a style that they have on communication, they it may not carry over to their party affiliation.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Do you think just even going back to the question of that Beijing trying to attract young citizens in Taiwan to come to study there, and perhaps maybe they don’t change their outlook on democracy, but it’s an economic issue. Is there concern in Taiwan that this draw of more opportunity, more ability, because it’s a larger country and to weaken the support for the government in Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In terms of “brain drain,” higher education in PRC are not even on the top 10 for Taiwan students. There’s 
+                        <a href="https://www.rti.org.tw/news/view/id/413191">
+                            far more people
+                        </a>
+                         choosing to study and then later on work or become residents of say, well US, but also Australia, Japan, the UK.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think that’s because it is natural, because Taiwanese people are known for a very good mobility among the opportunities.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When the opportunity presents itself, language is not a real barrier for people who decide to move overseas. Even overseas, they can still find places where they can just learn English, or French, or any other language alongside their studies. It’s not a natural choice to go to the PRC, even during the height of such exchanges back in 2012 or so.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re less worried about PRC part of it. We are more sworried about the general picture of brain drain, and so we are introducing measures of them coming back from the Silicon Valley, which is one of the most popular targets and then when they come back to Taiwan and start companies or not-for-profits, we make sure they can invite their fellow American citizens to Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Indeed there is an AIT-AmCham effort called the 
+                        <a href="https://www.talentcirculationalliance.org/#what-we-do">
+                            Talent Circulation Alliance
+                        </a>
+                         right now going on, to facilitate this kind of talent circulation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s not a brain drain if it’s two-way, and then we just call it talent circulation.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        It’s a way to bring, if you are a citizen of Taiwan and you go to study at Stanford, for example, and you’ve got an idea for a startup company, it’s a way to attract…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Right, and then you realize the great AI algorithm that you did with your friends, now unlike in the Google days, require a robotic body, they require this embodiment, and Taiwan is the best place for that, literally, so they just set up their senders.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s how we get our unicorns, like Gogoro, and so on. Not because that it’s necessarily sells to Taiwanese market, but because of the supply chain and the research, it’s the best integrated in Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s green, right? It solves a climate change problem, it’s electric vehicle for scooters, so we then scale that up and scale it out to the likes of our nearby East Asian countries.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Would you say just one thing, I know this is political maybe, but you mentioned that after the elections that President Tsai has changed…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Changed her communication style.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        …her approach. Has that made her more popular, more support among young people?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, around twice as popular, according to the latest polls.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        As a result of what?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of changing her interaction style. More livestreaming, being more of a YouTuber, being in partnership with YouTubers, and take a very multimodal approach of visiting crowdfunding platforms and the Spotify-like start-ups in Taiwan, and so on.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        She’s going online?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, she’s going online, not only online, but on all the other channels as well.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        That’s a conscious effort to try to get more support amongst the younger generation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, and the entire population, because broadband is a human right. Our digital adoption rate doesn’t start to trail off until I think 75 years old, so it’s a large swath of population.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        How old is President Tsai?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        63, 64?
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        66?
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        She doesn’t look that old.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Is the KMT doing anything similar to what Tsai Ing-wen is doing?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, KMT tried to do something like that at the end of 2014, that was when Premier Mao Chi-Kuo was made Premier, and was the idea of radical transparency, open data, crowdsourcing, whatever as the national direction. Essentially, learning from the occupiers, that’s how we end up being reverse mentors.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        You joined the government while the KMT was in power?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m really nonpartisan. I worked with the public service during Premier Mao Chi-Kuo and later Premier Chang San-cheng, who is now part of Mayor Han’s presidential campaign, the main brain behind Han now.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Who is the main brain?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Chang San-cheng.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Chang San-cheng, who was the Premier during the transition.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        During the transition from KMT to DPP.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Is Su Chi one of the brains?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, I think so. Mayor Han was his student in graduate school.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think the cabinet at that time understood very much the importance, but the public servants at that still need some time to adapt to a much faster news cycle.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Here they are still figuring it out, believe me. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Well @MOFA_Taiwan has a really successful Twitter account. If MOFA can do it, all other ministry can do it. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Foreign Service has its own training academy. When I was invited to train the civil service, they invited everybody rank 12 or higher, there was exactly 300 people of such a rank. I taught in three workshops with 100 each of them to figure out a communication strategy around the end of 2014.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Later on I would learn that the foreign service has their own academy, and I didn’t even talk with any foreign service people during that training camp, and that will be remedied only after Joseph Wu become the foreign minister.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        You just need to help them revise their curriculum so that…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        I’ve only joked that I was Foreign Service, the US says the same thing, it’s a foreign service institute where the diplomats are trained. We don’t have anyone quite as innovative as you are to help us with our curriculum.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As my name card says: Taiwan Can Help.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We stand ready to help.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audience Member">
+                    <p>
+                        You need to go to Washington.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Can I just ask one other question?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure, sure.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Our acting Director of National Intelligence, yesterday in toxic hearings on Capitol Hill was asked by a congressperson what he felt was the greatest threat to the United States, and he said, the integrity of our elections, and the manipulation.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        This was our Director of National Security. Curious to again, trying to understand your remit, which I understand is digital transparency you are promoting, is an effective answer at least understanding. What role, if any, does your particular ministry have on election security, and beyond that, how great a threat is that in Taiwan?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The cybersecurity threat is real, and we allocate five percent to seven percent of all government projects regardless of whether they’re IT related or not on cybersecurity. If people are building a proving ground for self-driving vehicles, five percent goes to cybersecurity. If people are building a new house registration system, seven percent goes to cybersecurity.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a guaranteed way to not only have our white-hat hackers, that’s people that crack systems and then say something about it, instead of profiting themselves, they are very well paid now, they are very respected, and they meet with the president and digital minister all the time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Also, when they win like the second place in the annual DEFCON CTF, which is like the world cup of cybersecurity white-hat hackers – they still lost to the US team, we’re trying to change that next year.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In any case, they get rewarded like national heroes, which they are. Because of this, it’s now a pretty popular career choice for people studying computer science to become a white-hat hackers, and they get very well paid and high social status, so they don’t go to the dark side, which has cookies. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because of that, our new systems all have what we call as “purple teaming,” meaning a red team attacking all the time, but also sharing with our blue team, to make sure that they understand from the perspective of attackers, so they can do the threat hunting by themselves and there’s dedicated personnel in public service for all the critical infrastructure, indeed all government agencies in that role. We take cybersecurity very seriously.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then in elections, I think we still use paper ballot, we still don’t have long-distance voting, there’s no tallying machines. It’s out proven technology, much smaller attack surface for people who want to rig an election. On the other hand, we practice there also radical transparency.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I was part of the movement that called for the change of regulation that allowed the tallying, like taking out a paper ballot and read what’s on it, to be able to be livestreamed from certain angles where you cannot make the writing style, but you can clearly hear and see what’s being opened.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Multiple parties people livestream such an opening of the ballot so that it’s almost impossible to rig the tallying part, as well.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We use paper technology, because the cybersecurity threat is too strong. For referendum, that’s where our innovation begins, we just changed our referendum to take on alternating years. It’s presidential election year, referendum year, mayor election year, referendum year, so representative, deliberative, representative, deliberative, alternating years.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For the national referendums we are considering, for example, online signature collection, online consensus making during the formation of the referendum items, and even electronic tallying or long-distance voting. That is a separate space, because there’s no exponential return. The most you can do, rig one referendum vote is win that particular referendum vote, you cannot get someone in the office to recursively change the rules for you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We think that’s a safer part, and that’s my opinion also as digital minster. Of course, at the end, the central election committee take care of that, they’re independent organ, but we do provide our opinions.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        You mentioned earlier that Italy had adopted the g0v, how much coordination went into persuading or helping them to get that started, if any? Is this something that independent groups are…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, it’s an independent group.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        It’s totally organic?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, I think I talk about this other slide when I was in Vatican, in a sustainability conference organized by Jeffery Saks.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then one of the Italian MPs at that time, Stefano Quintarelli, also an experienced ICT entrepreneur, learned about this idea right before there’s a change of cabinet. Then he became just a private sector person again, and then start sharing this idea of g0v, and then just founded an institute or something to push this forward.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We don’t have any MOUs or any controlling relationship, but I understand they work with their own civic hacker movement. Some of them overlapping with the Five Star, but that is the extent that I know about Italy situation.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Do you have other questions?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We still have 15 minutes.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Do you have an idea on the effectiveness of the clarification to counter disinformation? Like say Tsai went and uploaded her thesis online, were people accepting of it? People in the United States still don’t believe President Obama is an American, despite the birth certificate, is the Taiwan public generally accepting of all the clarification and fact checking being provided?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, I think they’re generally appreciating it. Because radical transparency is the one thing that across parties, people can agree on. After the 2014 mayoral election, which is the last election where mayors still held authoritarian platforms, and all of them lost.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        People who hold open government views all get elected, sometime without preparing inauguration speeches. It’s something that also happened, I think, in Spain after the 15-M movement as well.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Basically, you can only compete on being more radically open, and not the other way around, so because of that, I think nobody contested Dr. Tsai for opening up her dissertation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think the main attack now is that “she should have done it sooner,” or “it was a campaign strategy for her family to take so long to find her old copy”, or “she was waiting for political opposition to step into the trap.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        “She should have opened it three weeks ago.” If that’s the strongest countermeasure, you know that people are generally in favor of radical transparency, yeah.
+                    </p>
+                </speech>
+                <speech by="#Susan M. Elliott">
+                    <p>
+                        Any other comments, questions?
+                    </p>
+                </speech>
+                <speech by="#Susan M. Elliott">
+                    <p>
+                        Madam Minister, thank you very much for a very informative and innovative presentation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        I’m going to take this into account, that Taiwan can help. We’ll send this card to Washington.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audience Member">
+                    <p>
+                        Thank you very much.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (applause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Minster, sorry, just one more information, piece of information. Actually US and Taiwan are working together in this media literacy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We are, with GCTF and so on. In fact, this presentation that you just saw, the initial one anyway, started in a Taiwan-US GCTF workshop, media literacy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The foreign service of Taiwan is also working the AIT, the de facto embassy with the CO and everything, on a series of AI-moderated dialogs, which is important because as far as we know, this is really the first time anywhere in the world that two embassies of foreign service worked together to use this kind of scalable listening way to ask one specific question at a time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Like the first one, how to promote Taiwan’s role in the global community? We see very polarized groups. This is the number one divisive idea.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Every time PRC close the international door for Taiwan, the US should try to open one for Taiwan someplace else. Everybody on the right-hand side agree with it, everybody on the left-hand side disagree with it, so there are real polarizations going on in Taiwan if you ask that question.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s the only divisive statement, and every other statement people have a pretty good consensus around Taiwan’s role in the Pacific, and things like religious tolerance, and so on, and so forth. Some of it, the AIT said we can just go ahead and do it, like sending somebody to our presidential hackathon, they were like yeah, we can do it, and two weeks later, somebody entered our presidential hackathon.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        …counterparts participated, that’s great.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        It’s kind of like a…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Talk to AIT, or AIT Digital Dialog is actually ongoing for another month for this topic, which happens to be the expertise of many of you: How to increase security cooperation between Taiwan and the US.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We welcome all your inputs, and people will press agree or disagree on each of those inputs, because now with the M1A2 and the F16V deals done, people are now brainstorming around next steps.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Do you have a consensus on that? What do Taiwan people think about US-Taiwan military operation?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, like for example, “all security cooperations need to include Japan.” That’s a definite consensus among groups of very different polarizing opinions.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We will read that aloud around a month from now, asking for real-time response from both our foreign service and yours, and make sure that something that can be implemented gets implemented within a quarter, if possible. If it’s something takes time, then we’ll just say “it takes time.”
+                    </p>
+                </speech>
+                <speech by="#Susan M. Elliott">
+                    <p>
+                        That’s great, very good. Thank you again.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Audience Member">
+                    <p>
+                        Thank you, thank you.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (applause)
+                        </i>
+                    </p>
+                </narrative>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
