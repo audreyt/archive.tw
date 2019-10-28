@@ -10,7 +10,7 @@ my $sayitURL = $ENV{SAYIT_URL} || "http://sayit.pdis.nat.gov.tw";
 my $username = uri_escape($ENV{SAYIT_USERNAME} || "root");
 my $password = uri_escape($ENV{SAYIT_PASSWORD} || die "SAYIT_PASSWORD environment variable not set");
 
-my $token = `curl -v -c cookies.txt -b cookies.txt ${sayitURL}/accounts/login/?$rand|grep csrf|sed 's/^ *//;s/ *\$//'`;
+my $token = `curl -v -L -c cookies.txt -b cookies.txt ${sayitURL}/accounts/login/?$rand|grep csrf|sed 's/^ *//;s/ *\$//'`;
 $token =~ m!<input type='hidden' name='csrfmiddlewaretoken' value='(.+)' />! or die "cannot find CSRF token";
 $token = $1;
 
@@ -20,7 +20,7 @@ system(curl =>
     "$sayitURL/accounts/login/",
 );
 
-$token = `curl -v -c cookies.txt -b cookies.txt $sayitURL/import/akomantoso?$rand`;
+$token = `curl -v -L -c cookies.txt -b cookies.txt $sayitURL/import/akomantoso?$rand`;
 $token =~ m!<input type='hidden' name='csrfmiddlewaretoken' value='(.+)' />! or die "cannot find CSRF token";
 $token = $1;
 
