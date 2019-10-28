@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Carl Miller" id="Carl Miller" showAs="Carl Miller"/>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+                <TLCPerson href="/ontology/person/::/Shiroma Silva" id="Shiroma Silva" showAs="Shiroma Silva"/>
+                <TLCPerson href="/ontology/person/::/Chiayo Kuo" id="Chiayo Kuo" showAs="Chiayo Kuo"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2019-07-22 BBC Click Interview part 3
+                </heading>
+                <speech by="#Carl Miller">
+                    <p>
+                        Audrey, how important is pol.is to the whole process?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As you can see here, the Uber deliberation is the first time that we get more people’s statements than can possibly be processed by one, single moderator. Even a team of moderators wouldn’t be possible to accept more than 100 statements or people’s voices from tens of hundred. Let’s try again. [snaps]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even a dozen moderators wouldn’t be possible to process more than 100 statements and thousands of participants. At that time, if we keep processing these statements using traditional forum software, it will discard a lot of what’s in common.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Thousands of people were wanting to get involved in this domain.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly. Also, people wouldn’t bother to read through the comments anyway, so a lot of redundancy will also be shown by people who enter their statements. However, pol.is let the moderation part be crowdsourced by everybody who participates. That is to say, by clicking simply agree or disagree on each statement, people help clustering themselves into folks with similar ideas.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Is it fair to say that policy is really core and central to any deliberation, where there’s more people than you can listen to without technology?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly. This person is still listening to part of the participation process. Everybody helps to group like-minded people together. For example, as we can see here, in group A, they think the law enforcement against unregistered cars is a duty of the Ministry of Transportation and Communication.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Everybody in group A pretty much agrees on that, but almost nobody in group B agrees on that. Just by a simple gesture of clicking group A, everybody can understand what the groups’ main ideas are. They would not bother to repost the same statement. They can just click yes, to resonate with that statement.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Say we were just two people, normal people, that just cared about the Uber debate. What would be the first thing that we would see, when we logged into pol.is.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You will see one statement from your fellow citizen, in this case, incidentally, Audrey Tang. [laughs] Obviously, I have used the Uber app to call a car. This is what we call a metadata statement, meaning that nowadays it will not be included in the clustering. This is not about your opinion or your feeling. This is about your lived experience.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Nevertheless, it helps us to tell initial groups to see that there are Uber passengers on one side and passenger who have never taken Uber on the other side, how it correlates with their lifting experience.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        It begins in quite a similar experience-wise way to Twitter or Facebook in a sense that it brings you face-to-face with a series of statements which other people have drafted. The origin is quite similar.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The origin is similar. It is even more like Reddit where you have a upload and a download. This is like a upload and this is like a download. If you, say, agree with the statement, you will notice two things. First, that you have moved a little bit toward the right. Second, that you will see another statement.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        You start receiving these statements. You start agreeing or disagreeing. You can’t reply. No trolling allowed. Crucially, then, I guess, the first big difference between this and the other platforms is this mapping. Is that correct?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Why is the mapping so important?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It shows two things. First, even though I may be here – that’s my avatar – on this camp, my friends and families are here. They are not nameless trolls. They are not people belonging to another tribe. They are not others. They are my friends and families. I can see that they may have their points as well. It’s just that we never talk about this over dinner. That’s all.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It removes one of the main antagonism on the Internet which is that people paint other people with different thoughts as nameless others. That’s the first thing. The second thing is that it shows, despite the two different clusters, there are a long list, seven, of majority opinions.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is to say, everybody across the aisle, almost no opposition, thinks that insurance against accidents is paramount, is important. No matter how Uber is legalized, anyone who drives a e-rental or e-taxi with the Uber app need to have insurance to cover for accidents.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Step one is that it empathizes the other camp by deliberately showing you your friends and family that are in the other camp.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Then, secondly, then it shows what we have in common. What happens in the journey next? We’ve maybe even drafter some comments at this point.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. After answering a few ideas, you can see this “share your perspective.” It reminds you that it should be a idea that stands alone, meaning that you shouldn’t write ten ideas in a single statement.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It should raise new perspective and experience or issues, meaning that if you simply copy/paste that, it’s not going to make any difference. Finally, please be clear and concise by limiting to 140 characters, which is a one-vote Twitter.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        [laughs] You start drafting comments. Other people start responding to them.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Mm-hmm.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        In this sense, it is just people deliberating.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        What happens then at the time? Do we start to see different kind of groups emerge?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Very much so. Whereas here, you can see currently there’s only, broadly speaking, two camps, A and B, in 2015 when this deliberation first started, you can actually see four groups, one in each corner. There’s very little they have in common. At the moment, you can see that the rift is visually very small now.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        At that time, there’s almost no overlap between the four groups. The four groups are, roughly speaking, people who drive for Uber, people who drive for an existing taxi fleet, people who have taken before as passengers, and people who did not take Uber before as passengers. We know this composition because we asked those metadata questions.
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        That’s great. I’m just going to get a monitor if I may. That’s exactly the kind of thing. That’s fine.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (background conversation)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        I suppose the kind of arguments that were put forward by the…if we have it. The thing about licenses and how safety…
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Have you got enough on the general pol.is? Should we move specifically to the…
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        I think so, yes. We can also say general pol.is stuff in…
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s OK.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (background sounds only)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Carl Miller">
+                    <p>
+                        Were you nervous before Uber? Was it a nerve-racking one to try this process on?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No, not particularly. I made a point of trying everything emergent that we deliberate here. Even before we deliberate Airbnb, I register Airbnb account and stay in one of the Airbnb places. The owner claimed that they have 15 apartments which look all the same in Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Before the e-liquor case, I just call a member that I Google online and bought some liquor over the Internet. They tried to assess whether I’m 18 years older or more, but the delivery person never checked anything.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Just before, last evening actually, we drove the Segways and e-scooters. That’s my first time on a e-scooter. I’ve driven Segways before, the parallel wheels, but the front and rear wheels, that’s the first time, the kick scooters.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        How did you find it?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s really interesting. Actually, I still like Segway. I think it’s more balanced.
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In any case, what I mean is that I make sure to step into the shoes of the people who are early adopters and also see the city, see the environment from their point of view. Because of that, I’m not especially nervous, because then I can just take everybody’s side as we have talked about.
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        I’m recording.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re good.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Let’s start at the beginning then with Uber. You saw these four groups emerge at the beginning of Uber.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. Then the four groups are, as I mentioned, roughly, Uber drivers, taxi drivers, Uber passengers, and other passengers. They had almost nothing in common. Then somebody from one of the groups said something that unites the taxi drivers and taxi passengers together.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That statement, as shown here, says, “Since the Ministry of Transportation have already rejected Uber’s administrative appeal, the Taipei city government should just cancel the company registration of Taiwan Uber Incorporated.”
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Wow.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a strong law enforcement message, and that unites the taxi drivers and taxi passengers together.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        And strong anti-Uber message…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        …which, in a sense, also unites the Uber passengers and Uber drivers.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly! The Uber drivers and passenger probably won’t like to see Uber, Inc. being revoked of its company registration. They united around another statement saying, “When I’m not in a hurry, I prefer to call Uber even if there are plenty of taxis just swishing around before me, I still prefer the Uber experience,” and that’s what unites them around.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        That’s kind of hostile as well in just the opposite way.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right because it names taxi by name. The thing is that none of these two are what we call group-informed consensus. While they do have more than three-quarter in each group respectively, they manage to convince almost zero percent across groups for obvious reasons. They are divisive statements.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        However, we said we don’t need hope as agenda of our conversation, anything that can convince a majority across groups. That means it has to be endorsed by those groups. Now, when people see the four groups merging into two, they are now focusing their ideas on convincing the people to the other aisle.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They do so by making statements that can first resonate with more in-group people. For example, group one toned down the original statement and a week later, that’s one week into the consultation, they unified around this statement. I think it’s the responsibility of the Ministry of Transportation to actively outlaw unlicensed passenger vehicles.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is not about the company anymore. It doesn’t name Uber here. It doesn’t call on MOTC to do anything. It just says it is a duty for MOTC to do law enforcement. This is a much more nuanced message, but in a sense, it’s also more simple. For six, some of this specifically, however, it unites people in a sense of kind of social justice.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It managed to convince almost 90 percent of group one. It managed to convince some portion of group two as well, but it’s by far not the majority. It’s maybe halfway there. Group two actually gained some people from group one because somebody proposed a very creative statement, and some people just joined the group two because of that statement.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It says this, “Currently, the only way for traditional taxis to survive is to join a taxi fleet whereas they had the option of becoming an individual or a co-op. Currently, only commercial fleets are viable.” That’s the observation. Then, they said, “This is not due to a government policy but it’s just a market reality.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Uber X has subverted this original group. I think it’s quite awesome, almost liberating, to the drivers. This, again, is a social justice statement that wants some people from the taxi drivers and passengers. It managed to convince almost everybody of that group.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Of that group?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of that group and I think one-fourth or so of the other group. It’s almost getting to the point where intragroup consensus is possible, but still, it’s not good enough. Finally, people came up with very nuanced statements like this from Mozillian Irvin Chen.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Irvin said, “The government should leverage this opportunity to challenge the taxi industry to improve the taxi industry’s management and quality control so the drivers and riders in existing taxi fleets would enjoy the same quality service as Uber does.” This gets everybody’s approval.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Was this the kind of key moment?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Was this the one where the first genuinely consensus statement across both groups emerged?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, because when people see that it’s possible to score 95 percent across group approval rates, people understand that, first, it’s possible to get everybody to kind of come together and also, people become competitive. People would like their statements to be scored higher on the majority opinion, not just on the intragroup conversation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s a friendly competition and now inquiry on who can bring the most nuanced statement that get everybody to agree. Once people shifted their energy to do that, you literally see the two groups growing closer.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        That’s all about the platform engineering of policy, isn’t it? It displays the most consensual statements overall almost like a leaderboard.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Therefore, there’s actually no kind of fun in just playing to your own group.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you’re trolling, you still have to beat the group consensus. If you cannot even beat a group consensus, there really is no point in making any statements.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        They just don’t see them.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        It’s impossible. There’s like, as you said, a friendly competition to actually draft the most consensual kind of broad-based statements as possible.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly. The coherent set of reflections at the end is what we hold ourselves to account by using this as exactly the agenda for this kind of models they hold a meeting they just witnessed last evening. As with last evening, we begin by reading aloud what makes group A and B different, but then we say we’re not discussing this but we are discussing the seven facts that unified everybody together.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        From now on, please start talking about how you plan to address those seven points, which clearly is the consensus of the people including registration, including insurance, taxation, and so on.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        At the end of all of this, seven consensus items emerged from policy. Is that right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        All of them enjoyed majority support across both groups.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        What were they just very briefly?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure. Very briefly, we can just look at the slides. It’s been four years.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Carl Miller">
+                    <p>
+                        You could even just say it was about licensing.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s fine. I’ll stick to the script. Aside from Irvin’s statement, which enjoyed universal support of how the government should change our regulation to address the challenge of Uber so that everybody, even the taxi drivers, can enjoy the same service as provided by the app, the other six consensus items are, very quickly, the ruling about public transportation should be fair.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If it’s rental, it should work like a rental. If it’s a taxi, it should work like a taxi. It should be fair regardless of whether it’s an app or not. The second thing is that Uber has the responsibility of explaining its taxation contribution to the society.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The third is that Uber X should be just like taxi. It should place the registration plate, the professional driver’s license, as well as the complete information about the driver somewhere that’s visible inside the car, not just on the app.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The fourth thing says that registration is still needed because public transportation is more like food and medicine in which that a registration ensures trust and safety of people who consume these products and services.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Five says, “Aside from the professional drivers, there is a room of ridesharing.” If one shares two rides to work and back every day on average, that shouldn’t be counted as driving for professional profit. It’s carpooling, essentially. They think that it should be exempt from the registration. However, even in that case, insurance coverage for passengers is still paramount.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Finally, the sixth point says, “I think multiple apps should be working with multiple drivers so that there’s a menu-to-menu relationship and the driver should be accepted to be dispatched by several apps concurrently.”
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        After that, it was a question of fleshing out the detail, and the specific challenges, and then, as you said, coding it into law.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes. The great thing about pol.is is that it’s very rare, I’ve never encountered a case, where the group-informed consensus are incoherent in a sense that they almost feel like something prepared by a good think tank report, in a sense that they have a logic in it. It’s entirely emergent. Nobody planned this.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        As decision-makers within government, not you specifically but in general… [laughs] You don’t call yourself a decision-maker.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As a modern decision-maker in general, yes. [laughs] Generally speaking, for decision-makers.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Generally speaking, for decision-makers, having consensus items is completely different then, must be, from activism or lobbying. To be able to take those and to then turn them into something which you’re confident the people will be able to find something to support.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes. Previously, decision-makers faced a dilemma of getting very good qualitative feedback through focus groups. It’s limited to people we already know. You can do a survey or a poll and get a good quantitative report. It’s always on cases that you already determined. It’s very rare that you see your imagination. There’s no emergent ideas to happen.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s forced to use those two very lopsided way to gorge the public’s interest. Thinking from the angle of the citizen, if I get a survey telephone, I may want to fill in the blank and say, “This is what I actually think.” It’s never recorded by the person who does the survey. If I join a focus group, I may say, “Actually, I don’t represent the Uber drivers.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We have maybe 4,000 people. Each of them need to have a say. Even as a association leader, I don’t have the time to listen to the 4,000 people. As a citizen, participate, it feels frustrating when you’re being surveyed, or polled, or invited to a focus group because even representatives can’t really know what their constituents think.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Pol.is is in a midpoint where the correspondents can add in their statements but it always results in signaling their resonance.
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        Great. OK. Fun. Do you want to move on to…Audrey, I think your mic might be wrapping against the…
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Final question on Uber, do you think it’s time to have another veto on Uber?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Just a second. OK. Yes. Do I think it’s the time for another veto on Uber?
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Since this has happened, there’s obviously been a lot…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The consensus items become a new act called a Multi-purpose Taxi Act. That’s entirely in the spirit of those consensus points. Uber decided to not register as a multi-purpose taxi or as an app to facilitate multi-purpose taxi first. They first reentered the market as a service for e-rentals. Then they also went with multi-purpose taxis.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now, using the Uber app, you can call both rental cars as well as taxis. One is metered by hour, the other metered by distance. Through a loophole, there’s a cap on taxi cars but no cap on rental cars. People became rental cars.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s abusing the rental car legislation because if you call a Uber through e-rental means, you can tell the driver to sit to the other chair and you start driving it. That’s what rental car is about.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Really? You can drive the guy himself?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, because you called a rental.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        That’s crazy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you have a driver license, of course. People know that. They were seeing this as the way to break through the cap on taxis. Uber using the existing taxi-car cap can grow maybe only twofold. Using the unlimited rental-car cap, they can grow maybe tenfold. There will be externalities to the road and things like that. The recent regulation change is essentially the MOTC side.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Each municipality need to decide for themself whether they want e-rentals to also count as multi-purpose taxis or if they don’t count and you really have to rent them by the hour. That is the entirety of what the MOTC is doing. Personally speaking, I think this rental/taxi separation is still within the idea of the original consensus.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If we do need another conversation, it will probably be about how to make multi-purpose taxis more fitting to the current reality. For example, people are saying that hardware meter is very inconvenient. Then you cannot do dynamic pricing. Maybe a app-based meter is a better one.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There are some new observations now that we have multi-purpose taxis for a few years now. MPTs is probably a good idea to have that conversation on through vTaiwan. E-rental regulation, it’s still very much well within the original consensus. It is making sure that each municipality do a reality check. That’s my take.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        In other words, Uber found a way of growing in an area that wasn’t covered by the law that this informed.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Right. This created a law. Uber did cooperate with MPTs. They also found a way to cooperate with e-rentals so that e-rentals were not covered by this. At that time, nobody thought that renting a car and asking the driver to sit to the other side would be the possibility of making a multi-purpose taxi. Uber is very creative and found a way in the existing ecosystem.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Some might claim that Uber didn’t stick to the spirit of the agreement here.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        What we want to get across, surely, is that, if you don’t go through the vTaiwan process, polarization can happen within as in the current.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        What we’ve heard now from both taxi drivers and Uber feels very much like the pre-vTaiwan process. There’s huge amounts of anger, mistrust, distrust.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes. What I have heard also was e-rental cars that then became multi-purpose taxis is that they very much wish that people can understand the difference between a rental where you sit on the driver’s seat and a taxi where you sit on the passenger’s seat. Currently, they don’t get as much influx of requests as compared to when they operate on the grey area of e-rental.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’ve heard from people who are still driving e-rentals with Uber in a sense of uncertainty. They don’t know, when October comes, whether their operation will still be illegal or that they will be forced to switch to multi-purpose taxis. There are some how to get licenses, that’s already addressed. We have a lot more examinations.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There are also parts where the MOTC is working with banks to make sure if they take a loan to buy that car, they can shift into a multi-purpose taxi without suffering any penalties and things like that. All those administrative issues are being worked on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There were no large-scale conversation to inform everybody that this is in the progress. The multi-purpose taxis, when it’s due for a review, it would be a good idea to have a collaborative meeting.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Cool.
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        What had pol.is produced for yesterday’s meeting?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now we’re looking at the e-scooters pol.is. You can see, again, a statement. Here’s 47 statements this time. After clicking agree or disagree for a few times you can see your avatar moving to one group or the next. Group A, broadly speaking, says that there should be a age limit beyond which you should be not qualified to drive a e-scooter.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        We have two groups formed for yesterday.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. Yesterday morning when the facilitator took a snapshot there were three groups. By the time that we’re in the evening, now we’re looking at two groups.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The group that says, “You should allow with some limitation,” or, “Allow with a lot of limitation,” these two groups merged into Group A. That’s it. Yesterday, we talked about a majority of opinions. The top-most one is, “I think Taiwan’s road planning is very unfriendly to pedestrians.”
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        It’s got nothing to do with the immediate poll.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It does have something to do, though. People shared their idea of the impossibility of driving e-bikes or e-scooters on pedestrian pathways. Sometimes, outside of Taipei especially, people start putting stuff on the pedestrian road. Even people in wheelchairs who usually can use the pedestrian pathway have to go to the street and operate in a dangerous zone in the corner of a road.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is pertinent because a lot of the suggestions talks about how they should operate in a cycleway, how they should operate in a pedestrian way. There are many places in Taiwan, many district and municipalities that doesn’t have a designated bicycle way and a pedestrian way is often clogged.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That environment is a completely different planning criteria as compared to Taipei, for example. Even in Taipei, there are corners that are not as well-planned. If you say, “Oh, let’s just move on the slower part of the public road,” then another observation, there’s a lot of motorcyclists. The motorcyclists who usually swarm into a red light, that would make the e-scooters dangerous.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s a speed difference between the two classes of vehicles. All this is what prompts people to come to the top-most consensus of saying, “We don’t even have a friendly pedestrian way and we shouldn’t really talk about planning for pedestrian-way use before we establish a fix.”
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Hang on. To put it very simply, going into yesterday, there were two groups. One group was, “Allow with limitations or allow with lots of limitations.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        What was the other group?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The other group was saying, at this moment of city planning, we’re not ready.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Already, by yesterday…
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        If we could say “already by the meeting,” rather than putting yesterday.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Sorry.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Already by the meeting.
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        “Already when meeting just starts,” yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Already by the meeting, we can see two groups.
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        Sorry, talk to Carl. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Already by the meeting, we can see two groups. One is saying we should open at least some pilot sites for the e-scooters or Segways with some limitations or with a lot of limitation. Another group is saying, with the current condition of pedestrian/bicycle ways in cities, we really shouldn’t allow e-scooters.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They become kind of fearful. There was a statement that says, “I’m fearful on the pedestrian way if I see a e-scooter just speeding up to me because it’s already a very limited corridor, and there’s no easy way to just step to the side.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is very real, and this group is also very real. What the evening’s meeting accomplished is that we look at the different factors. We come up with a consensus of saying what constitutes a good pilot site. From that, everybody agrees, even the online part.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Great. Don’t we need more than that?
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        I think that’s it so we’ve got…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think it’s good.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        That’s perfect.
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        We’re just going to do some noddies. I’ll do some basic screenshots, and then you can send us the…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        …things we can superimpose it on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The animetrics.
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (background sounds only)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        If you have it at the angle that you were showing Carl so that…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Like this?
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        Not exactly, but sort of. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sort of?
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I realize that this is the…
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        One second. I’m going to change this lens and see if it’s better. For screens, you see, sometimes certain lenses are better.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (background sounds only)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Carl Miller">
+                    <p>
+                        I was learning yesterday about the app is named after your transcriber…
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        Just keep it here because I might need…
+                    </p>
+                </speech>
+                <speech by="#Chiayo Kuo">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Mm-hmm.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        …whose name…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        It’s so funny.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        She’s famous in Taiwan?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        We have a bet.
+                    </p>
+                </speech>
+                <speech by="#Chiayo Kuo">
+                    <p>
+                        We have a bet today. We have to ask six young people, and if there are three people know about Ya-Ting, then…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …she’s part of the cabinet meeting too.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Do you think she’s the fastest typer in Taiwan?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        One of, if not the.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Really?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        I didn’t get a chance to see her type.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s plenty of footage.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s one in our Premier’s Facebook video stream.
+                    </p>
+                </speech>
+                <speech by="#Chiayo Kuo">
+                    <p>
+                        Really?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, if you look for the easter egg.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        It’s obviously really important to you, of course, to have a transcriber that is blistering fast.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We have actually two transcribers in the team.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Really?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. Well, I can work as a transcriber as well. I am just not as fast as they are.
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        How fast are you?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        At my best, maybe 100 characters per minute.
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        That’s not bad.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        How fast is…
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        You could work as a journalist.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Hmm?
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        You could work as a journalist with that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        How fast is Ya-Ting, 350?
+                    </p>
+                </speech>
+                <speech by="#Chiayo Kuo">
+                    <p>
+                        350.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Faster than I speak.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        That’s absolutely crazy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It is.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Do you think that’s a natural gift or just training?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s just like a pianist. Of course, you have to have some gift in order to even be a pianist professionally. Then a lot of it’s just lots of training.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Like formal typing?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        She’s using a chording keyboard, so it’s exactly like a pianist.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        In what way?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you hear two words that form a phrase, your left and right hand will type in the two words simultaneously. It’s chording.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        I have no idea. I can’t even imagine that. You hit two words at the same time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. If you hear, for example, the word for democracy, min zhu, your left hand would type M-I-N, and your right hand would type Z-H-U.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        At the same time?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        At the same time, and it knows it’s 民主 you’re talking about.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        Those are two actually separate words you’re both typing.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You’re typing the sound. If you just type zhu, it could be 煮, as in cooking [laughs] or it could be any of the word that sounds alike, the homonyms. If you type two words at a time, there’s very little chance of homonyms.
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        If you just take us through the basic screens and things.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Carl Miller">
+                    <p>
+                        If you don’t need me, I can step out for this, can’t I?
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        Yeah, but you need to come back in a second. I need to do some noddies.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What we’re looking at is the Uber X deliberation back in 2015. We’re looking at one particular statement from the [Mandarin Chinese] that talks something about taxation. Here, we can see Group A, which all probably speaking, that the MOTC, the Ministry of Transportation and Communication, has a duty to do law enforcement against unregistered vehicles.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Group B doesn’t quite agree. Group B mostly says, “If I’m not in a rush, even if I see taxis driving by, I will still reach out my phone and call a Uber.” That’s Group B, but Group A doesn’t quite agree with that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even with the divisions, there’s still a majority opinion forming, for example, that the insurance against accidents is important. It is important for safety as well as the fairness, as well as how government should keep the regulation up-to-date to respond to emergent technical inventions.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even if they look polarized, they actually have much more in common with each other than they previously thought.
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now the e-scooter?
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        Yes, please.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In the e-scooter pol.is, we can see there’s some statements here talking about “Singapore is the most comprehensive in terms of regulation”; “Insufficient management would lead to proliferation of stranded products in the local area”; “Software and hardware innovations will be seen to be buried without an up-to-date regulation.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Once you agree or disagree, your avatar would move among the different groups. Again, the different groups think differently. One group think that it’s much more like the electric bicycles. You need to have some age limit or with a lot of limit, but it should be allowed overall. The other group doesn’t quite agree.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The first group says that the current pedestrian road planning is really bad and that we really need a better-planned sphere of experimentation, a pilot site for this kind of new vehicles to have a chance of showing its social impact and getting people educated about these things. For that, everybody agrees.
+                    </p>
+                </speech>
+                <speech by="#Shiroma Silva">
+                    <p>
+                        Great.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
