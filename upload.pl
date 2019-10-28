@@ -6,7 +6,7 @@ use URI::Escape;
 my $rand = rand();
 my $akomantosoURL = shift or die "Usage: $0 <url>";
 
-my $sayitURL = $ENV{SAYIT_URL} || "http://sayit.archive.tw";
+my $sayitURL = $ENV{SAYIT_URL} || "http://sayit.pdis.nat.gov.tw";
 my $username = uri_escape($ENV{SAYIT_USERNAME} || "root");
 my $password = uri_escape($ENV{SAYIT_PASSWORD} || die "SAYIT_PASSWORD environment variable not set");
 
