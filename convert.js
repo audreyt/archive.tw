@@ -173,7 +173,7 @@ const md2json = (x) => {
 			if ((/id="/).exec(line)) {
 				// <a category id="id">text</a>
 				if ((/<\/a>/).exec(line)) {
-					category = line.match(/<a (.*?) id="/)[1]
+					category = line.match(/name="(.*?)"/)[1]
 					text = line.match(/>(.*?)<\/a>/)[1]
 					id = line.match(/id="(.*?)"/)[1]
 					lineOutput = {
