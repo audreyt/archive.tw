@@ -1,0 +1,1968 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+                <TLCPerson href="/ontology/person/::/Interviewer" id="Interviewer" showAs="Interviewer"/>
+                <TLCPerson href="/ontology/person/::/Tech" id="Tech" showAs="Tech"/>
+                <TLCPerson href="/ontology/person/::/Announcer" id="Announcer" showAs="Announcer"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2019-12-02 Interview with Schweizer Radio und Fernsehen
+                </heading>
+                <speech by="#Audrey Tang">
+                    <p>
+                        My office door looks like this, and it shows my schedule. I also travel around Taiwan to talk to people and connect back to this space as well.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        How many people are dropping by in one day?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They’re very, very variable, but usually maybe 10 every Wednesday.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Which cup of coffee is mine?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        This one I think is mine.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. You get one too.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Taiwan has a digital minister, you. What’s your job exactly? What do you do as a digital minister of Taiwan?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Do I talk to you, or do I talk to the camera?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Talk to me.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If I introduce some concepts, do I introduce it to the front or to my screen?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        I think better to your screen.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        To my screen. I will move it a little bit here.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As digital minister, my work is to further the sustainable development goals through digital means that connects the economy, the society, and the environment together through enhancing reliable data, encouraging effective partnerships, and open innovation. I wrote my own job description three years ago.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        You did? [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes. I’ll read you my job description. It goes like this.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When we see the Internet of things, let’s make it an Internet of beings. When we see virtual reality, let’s make it a shared reality. When we see machine learning, let’s make it collaborative learning. When we see user experience, let’s make it about human experience. Whenever we hear the singularity is near, let us always remember the plurality is here.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        It’s like a poem. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It is a poem.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Would you today write the same job description as three years ago, or would you change something?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I just wrote a new poem yesterday.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        How does it go, the new poem? Also job description?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, it’s also job description-ish. It goes like this. It says, “Whirling ocean, beautiful islands. A transcultural republic of citizens.”
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        This sounds like those Japanese haikus.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, it’s…
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        …the meaning of it?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes. Taiwan, of course, is not only the land part of it. It’s also our surrounding ocean and sea that has 10 percent of the total ocean biodiversity on earth. It’s always important to begin a view that is not just on the land but actually through climate actions and the sustainable growth to expand our horizons toward the ocean. That’s why it’s begun with “Whirling ocean.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then, it’s not just one island. There are many islands. There’s the Pescadores islands, the Orchid Island, the Green Island, and so on. It is not just enough to take care of broadband as a human right on the main island. It is now also very important to get all the smaller islands also connected to the broadband as a human right to make telemedicine, tele-education, and so on, work.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        “Transcultural” means the freedom to move from culture to a different culture, just like the freedom to move from a country to another, because starting this year, in Taiwan, we have more than 20 official languages.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We have the Formosan languages from indigenous nations. We have the Taiwanese Tâi-gí, Hakka, and Mandarin, and many other languages as well. They’re all equally official. It’s a new thing as of this year.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        To make machine learning, for example, learn not only from people who speak English or Mandarin but also from all the different languages, all the different cultures and traditions, and be able to communicate through those cultures. That’s what I meant by “transcultural.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        “A republic of citizens” means that starting next year, our referendums are in different years than the elections.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Ah yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes. Yes. There used to be, I would say, capturing of agenda of the deliberative part of democracy by the representative part of democracy, but now, because there will be on alternating years, there will be one year of presidential election and then one year of national referenda, and then one year of mayoral election, and one year of national referenda.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It allows a entire year of deliberative action outside of party politics and outside of representative politics. It’s a new design that allows for more direct participation in agenda-setting by the citizens, without a political setting that captures them by the political parties – That’s what I meant by republic of citizens.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        A lot of meaning in those few lines.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        As a digital minister, what worries you the most?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What worry I the most? In order of sequence, if people don’t care about the ocean, if they don’t care about the climate. If people work on only furthering one interest at the expense of the others, like economy, if it’s done in a linear way at expense of society. Environment, or innovation at expense of social justice, privacy, and things like that, that would worry me.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        What about the upcoming elections? What role does social media play in the upcoming elections?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Social media is a great amplifier of people’s both prosocial tendencies but also antisocial tendencies. It’s social, but it doesn’t say whether it’s prosocial or antisocial.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, what we’ve seen is that it tends to reward mostly the more extreme voices so that they amplify more. There may only be five divisive ideas among all the possible ideas that concern the society, but social media, when it’s designed in a antisocial way tend to over-amplify the voices of the divisive and give less room for the consensual.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        How does social media work in Taiwan? Does it work a little bit differently from other countries or is it same-same?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, because we have broadband as a human right, no matter where you are in Taiwan, you’ve got 10 megabits per second at â¬15 per month. Because of that, everybody is very much into video producing and video sharing. I would say that it is not only text-based.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        A lot of it is image- and video-based. People very easily start their own broadcast stations sharing their views, their livestreaming. There’s a lot more livestreaming going on compared to other jurisdictions, mostly because it’s unlimited data for everyone.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I would also say that the use of end-to-end encryption is maybe more in Taiwan through a app called LINE. A lot of people is using LINE for end-to-end encryption, not only among individuals but also among groups of people.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        What does this mean if you have more streaming and not only text?
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (background noise)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Interviewer">
+                    <p>
+                        On social media, does this have a impact then, for example, on all those topics like fake news? Do you have less fake news because everybody’s more streaming versus the other thing? Less possible because it is live streamed?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Nowadays, it’s also easy to synthesize video, so it’s not being fake. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        I forgot about deepfakes.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        [laughs] It’s not exactly alike. It’s harder.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        So the problem with the video?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The problem actually become bigger because people would believe it more if they have seen a picture or a video as compared to text. Text is open for interpretation. A image is usually very final in its presentation. I would say that it actually amplify especially the feeling of anger and helplessness if people show you a image.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, there was this image that says “during the Hong Kong protest, the payment for the rioters is such that, at most, they pay up to $20 million for murdering a police” – which is a piece of disinformation.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Is this also something which went viral in Taiwan?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes. That was a photo. This is a comic drawing that calls for so-called 死士 or suiciders. Again, this is a piece of disinformation. There was no such event going on in Hong Kong. You can very easily see because it’s not spelled in Cantonese. It’s spelled in Hanyu Pinyin, which no Hong Kong protesters would use, but unless you are…
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        You mean Hanyu Pinyin is in Mandarin, not Cantonese?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s written in Cantonese to make it look like Cantonese, but actually, it uses Hanyu Pinyin, which is Mandarin Pinyin, only used in PRC. In Taiwan, we would use the Zhuyin system. It also has some Cantonese characters.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What I’m trying to say is that if it’s only this text, it will not be as provoking as a drawing or maybe a synthesized image or a video.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Is the fake news problem bigger in Taiwan because people are using more picture and more video?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I would say it incites more emotion but then it also makes clarifications more important. The website that I’m showing you here is clarifying this as false. Because they can cite from the video and from the images, it also makes clarification more pertinent to the message because you can then compare where the image came. It was from Reuters, but they changed the caption.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        What does this mean for the upcoming election? Everybody is extensively using social media, people from Han’s party, but also Tsai’s. Everybody’s using social media. Does this also mean that the whole presidential elections are going to be quite harsher and also angry?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        We have those people from Han’s party who are accusing the opposite of fake news and also vice versa. I get the impression that it’s quite heated.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re a young democracy, so elections are always heated. Social media is unique in that it allows turning the helpless anger into a outrage very easily by clicking share.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Whenever people feel anger, they may not have the mental capacity to check the veracity of the image or video. They can very easily turn it into something more positive, subjectively, by clicking share and sending a message of outrage so that people are angry about the same thing together instead of a individual anger. That tend to spread, yes.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Say this again?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Anger as it…
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (audio skip)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …I was just showing you, that was also equally people devote their time to fact-checking, committed to respond to each and every of those messages within 60 minutes. I think the deadline from each ministry is two hours. Within two hours, they have to produce the clarification cards that are also visual. Within two hours, within 200 words, at least two pictures that clarifies this disinformation.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        How does this work? Is this one of the means how you protect against fake news? In every ministry is only having a look at the fake…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The trending disinformation.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Is it the trending ones or just the trending ones concerning that ministry?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course they can only respond to the ones concerning their ministry. The trending one also is a volunteer basis. People either report it on the LINE system directly to a public dashboard, like flagging a spam email, or people can work with the Taiwan FactCheck Center and say, “I see this trending. Would you like to check it?”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        One way or another, it will end up on the ministry’s radar, and they will look at whether it’s a intentional, harmful untruth. If so, within two hours, usually within 60 minutes now, they will roll out two picture cards that are less than 200 words and easy-to-grasp in arguments.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        The people from the ministry, they don’t themselves do the monitoring? The people are doing the monitoring, and then they will respond?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Do you have a good example from the past?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is a very humorous one. This is clarifying a rumor that says perming your hair many times a week will be subject to a million-dollar fine starting next week. That’s not true. The payload, which is less than 200 words said, “I may be bald now,” says a younger version of the prime minister, “but I would not punish people with hair.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The fine print says, “What we’ve done is introducing labeling requirements for hair products starting July 2021.” Then the prime minister, as he looks now, says, “However, while perming your hair many times a week will not damage your pocket, it will damage your hair. When serious, you may end up looking like me.”
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        It’s then also approved by the minister himself and his team?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course, the image will have to be pre-cleared to use. It’s a very tight pipeline. You can think of it like a sitcom producer, a memetic engineer team that can easily and swiftly put the clarification messages from the ministry into this memetic packaging so that it goes viral.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now if you, for example, search our search engine, the keywords that we just showed or something like that, then the first few hits will be this clarification messages and its derivatives.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Can we also have a closer look at this piece?
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        I want to go through the whole thing again just so that we can have you just remember it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        We are doing it afterwards or shall we already do it?
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        No, I’d say afterwards, then we don’t interrupt you.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        I’ll just make a note.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        The hair scene.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The hair thing, yes.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Yeah, the hair thing, the whole thing, maybe your whole lines in the beginning to have a bit of close-ups and everything.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        How many people are doing this for you? I read somewhere five people.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They’re not doing it for me. They’re doing it for their minister. I’m mostly advocating this way of a swift, open, and structured response. The actual coaching is by our spokesperson, Kolas Yotaka. In each ministry, they have a team of five people or more, but five is basic.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Do you also have another example, for example, something which is also connected to the elections?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I would say one of the important things, that our clarifications are not fact-checks. These are our clarifications, like a piece of the puzzle from the administration. We don’t directly deal with election. Those would be from Han, or Tsai, or Soong’s office.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        They’re doing it themselves?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They’re doing it themselves, but that’s not our purview. Our purview is common to the administrative functions. We’re not doing it for the elections.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        When it comes to fake news, this is one of the main tools you have, or are there other tools?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When I said that our FactCheck Center, every piece of fact-check that they do, that they combine information from various different sources. For example, this one, the Hong Kong one, once they clarify it as not correct, it’s dialed down on Facebook. Facebook, when people share this piece of disinformation, they will no longer reach people’s newsfeed that easily.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You have to scroll two hours to see it. It’s exactly like moving a piece of junk mail from your inbox to your spam box. People, by default, don’t look into it, but it’s not a takedown. If you look specifically for it, it’s still there.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        How big is, in general, trolling a problem in Taiwan, especially when it’s concerned to China and foreign countries?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Trolling, if you mean the automatic or semi-automatic posting of messages…
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …to elicit negative emotion to distract from public discussion, then we have evidence, of course, there are hundreds of thousands of fake accounts.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, on the Honk Kong protests alone, there’s 200,000 fake accounts on Twitter designed to troll discussions. They’re all semi-automated from the same block of computers within the PRC that doesn’t need to bypass the Great Firewall. They’re blessed by the Great Firewall to directly troll Twitter, Facebook, and Google.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Are there also such trolling farms when it comes to questions concerning Hong Kong?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think so. Just recently, people discovered that there’s a set of content farms that re-publishes in traditional Chinese language script whatever the simplified Chinese messages that’s pushed out by the PRC Weibo or something, instantly, or even before they post in simplified Chinese. That’s a instant translation of the messages as pushed out.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example this Hong Kong one, which is a good example because it’s also posted on the Weibo of the Chang’an Sword, which is the official Weibo of the 中共中央政法委员会 in the PRC. It’s not merely spreading this in Taiwan. It’s rather taking something of official propaganda and localize it in Cantonese, in traditional Chinese, and spread it in the social media.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Is there something that it can do to hold that propaganda and re-target it, let’s say, for the Taiwanese market and China?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For the Taiwanese market?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        For the Taiwanese…
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s like, “Who would buy this?” Maybe in a different sense of buying.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As you can see, there are many pertaining only to Taiwan messages. Some of them are not disinformation. They’re rather mal-information.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        What’s for you the difference between disinformation and mal-information?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Disinformation is untruth with a intention to do harm. Mal-information is information spread with the intention to do harm that may or may not be true, but they are intended to be framed in a way to do harm.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, there was a protest back in 2016. There was a real video of that protest but it’s almost three years ago. Then there’s a reframed message of such a protest as if it’s happening right now.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        What’s the message behind it?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s trying to discredit the institutional media. The framing is there was such a very loud protest in front of the presidential office building but the media turn a deaf and blind eye to it. That was the framing.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        For example, such kind of a message, did this get to the people, to the Taiwanese?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course it’s only after it’s shared by many people do they get flagged to the attention of the Taiwan FactChecking Center. They, of course, by default, have to reach at least some volunteers that flag this for the Taiwan FactChecking Center to get notice.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        For example, this one got 160 shares.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When it’s reported to the TFC. It’s maybe only within one hour, but while it’s spreading, the TFC is, in parallel, doing its fact-checking work.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Through this whole fact-checking work, how many cases are your people or the people in the other ministry dealing with when it comes to China and Taiwan? It is a lot?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you mean China as in the land, the territory that they currently govern, then there is many. For example, this was about a epidemic in rat. There’s also a virus in pigs, as in swine fever. There’s some concerning that area of their jurisdiction, but I would say it’s not a majority.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        All what they want to do is to sow discord, so a local topic makes more sense to do so. For example, this one is disinformation about Dr. Tsai Ing-wen and a dialog with, allegedly, a small vendor from a…
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (audio skip)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …changed the name from Li Ke-Qiang to Tsai Ing-wen and re-spread on social media.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        This was also one that already trended?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, trended before the TFC looked at it.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Do you have an example what’s the post which trended the most?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I don’t. Maybe you can ask the TFC.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It depends on how early they intervened. Once they publish this as disinformation, as false, it will stop the virality. The virality as determined by Facebook will be dialed down to less than one-tenth of the previous. The earlier this fact-check appears, the slower it will trend afterward. We could never predict what would happen if not for this fact-checking.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        But everyone say that China is trying to interfere in the social media, Taiwan, it’s maybe about the elections, the general one. What of your people?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We know for sure that they have hundreds of thousands of fake accounts. Some of them, of course, gets deleted by Twitter and published their metadata, corroborated by Facebook and Google.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Based on the fact that there were this amount of bots or fake accounts that are blessed by the Great Firewall, I think it’s safe to say that there are some still remaining, even though some of them get suspended.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Is it a big problem or a not-so-big problem?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It depends on who you’re asking. To me, comparatively, it’s less a big problem for this election than the previous one.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Why?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The previous election was also a referendum. There’s many different places where you can sow discord. Basically, each and every referendum topic is one in which disinformation, mal-information can operate.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For this election, because we’ve decoupled the referendums with the presidential elections, there’s less room for disinformation to navigate. It’s not to say that they’re not serious. It’s just to say the surface of disinformation is narrower this time.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        How does that happen?
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        I don’t know if your question, if you wanted maybe not to tell her to…
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        In general, it is a problem of fake news and mal-information, disinformation from China. What can you do against it?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Working with journalists is, by far, the best way, and to revitalize people’s participation in journalism. As I said, everybody is a YouTuber and live-streamer. It’s not just about media literacy, which is about readers’ literacy or viewers’ literacy, but about media competence.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When everybody is a media broadcaster, what kind of competence do they need to make sure that this kind of viral, angry messages don’t spread? Rather something that’s more humorous, that’s more to the point, and so on, may spread easily. That is the kind of competence education can play a large role.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We see a lot of institutional media now working with social media, as well as a lot of participation from the volunteer group to voluntarily type in all the presidential candidates’ public speech into transcripts, validating its correctness, and then do a fact-check to each and every part of what a presidential candidate has said.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        By participating in that process, it shows everyone how institutional media does fact-checking, source-checking, and journalism in general. Which is why we always say “disinformation” in Taiwan, not “fake news.” Unfortunately, in Taiwan, news and journalism translate to the same word. There’s no way to say fake news in Mandarin without offending journalists.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        In…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Mandarin.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        It’s the same word?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        News is 新聞 and journalism is 新聞工作. The department of journalism is 新聞系 and a journalist is 新聞工作者.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Fake news is?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        假新聞, which would also describe a fake journalist, fake journalism. Journalism, by definition, is the opposition of fake because it’s a process to determine reality, if not truth, but at least reality from different perspectives.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        By combining these two together, in Mandarin, it is a affront to journalists. Because my parents were both journalists, out of filial piety, I cannot say that word.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        It’s disinformation then?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Disinformation, 假訊息, has no such problem, because it pertains to the intentional harm by untruths. Of course, a journalist would never do that.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        In the end, that’s the main tool is fact checking. The fact checking can be done partly by…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Institutions, yeah.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        …the government. It can be…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Volunteers, mm-hmm.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        …done by people who volunteer?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Mm-hmm. But also, the product of fact checking need to be clarified in the sense that our humor stands alone.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Why has it to be humorous?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Humorous?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        So, it’s catchy, or…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Well, first step, yes. It’s catchy, that it can spread more than the disinformation, because joy spreads further than anger. Also, if you feel a helplessness in the anger, humor turns it into joy, and that blocks the psychological pathway that turns it into outrage, and so people actually have more mental capacity to look into this thing together, rather than it being a very divisive mood.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        When did Taiwan start this whole…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Humor thing? [laughs]
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        You know, this whole humor thing and there’s humor against like, I can say, against like fake news, disinformation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because you’re a journalist.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        I can say it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly. You can say it. [laughs] It’s one of those shibboleth [laughs] where it’s…
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Is it one year ago, two years ago, or when did Taiwan start?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I remember that I started proposing this idea, I think, early 2017. That’s when I outlined using my Internet experience in working to counter spam. That was almost 20 years ago. I proposed that we give it a swift open and structure it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The structure is a memetic structure, that is to say to make humorous so it spreads faster. That is an idea that I raised in cabinet meeting, but it’s gradually realized by spokesperson Kolas Yotaka in the past couple of years.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Do you think it has already changed a lot during the…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I would say so, especially for this election, because of the surface is more narrow. The referendums is out of the picture. I think a lot of disinformation necessarily, then, pertains the administrative functions.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The clarification from the ministries played a larger role on this, because the referendum agenda are set by the people. Often, disinformation pertaining your referendum, there’s nothing a ministry can say. But presidential candidates are representative, and so their platforms, of course, all pertain to administrative functions. These are something that ministry has something to say.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Also, the people already are more educated, and they…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, and more aware that this is going on.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        So quite a fast process. I didn’t have the imagine that it could change so fast, that people would change so fast.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I would also like to credit, for example, the LINE media system, where they have a dashboard that just showed the latest trending clarifications, and they arranged to work with many different fact checkers, as well as the 行政院, the administration, so that they give a section of their popular media channel, LINE Today.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They can show every day how many people flagged messages as disinformation for fact checking, and how many people eventually got around to share or read the clarifications instead of the disinformation, so it shows this pipeline.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I am grateful, I think, that online today, if you can look at the top news, it’s below the gossiping and entertainment, but then it’s the second section after the gossiping and entertainment, the clarification for rumors. Because of that, it’s very funny. Then after that, it’s world news, social issues, like everyday issues, and trendy video, and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s good that we’re on the second section, the clarifications. I sometimes tell our ministerial colleagues that that’s because we’re not funny enough. That’s why we’re on the second section. If we’re funny enough, we will be above entertainment and gossip.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        [laughs] Do you have an example, from like you ministry, which really went trending because it wasn’t so funny?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes. I can show you a short video.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        One in which you have like really outdone yourself..
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        All right. I’ll show you a short video that I did. Like, if you just look at virality, this video went somewhat viral. It has more than, well, 140k views. But it’s also syndicated by various different fan pages that all together bring it to more than one million views. It’s just a very simple thing.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I can show you, first, the original, and then the remixes.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        I have seen that there…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You have seen this?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Was it not just a five-minute interview on NDW?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s the five-minute one, yeah, right. The first few seconds went viral.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (video plays)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Announcer">
+                    <p>
+                        The people of Hong Kong have been protesting for democracy and against what they perceive as a growing influence by the mainland government from China. As an official from Taiwan, an island, which Beijing considers a breakaway territory, how do you view these protests?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        [responding in video] The breakaway was at the Neolithic age, I believe.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (video ends)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Just there, it went viral.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        People started remixing and adding a lot of kind of rap culture to it, and things like that.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Do you have an example of a…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, of a remix?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think the first remix was from TaiwanWarmPower, which is basically just captioning, and just highlighting that particular perspective. That, also, went somewhat viral. I think there’s, then, a lot of other short versions started to come.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then the mainstream media took notice of it. Then it went viral again on mainstream media. Let me show you, again, the remix.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Or I can just go to one of my friend’s wall. That was a while ago. It’s around this time.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Here. You can see, for example, a Photoshop.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        With that glass as well.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, with sunglasses, and then it shows the fan page, the memetic engineer that’s responsible for it. Then, of course, we can go into here, and then look at how the Photoshops went. Then we’ll see that people are actually then supplying the Neolithic geographic information…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …and explaining how exactly the plate tectonics is. As I said, humor brings a curiosity in people.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        And creativity.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        And creativity. People actually wanted to learn how the breakaway exactly happened 8,500 years ago.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        When it comes to this other platform and join the government DW, I understand there’s also an initiative.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, this one.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        What’s the most popular topics, nowadays, this platform?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Well, we can look. We don’t have to guess.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        From the petition part of it, there’s, of course, also regulations and budget. But the petition part, which is more popular, I guess, and you can search in it, and you can easily sort it by the number of petitions. Then you can see all the historically trending ones or just the newer trending ones.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In the newer trending ones, you will see that animal rights and animal welfare is by far the largest topic. For example, this one concerns larger dogs and very large cats, and whether there are friendly transportation options in the Taiwan rail system for them.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Why do you think especially…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That it’s popular? Because it’s cute.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        It’s cute, not because Taiwanese have such a special relationship to cats and dogs. Even your president is posing with cats…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s our first family. You cannot corrupt them, except very briefly by catnips there, you corrupt them. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        We Taiwanese have that really special relationship to cats and dogs?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Well, there’s also a petition going on in public transportation options. Also, one on animal welfare, seeking out alternatives to competitions by weight for pigs raised for ceremonial ritual purposes. Animal welfare, I would say, is by far the largest.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s also many ones concerning to the right to access nature. For example, this one is about amateur fishing in the harbors. There’s also a similar topic that people participated a mountaineering trip. Previously, these were forbidden, the sea and the mountains were forbidden for ordinary people to access without permit because it is a martial law legacy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe the mountains are dangerous, because people at that time thought there may be guerrilla warfare going on – if you allow too many people to access deeper into the mountains, and so on; which is no longer a problem now.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re systemically using the Join platform to engage people relaxing the rules and increasing the self-regulation of mountaineering, amateur fishing, and all the sea activities and mountain activities.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        How successful is that initiatives?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Pretty successful.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …effective policy change?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. Of all the cases that we work with directly, almost 60 cases now, half of which resulted in decisive regulatory or policy change. The other half get maybe something different. But I would say, not necessarily what’s…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, there was one petition – wow, nice number – 8,000 people strong that says Taiwan should change the time zone to GMT+9 for some reason. Then there’s a equally strong petition, also 8,000 people strong, that says we should remain in GMT+8, without changing to GMT+9. Obviously, you cannot please both petition subjects.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        For example, also as it comes to China, I’ve seen several petitions, for example, ones who are saying we want to have a counter-propaganda department against China, and who like…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        On the Join platform? I haven’t seen that.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Yes, I’ve seen it on this one.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Do you have a key word or something that I can search for it?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        I have…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It needs 5,000 petitions for it to raise to our monthly meeting for discussion offices.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        I think I’ve sent it. It’s… I think those other ones which happens…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Oh, yeah. It’s the PRC flag one. That’s a really good one, because you can see how the Minister of Justice answered.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        I think this one with the PRC flag and this one was something else.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Classical text in education?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Ah yes.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The flag one is actually very nice, because we actually changed the regulations around the e-petitions because of this. When it was in its first incarnation, you can see the response from the Minister of Justice that says this.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        “According to the constitutional ruling, number 328, the constitutional definition of the original territory is a 重大政治問題. It’s a political question of the most serious level. It is outside the judicial branch, and indeed the Minister of Justice’s purview. It should not be done by the court, or indeed the Minister of Justice to make such a decision.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They basically said that this is something that concerns an exclusively presidential purview. It’s outside of the administration, the ministries to tackle it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is, I think, the one that you are referring to. Right after that, we changed the regulation, saying that the petition must pertain only to the ministerial functions within the administration. Saying that issues pertaining to diplomacy, to defense, that are especially presidential purviews is not for the Join platforms administrative section to deal with.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        How do they have it?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is the administration…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …and this is National Auditing Office. This is the cities.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        When I have a search, where do it…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, sure, sure. You just type it in here.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Thanks. I think I searched for…because one of them…
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        You remember we looked for like the people and suggested that they’re going to have a ministry and about disinformation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This one?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Again, it’s rejected because it is a presidential issue.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        It’s because of this…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, that there’s a clause. There’s a clause.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Basically, we look systemically at what is the presidential purview that the administration should not touch because those are political questions pertaining to the president. We said that it is basically issues pertaining to the Chinese continent, issues pertaining to foreign affairs, issues pertaining to national defense.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        These are the things that you can write to the president about, but it is beyond the minsters to respond. Because a minister cannot respond and an e-petition calls for a ministerial response, so it is falling outside of the purview of the ministerial part, the administration part of the Join platform.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        I suggest because it’s already 9:50, that we start with the shooting of the…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The screens.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Yeah, the screens.
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        Can you read the last answer for me?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Um…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I can say it again.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        I think the reason we have it already for, and he explained about the flag thing…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s the same answer, really.
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        Just before.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Just before?
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        If you think it’s important just be careful, it’s moved again, because in the end…
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        I was more focusing on your hands than your…
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Then let’s say, how can I frame it? Not every question, not every petition…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Will be subject to this 5,000-signature collecting.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Yeah. For example, we have one. People want to have a new ministerial department against China interference, for example, and it wasn’t approved.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. Right after the original petition about a flag, we took a systemic view at what are the presidential purviews for political questions. These are issues concerning the Chinese continent, foreign policy, as well as national defense.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because these are, by Constitution, something that the president has a say, but neither the ministers nor the administration have a say about. Because our petition system basically demark only responses from ministers, so we’ve changed the regulations pertaining to the petitions.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It says, if you propose something that is outside of the purview of the administration, then we will not enter the collection stage of the petition.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re good? Great.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Let’s not reflect and perhaps the screens of the Join.gov.tw, and I hope I can see through my screen.
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        What was really good was the very first one, already, which… OK, then you…
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        This is like the…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The original one. The one from 2017.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        That one, yeah. Like the important thing is this, that it’s a…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It is a response. Yes, it’s a political question, so here is where it cites the constitutional court’s ruling, saying that this is a major political question. According to the separation of powers constitutional idea, the branches are not in line to answer this directly.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Neither the judicial branch can determine a political question directly, nor should the Ministry of Justice do so.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Can you go back to also the link at the top again to see what…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        To the top again where you see the proposal?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        With, yeah, the proposal.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Here is the proposal.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Also, we only have the title, or just have…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This, maybe here. We changed the regulations shortly afterward.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Then, let’s go to the hair picture.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, the hair picture.
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        This one was maybe the protest student.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The protest student, yeah.
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        Could you even stop it? Not really?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I can search for it.
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        No, that’s fine.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You can search for it, too.
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        We didn’t see it before.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s fact-checked as false.
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        Maybe scroll down under here?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I can show you more videos, but these are the same. We mixed various different…
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        Yeah, it’s fine. I remember we saw that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        The hair?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, the hair thing, so maybe it’s good if I just Google and then we switch to pictures, and there you can see the clarification cards. These are the two clarification pictures, one from our premier and one from our deputy premier.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is our premier getting a haircut. Maybe they were trying different ways of tackling this, but I think this one went more viral. As you can see, this is on the top of the search result.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Can you just…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Focus on this one?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Yep.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I can also show the English translation if that that works. This is the English translation. I didn’t translate this part where it says if you perm your hair, you will damage your hair.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        More screens?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        The poem.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Oh, the poem, yes.
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        Also the Hong Kong…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The Hong Kong one, yes. What would you like from the Hong Kong one?
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        We had the example of the…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, let me search for one. There’s quite a few Hong Kong ones in the Taiwan FactCheck Center. It’s very much trending. That was the picture.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Tech">
+                    <p>
+                        Scroll onto the picture now.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Tech">
+                    <p>
+                        Up again so that you don’t see it, and then go back to the picture.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’ll be just a second. Another picture, and back to the picture.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        What do I have on my list? I have your poems.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        From the very beginning?
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        This will…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is not true. It shows why it’s not true, then it shows the picture, and then it shows the source of the picture.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then it shows the false-flag comic of this supposedly call for suiciders, but written in Cantonese that are not really right and spelled also incorrectly using Hanyu pinyin. When you actually join the group, you will see that it’s mostly spam. [laughs] Somebody probably trolled. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Then you have the poems?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What else? The poems.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Genau, the poems.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The first one, I’ll just go through it. Maybe it’s easier for the camera. I’m reading right here.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        “When we see the Internet of things, let’s make it an Internet of beings. When we see virtual reality, let’s make it a shared reality. When we see machine learning, let’s make it collaborative learning. When we see user experience, let’s make it about human experience. Whenever see that a singularity may be near, let us always remember the plurality is here.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, OK.
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        This is not the first time you’ve done this.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Right. But this is new.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Yeah, this is the new one.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is I just wrote yesterday.
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        Just for us?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        Wow.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s actually for you, because I was thinking about Switzerland, actually, and how this transcultural republic of citizens is a pretty good description of people from different cultures coming together by direct democracy.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (background conversations)
+                        </i>
+                    </p>
+                </narrative>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Tech">
+                    <p>
+                        All right, the background.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The back? This one?
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        So…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe I say it.
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        Yes, sure.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        “Whirling ocean, beautiful islands, a transcultural republic of citizens. Or maybe matter.”
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        On there, it’s funny. I think it’s just…
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        How long did you think about this poem?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Just all day yesterday, all day yesterday. This first eight was our commonplace, everybody in Taiwan above my age, or even a bit under my age, learns it from the, I think, it’s high school textbook.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s part of the foreword of 臺灣通史, the Taiwan history that talks about 「婆娑之洋 美麗之島」, whirling ocean and beautiful islands. What I really did yesterday was to write those eight characters, 「公民之國 在花之中」. Literally, a republic of citizens between flowers.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        I think you have, also I would like to have, if you could like also throw in a few gadgets here in, for example.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Flowers, OK.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        We get a little bit of the impression, yes, it is a digital…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Digital workplace.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Digital workplace.
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        Of course, the Matrix thing?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Oh, yeah. Is it on?
+                    </p>
+                </speech>
+                <speech by="#Tech">
+                    <p>
+                        Almost as beautiful.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        Are we on-time?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, we are on-time.
+                    </p>
+                </speech>
+                <speech by="#Interviewer">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
