@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Andreas Cichowicz" id="Andreas Cichowicz" showAs="Andreas Cichowicz"/>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2019-11-29 Interview with Andreas Cichowicz
+                </heading>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        Audrey, in a nutshell, what is your perception of a digital democracy? Which attributes should it entail?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Before the Internet, the television and the radio enable one person to speak millions of people. However, with digital technology, with the Internet millions of people can listen to one another. My main mission is set up systems so that not only the government can listen to millions of people, everybody can listen to one another and build trust.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Radical trust from the government to the people, I believe, is the key to reinvent democracy.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        Is that new society or digital society about transparency or about participation? How do you envisage it?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s about listening, and it’s about trust. It’s about the government trusting the people without requiring the people trusting back. All the digital technologies is here just to amplify the trust that people can get in a face-to-face setting.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The problem with that, this kind of trust only existed in a relatively small hall, with a relatively small amount of people. Using digital technologies, we can amplify this trust to millions of people, between millions of people, and that is vision.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        Autocrats in Russia and in China, they are using the web in a very different way, and also, AI, big data. How would you frame this difference between the way you are envisaging digital democracy in Taiwan with regard to how China is using it, the PRC?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When we talk about transparency here, we always mean that the state makes it so transparent to the people to show the trust. In the PRC, sometimes, they design systems that make people radically transparent to the state to also show, I don’t know, harmony?
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        That’s a big difference. All over the world, we have populists on the rise, autocrats. How to repair the liberal democracy?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The populism, the main issue with that is not that it’s popular, but rather, it excludes certain people from democratic conversation. If a populism is so popular – that includes people below 18 years old, includes future generations, include rivers, includes mountains and nature into the democratic process – I’m all for it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The problem is that the populism sometimes excites anger and makes that anger into a common outrage. When somebody is in a state of outrage, it does not listen well. What we have found is that you can turn populist outrage through humor into something that includes more people, because fun is to be shared.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If using human well, making fun at expense of ourself, not at the others, then that makes democracy more inclusive.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        Have liberal democracies been insufficient at delivering for the people?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The people, I think, after the advent of social media and hashtags feel much closer to each other than ever before. They don’t need a representative to link them together to feel closer. The interesting thing is that, while the distance of the government to the people stayed exactly the same, it feels much farther than before.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As I said, if we don’t invest into the capacity to listen to the people at scale, this four-year, three-year-a-time voting will feel very insufficient indeed.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        Would you say Taiwan society is ready for your, what’s called conservatism anarchism, as you’ve called yourself, or do you meet a lot of resistance in your job when you’re exercising your duties?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I don’t meet any resistance — I am 
+                        <a href="https://www.starwars.com/databank/the-resistance">
+                            the resistance
+                        </a>
+                        . If I look into the mirror, I see resistance. The thing about resistance is that it is not about changing other people, changing the system, and so on. It’s about creating a space in which new values can emerge out of our different positions. In Taiwan, I wouldn’t say anyone is against that.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        How far have you managed to come in setting up transparency for all the government data, etc.?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, for all the non-privacy-related data, we publish upon collection. In many other countries, they have an idea when procuring information system, that they must not discriminate people with disabilities.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, if they buy a website that only works for people with sight, but not for people with blindness, then that’s discrimination. That vendor could be disqualified. Well, in Taiwan, we say if you procure, and it’s only for humans, and robots cannot read it, you’re discriminating against robots.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We don’t quite see that, but we say that every website must be machine-readable and writable with an API. That’s very advanced. We use Open API as a national standard for two years.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        How come it’s especially Taiwanese society who’s ready for that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think the Taiwanese society is used to the idea that broadband access is a human right. Anywhere in Taiwan, people expect to be able to dial into this 4G network that is pervasive, even in tunnels, even on high-speed rails.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because of that, people feel digital is an additional complementary layer to democracy, instead of taking some people, systemically excluding them, because they don’t have broadband access.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        Let’s look at the conflict within PRC. How do you envision Taiwan’s future in the face of the PRC’s military threat to bring home this so-called breakaway province?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think the PRC at the moment is working on digital also, but more as a surveillance statism, with social credit and all things like that. It doesn’t make sense to say that we’re competing on the same track, when it’s actually on opposite directions. On opposite directions, the breakaway is automatic. You don’t have to do anything about it. It’s breaking away.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        Breakaway province is not a term that you would use, right? Or how would you describe it when they say breakaway province?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The government here – Taiwan, as a republic of citizens – abolished the term province starting last year. In Taiwan, there is no head of province anymore. There’s no head of Fujian province. There’s no head of Taiwan province. We understand and respect that the PRC has a Taiwan province. It just doesn’t describe any of us.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        How would you describe the PRC’s objective in militarily threatening Taiwan? What’s the endgame?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What’s the endgame? You will probably have to ask a PRC official or our foreign minister for that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think what PRC in the Internet landscape is doing – that, I’m more qualified to answer – is essentially setting up a new norm for cyberspace, where the cyberspace is no longer a space for free expressions, but rather a subject to the, what it calls, sovereignty of the jurisdiction below the cyberspace layer to have complete control using Great Firewalls and stuff.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For a long time, this kind of Intranet-like governance is something that only the PRC does. I think, at the moment, PRC is trying to establish it as a kind of alternative norm to the EU or the Pacific norms.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        It could also be that Taiwan is the living example of Chinese being fit for democracy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What? [laughs]
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        There’s Taiwan. There’s the PRC, and Taiwan is the living example in the face of the PRC…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Taiwan is the example, the perfect example, that 
+                        <em>
+                            homo sapiens
+                        </em>
+                         is fit for digital democracy.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        Being digital minister, when did you also see to take Chinese disinformation and the campaign on the Web, etc.? Could you give me some examples of the way they do it?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think disinformation ultimately wants to sow discord in the democratic process, to make sure that people don’t trust each other anymore. That is the endgame, if there is an endgame. It’s not about getting somebody elected or somebody recalled.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Rather, it’s about people who feel, after viewing the disinformation, that they are not part of the polity anymore, that they would voluntarily segregate themselves from the polity of public discussion. To counter against that, it’s not about takedowns or about the ministers correcting a journalist.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, journalists’ words are always above ministerial words. Because of that, we must work with journalism. We must make everybody with broadband access in Taiwan aware of what it does mean to be a journalist.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The fact-checking, the source checking, the balancing of the report, the art of getting the narrative from multiple sides, the idea of one journalist can take all the sides and have a perspective. All of these are potentially what every citizen is aspiring to. For that, we put that in our primary school education, starting from the first grade, this year.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        How would you rate the role of social media in that regard, disinformation campaign, fake news, etc.? Has it worsened the problem?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It is a great amplifier. If you start with the idea of anger, of course, social media provides a very quick venue to turn that into outrage, even though it may or may not be wrong. On the other hand, if you start with fun and joy, social media also have a way spreading cat pictures.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s an amplifier on both sides of the game. Because of that, we can design social media that it encourage more consensus-making. If the social media is designed this way, it’s prosocial. If it’s designed that way, it’s antisocial. It has the capability of being an antisocial media or a prosocial media, and it’s a design choice.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        Taiwan’s young generation doesn’t feel as close to mainland China in comparison to the elders. What does this mean for the future of Taiwan?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The future of Taiwan as an island, I’m told that the Jade Mountain, the Yu Shan, grows up two centimeters every year, because we’re caught between the two tectonic plates. I think this is important as a metaphor, that we’re rising toward the stars, instead of toward any particular direction.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think Taiwan, being a cradle to many different lineages, many different cultures, from the Austronesian to the later immigrants, I think it is a perfect lab to make a new culture out of this interplay of various different cultures. That is also the future of Taiwan, that we rise skyward.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        That was a very mythical approach. Now, when you look at the reality on the ground, and the young ones dissociating themselves from mainland China more than their parents did, is that going to be amplifying the conflict even more?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re saying that the ones were not…
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        Are not so attached with mainland China, like their parents, for example. They grow up in a different world, in a digital world, etc.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I would say that different generations in Taiwan associates the word mainland with different ideas. My grandma, for example, associated the word mainland to Japan. My parents’ generation would associate the word mainland, of course, with the Chinese continent.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        My generation and younger associates the word mainland maybe to Nantou, which is the only portion in Taiwan that’s not near the sea, in the Taiwan main land. It’s a geographic term that can be used politically.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The great thing about Taiwan’s culture is that all the different layers can coexist and agree to live with each other. This kind of intergenerational solidarity, again, I think is the best in Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You can actually see it also in Switzerland, where people agree on the democratic process as their national identity, instead of any particular language, culture, association, or favorite, I don’t know, football game teams.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        The student protests in Hong Kong, it must have reminded you of the 2014 situation here in Taiwan. How do you judge it, and how do you expect mainland China to react, or the PRC to react?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think it’s very interesting that, after both movement, on the local level election, there was a wind change in how the movement has reinforced people’s idea that, if you participate fully in representative democracy, you can do something.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It is a collective way to gain agency out of helplessness. I think that’s good. The thing between Hong Kong and Taiwan situation is that in Taiwan, when people elect new mayors, new city councils, they have almost full control on the budget, independent of the national cabinet.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The national cabinet feels pressure, and they have to hire people – facilitators, civic tech people – from the occupy to become your best mentors. That’s how I started working as a reverse mentor to the cabinet then.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Hong Kong, the actual power control over budget, policy, and things like that for their newly-elected regional councilors is rather a little bit weaker than the Taiwan counterpart. Because of that, I think the pressure to the central government, either in the HK level or in the PRC level, is not as strong as the post-Sunflower occupy. There is still work to do.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        Are you proud of this young generation in Hong Kong?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m proud of the young generation anywhere that can use the Internet the liberate people out of the old idea that, if you’re only alone in your vicinity that care about a social issue, you cannot act, because your neighbors are against it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        People are learning that, if you get onto the cyberspace, you can meet tens of thousands of people who feels just like you, but independently isolated. They can form a collective force and to do collective action using hashtags.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        I can’t ask the PRC government, there’s no one around here. If the PRC stepped in militarily, what would that signal to Taiwan, in your perception?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think it would signal to Taiwan that “one country, two systems” is broken for good. At the moment, I think the PRC is still trying to balance between this “one country, two systems” narrative that they promised to Hong Kong and the new reality – that the Hong Kong people are also awakening to – the fact that that is being eroded.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If they step in militarily, it will signal a very fast change into this paradigm, instead of a very slow and gradual change.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        Are we all too pessimistic about the future?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I don’t know about all the people. I’m trying to listening at scale. In Taiwan, what we’ve found that people, when they associate with the future, although of course there is the fear of the unknown, there is also a lot of the curiosity of the unknown.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think you cannot understand the future unless you act to bring part of the future from yourself into the world. If you participate in the future-making, there is no fear, because you know exactly what’s coming.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If there is no agency, if there is just learned helplessness, then, of course, people will fear about the future.
+                    </p>
+                </speech>
+                <speech by="#Andreas Cichowicz">
+                    <p>
+                        Thank you very much, Audrey.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
