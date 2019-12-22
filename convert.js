@@ -224,10 +224,27 @@ const genGraphviz = (x) => {
 	let graphviz = ''
 	vizOutput += '【心智圖】 \n\n ```graphviz \n digraph test { \n nodesep=1.0 \n node [style=filled, fillcolor="#fff9b1", shape=box, color=none] \n '
 	output.topics.map( topic => {
+    for (let k = 0; k < topic.text.length; k++) {
+      if ( k === 6) {
+        topic.text = [topic.text.slice(0, k), '\n', topic.text.slice(k)].join('');
+      }
+      else if ( k % 6 === 0 && k > 0 && k !== topic.text.length) {
+        topic.text = [topic.text.slice(0, k+1), '\n', topic.text.slice(k+1)].join('');
+      }
+    }
 		vizOutput += '"' + topic.text + '" [label="' + topic.text + '"] \n'
 		for (let i = 0; i < output.contexts.length; i++){
 			if (topic.category == output.contexts[i].category) {
-				vizOutput += '"' + output.contexts[i].speaker + output.contexts[i].text + '" [label="' + output.contexts[i].speaker + output.contexts[i].text + '", URL="#' + output.contexts[i].id  + '"] \n'
+        let outputContext = output.contexts[i].speaker + output.contexts[i].text
+        for (let j = 0; j < outputContext.length; j++) {
+          if ( j === 6 ) {
+            outputContext = [outputContext.slice(0, j), '\n', outputContext.slice(j)].join('');
+          }
+          else if ( j % 6 === 0 && j > 0  && j !== outputContext.length) {
+            outputContext = [outputContext.slice(0, j+1), '\n', outputContext.slice(j+1)].join('');
+          }
+        }
+				vizOutput += '"' + output.contexts[i].speaker + output.contexts[i].text + '" [label="' + outputContext + '", URL="#' + output.contexts[i].id  + '"] \n'
 				if (_.findIndex(_.groupBy(output.contexts, 'category')[output.contexts[i].category], {'text': output.contexts[i].text}) == 0) {
 					vizOutput += '"' + topic.text + '" -> "' + output.contexts[i].speaker + output.contexts[i].text + '" \n'
 				} else {
