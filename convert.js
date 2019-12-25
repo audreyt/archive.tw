@@ -86,7 +86,7 @@ function pad2md(x){
         })
       }
       ids.push(id)
-      var tag = '<a name="'+ label +'" id="' + id + '" style="cursor: default; color: black;">' + text + '</a>'
+      var tag = '<a name="'+ label +'" id="' + id + '" style="cursor: default; color: black; background: lightgreen;">' + text + '</a>'
       out += ln.replace(/\s+/,'').replace(label,'').replace(text,tag).replace(/#/g,'') +'\n\n'
       continue;
     }
@@ -222,26 +222,22 @@ const genGraphviz = (x) => {
   if ((output.topics || []).length == 0) { return x; }
   let vizOutput = ''
 	let graphviz = ''
-	vizOutput += '【心智圖】 \n\n ```graphviz \n digraph test { \n nodesep=1.0 \n node [style=filled, fillcolor="#fff9b1", shape=box, color=none] \n '
+	vizOutput += '【心智圖】 \n\n ```graphviz \n digraph test { \n nodesep=1.0 \n node [style=filled, fillcolor="#fff9b1", shape=box, color=none, fontsize=32] \n '
 	output.topics.map( topic => {
-    for (let k = 0; k < topic.text.length; k++) {
-      if ( k === 6) {
-        topic.text = [topic.text.slice(0, k), '\n', topic.text.slice(k)].join('');
-      }
-      else if ( k % 6 === 0 && k > 0 && k !== topic.text.length) {
-        topic.text = [topic.text.slice(0, k+1), '\n', topic.text.slice(k+1)].join('');
+    for (let k = 1; k < topic.text.length + 1; k++) {
+      let count = k-1
+      if ( k % 6 === 0 && k - 1 !== topic.text.length) {
+        topic.text = [topic.text.slice(0, count), '\n', topic.text.slice(count)].join('');
       }
     }
 		vizOutput += '"' + topic.text + '" [label="' + topic.text + '"] \n'
 		for (let i = 0; i < output.contexts.length; i++){
 			if (topic.category == output.contexts[i].category) {
         let outputContext = output.contexts[i].speaker + output.contexts[i].text
-        for (let j = 0; j < outputContext.length; j++) {
-          if ( j === 6 ) {
-            outputContext = [outputContext.slice(0, j), '\n', outputContext.slice(j)].join('');
-          }
-          else if ( j % 6 === 0 && j > 0  && j !== outputContext.length) {
-            outputContext = [outputContext.slice(0, j+1), '\n', outputContext.slice(j+1)].join('');
+        for (let j = 1; j < outputContext.length + 1; j++) {
+          let count = j-1
+          if ( j % 6 === 0 && j - 1 !== outputContext.length) {
+            outputContext = [outputContext.slice(0, count), '\n', outputContext.slice(count)].join('');
           }
         }
 				vizOutput += '"' + output.contexts[i].speaker + output.contexts[i].text + '" [label="' + outputContext + '", URL="#' + output.contexts[i].id  + '"] \n'
