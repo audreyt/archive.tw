@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Francesco Gualdi" id="Francesco Gualdi" showAs="Francesco Gualdi"/>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+                <TLCPerson href="/ontology/person/::/Antonio Cordella" id="Antonio Cordella" showAs="Antonio Cordella"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2019-12-19 Conversation with Francesco Gualdi and Antonio Cordella
+                </heading>
+                <speech by="#Francesco Gualdi">
+                    <p>
+                        Thank you for your time, for your availability. May I ask to add to our conversation Professor Cordella?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, of course. Does he understand we will make a transcript and publish after doing this?
+                    </p>
+                </speech>
+                <speech by="#Francesco Gualdi">
+                    <p>
+                        Yeah, he know that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK, so please go ahead.
+                    </p>
+                </speech>
+                <speech by="#Francesco Gualdi">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (background sounds only)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Hello, Professor.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        Good morning. Oh, sorry. Good afternoon.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Hello. Good localtime.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        Thank you very much for accepting this call.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No problem. I think it’s very interesting that you’re looking into the e-government innovations, what we call public entrepreneurship – I think that’s a well-established word now – that we’re doing in Taiwan. Feel free to ask anything.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        If you want, I can give you a little background, and…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        I’ve been at the LSE for 20 years now. I’ve established what is called the e-government course here again this year, and I’ve been teaching it for, now, 12-14 years, something like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Ooh.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        I think it’s been one of the first formal e-government courses taught in masters program in our university. I’ve been engaging in projects and in relationship with, I would say, governments around the world.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        We are extremely interested in looking at, learning, and studying in novelty approaches to e-government, and the digitalization of public service, and I would say to every kind of transformation in the public realm that is mitigated by technology for it and outside technology.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        Looking at what is happening in your country, it has been, clearly, very interesting for us. Not only how much is happening, but the way it happens. There are countries that are digitizing a lot, because it’s just the context is very favorable. There’s been transformation of country. Things have happened.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        Not always, I think, a great digital innovation in the government is very interesting for academics. What makes, I think, interesting for us is what is happening in Taiwan is actually the way in which you are thinking, framing, and allow me to say, experimenting.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course, yeah.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        I’m saying in a positive sense.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As a public entrepreneur, I think entrepreneurship is about experimenting and pivoting, and experimenting and pivoting.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        Out of that – especially with Francesco, and that is, I would say, one of my main research interests as well – is to see how the digitization of public sector activities is negotiating with the legal system. That is why we’re the sandbox initiative, which has caught our attention.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        I think the idea of this call is – and first and foremost, thank you very much for accepting it – is to see if there are areas where we have common interests, and if you are interested in maybe the work that we do, and to see if it is possible to establish any kind of collaboration that can suit both parts, very generally speaking.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course. I will also say that it’s interesting that you’re discussing this from a European continental context, because Taiwan has our legal system a European continental one, largely based in Germany, which is not very known for sandbox approaches.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When people hear about sandbox, they think common law systems, because they can use the easier precedent and case, supportive structures to establish new norms, and have the norm lead the legal normativity. In a European continental law system, the normativity of the text is superior.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re a very interesting example of being the first continental law system that not only made fintech a self-driving sandbox act, but rather have a generative system, vTaiwan, and joined that makes new sandbox acts as their output. A way of negotiation as you put it, or orchestration between the sectors. That is one of the main things that I would also love to share.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        Francesco?
+                    </p>
+                </speech>
+                <speech by="#Francesco Gualdi">
+                    <p>
+                        I came across many of your initiatives, and I have looked at the portal, the website of the government. I think there are many, many initiatives that I really deserve to have a look at.
+                    </p>
+                </speech>
+                <speech by="#Francesco Gualdi">
+                    <p>
+                        About the sandbox, yeah, I had the opportunity to check. I had the opportunity to study how the mechanism worked. I find it very, very interesting. If there’s any further material, any additional material that you can share about this single initiative, we would be very happy to have a look at.
+                    </p>
+                </speech>
+                <speech by="#Francesco Gualdi">
+                    <p>
+                        Otherwise, it’s good to establish a relation. It’s good to try and to look. There are ways or things where we can collaborate. Also, from your side, if there’s something that maybe we didn’t find, or we didn’t look at first, but from your opinion, it’s something that can be interesting or valuable, or just we can discuss or…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We just opened a new sandbox. That’s the 5G trial application, 5G testing in the spectrum of 4.8 to 4.9 GHz. That is important because it’s not part of the commercial bands. It’s specifically designed to make possible social applications of 5G that are currently not imagined or indeed supported by the mainstream cases.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’ll just paste you a link to the news, but if you’re interested in how we negotiated with the stakeholders, including the telecom companies, how they would also see this as something that’s of future potential benefit to them, which is actually very difficult to negotiate in many jurisdictions. I can introduce you to the right people who worked on this new sandbox.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The old ones, like the fintech self-driving, and so platform economy, you probably have already studied, and so I would not mention it here, more, yeah?
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        Exactly. If there’s something that, to me, is extremely personal. That is it’s not the sandbox, per se, but it’s the negotiation that is behind it. Obviously, the sandbox, you can study it, but it’s a lot of information.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        What I think we are looking at this as possible opportunity is the understanding of the process by which you got there. I think that is the most interesting to be looked at from a research perspective. It’s not the final product.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        I think the final product can be copied, but the process that leads to the final product, I think, is unique. That is where the elements that then are leading to these profound institutions transformation are shaped.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Definitely. We’ll keep this mind and I will find you the stakeholders both within the public sector that enables this kind of negotiation, but also the civil society organizations that basically made a deliberative, rather than advocacy approach when negotiating these issues.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s very usual to find advocacy approaches that try to strike a tradeoff that benefits them a little bit more. But a deliberative approach that says I have a position, but I want us to test for a year whether this position fits our common value.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is more rare in other jurisdictions. The mediators and the civil society organizations that take this value is very interesting for you to interview, also.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        Especially, if I may say, that is exactly the core of my research on the digitization of the public sector is on the value issue. Technology is a fundamental part, but this is also what I’m doing in all of the executive training to government, etc., is the values.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        Then we have to look at how different technological configurations are impacting upon values. I think this is very interesting of the approach of the sandbox. That is not, “I give you freedom to do whatever you want just for the sake of it.”
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        It’s because the reason is the value element we want to assess and we want to understand what are the impacts of these innovation on different values, and then be able to take the informed decision.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I will share you this link, which currently is being translated, so it’s not yet available in English, but maybe you can use machine translation. That is the platform for the National Development Council to hold our national action plan for open government, which will start as a multi-stakeholder forum next January.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We expect it to finish around the time of the beginning of the next presidential term, that is to say late May, and it will go on for three to four years. That is to say, lasting the presidential term. It will be co-created by half public sector and half civil society representatives.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you can just take a brief look, maybe with machine translation after this call, it already includes many names of the main stakeholders in the civil society that take this co-creative value.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        That is very helpful. That will be excellent. That will be another very interesting part to look at how it is enforced and what is the outcome of this process. This is extremely valuable. Thank you very much.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No problem.
+                    </p>
+                </speech>
+                <speech by="#Francesco Gualdi">
+                    <p>
+                        What can be said. We will definitely have a look and stay in touch.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        Can I call you Audrey and you can call me Antonio, and…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course, go ahead, Antonio.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        Thank you very much. [laughs] Maybe what we can do is during the break, in the breaks, we look at the documents that you have shared. Then if it’s possible, if you have time, you know, maybe mid-January to have another call, so that we can be also more structured in the definition of what we would like to do.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        That, I think, will help also you to better understand what is possible to be done, and maybe the best spaces to move forward.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course. I will be visiting Seoul in Korea until I think 15 of January. Let’s schedule something after that, like in the second half of January. I’m all free, actually because it’s Lunar New Year.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        I’m sorry, you’re right.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        After January the 24th, and so I have really nothing else to do in my day job, because everybody will take a holiday of seven days. It’s best if we reconvene then, because then we will not be bound by one hour or two hours. I can talk to you for five hours if you want.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        I will start thinking, and plan time for me. From the 20s, I think we will both be in London.
+                    </p>
+                </speech>
+                <speech by="#Francesco Gualdi">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        I think it will be very convenient to schedule a call. We’ll look at the material if it’s fine with you. We’ll come back to you, and then we’ll see when we have a time where it’s easy to work together.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Usually, around this time is great, because it’s 10:00 AM in London, and it’s just dinner time for me. I have dinner and then we have five hours or six hours on both sides.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        That’s fantastic. I will look at my teaching schedule, because there are some days in which I cannot have a call at 10 o’clock in the morning.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        [laughs] Yeah, c’est la vie. That’s life.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        There are days in which I’m quite free. When we come back, so is the week from the 20th to the 24th, or after the 24th? Sorry.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think the Lunar New Year begins around the 23rd and the vacation ends on the 29th. For an entire week, there is no day job for me.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        OK, fantastic. Thank you very much for using some of the time where you have no day job to share with us.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No problem at all. I’m part of the academic community, too. We also publish what we have explored. For example, the vTaiwan paper on the open access platform like social archives. We also have citations like the Canadian people cited us. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think a lot of the work is not only for the academic community, but I consider myself working with the academic community.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        If you’re interested, then this can become more collaboration-oriented. On the production of academic work, as well, we are very open on that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Let’s reconvene, then. Really nice to meet you. I really think our values are really aligned. I look forward to more collaboration, maybe as case studies, maybe as papers. We will see.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        Fantastic.
+                    </p>
+                </speech>
+                <speech by="#Francesco Gualdi">
+                    <p>
+                        Definitely.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        Fantastic.
+                    </p>
+                </speech>
+                <speech by="#Francesco Gualdi">
+                    <p>
+                        Thank you very much, Audrey.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Have a good local time.
+                    </p>
+                </speech>
+                <speech by="#Antonio Cordella">
+                    <p>
+                        Thank you very much. You, too. Thank you too, very much. Bye. Have a nice day.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Bye. Bye.
+                    </p>
+                </speech>
+                <speech by="#Francesco Gualdi">
+                    <p>
+                        Bye.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
