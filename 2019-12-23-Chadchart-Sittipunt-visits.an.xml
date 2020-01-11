@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+                <TLCPerson href="/ontology/person/::/Chadchart Sittipunt" id="Chadchart Sittipunt" showAs="Chadchart Sittipunt"/>
+                <TLCPerson href="/ontology/person/::/MOFA Staff" id="MOFA Staff" showAs="MOFA Staff"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2019-12-23 Chadchart Sittipunt visits
+                </heading>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK, welcome to the podcast.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        I should say I might be running, for the Bangkok governor. I think we can learn a lot from Taiwan and Taipei. The thing I heard you doing some…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The lab.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        The city lab.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, the C-Lab and Social Innovation Lab.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Which will be a very interesting engagement.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The last time we met, we actually talk about this a little bit.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Yeah, yeah, yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you have time… you haven’t been to the place?
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        No, where is it?
+                    </p>
+                </speech>
+                <speech by="#MOFA Staff">
+                    <p>
+                        It’s a great place, I’ve been there once.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you have time, actually…
+                    </p>
+                </speech>
+                <speech by="#MOFA Staff">
+                    <p>
+                        We have time, we have time.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        OK, yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …we can just go there, have a conversation, and I can show you around and have a tour.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s easy to describe this in the abstract fashion, like this is a sandbox, people can test self-driving vehicles. People can come and adapt them to the everyday needs of the people, but the most important thing is that all the innovations that’s featured there is open innovation. In a sense that it welcome other people to adapt and build based on it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It has three layers.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The basement is an incubator, so we have 20 or so teams every year, and they either must be a start-up as in founded in the past five years, or they must be one of the sustainable goal producers, in achieving one of the sustainable goals. Either they can enter the incubator, and they can just show around their ideas like self-driving vehicles, or using machine learning to repair pipes, or to use telepresence to let people see the air quality…
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Ah, the AirBox.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …and water quality. They recently have won, I think, the top prize for the civil IoT competition by doing this, but for water quality. People can see the flood, the public construction, the typhoon, and so on, and link what people’s ideas of what works as a water management to the government’s view, because they don’t always have the same view.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Using this kind of visualization we can get people around the world to contribute to both the climate science part, but also more importantly so that people can buy a small box like this one, and start measuring water quality by themselves.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        I saw someone got back to Thailand, because the MP Klaikong visited Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, MP Klaikong Vaidhyakarn.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Yeah, yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …and learned of this, if he bought physical prototypes. That was the air part, but now we’re also working on the water part.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Can I buy it too? Where can I buy it?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course, you can buy it online.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Oh, OK.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We can also introduce you to the last person that won the competition. His name is Xiao Long, Zack has his contact. I think it is very important, especially on a city scale, that we let people see what people care, the priority, is determined jointly with the citizens.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For the Presidential Hackathon, we use a novel voting method, where everybody have 99 points, and they can vote for any of the project, but one vote is one point. If they want to vote four vote, that is 16 point, because it’s quadratic.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If they want everything to be voted into one, that’s 9 votes costing 81 points, but everybody has 99, so you cannot vote 10 votes, and it’s by design. Because then people with 18 left, they won’t want to squander those votes, so they will find something else that they learn, they have synergy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We will get into a place where people usually vote for four or five project after learning about their synergy. When the top 20 gets announced, everybody feel they have won.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you run a popular vote with direct voting like everybody votes just to the one project, most people will feel they have lost when you announce the budget, like participatory budget or something like that. If you use quadratic voting, then everybody feel they have won. It’s a different…
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        What have you learn?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Hm?
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        What they have to understand it? The water, after the trial and error, they do…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They have to see the brief report and the idea, the sketch of the idea. The top 20 means that they get the coaching help from the President’s office, from all the different ministries, to help realizing their ideas in three months. It’s a commitment of resources. It’s a little bit like participatory budget.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The top five performing teams, they get the President’s Trophy, and the trophy is a projector. If you turn it on, it shows the President giving the trophy to the team. The President basically said those five team, whatever they did in the last three months, I commit myself to make it into national policy within 12 months, so it’s a presidential promise.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As a mayor, or as a governor, I think this is a really good what we call a binding mechanism, because if you promise too much, your staff cannot deliver, but if you promise like five teams every year, that’s about the right amount.
+                    </p>
+                </speech>
+                <speech by="#MOFA Staff">
+                    <p>
+                        That’s good.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Will it appeal towards the people with technology? If they have other group that can maybe more inclusive?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The important thing here, as with any participatory budget, is that they have to solve a real social problem. As you can see all the 20 correspond to one sustainable goal target, because we limit it to the 169 sustainable targets.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s not tilted toward technology. Technology is the 17th, and you see only one that is technology. Everything else talks about health, about agriculture, about sustainable cities, about life underwater, and talk about river, and this is the WaterBox by the way. Basically, because it’s quadratic voting, it doesn’t privilege people with a lot of followers on Facebook, because they cannot over-concentrate their vote.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It privileges people who build coalitions between sectors, between different political ideologies, because if you vote 7 and 7, that’s still below 99. But if you vote 9, you don’t have more than 4 to leave for the others. It rewards people who can form efficient coalitions.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        When you said hundred, hundred what?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        99 votes.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Oh, 99 vote.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When I vote this one, I can only vote 9 vote, which cost 81 points, because it’s quadratic.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        But they count 9 here? They count how many points?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is if you vote 9, it costs 81 points.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        It cost you 81, but…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, because it’s squared, right?
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Oh, OK, but they have only 9 here.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, they count only 9.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Oh, only 9 so your value decreasing.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, so each marginal cost same as marginal return. It makes people want to vote exactly as they understand the landscape, not strategically.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        How about the profile of the voters, are they more like a younger generation who votes, is it including elderly?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s everybody. In Taiwan we have 10 million people on the platform that this vote takes place. Taiwan has 23 million people, almost one-half of population. We found the most active is the 15-year-old, and 65.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Really?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think it’s reasonable, because 15-year-old don’t have other way to participate, they cannot vote. Online, is their only way. People who are 65, they’re retired, and they care more about next generation, about sustainability. They will find more time to learn about this.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        They have to load the app, and then they…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s just a website.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Oh, the website.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, but you can also do it through ATM. You can tell the cash machine to display choices, and you can just press plus and minus on it. People did that in Portugal. It’s easy, it’s a very intuitive design, but the net effect is that everybody feel they have won.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If it’s one vote or many votes to one, many people feel if their supported team doesn’t win, they lost. This way it makes people vote like five, seven different teams and have the balance between them. Any of which they won, they feel they have won. It’s a different design.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Who is winning the most vote? What topic is that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        These are the top 10, and this one use drone and machine vision to look at sea pollution. Instead of waiting for them to hit the shore and clean it up, it can predict where it will go, so we can trap that at the sea, and clean that before…
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        The plastic.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …yeah, the plastic, before they hit the shore.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This one is the WaterBox, of course. This is a very cheap device that people, because we have a new law this year that says if anyone pollutes the water on the agric land, with a industrial plant on agric land zone, they will get their water and electricity cut by the Minister of Economy directly.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They want to prove, of course, they didn’t pollute, it’s upstream, so everybody have the incentive to install such WaterBoxes.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s currently being, there’s a partnership with the New Zealand government, they just participated in the workshop. New Zealand accelerator helped this team to find its business model, and then they also are looking into piloting it in New Zealand as well, because New Zealand has a similar issue with dairy farms and water, and so on. This is what people really like.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        You can trace back the source of the polluter?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, it’s easier than air.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Ah, stream, yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, stream is very simple.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        One direction.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, stream is very predictable. Very predictable.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Even pollution for Bangkok come for other places, you know. Cambodia, burnings, yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly. This is interesting, because this is by the courts, the judicial branch, because it’s presidential. Not just the administration, the judicial also joined. So the courts, they proposed an AI that analyze drunk driving cases, and show exactly why such drunk driving is sentenced like this.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because it solve a problem for the court. A lot of judge get public negative feedback saying that they didn’t fine or they didn’t put to prison the people who drive drunk, drive under influence, but actually there is a factor, a lot of factor like whether it’s the first time, whether they cause damage, and so on. It’s hard to explain.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They made an AI help assistance, so on their website, not only they translate the legal term to plain text, very easily, automatically, and anyone can get any drunk driving case and it analyze and show any citizen like this are the 15 factor, and why they only get three months, and that gets five months, and that get one year, and that’s because of those factors.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        It might find a bad judge, too?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        That might be scary for the judge, maybe.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, so next step for them is that whenever the judge is giving out sentence, they will show the recommendation. If the judge deviate from that range, the judge has to say why. That is for the courts.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Maybe we have an AI judge in the future.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s an AI assistant. Yeah. The AI is only showing the trend, and the judge can still say I’m going against the trend because of this factor.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        That’s very helpful. I think many judge maybe have different opinion.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, and also the drunk driving case for them is very troublesome, because it’s a large number of them, and it’s very mechanical. They don’t exercise a lot of creativity in passing out those judgments, so the more they can be assistively done, the more time they can concentrate on more cases that really require like investigation. Yeah.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        It can be expand to other cases too?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, yes. They did that actually for many cases, but the drunk driving is the first one to complete, so they chose it for Presidential Hackathon.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        But they have a system that showed a lot of different cases. It’s called [Non-English speech] . Let’s see their website. Right. Here. They’re really good at SEO as well. Not only drunk driving, but also like stealing, fraud, and hurting people, and things like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s all very easy. You can just click on one, and choose which, like this is stealing, whether it’s for illegal means, whether it is for personal benefit, or just for survival. Are they mentally retarded? Where are they, and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The AI can analyze any case to automatically fill in those factors and show that the damage should be this, and how many months should be done. It really saves a lot of time for the court people.
+                    </p>
+                </speech>
+                <speech by="#MOFA Staff">
+                    <p>
+                        Yeah, that’s interesting.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Yeah, but…Not be dependent on the judge, the word, it could be…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The verdict, if the judge exercise their judiciary discretion, they need to say why, and that’s the only difference.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Oh, you have to have reasoning.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s not arbitrary. There’s many cases, but the Presidential Hackathon accelerates the development of those ideas.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        How far this project go? It’s finished, complete?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. This one, the judge one, will roll out I think early next year. I think they’re done beta testing, so it would just roll out. Actually, they invited me to beta test the system, I think a couple weeks ago, right? I was in the Shihlin district mock court, and I was this judge.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Oh, really?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I was sitting right here.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Oh, but you’re online.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, using telepresence, and this is 360, so people can really feel how is it like to be a judge, to be in court. This is a mock trial with a lot of ninth-grade students, but the important thing here is that it showed everybody how a real judge would have been using this system for discussion. It really put everybody on the judge’s seat, so to speak. It’s very convincing. That is…
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        How you feel being a judge?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Ah, really nice.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#MOFA Staff">
+                    <p>
+                        Really nice.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        No pressure?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No pressure.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Really?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There are three judges, as usual here, so I have a more senior judge to correct my mistakes if I made any, but it seems I did well.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        He agree on my sentencing.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        So you have AI assistance? Beside you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, as a system, yes. Everybody can see it on the projector. That’s pretty mature. WaterBox, as I said, just roll out its first prototype visualization last week. They’re still waiting for the feedback.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        This the group that’s using your space, that you mentioned? They are the one who are using your space in the City Lab?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Many of them, many of them, yes. The AirBox was using this lab for experiment, and they eventually became, one part of it became the WaterBox module.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, there was a team that use the same AI to go through what we call CSR, corporate sustainable report, so corporate or social responsibility – that was the old term – but nowadays they’re called sustainability report, so sustainability strategy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They wrote the same AI, but go through all the CSR report and to find what are the trends. If you are a social entrepreneur trying to solve a problem with social enterprise, it can automatically pair you with the large company that has the CSR programs.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They even sell the service to the large companies, saying our AI can help you write your CSR report. You can just give me some numbers, and how you would like your shareholder to feel, and I can write a report for you. Then you edit it.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a lot like the sentencing helper and the sentencing analyzer.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        So can we commercialize this too?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes. It can be commercialized. It’s already commercialized. If we go to the incubator, I can show you the team.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Wow, interesting.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s the basic idea. That may be one of the most high-profile way that people can see the incubation ideas, because we tour around Taiwan, and we also invite the winners to share their project to people around Taiwan. People around Taiwan can say we have a use case here. Maybe they’re on a remote island, and they want to have a telemedicine with the large hospitals and the doctors.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They can say this is a real town hall, I just go there, but the social innovation lab has 12 ministries, section chief or higher, looking at me facilitating this work. The local people just meet where they already meet. I go to them, and then I connect back to Taipei, and the people here, section chief or higher, brainstorm on the problem that people here see.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, they say the local nurse is not authorized to give medical treatment when supervised by a remote doctor. It can only by a nearby doctor, but that’s a law change. Using the Presidential Hackathon, we just escalated that into the minister level, so this year the law has changed, so the local nurse can operate based on a remote doctor.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        But that crossing many ministries?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, 12 ministries.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        You need to have staff from each ministry joining?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, so my office is one delegate from each ministry.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Yeah, so you’re piercing through all the ministry.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#MOFA Staff">
+                    <p>
+                        That’s nice.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        You do away with silos, you know.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It is horizontal, horizontal leadership.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Excellent.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s all I have.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Then how many city lab? You have one major one?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s a major one in Taipei, but there is a larger one in Linkou, that’s in New Taipei City.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        In the suburb.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, in the suburb.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        We went there today.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s one in Taoyuan as well, and actually two in Taichung, and one in Kaohsiung, and we also have points in Taitung, and Hualien. Like all around Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Who operate these centers, your ministry?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Usually municipal government.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Ah, the local government.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They contract out to what we call an intermediary, someone who incubates social entrepreneurs. They’re a partner relationship, like Taichung contracts out to 覺心營 which is one of the intermediaries running start-ups with an impact.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Do they have maker space, something like that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They do, they do.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Physical machines too?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        I think that’s important.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Also the green screen, also very important.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Ah, OK, for communication.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For telecommunication, because like in the main lab, the large lab, there’s a very popular program of indigenous language, because all around Taiwan, people want to learn about the indigenous natures, but they don’t have teachers in every precinct.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They just use a virtual learning tool. The green screen is so you can have the Jade Mountain, or have any river, or have something that’s immersed with the teacher, and the teacher can then teach about the indigenous culture.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        You do remote teaching?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, yes. Almost, I think, a hundred or so schools connect to the social innovation lab to learn about a language circle.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Include health, education.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, and culture. That’s how it currently functions. Also, kitchen, very important. We always have good food.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Oh, really, so that’s a…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, because if the 12 ministries hear about a new idea, they will resist, but if you give them really good food…
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Yeah, I heard about that.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        You have enough sugar in your brain, you make the idea efficient.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You become more open.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        You should provide good food.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We have a really top chef in the social innovation lab.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        I should remember that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So that’s what we have.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        I think we can start that in Bangkok, doing…I mean we find a open government, the open platform.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, and you have a law already, the social enterprise law. It makes for very easy bridging.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Then we’ll collaborate with the MPs, the ones who supported the act.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        After our election I will go to Seoul, I think, to South Korea, and they already have a MOU of their social innovation lab, and our one. The Taichung one I think. I will go there to be a faculty.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Oh, really?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The program says that we share our mentors. We can go there and try to help them incubating.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        So hopefully…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe you can set something up like that?
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        We should. I should invite you next time, if I happen to be able to do it. I think that’s important. Now we have tried something, but maybe in a very small scale in Bangkok, city lab, they’re testing some simple things.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s great.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Where is the lab though? Is it far away from here?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s about 15 minutes from here, but it’s literally in the middle of Taipei. It’s the most central part of Taipei, near the central park, the Daan Park.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        You go there in Tuesday, on Tuesday?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I go there every Wednesday, and also virtually every other Tuesday or so, and also sometime during Friday for the collaboration meeting, so almost one-third of my workdays.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        From what time to what time?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        From 10:00 AM to around 7:00 PM.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        This one, the Taipei one, it’s also run by the local…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No, no, no, it’s the national. It’s by the cabinet directly.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        The national. Oh, OK.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s walking distance, like 10 minutes’ walk, from where all the ministers live. It’s very easy for us just to go there and have a chat.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        And other minister visiting the center?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, the larger area is also the Minister of Culture, it is also putting a lot of effort on what they call the culture lab. It’s not just social innovation lab, it’s part of the larger culture lab, contemporary culture lab.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The Minister of Science and Technology, the Minister of Economy, have also visited the space. When they visited they didn’t just take a tour, the sit down and have a conversation like this one.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Yeah, spend time. For the town hall meeting that you mentioned, so this one, they do it locally and then you…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I join them, I join them.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Remotely?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We used to ask them to come to the cabinet offices set-up in the various areas, but that makes people uncomfortable. We found they are much more comfortable if they just go to where they normally have town halls, and we join them with the live streaming equipment.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        For a town hall meeting, how can you prevent it’s being dominated by a certain group of people? Meaning some group, they have voice, NGO, sometimes they control the meeting.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The planning starts well before-hand. We make sure that first it’s radically transparent. Everybody in Taipei, Kaohsiung, Taichung, and so on, are also participants. It’s very difficult to take over all the six different places. That’s the first thing.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The second thing is that we made sure that anything they propose, they have to correspond to one of the sustainable goals, so they must be talking about public benefit, not just private benefit.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In this kind of setting, because people generally understand no matter which faction they are on, they’re in a minority. This is a real collaborative setting. They will not be very loud, because first of all, it doesn’t matter, Taipei can just dial the volume down.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        You have control.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. Most of the ministries are in Taipei anyway, so it doesn’t matter.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Not confrontation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Right. You cannot punch people over the projector. It’s also much safer for the public service, because they feel if they innovate, they get a credit. People can immediately see who proposed the solution. If they upset the local people, or local people become upset, only I am at risk, nobody else is there. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        I think it’s also good to have the physical meeting too, combining with technology. You have face to face, so I think that makes this good.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        I think maybe even better than everyone online.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Very much so, very much so.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        I think at the town hall…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You cannot just comment online, you have to go to one of our six meeting places to join.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        That’s important. That’s a key thing.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, we have a very detailed rundown and so on. If your team want to learn about it, we’re ready to publish and share with you.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        Maybe a good thing, yeah. I think I would like a visit sometime.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe let’s just go there.
+                    </p>
+                </speech>
+                <speech by="#MOFA Staff">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Like now.
+                    </p>
+                </speech>
+                <speech by="#Chadchart Sittipunt">
+                    <p>
+                        OK, cool. Wow.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Let’s go.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
