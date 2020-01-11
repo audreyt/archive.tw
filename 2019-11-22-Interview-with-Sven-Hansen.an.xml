@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Sven Hansen" id="Sven Hansen" showAs="Sven Hansen"/>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2019-11-22 Interview with Sven Hansen
+                </heading>
+                <speech by="#Sven Hansen">
+                    <p>
+                        To be honest, I was a bit astonished that your press secretary asked for the subjects I would be talking. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No, just broad and general directions, not outline or anything like that.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Yeah, it’s OK. I know how to handle it. [laughs] I think you as well. I’ll just start it now. OK, it goes.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        I understand your job description is minister of digital affairs in Taiwan. Your job is to make the democratically elected government as transparent as possible…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        …for the benefit of the people.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        To the people, yes.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        To the people. This seems to be exactly the opposite of what is happening in China.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You mean they’re making people transparent to the state?
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Wow. Who would have done that?
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        The regime has the opposite aim of using digitalization for the benefit of the regime for making the people as transparent as possible. I wonder, is Taiwan is under threat from China – from mainland China – politically…also, military threats? Do you see limits of transparency in Taiwan?
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        I mean, your president yesterday or the day before said every day, China is somehow meddling in Taiwan. Are there limits to transparency in Taiwan?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Making the state transparent to the people is what every liberal democracy should aspire to. The previous restrictions is not so much philosophical, but rather technology. For example, we have now the technology that turns whatever we are talking into text and translate it immediately.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Before, you have to hire people to type and to translate it, and that precludes a lot of transparency if you speak a different language, for example. Inclusion, I think, is not something that people dispute in liberal democracies. It’s just that we’re working to reduce the cost in the bureaucracy to be as transparent as possible.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As for the limits, of course, just like in every country with Freedom of Information Act, the things concerning the state secret, as well as privacy, are off limits to the transparency of the freedom of information law, and Taiwan is no different.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, in our meetings, where we publish the entire transcript of all the meeting that I am the chair, I am not livestreaming everything, because that would invade the privacy part, but we publish the transcript only after 10 working day of co-editing.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So if you accidentally tell about anecdote of some third party that is not ready to publish their anecdote, you can anonymize it or something. This is all a very humane way of looking at how we meet and how we make contributions to the public discourse together.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        My point of radical transparency, it’s not 100 percent transparency. It’s rather transparency at the root, as the default. It takes extra effort to edit parts out, but if you don’t do anything, it will go out by default, and that is the kind of radical transparency that I promote.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        You don’t see the danger of China misusing your transparency somewhat?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I don’t see any danger because all of the meetings that I hold, whether it’s around open government, social innovation or youth engagement, we want everybody to know as much as possible because disinformation or information operation is not actually to get somebody elected or somebody not elected.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It is actually to sow discord and make people distrust democracy itself, to make people distrust democratic conversations, to mobilize the outrage of people against one another so that the polity cannot be formed anymore extremist politics.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Our radical transparency serve as antidote because people know the context, the why of policy-making, why we are talking about this, why we’re not doing this, why we are doing this. We share the bad news and we share the good news. If we only say the good news like in a propaganda, people don’t trust us, and they shouldn’t.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s only when we trust the people with all the good news and bad news do people actually understand that we are in a democracy, in a polity. In that sense, the democratic spirit is strong and it’s becoming much harder for somebody working on propaganda to sow discord.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If we publish only intermittently and only good news, it is excellent fertile ground for people to do disinformation campaigns.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Right next door to Taiwan, in Hong Kong, there’s a struggle about trust at the moment. We see a leaderless mass movement organized mostly over the Internet for more than five months now. How does this struggle in Hong Kong affect Taiwan?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        First of all, in Taiwan, we are seeing the Hong Kong people looking to further liberal democracy that was promised to them when they first entered this arrangement with the PRC, and so we see that these demonstrations, they’re really demo, as in showing that it is possible for them to self-govern, even in very adverse scenarios, to coordinate their own behavior.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is what self-governance means. We, of course, are sad to see the escalation of violence over the past few weeks. Taiwanese universities are already offering exchange programs so that the students there can visit Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Some universities are even covering the boarding, the tuition, and things like that, so that they can have some resting place, a safe place, where they can talk to, for example, Reporters Without Borders, which has a headquarter in Taiwan in Taipei, and the Oslo Freedom Forum, of course, and many other like-minded countries that really want to have a conversation, but in a safe place with the students.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think we are supporting them inasmuch as the university is willing to do so. Also, it’s very important to note that the Taiwanese election, the presidential election, all the three presidential candidates all support the fifth demand in the cause to get Hong Kong into general elections.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        In Hong Kong, the protests are also about the principle of one country, two systems, which originally was designed for attracting Taiwan. Has this principle failed now?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The only thing I can say about the three presidential candidates is that none of them endorse this platform. All of them are actually against – sometime very verbally – this platform. Obviously, there is no presidential candidate in Taiwan that takes a liking to “one country, two systems.”
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Do you think that the protests in Hong Kong are helping your current president – I mean Tsai Ing-wen – and your government at the moment getting reelected? Is it, let’s say, yeah, helping you getting reelected, as it shows the true face of China?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think Dr. Tsai’s position on either “one country, two systems” or Hong Kong has been very consistent. That is the strength of Dr. Tsai Ing-wen’s foreign policy, is that she is very stable and extremely reliable.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I guess I’m happy to see that other presidential candidates are now adopting a very similar platform. That’s my answer.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        You are quoted as having said that, “It is urgent to think democratically…” Sorry. Your quote was, “It is urgent to think democracy digitally new.” What do you mean by that? Can you give us an example?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Can I look at the quote?
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I don’t remember saying that.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Sven Hansen">
+                    <p>
+                        To be honest, I found the quote only in German, so I re-translated it, and maybe…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe you can say it in German.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Yeah, it is [German] .
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Ah, yeah, to renew our thinking of democracy digitally.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Yes, thank you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK. Yes, I did say that. I think what I mean is that previously, with radio and television, it’s very easy to speak to a million people, but it was not possible to listen to a million people. It was not possible for a million people to listen to one another.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That material difference between broadcasting and listening defined a lot of the way how democracy is conducting itself. Nowadays, with the capacity to listen to millions of people, we can do, for example, massive consultations that used to be very expensive. We can do it every day.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What used to be very hard…For example, every four years, you go to the voting booth, it’s quite a trip. People feel distance, because there’s only every two years or every four year can they express their ideas about public participation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now, you can use participatory budgeting. You can use petitioning. You can use sandboxes, Presidential Hackathon in Taiwan, and things like that to make sure that people can participate in democratic process every day.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because of that, we can also include people. For example, a lot of petitions in Taiwan are done by people around 16 years old.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They are not of legal age to vote in referendum or in elections, but they have the best ideas. For example, banning plastic straws and replacing them carbon-neutral organic materials that are circular economy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They care more about the planet and their future, because they will be on the receiving end of climate change. They have a lot of very interesting ideas. By designing democracy using digital participation, we make sure that people who are 15, who are 16, can also participate fully in the agenda-setting part without having to go to, I don’t know, street on Fridays.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        How do you ensure that this system is not manipulated?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We use two ways. First, we work with the telecoms so that you have to be a Taiwan resident, using a Taiwan SMS phone number to verify your account. That account system only tells the ministries whether they live in which region, but do not disclose exactly the name, or the phone number, or anything private about them.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It is just a way to authenticate that you are really a Taiwan resident. The second, we make sure that all the e-petitions and so on are only done to set the agenda of face-to-face conversations. In design thinking terms, it is about discovering and defining the problem. It is not about developing delivering, like in referendums.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Our e-participation only takes the agenda-setting part and never the binding part, like competing with the parliament. Because of that, it really doesn’t pay exponentially to game the system. For example, if you want to purchase 5,000 SIM cards, you can probably legally do that, even though the money laundering counter-unit will probably [laughs] discover that very quickly.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even then, you will not be able to, say, change the election system in your favor.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        That means, if I understand correctly, you give a lot of power to the telecom companies.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of which there are five. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Yes, so they are becoming more powerful. I think five is, they are quite powerful already, so they get more power now?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They’re pretty powerful, of course, but they have to do the KYC, like checking your identities and so on, when you get your SIM cards, anyway.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        KYC?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Know your customer, due diligence, when you are getting the SIM card, anyway. The power is already there by basically saying that getting the SIM card require a certain proof of citizenry and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s not like we’re making them more powerful in the sense that they can enter the democratic process more. We’re only saying that they’re already this powerful, so why don’t we just reuse the same identification technology?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Your point is well-taken. For things like petitioning, which is agenda-setting, we may use SMS. For really bylaw, like referendum, collecting signature for referendum, we use the state-issued EID card. That EID card is independent of any telecom company, because it has a legally-binding power for electronic signatures.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s two different binding level, and we only use the later one if it has legally-binding power. For that, we require the use of a proper EID card. Thank you for bringing that up.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        I understand digitalization as a tool, but not as a substance, of democracy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. Of course.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        How you protect against digitalization being mistaken as substance of democracy?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I write a job description about it, which is a poem. It’s pinned on my Twitter.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It says, “When we see the Internet of Things, we must make it an Internet of beings. When we seeing virtual reality, let’s make it a shared reality. When in see machine learning, let’s make it collaborative learning. When we see user experience, let’s make it about human experience. And whenever we hear the singularity may be near, we must always remember the plurality is here.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The difference between two sets of words is that of agency, of human agency, of people being able to understand each other more, to listen to one another more, and digital is just the instrument to make it happen.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We don’t do Internet of Things because we want to connect things. We say Internet of beings, because we want the rivers, the mountains, the beings who could not speak, animals, into the democratic process to be able to speak through the digitalization, so that we can also give them their fair representation.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Can you give us a practical example?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, of course. In Taiwan, we have the civil IoT network, where people voluntarily measure the air quality, also the water quality, writing them into a distributed ledger, also known as a blockchain, so people can hold each other accountable.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Together, they form what we call a data coalition of just school teachers using these as teaching materials. The schoolchildren learn to become good data stewards. They learn what does data controller mean in the GDPR by hosting their own data collecting device from the air quality AirBox.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because it’s open source and open hardware, people can tinker, can change it however they want. Because there’s a large, shared map of air pollution, they can demand, for example, the government to install their equipment to join their network.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        On, for example, industrial parks, where they cannot break and enter, but it turns out we own the lamp there. We agreed to them and installed the same AirBoxes in the lamps in industrial parks. This is one very good example, showing that if the social sector controls the technology, that then it becomes social innovation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The things that cannot speak for themselves…For example, PM2.5 cause health hazards in very young children, but very young children cannot yet vote. Just by visualizing the harm that is done by people who are very young and so on, they can enter the political process by negotiating from the data coalition viewpoint to the state.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The state must in Taiwan never beat them, but join them, and form together data collaboratives.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        As I said before, digitalization is a tool, and it’s also not only a tool for democratization, but also, for the opposite, for…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Authoritarianism.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        …authoritarian, yes. Especially, we mentioned the case of PRC already. It can be threatening personal privacy and lead toward a surveillance state. How you exclude these dangers in your plan?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        By empowering the social sector to create viable alternatives. If you rely on the state to determine the air quality or water quality, you are at the mercy of the Environmental Protection Agency, and where the priorities of them.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        On the other hand, if you rely on large corporations, with their weather balloons or whatever, or drones, to do the same, then you again rely on their mercy. They probably do not go to low-resources areas. Only by empowering the social sector with very affordable technologies, as I mentioned, with open hardware, like Arduino, Raspberry Pi, and also by offering broadband access as a human right.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, the most remote, the most indigenous, the highest mountains, all have 10 megabits per second at â¬15 per month for unlimited 4G connection. That enables social innovation to take place in the poorest, in the most rural places where no capitalistic companies will enter voluntarily.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even there, we see a lot of appropriate technologies being developed. Indeed, we can scale it to the entirety of Taiwan through the means of them proposing it, like Water Box and so on, in the Presidential Hackathon.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        By winning the Presidential Hackathon, the five winners each year receive a trophy from the president, Dr. Tsai Ing-wen, that carries the promise of realizing their idea on a national scale within the next 12 months.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        By empowering the social sector to develop truly nation-scale solutions, we make sure that this is governed with the people, not for the people, and therefore, reduce the likelihood or the harm of a state or company monopoly and the surveillance that goes with it.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Like we mentioned already, PRC is leading in, let’s say, artificial energy as a tool for surveillance and for the control of the population. Do you see Western countries more and more following the Chinese example?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No. I think I was just at Amsterdam and the Hague, and I mentioned this idea about facial recognition and AI ethics. They very plainly said, “This is something we don’t even want to compete with the PRC. This is just something we don’t do.”
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        In Berlin, we are experimenting with it. We have one train station which has artificial face recognition.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think, using GDPR as an example, GDPR says that everybody have the rights that you cannot wave through contracts, the natural rights of asking for a copy for explanation, for updating, for deletion, for portability. That’s the basic GDPR rights.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        GDPR stands for?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The General Data Protection…
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Oh, yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The GDPR gets every person this kind of rights, but it’s up to each person to exercise it. If we exercise as just like, I don’t know, consumer unions or things like that, if we exercise these rights, then everybody who deploy general-purpose technologies such as facial recognition will be very costly because they collect more than they need to use.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If everybody ask for a copy, ask for a explanation, ask for updates, ask for portability, you will overwhelm their support center. They will switch to a more single-use technology that cannot be easily abused by collecting only the minimal that they need, and not keeping anything that can put them liable.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If people don’t exercise their basic GDPR rights, then of course it costs less to collect more, and you just store it and maybe someday, it will be useful, and people will get lazy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The data controllers, I think, at this moment can only be kept accountable if everybody during their primary school is learning also how to be a data controller. What does it mean to perform data stewardship, and what kind of basic rights can you do to data?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s just like basic civics right education, and air box, water box and so on are excellent tools to make sure that the children also have a first-hand experience of being a data controller, so they can ask the right questions to other data controllers deploying, say, facial recognition.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Here in Germany for example, it’s like the big corporations, they dictate the terms, so you, an individual, cannot say, “Oh, I would like to work with you, but this condition or that condition, I don’t like.”
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        It’s the companies, they dictate the terms, and if you don’t like the term, you cannot work with that company and there’s no other company taking you because the terms are more or less all the same.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        That would be my other question, that companies like Google or Facebook, that they are so dominating. They have such a strong monopoly. On the other hand, they are hardly paying any taxes. They are more and more seen as a danger to democracy and privacy rights.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Facebook is selling basically advertisements. That is their main business model, and they, because of advertisers want people to look at their messages more, they also sell addiction as a by-product so that people gets more and more addicted to their product and therefore see more advertisements.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think any addictive substance, I mean, I just drank some coffee, so I shouldn’t really say bad things about addiction. [laughs] I also drink coffee every morning, but I think it is the civil society’s duty to remind one another that caffeine overdose also has its drawbacks, that we need to understand what caffeine does to our body, and that we don’t fall into even more addictive stimulants and things like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think as with any addictive substance, proper education is very important because, for example, in my primary school, because I dropped out of junior high, but I remember in primary school, I learnt that caffeine is no substitute for sleeping, and so if you feel sleepy, you should not drink caffeine. You should get to sleep. Otherwise, it destroys your sleeping pattern.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughs) I think that is good education for the young children to learn. Again, I think the primary school, what we are teaching now, starting this year, is media competency, meaning that one should not look for Facebook app for a satisfying personal relationship like face-to-face relationship.
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a good tool, for example, to quickly throw together a meet-up so that people can meet together in a certain place, or it’s OK to watch some livestream and have some interactions, but it’s no substitute for real face-to-face relationships.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you are addicted to this Facebook app, sometime it confuses people so that they look for warmth and they look for real personal relationship, long-term ones, through the app, but of course it’s just a piece of glass. [laughs] They really cannot deliver what they promise to deliver, and it actually makes people more lonely if you overdose on it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        All of this, just very basic mental hygiene stuff I think should be taught, just like brushing one’s teeth. This is every educator’s duty to do so. Because in Taiwan, broadband is a human right, so every school children is also a YouTuber. They can also broadcast their own stations and become their own producers, essentially.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Instead of giving them the traditional media literacy training, which is more about being a reader or a viewer, we actually let them understand, what are the social responsibility as a producer, and what does it mean to check your sources? What does it mean to use materials that are verified?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What does it mean to work with your fellow fact-checkers, and journalists, and so on, that they can learn from very early age that whatever message they receive from institutional and/or social media are framed, and things like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think all of this is just part of the basic education on the digital age, and with that, it is less likely for Facebook or other large platforms to control people’s attentions, but without which it’s very easy to get addicted.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        As a minister, you don’t see part of your job as limiting the power of, let’s say, Facebook, or YouTube, or Google, or whatever?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If people gets addicted to substances, of course if it gets really harmful, sometime you put a consumption limit to it, but as demonstrated in the, I think, Rat Park experiment, this addiction is just a symptom, and the underlying root cause is loneliness, is helplessness.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Yeah, but that’s on the individual level, but on the political level, these companies, usually, they are known as more powerful than, let’s say, medium sized countries. They have the potential of being helpful in democratization, but they also have a potential in limiting democratization.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Definitely.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        What are you doing about it?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you put it in those terms, then I think of them as governors. I don’t think of them as companies, because they govern.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        They’re there for making money, not for governing, and they are not elected.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, but there are unelected governors as well, sometimes for life. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Governors are not all democratic, and what they are doing is governing, because they are setting the rules of what messages get seen, what message does not get seen, what construes as hate speech, what not is hate speech, what political agenda gets to be advertised, and what advertisement to ban and things like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        These are governing actions. These are not simply economic actions. That is my point. I’m not saying they are elected, right?
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As a government to a governor of overlapping jurisdictions, I think it’s very important to act diplomatically, and the diplomacy here is to set a norm to first talk to the constituents in a society – say, in Taiwan – and understand what people expect as the norm.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, when Uber entered Taiwan, the norm that we listened at scale, using AI conversation, was that people expect them to be subject to the same taxation, to the same permits and licenses, and the same registration as taxis.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is what we then negotiated with Uber. You can use Uber now in Taiwan, but all you call are multi-purpose taxis. The taxi companies are also developing their own Uber-like apps. That is the consensus of the society.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Just like with political elections, and as you said, Facebook versus democracy, the norm in Taiwan is that we have a separate branch of the government, the Control Yuan, that looks at all the campaign donations and now disclose each and every record, completely publicly, making sure only natural citizens in Taiwan and local people can donate to campaign donation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That it’s independently verified by all the investigative journalist and data scientists. That is the norm in Taiwan for campaign donation. We are saying to Facebook, Google, and everybody else that this is the norm in Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You can either, in your platform, when people pay you to advertise political messages, you can either treat it exactly as the campaign donation…That is to say, review everything, making sure only natural citizens in Taiwan can donate, and penalize people who act as foreign proxies.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Or you can refuse to run political advertisement around election time. It’s your choice. We’re not making a law about it. We’re saying, “Please sign on this norm package that we are also doing ourselves,” just like a diplomatic gesture, a pact, really.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        “If you don’t do so, then I’m afraid that there will be social sanction from our population.” We’re not jumping to make laws about that. We’re saying that this is the norm around here. Facebook say, “OK, we will disclose to exactly the same standard as you do on campaign donation.” Twitter and Facebook say, “OK, we will just not run political advertisements.”
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        If I understand it correctly, that there is, for example, no law against hate speech, so it’s up to the company and up to the constituency to call hate speech a hate speech. It’s not that Facebook has to follow certain rules set by you, but it’s up to Facebook to react?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No, it’s up for an organization called IWIN. IWIN is a social sector organization that is specifically…
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        It’s a kind of NGO?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It is an NGO. Again, the fact-checking, for example, is for the international fact-checking network, which are all NGOs, and the Taiwan Fact-Checking Center, again, is an NGO. Between the public sector and the private sector, what Taiwan has always been doing in spam, in hate speech, in disinformation, is to empower the social sector.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The social sector is nonpartisan. For example, the Taiwan Fact-Checking Center only accept crowdfunding, accept no money from any political institutions. They are loyal only to the public in general, and not to any particular company or a particular party, or particular ministry.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Those social sector determine the algorithm’s parameters, what are considered as junk mail, or what’s considered as disinformation to bury in the Facebook news feed. Facebook do not make that decision, and the ministries do not make that decision. It’s the social sector that makes this decision.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That makes a journalist’s word worth as much as a minister’s word, and that’s as it should be. Otherwise, if you’re concentrated into state, a minister can censor a journalist very easily. We don’t want to go there.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        That means Facebook makes a profit, and the society has to check the facts.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Well, the advertisers and Facebook both make profits. You can argue that it causes societal harm of divisiveness and things like that. It is just like tobacco and liquor having negative externalities.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Facebook, of course, in their CSR social responsibility program say, “Oh, we’re already working with the elderly to educate them. We’re also working with the CSOs. We’re funding the CSOs.” I do agree that this is the traditional CSR thinking of harm reduction.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What it really needs to do is for Facebook to open up its algorithm, its top layers of artificial intelligence that determine the news feed, its CrowdTangle system, for independent analysis and verification of whether their CSR efforts are actually reducing harm, instead of adding more harm.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In short, as governance, they need to hold themselves accountable to their constituents. That is the direction, I think, the Facebook oversight board is trying to do. As you correctly pointed out, it is only a judiciary branch.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There is no election. There is no parliamentary branch. I still don’t think that it is going to completely integrate back in the liberal democracy order. It represents a new governing order. As a researcher in Internet governance, I’m watching this very closely.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think the ultimate goal is for platforms such as Facebook to be governed by constituents, instead of by shareholders. That is to say, social purpose organizations or social enterprises. Of course, there is quite some way between Facebook as it stands now and a social enterprise or a true co-op.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think it’s in our interest to develop mechanisms. Actually, I am also part of the RadicalxChange foundation that codes and invents new mechanism for this transition, so that they can be governed in a way that is for social purpose.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Do I understand correctly, so far, you managed to make the government more transparent, like let’s say, the social media companies? Your power is very limited to make them more transparent.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We are saying that we are making ourselves this transparent, that they should make themselves at least as transparent. Otherwise, they face social sanction, but we cannot demand more transparency out of them that we are not doing ourselves.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Good. I’m not sure how it’s in Taiwan, but at least in Germany, I would say that many elderly people, they have problems with digitalization. They are not connected with the Web. With your strength in digitalization, your strength in the divide in society.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        For example, my mother, she is not able to use the Internet. What are you doing against this division of society, of exclusion of elderly people? Some type of discrimination as well, if you strongly focus so much on digitalization. What are you doing against this danger of discrimination against elderly people?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        First of all, the research shows that in Taiwan, the disconnect, as you mentioned, only starts around 75 years old. Actually, the 65-years-olds are one of the most active groups in digital participation, so maybe it’s not exactly the same as in Germany.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Yeah. Your connectedness is much better [laughs] not in Germany.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, [laughs] and for many elderly people…like all my four grandparents are still around. The oldest one is 102, something like that. They all can use the end-to-end encrypted chat system and make video conference calls. That’s all they do, actually.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They know how to use these two functions. I think I speak for many people here. Their grandparents maybe can understand how to use the LINE system to send pictures, and how to start a telephone call on their LINE system. That’s pretty much everything they know about the Internet, but still, that is still a good application of the Internet.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What I’m trying to say is that we’re not doing digitalization for digitalization’s sake. What we’re saying is that if they have a real need to communicate to the people in their family or their friends and their mobility is limited, then the digitalization should help them to still feel useful and connected to the society.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If there’s like voice assistance or whatever, they need to be adapted to speak in the language that they’re familiar with.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, just this year, we switched from having only one national language to about 20 national languages. All of these languages, including the sign language, also need to be enabled and empowered, and machine translation and things like that is very important to deliver on this promise.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What I’m saying is that if the AI is seen as assistive intelligence, assisting people to re-empower them into the society, then the elderlies love it because it’s bringing technology to them, but if we were forcing them to go to technology, that’s never worked, and so we’re not doing that.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Before, we mentioned the creation of addiction already. Basically, I would think that people are connected to the Web already for many, many hours, and I think it would be sometime better if they would not be with the Web so much.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You mean screens.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Yeah, with the screen. It would be better if people would directly communicate with each other, speaking with each other. [laughs] For example, if my daughter is visiting me, we see maybe for three hours, and two hours, 45 minutes, she is…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Looking at the screen.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        At the screen, and maybe 10 minutes, she is talking with me, maximum, so I would prefer, let’s say…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is the addiction I was talking about.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Yes. What are you doing against that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s just empowering people to understand that if you can make anything appear on the screen, if you know how to program, if you learn Scratch or something, you see it as the illusion that it is.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Only when people don’t know the logic behind the screen do people project the screen as something magical, and so if you know how to program, at least a little bit, then the illusion disappears. You know that these are just pixels that you can make appear any time and so you become less addicted. It’s true. It’s called disenchantment, I think, in English.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Sven Hansen">
+                    <p>
+                        The final part will be more about you as a person, and also as a minister, is your style. You’re quoted as having said, as a minister, you’re not giving orders and you don’t take orders.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Because of this, someone described you more as a kind of chat room moderator than a typical minister. How do you see your role and your style of work?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m a purely facilitating minister, that’s true, and I call myself a lower-case minister.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        A what? A lower…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        A lower-case minister.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Meaning, secondary or what do you mean by lower-case?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No, if you write minister in lower case, it means somebody who preach, somebody who spread the word, and somebody who introduce people to the world of global goals and sustainability.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s not about working for a government. It’s about working with the government. It’s not about working for the people. It’s about working with the people.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        My main work I would say is just to take all the sides, to listen to all the different parts of the society and make sure that people can still also listen to one another, and making cultural translations or poetry whenever there seem to be a breakdown in communication. That really is what the chat room moderator would do, so I think it’s a really good example.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        You have described yourself as a civic hacker and as a conservative anarchist.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        What do you mean by this, and how does it affect your work?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You mentioned two things. What do I mean by civic hacker? Civic means concerning the welfare of the public, concerning the conversation, the civility, the civil discourse. A hacker, meaning, understanding a system and then innovating to make a better system. These two combined, meaning that I’m not here to disrupt existing institutions but rather re-imagine the institutions.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sometime it blossoms and people see the new way of doing things as saving time, is really increasing trust. It is also making sure there’s less risk, and the bureaucracy will just switch to these kind of new institutions. Sometime it doesn’t work, so we pivot in telling people why it doesn’t work in our society. This is what I mean by civic hacking.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        You see yourself as an innovator.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        What do you mean by conservative anarchist?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Conservative means that there’s different lineages in Taiwan. The eastern side is the Austronesian lineage, that shares with the Polynesia, all the way to Maori, and there’s also the various colonial past from the Dutch, for example, and the Spanish for a time, and so on. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course there’s also various different immigrations, from the Hakka, from the Holok, and so on, and of course from the republic of citizens. In any case, all these waves represent different cultures and different traditions. That’s why we have 20 national languages, and all of this is to be conserved. That’s what I mean by conservative.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The biosphere around Taiwan, our marine area is 10 percent of the world’s marine biodiversity. That is, too, to be conserved, and so conservative to me just means that we make sure that the stories that we tell from seven generations before, whichever lineage still makes sense seven generations down the line. I think that’s the original meaning of the word conservative.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Anarchist simply means that I don’t give orders or take orders, that I do things the Daoist way to design things without trying and without forcing anything, but rearranging the mechanism so that people naturally come together despite their differences in positions. That’s the meaning.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        You said, I think, yourself somewhere that your retreat into cyberspace made it possible for you to develop your own more female identity.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course, yes.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Can you elaborate on this?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Mm-hmm.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        I would expect that, or my experience is that in most countries, all the so-called computer nerds are more or less male.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s not the case in Taiwan, no. The reason is that in Taiwan, we don’t say computer scientists as engineers.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Whereas other places may call these people software engineers, in Taiwan, we call them program designers, and so it is seen as a design thing and not a engineering industrial thing. Because of that, there’s always equally boys and girls, or even sometime more girls than boys in the program design profession.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think it’s maybe because of this translation advantage that it is always seen as a field that does not have as much gender bias as you mentioned on other industrial practices.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        I was not referring to the industry but for the private behaviors. It’s more male people retreating from society and getting lost in cyberspace. That is more a male attitude than a female. Female people are more communicative in real life, while male people are more playing games or being, let’s say, having difficulties with real life.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When I said retreating into cyberspace, I don’t mean into a kind of soloist virtual reality. I mean into the social fabric that is being developed around cyberspace, real communities, and artists, and poets, and people who make culture, but they were alone in their community because maybe they are the only ones practicing that art in their neighborhood.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Through the cyberspace, they can find like-minded people, and doing co-creations together. That is how Wikipedia is done, right? Just by individual writers banding together in cyberspace to make an encyclopedia.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is a very creative notion, and I think, as a creator, if I had to rely on the immediate vicinity, the like-minded people will be very few. Because of cyberspace, it is a very vast community, easily in the tens of thousands.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is what I mean by retreating from a relatively isolated physical space into a much vaster cyberspace.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Ah, OK, because I would see it usually the other way. You are isolated, because you retreat from the community, and you somehow just play a game or whatever. Therefore, you’re not able to take part in real life.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No, I will say that, because of the cyberspace and the friends I met there, I very early on started couch-surfing. In 2005 and 2006, I visited maybe 12 different countries, 15 different cities, held hackathons in each.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I have never met the person that I stayed in their home. They just offered their sofa, their home, because we work on something together online. It’s a radical trust to random strangers. My families have a very strong heart. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then it is actually, I would describe as, my tribe, my kinship. As I said, cyberspace is a gateway into more face-to-face communication opportunities not limited by your immediate vicinity.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        OK, so it’s the other way around.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        OK. Now, more in regard your identity, you were born as male. You are regarded today as transgender, and I found a description of yourself as post-gender. On the other hand, I also found a quote where you said, “It doesn’t matter if you are dressed as a male or female.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, whatever.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Can you elaborate on that, or on your identity?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s whatever. It’s whatever. I like to know people as the value that they hold, not the types, class, or roles, because these change with time. The values stay more stable and is refined over time. That’s how I treat other people, and I would like other people to treat me the same.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Instead of following a social script determined by gender, I’m much more interested if you ask me about the values that I hold. That is what I mean.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        I think sometimes society forces you to take sides. For example, if you use the toilet. How do you handle that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I don’t care.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        You don’t care?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I just whichever toilet is closer.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        OK. You are regarded as the first transgender minister in the world. What lessons did you learn in this regard, and what advice can you give? Maybe you elaborate a bit how the Taiwanese public has reacted to your becoming the first transsexual minister, whether you experienced any insults or discriminations?
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        It would be interesting, maybe, to understand what lessons or how you see it now, it’s three years on the job.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I don’t think people care so much about me being post-gender. It’s entirely normal. I think it speaks tons about Taiwan’s inclusiveness, tolerance, and also the vibrancy of the Taiwan pride community and the LGBTIQA+ community that our president, for example, supported marriage equality from the very beginning.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        She is not seen as anything weird or out of normal. It’s just she is seen as more progressive than her counterparts in other parties, maybe. It is not used as a way to cast the kind of labels you alluded to, attack, or anything like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think Taiwan really is a pretty mature society in the sense that people respect each other for their different gender orientation, identities, and whatever. I think that’s the best news I can give, is that the everyday life in the cabinet doesn’t care that I’m a post-gender.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Your political adversaries, they…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I don’t have a political adversary.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Let’s say from the opposition party, from other parties.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I don’t belong to any parties.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Yeah, but I mean you’re attached to a cabinet dominated by one party.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I am not attaching to the cabinet. I’m working with them. I’ve worked with two cabinets, each belonging to a different party.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Do you see any benefit for your ministerial job as being a transgender person?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, of course.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Which one, for example?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’ve went through two puberties myself. My natural testosterone level is between that of an average male and the average female. That means that I can relate to people’s first-hand experiences more.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That I have this emotional palette that I can feel the range of first-hand experiences and emotions when people say something that they experience. For example, during the different, this is the idea of intersectionality.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That if they felt that they have felt the male gaze as they were a young lady, developing in the puberty and so on, I also had that experience as well when I went through my female puberty.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Things like that, little things like that, allows me to maybe empathize with people more, and also feel people’s different positions more without regarding automatically half of population as the other population.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s no binary categories in my mind that says, “Oh, this is my party. This is the opposition party.” I cannot even think this way. I don’t have those categories saying, “This is my agenda. This is the other agenda.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I cannot think that way. Because of that, I am more able, I think, to take all the sides.
+                    </p>
+                </speech>
+                <speech by="#Sven Hansen">
+                    <p>
+                        That’s interesting. OK. We are through.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Sven Hansen">
+                    <p>
+                        Very interesting.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
