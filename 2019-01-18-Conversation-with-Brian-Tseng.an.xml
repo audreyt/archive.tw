@@ -1,0 +1,1720 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Brian Tseng" id="Brian Tseng" showAs="Brian Tseng"/>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+                <TLCPerson href="/ontology/person/::/Old K" id="Old K" showAs="Old K"/>
+                <TLCPerson href="/ontology/person/::/Slido Comment" id="Slido Comment" showAs="Slido Comment"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2019-01-18 Conversation with Brian Tseng
+                </heading>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Welcome back to the Night Night Show. Dear viewers, our next guest is truly special. Solved simultaneous equations at the age of 8, started a company at 16, retired at 33, and is the youngest minister without portfolio in Taiwan’s history. Let us applaud for Audrey Tang.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Minister Audrey Tang, welcome to our show. You are the first bring-your-own-device guest here.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        I was very worried that today you would only send a robot out, and then you would not arrive in person.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you want that, we can arrange another recording.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Right, I remember I asked if the robot could come.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure thing.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Oh really, okay, next time… uh, no next time, this is the last episode… I just realized that.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        This interview, I want it to be different from the past. We used to take care of the audience following, their mood, and whether they laughed or not.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        I don’t want to do this at all.
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        What do you mean?
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        I just want to chat with Audrey, Okay?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The host sets himself free.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Yes, I don’t care at all, because I don’t have another episode, I don’t care.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No problem.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        You have watched our show before. I have openly shown my love for you. Have you seen that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Did you say super like?
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Yes, super like.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I have seen it.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Everyone wondered what that was about. No, I just wanted to express my love for you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Why… a bit reserved. So… you have watched our show. Why would you like to be on our show?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because I support a new political party: Can’t Stop This Party. Since you are a party member, and because I support the party, I should also support the party members’ programs.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        What you mean is, if I hadn’t joined the party, you wouldn’t have come?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, so guessing that game was important then.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Wow, it was so close. Fortunately, that game, I didn’t…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …win.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        It was definitely not set intentionally. So, we actually have a lot today… I myself have a lot of questions to ask.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Can you really control other people’s brain waves? Before you answer… (puts on a foil cap)
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I read an article like that in the 2016 Journal of Current Biology, which said, “Intraspinal Sensory Neurons Provide Powerful Inhibition to Motor Circuits Ensuring Postural Control during Locomotion.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You see, brain control, brain, control. One of the co-authors of this article is our Brian here.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Oh my gosh, you dug out my master’s thesis… I won’t be affected by your remarks!
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Whose brain did you control at that time?
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        It was zebrafish.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Zebrafish larvae, right?
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Uh… larvae… Yes, because they are called larvae, larva, anyway, the little zebrafish share the same word as larvae.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK. So even when zebrafish were little, you kept controlling them through cerebrospinal fluid?
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Oh, not little, but before they were born, we messed up with their nervous systems.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Before birth. You implemented brain control in the fetus.
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        Wait a minute. For this whole part, you really didn’t care about the audience at all.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        No care at all.
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        You were just chatting away.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        So you mean, I am the one who controls the brain waves?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, in fact, Brian is the capable one.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Then you don’t control other people’s brain waves?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In fact, in front of Brian, I dare not say that I could control others’ brain waves, because you have actually done it.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Oh my gosh, I already started to believe it!
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        (Removes the foil cap) OK, no, no more nonsense.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        But indeed for many… you know that many old people have the impression that you are like an all-seeing eye, all the time… you monitor everyone’s iPhone, right? Is this true?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course not. My name is TANG Feng.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        A homoFENGnic joke came straight out.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Do you have other rumors to crack? Because there are many legends about you. Do you know that you are much like the Chuck Norris of Taiwan? That is, Audrey Tang is so clever… that… “Audrey Tang realized the truth before God wrote it down,” things like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In fact, I think the most important thing is that my name has now become a verb.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Oh, really, someone like that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        A transitive verb.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Meaning?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It means that something has been removed and taken down. For example, if someone asks me a question on Slido and finds that question is gone, then that is the so-called “being Tang-Fenged.”
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Oh, being Tang-Fenged.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When a noun becomes a verb, it means that it is beyond my control and has become a concept that everyone can use.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Just like we don’t say “you go to the search engine to find it,” instead, we all say “you Google it.” This is called “verbing” a noun.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        How do we know that this is not part of your plot?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Alas, this is a very good question.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If this were part of my conspiracy, we wouldn’t be talking about it here at all.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Oh yes, because you brought it up. But how do I know that, a level deeper, this is not part of your bigger conspiracy to let us find out?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In fact, we know that the title of Brian’s thesis is “Sensory Neurons Provide Powerful Inhibition.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This means that when we talk about it here, no one will think about anything else! This is Brian’s conspiracy.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        You really know how to… that is… make nonsense…
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        Do you feel like you’re turning into a zebrafish?
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Yeah… I’ve started to… doubt everything I did before.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Talking about… because we just talked about something beyond your control, and then you are passionate about AI or this kind of technology, right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Before, before. Before entering the cabinet.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Like Elon Musk, CEO of Tesla, he worries that AI will dominate the world eventually. Don’t you have this worry?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It should not be so. Because our AI at this stage, I usually call it Assistive Intelligence, like an assistant.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The most important thing is this: it’s like a secretary who helps you decide all kinds of itineraries, but when you ask them why, if they never tells you, then you will actually fire them.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This means that the current situation of our human society is that AI can only do auxiliary tasks, and we don’t actually put it in a position where auxiliary becomes judgment and a boss.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So as long as we keep to this bottom line of privacy and accountability, i.e., to protect one’s privacy, and to be accountable, just like an assistant. Thus, it is impossible to dominate the world.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        But now the way AI learns by itself, similar to the neural circuit of the human brain to learn. What if…
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Suppose we hard-code the idea of privacy in their hardware. But it transcends it because it learns that, “I can surpass human beings, and I want to override this instruction.” Wouldn’t there be such a day?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is a very good question. It’s like “how to contain the Genie in the magic lamp.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So the simplest is that you don’t want this magic lamp to have an opening at all. It’s like when you are driving, sometimes you look at the navigation. If you don’t connect the navigation to your steering wheel, that’ll do.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In simple terms, do not connect the cerebrospinal fluid to the motor circuit…
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Don’t go back to my paper any more! Enough, Enough, there is no such meaning at all!
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        But seriously, if one day humans go to war with robots, whose side will you stand on? Because I will absolutely choose robots.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course I’m on the side of modern Homo sapiens… Well, we split up right away.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Really? No way!
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        No, I think that if humans… like cyborg, if we put some machines on our bodies, we can definitely break through the ceiling.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Right, so the most important thing here is that if Assistive Intelligence develops into so-called Augmented Intelligence, then we actually feel every day, like, the cell phone seems to have become a part of our body.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        A situation like that would be augmenting our existing social norm. Just like we wouldn’t say simply because I wear glasses to correct myopia, that somehow makes me a non-human cyborg.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In the future, when everyone can have the same augmented intelligence, human society will become better as a whole. The focus is still the same: We cannot leave some people behind, while only a few people becoming the kind of cyborg you just described.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        So in an imaginary future, because that boundary will become more and more blurred, if say, later, that we can repair the organ by implanting some machines, and then there will be a degree of transition from human to robot.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        You mean, in the future, everyone will be in the middle. Let’s not keep dividing…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In fact, there is no need to wait for the future. It is happening now.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        People in places with broadband access, for example through 4G signals, are not the same as those in places completely disconnected from the net.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In the first case, we can use livestreaming and real-time collective intelligence tools to make decisions together, etc.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        But in the other case, you can only communicate by shouting. If no one is close to you, no one will hear you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Therefore, the concept of “broadband as a human right” means that if broadband is not available anywhere in the whole society, the people there would be excluded from the democratic society. This is why “broadband as a human right” is one of the most important policies of our government.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Wow, connecting to the policy. This is really great.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        An advertorial opportunity.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Yes, I have no idea how many people got that.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        But I think… first off, we broke the premise of many sci-fi movies, that is, humans will go to war with robots, we said that we would be in the middle. However, another issue rises, the system. In places without broadband access, some people may fail to catch up. Is broadband a human right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Broadband is a human right.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        It is in the future, then…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Right now, it is a human right in Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even on the northern peak of Yushan about 4,000 meters high, you can still get 10 megabits per second with unlimited 4G for 15 euros per month, and you can still livestream, maybe faster, because fewer people use it there.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Makes sense. Wow, this can, by the way, solve the problem of urbanization and rural depopulation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Awesome. This reminds me that we did talk about 5G here. The question we asked was that, if most of the technology is concentrated in big companies, like the United States, of course, there are firms like Qualcomm, but Huawei still accounts for a large part.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We also have Mediatek, which makes SOC (System-on-chip) here.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        So we are capable of developing 5G capabilities independent of oversea manufacturers.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, of course, because now we look at the situation of the bidding for 5G, we can already see that this year it will enter our lives.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In that, I think the most important thing is that 4G is fast already now. 5G will be faster, but not very, very much, it will be a bit faster.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The sub-6 band, which would be the first one to start with, is about 10-20 times faster, though it has an important advantage: Low latency. It’s like that if we are now chatting through video, from the point you nod to the point I see you’re nodding, it’s called micro expression. In fact, the brain only takes about 1/60th of a second to complete the process.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        But if there is a delay in the process, I would feel like talking to a virtual person. This is why most of the time we say “meeting in person builds 30% of trust,” but video meetings only builds 20%.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So when 5G reduces the delay to less than 1/60 second, meeting through 5G also builds 30% of trust.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Understood. We have just covered quite a few key points. Don’t you think 10 to 20 times faster is a big improvement? You think it’s a small…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s all right, it’s OK.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        I don’t know if we need to be modest or something. But you can look forward to Taiwan in the future. Do you think it will step into 5G within a few years… Because there is still a problem with the base station. Is it because of frequency? It requires very dense base stations. Will there be no problem with land use?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is actually fine, because after the passage of the Telecommunications Management Act, we have actually adopted the so-called co-construction method, especially in non-metropolitan areas.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The so-called co-network and co-construction mean that one base station can serve several different base providers. A lot of technical characteristics of 5G allows us to deploy the base stations in a test field, and we don’t need to fill them all at once. Like in Shalun…
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        … Everything is over there…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        … It’s now a self-driving test ground…
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        … Right. I just visited the Taiwan CAR Lab there last time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, exactly.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So we have to cover the self-driving tracks first, because the vehicle-to-vehicle communication cannot tolerate a 1/60 second gap.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        But when you get out of the car, it’s okay. Why not wait for 1/60 second?
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        When we talked about self-driving cars, I really wanted to ask another question. This is a question on tech ethics.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Self-driving cars may run into the trolley problem. If the car can’t stop itself, should it kill the driver or…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …just don’t drive so fast.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Oh! Makes sense. Just set a top speed, then self-driving cars won’t encounter that kind of problem.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        OK, but we can only say that it minimizes the chance, and we can’t say that it will completely prevent this from happening.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No, because in my office, the Social Innovation Lab, at 99 Section 3 Ren’ai Road, there were self-driving vehicles all day long…
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        …you don’t need to tell it all, OK?
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        …tell it all…
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        …you don’t have to run open government to such an extent…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …we actually tore down the wall there so you can walk in directly from the roadside, it’s really quite open. Anyway…
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        …not interested, really…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …this office you are not interested in, there were all these alien-looking things roaming around all day.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        These are actually self-driving vehicles, and they are tricycles. Thanks to our contributors, the tricycles gradually became this attractive, two-eyed, capable to read human expressions…
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Very cute.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …cute like this.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Although tricycles in nursery rhymes run fast, in reality they are slower than a jogger. So it’s not about lowering the probability, it’s that nothing will happen even if you really run into it.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Yes. Just now, I don’t know how many viewers got it. Audrey actually jammed a few things in those words, without even caring if anyone got the reference. How did you achieve this equanimity?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Equanimity? Very simple. Like a good novel, you always have to read it a second, third, and fourth time before you see the deep meaning.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Every time we go back to it, “Ah, I found another one.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, it is like a game. If you cracks it at the first try, you won’t play it any more. For higher replay value, put lots of easter eggs.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Yes, but the most admirable thing is that you put them in so invisibly. We put them deliberately, and even then the audience may not buy it.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Like in an interview with “Deutsche Welle,” you said, oh I remember Taiwan’s breakaway…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Neolithic Age.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        …was at the Neolithic Age. Was that one you had thought about before and was ready to put there?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No, not at all. I just responded casually, and then answered his real question.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Don’t you just feel that other people are dumb?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Not at all.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Because when I’m talking to you now, I have a kind of inferiority complex. I am afraid to ask some questions, afraid that you would look down on me…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Actually, this is because we are meeting for the first time. This is quite normal.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        I am touched.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Your words are really heart-warming. Old K wants to say something?
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        Once you have meet each other a few times, you will get used to it. You will know that you really are dumb.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Old K has been hanging out with me for two, three years now. My reaction is really quite slow, isn’t it?
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        During that segment, I was just thinking about what we should eat in a little while…
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        I’ve decided that when I go home I will play this segment at 0.75x speed on YouTube and watch it slowly…
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        …yes, everyone can do it, really, including this segment…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …YouTube can play it at 0.25x speed.
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        By the fifth replay, I’ll get the jokes.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Yes, and then write a response saying, oh I know, I got the joke now.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Audrey, rumor has it that your IQ is… 160? 170? 180?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That 180 is in centimeter only.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        180 in centimeter only? Okay, brilliant.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s the appropriate unit of measure.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because IQ is meaningless in adults and anything above 160 cannot be measured anyway, I just don’t talk about it.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Is it really true that you can’t measure an IQ above 160?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, in WAIS…
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        …Wechsler Adult Intelligence Scale. It doesn’t continue after 4 standard deviations?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, it doesn’t continue to go up.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        How strange, okay. So, does everyone think we should still be interested in IQ in the future? Should everyone be concerned about this matter, or is it not…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I feel that now, especially the present, it is completely meaningless. Because for most of the things tested in WAIS-III, you only need to have a mobile phone. You don’t even need to be connected to the Internet at all. Even in places where there is no Internet, you only need to have installed 5 apps. Thinking about things with the right mind, thinking backwards, turning 90 degrees, and so on, your phone can help you solve them all.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        To put it simply, as long as anyone has a mobile phone in hand, their IQ is already above 160, and so cannot be measured. So, in this scenario, IQ is the least useful thing.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        So really, technology is capable of dismantling many previous concepts.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        I have just talked about policy, and I still don’t know what the staffing situation is going to be like. But let’s talk about the future. After the election, what can we expect our country to look like in the future?
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Recently, you have taken part in a thing called the 108 syllabus. What about the 108 syllabus? Currently, many people are very hesitant. They are worried and do not know what this thing about competence is.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Is is right to call it “competence”? What is this thing?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Actually, the word “competence” is a translated term. The original word is called competence from the phrase core competence.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Why not just translate it as “core competencies”?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You’re right. It’s because we have been overcautious.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Why were we overcautious? Because for about ten years, Taiwan has translated the competence in core competence as “competitiveness”. Yet, competitiveness is actually another word, it is called competitiveness.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Competitiveness is only meaningful if you go to run a race, and when someone wins, there is a first, second, and third place.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yet, competence is actually your ability to perform normally. It’s like the ability to form a team to fight monsters. Every person is in a team. Each person performs his or her own job. Each person has a different set of competence.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So competence is cooperative, whereas competitiveness is competitive. But we have translated both into competitiveness. It has turned into a way of saying that it is a competition between people at school. This is kind of thing is meaningless once you enter society and join a team, unless it’s an ability to be show off on a program.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Yes, they get it.
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        He has another one, it’s another discovery.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        But the premise of this is that once you go into society, it is not a zero-sum game. It is a team competition… not competition…
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        …Team cooperation…
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        … But why…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There may be competitiveness between teams.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        True.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        But within a team, it is mostly cooperative.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s why when you are teaching, you are teaching how to cooperate with within a team, and how teams compete with each other.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Understood. The other thing that everyone questions is the so-called urban-rural gap. I think this is a 108 syllabus… because…
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Let me talk about the premise. The 108 syllabus is an episode that we “Eh!” really want to do, but I think it’s still too early. Let’s wait until this group of high school students take their first exam, just before they face the exam, the real problems will be highlighted. And then, there are very few videos at the moment…
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        My key point is that people worry about the gap between urban and rural areas. They feel that there are many self-study courses. Teachers who teach these courses are concentrated in the cities, and none is in the rural areas. How do we solve this problem?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think there are two aspects to this. On the one hand, “the Internet has replaced the road”. Nowadays there is the so-called dual teachers. It has a teacher in one place. This teacher is not necessarily a specialist teacher. But he is very good at understanding students’ current learning motivation. Using the Internet, it may be on a projection on the face of a wall, he may be connected to a specialist teacher in another city.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Actually, in my office, which is upstairs at No. 99, Section 3, Ren’ai Road, people are learning native languages. In the morning, children can choose to learn the culture or language of any ethnic group. Yet, of course, it is not possible to find teachers from these groups, like Sakizaya’s teacher, in the dozens of schools in Taiwan. That’s why they have a green screen, and the culture of various indigenous peoples is continuously projected from the rear. All the children enter this kind of learning community of the indigenous peoples through this dual teacher teaching projection method. This has become a very mature technology.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Secondly, it is not necessary to use knowledge-based teaching. You can also go into a local area and work with people in the local community alliance, the community colleges, community development associations, etc and use them as school-based courses. Even in class time, what in the past could only be done in the community or the eighth class can now be taken outside the campus and directly brought into these fields for practical experience.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There is an advantage to this. The local culture can be passed onto these children. When they grow up, and if they want to study a specialty, such as monument restoration, they will learn skills that are useful to their own local people. If they haven’t learned this skill in twelve years, they probably won’t return when they enter university and probably won’t return to their hometown, because what they have learned cannot be used in their hometown.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Yes, you have mentioned two points just now. I think the first point is that if technology can really bridge the gap between urban and rural areas, in terms of hardware, doesn’t it mean that our government should ensure that everyone in the countryside has the hardware to connect to the Internet before they can accomplish the things that you mentioned?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is exactly one of the goals of our forward-looking digital construction where the implementation rate has reached 100%.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Brilliant. Brilliant. Yes, my question has been answered.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        The second question, though, is that if each urban and rural area has its own characteristics, wouldn’t that impede the mobility? Because what you learn in one place is what you can use in that one place. If I want to move to the city, I…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        … Go to the city for further development.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        But I can’t learn it, or did you say that you can learn it online? OK, alright.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s why when we talk about local creation, we used to talk about community building, and it often took a lot of young people, maybe eight or ten, to build an ecosystem in that place. Yet, nowadays, sometimes one or two people go back, and using the internet, they can connect everything about design, copywriting, and marketing to the online community. That’s why it only takes one or two people to go back…
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        You’ve just said connecting to…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The online communities. It only needs one or two people to go back to accomplish a complete creation in the place.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        OK. Let me ask one last thing: fake news.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Our show has discussed how to reply to fake news before, and our solution is to knock everyone out. When you can’t tell the truth from the false anymore, you won’t be impacted by the fake news. Of course, I am standing by what we’ve talked about previously. I believe this is a great way.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In other words, no appendix, no appendicitis.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Actually, memes are a little bit like knocking others out. Yet, first things first, they don’t cause irreversible damages.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Seems fair. Smart.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When your party just formed, I sent a flower basket. The flower basket was full of Catnip.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course, a part of me did that to avoid the cilantro conflict, but the important thing is that Catnip has the same effect as knocking people out. When cats approach…
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        …they temporarily get unconscious…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …so when a cat’s uncomfortable, angry, full of hatred, or fighting spirit, the only thing you have to do is to give it some Catnip to sniff, and it will faint for a second.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Though fainted for a second, it actually becomes quite reasonable after waking up. Thus, we can keep on talking about the topic nicely.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        However, in order to use memes to reply to the fake news, or say the premise to make this work, the memes always have to…always have to be more hilarious.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Because…for instance, if fake news is replied by more hilarious things, then aren’t we kind of having a competition to be the funniest message to grab everyone’s attention?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s actually not like that because when we think of something funny, our brain circuit is like this: when I see something controversial in the society, I often feel helpless. The helplessness may create uncomfortable and angry feelings, and when you feel angry, you press the sharing button immediately because you can turn anger into indignation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        However, the circuit of indignation is contradicted with that of feeling funny. That is to say, if you hear something interesting when you feel angry, no matter it’s funny or not, as long as you laugh and think it’s hilarious, you will then generate a sense of “Hmmm…I’ve laughed and had fun already,” and the feeling of “I must be angry at someone” will disappear.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Therefore, things don’t really have to be true or false because there are a lot of different perceptions in science. Only when we have these diverse perceptions, we can start to debate and talk about things.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Alright. Yet, I don’t agree with you because the circuit of emotions doesn’t have to contradict each other. For instance, when writing scripts for the show, I often tell my writers, “we have to pick an emotion.” I believe sadness and happiness have the most contradictions. As for anger, you know, our show satirizes many things, such as the Mining Laws and factories on farmlands. These are all approaches to channel anger to…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, this is the most… We totally agree.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In other words, if you want a funny punch line, you should start with anger because it’s the easiest way. Nevertheless, when anger changes into indignation, or say when it’s the time to release your anger, it becomes hardly funny at all.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Its outcome is different. Good.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Let’s talk about the last topic. I believe everyone can see that I really want to chat with Audrey Tang and don’t want to care about you guys at all.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, I noticed that you seldom turn your head.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Yeah, I really… I really don’t care.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        You know, the producer is saying, “Okay, okay, you should end the conversation now,” on the side. Yet, it’s my last episode, so I don’t care.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Audrey Tang, I don’t know it’s before or after when you were the minister, someone said that you’re an anarchist, but you seemed to explain that anarchy doesn’t equal to having no government at all?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I mean I’m a conservative anarchist, and I have my own definition for conservative.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        So it’s not the traditional meaning of conservative. What’s the difference between your definition and the traditional one?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I define conservative as respecting the diverse culture in Taiwan. Currently, we have about 20 languages, and each of them is a different culture. When one particularly strong culture conquers other cultures, looking from the stronger culture’s side, people may consider it as some progress. Yet, when you view the phenomenon from the side of the other minor cultures, it simply means that we didn’t successfully preserve these cultures.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thus, the main point of my concept is transculturalism。In other words, you may be under the influence of one culture when you were born and growing up, but you can get in touch with another culture, usually from learning a foreign language, when you’re in your teens or twenties. The more you know your hometown through learning different things and languages from other cultures, the more unique your thinking may be.
+                    </p>
+                    
+
+                    <p>
+                        Under this circumstance, everyone can have a different perspective, and then we can say the democracy created this way is the most diverse one. This is my most fundamental idea.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Wow! There are so many things that I want to talk about.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Let’s talk about anarchy. In your opinion, what’s the difference between “anarchy” and “having no government”?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Actually, there can be a government in anarchism. It’s just the government would not have the power to coerce, command, and force people.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        OK, good. Also, because I majored in foreign languages, I wanted to talk about languages that we’ve mentioned earlier. We learn languages, and languages are the denotations of the conceptual world. We express our thoughts through languages.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        You’ve just said learning another language can help you understand another culture, but my question is that: since languages can’t include all concepts, do you have other methods to…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …then you probably have to learn more languages.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        OK, good, more languages.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Alright, alright, I have restrained my urge. I know that just now an audience via the website has wanted to ask Yuan Member Audrey Tang many questions. I don’t know if I have to explain it to everyone. My questions may be messy.
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        Hold on, hold on, the second question is … it doesn’t matter at all …
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        Now someone, someone …
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The brackets are serious, indicating that he is not messy.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Great, I worry that no one knew he was kidding when he said this.
+                    </p>
+                </speech>
+                <speech by="#Slido Comment">
+                    <p>
+                        “How does Commissioner Tang maintain her hairstyle? (Serious)”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In fact, I cut my hair in a social enterprise “Good Haircut”.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Hey, really, I know it, it’s that shop on Dunhua South Road …
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, your party’s founding conference also goes there.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As for their hair stylist, every time I visit there, I say “Please help me cut a hairstyle that does not require any maintenance.” That’s why I don’t maintain my hair.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Oh, so you don’t maintain your hair?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The only way to maintain one’s hair is to have enough sleep, eight hours a day.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Do you wash your hair every day?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        About every one or two days.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Oh, so you are really saying something. I’ve found that you really know how to chat. How come you can speak about anything?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because I have probably been asked all these questions more than five times already.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Not creative, that’s what you mean.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s cached, it’s all in my head. Actually, this is because their vote number is so high. The ones with low vote number often have never been asked.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Got it.
+                    </p>
+                </speech>
+                <speech by="#Slido Comment">
+                    <p>
+                        “Can you find Zhiqi 77 in the vast crowd?”
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        What is this …
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is an eyesight test, not an intelligence test.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        He is also one of the party founders.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Zhiqi77… where is …
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        He is dressed like Wally today.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In the second row …
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Too accurate …
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In the back … I saw the shadow of a figure just now.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I give up, I give up.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        OK, we can’t find it.
+                    </p>
+                </speech>
+                <speech by="#Slido Comment">
+                    <p>
+                        “What advice will Audrey Tang give the newly re-elected President Tsai Ing-wen and the new Legislative Yuan?”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Actually, from the perspective of the Executive Yuan, it is the Legislative Yuan that advises us. That’s why we don’t do anything like advising the Parliament. But there are a few …
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        On this informal occasion …
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        … Yes, so I can speak a little wildly.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        A few legislators from the south often told me that they have to run a trip, that is, a local trip. Even if they have a high-speed rail, or their service is far from the high-speed rail, they will rush to question and then rush to go back. In fact, almost a day is gone like this.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Are you going to mention robots for Skype?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I would say that, in every different administrative area, we can place this kind of distance questioning device.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because in fact, everyone has a question. But as for the effect of the last program, the outcome is always the same.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Also we should use a kind of projected virtual characters …
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right…
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        And create a cut out image …
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s us anyway …
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Pack a bunch of white balls at home …
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        … Create 3D model of us committee members.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think this must be very effective. And then after every question, it can fly up. Wouldn’t that be great?
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Brilliant. Okay, next question.
+                    </p>
+                </speech>
+                <speech by="#Slido Comment">
+                    <p>
+                        “How do we achieve reverse osmosis in information.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In fact, this question is linked to the half-question that I have not answered yet.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I have a suggestion to President Tsai Ing-wen, because I am also in charge of youth participation work. I think when we are making policies, we often think about the state helping young people, helping them with schooling, employment, entrepreneurship, living, etc.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        But in fact, some of the most interesting youth policies we see are often proposed by young people. For example, the suggestion that technical professionals should go to the National Day parade. After the parade, they should go to the elementary and middle school to help students renovate their school buildings. This is to let everyone know that technical high school is about things that you can help your school learn rather than things that you only learn when you can’t enter an ordinary high school.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This idea was put forward by Huang Wei-hsiang, our young advisory committee member. He was 29 years old when he joined the Youth Consultation, about the same age as you. Under such circumstances, I think that the more youth policies are led and decided by youth, the better.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In fact, this is also the best method for reverse osmosis in terms of information. Because if you think that the top-down policy affects you and you have no right to decide, then it is very easy for you to believe the false information about this.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        However, if this policy is something that you have taken part in, say, if it had been proposed via Let’s Talk, Join a petition or other methods, it means this policy had been originally written by you, or at least parts of it had been written by you, then of course it cannot be subject to osmosis.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Hang on, there are two questions. What is the definition of youth?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        According to the definition of UNICEF, or our Youth Advisory Council, it is 18 to 35 years old.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        OK, OK. Which definition do you not want to follow?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course, everyone has been a young person once, anyone over 35 years old.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Something like a young boy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I asked my friends from the Youth Development Administration today. They said that these high school students on the stage …
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is because the 18-year-olds are not the most frequently petitioners of proposals; rather, it’s the 15-year-olds. Because an 18-year-old can at least go to vote in a referendum, whereas a 15-year-old can do nothing, so when we have a petition platform, the petition such as banning plastic straws are all proposed by 15-year-olds.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So I asked the Youth Development Administration whether they are considered youths? My colleagues said that they considered youths in training.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Do you think they are so enthusiastic because they can’t do so much? Because once you can do it, you won’t cherish it as much.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This explanation sounds reasonable. That’s why we should cherish this period of traineeship.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Or we can start taking away the rights of what people can do … no, no, only joking.
+                    </p>
+                </speech>
+                <speech by="#Slido Comment">
+                    <p>
+                        “Recent Views on Hong Kong (Influence on Information Dissemination)”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is also bracketed about the influence of information dissemination. I think for Hong Kong, we can see the resurgence of a so-called waterless movement …
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As for the so-called leaderless and be water movement in Hong Kong, I think the most important thing is that in our previous imagination, large-scale events must have organizers. Many people would say, what happens if there is no organization? It would become a riot.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Therefore, the approach in Hong Kong is not that there is no organizer; rather, it is that everyone can be an organizer. Everyone can think clearly about what I am going to do here and that I am willing to share it, so that very soon there are more than 2,000 organizers.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So, in a group creation like “Glory to Hong Kong”, you can see that in each creative process, there is an organizer doing the creation. After each creation, they share it through an open and transparent way, so that other people can see it and say, for example, that only these people smile in this one while other people don’t smile. And then, someone else remixes it so that the other people smile as well.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We can already see this kind of method and creativity on the board. So I think this is really a method that any social movement in the future must learn.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        That’s great.
+                    </p>
+                </speech>
+                <speech by="#Slido Comment">
+                    <p>
+                        “In an ever changing era of AI, is there any advice you want to give to someone who is on this path?”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Actually, I think in the era of AI, any time you feel that you are working as a tool person while doing your work, these are the times when AI can help you.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        So it can eliminate some negative emotions because there is no such work for you in the future?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, you do the creative work.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Oh, but can you call this an advice for people who are on this path?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes. In other words, one of the most needed skills right now is experience design. Or if you have a social work background, it is called job process redesign. It is an ability. You can go and find out what is redundant in your work flow, something that is simple in structure when it comes in and simple in structure when it goes out. When you do it, you feel that there is only a difference in speed and it’s really boring. It’s that kind of work.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Previously, you had to endure this kind of work, because only humans could do this kind of work. But now, even if no person can do it, and you can’t find a trainee, you can go and train a machine apprentice to do it. After it has observed your work, it can do it for you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        And then you can do the part that requires getting along with people, that is, the “interaction” part, and develop common values, the so-called “common good” part.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The work that involves you looking at your own work is called “automatic.” “Interaction” means that people use different skills to connect with each other and form teams to fight monsters. Achieving a common value is the so-called “common good”. These three aspects are the core qualities of our twelve-year state education.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        So we come back to that again. It’s great. OK, alright. Last question.
+                    </p>
+                </speech>
+                <speech by="#Slido Comment">
+                    <p>
+                        “Can you shout «Better than Brian» to Brian Tseng.”
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        I think this is very suitable for Audrey to shout out.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Surely not?
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        Because it would be very convincing.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Fine.
+                    </p>
+                </speech>
+                <speech by="#Old K">
+                    <p>
+                        Unlike a certain someone.
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Alright, alright, alright.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You’re good with that?
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Yes, of course.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Better than Brian!
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Without a doubt!
+                    </p>
+                </speech>
+                <speech by="#Brian Tseng">
+                    <p>
+                        Audience members, please put your hands together once again for Audrey Tang.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
