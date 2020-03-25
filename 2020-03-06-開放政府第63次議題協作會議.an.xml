@@ -21,12 +21,11 @@
                 <TLCPerson href="/ontology/person/::/王裕民" id="王裕民" showAs="王裕民"/>
                 <TLCPerson href="/ontology/person/::/周文生" id="周文生" showAs="周文生"/>
                 <TLCPerson href="/ontology/person/::/陳彥政" id="陳彥政" showAs="陳彥政"/>
-                <TLCPerson href="/ontology/person/::/吳祥○" id="吳祥○" showAs="吳祥○"/>
+                <TLCPerson href="/ontology/person/::/吳祥瑀" id="吳祥瑀" showAs="吳祥瑀"/>
                 <TLCPerson href="/ontology/person/::/孔垂昌" id="孔垂昌" showAs="孔垂昌"/>
                 <TLCPerson href="/ontology/person/::/周文明" id="周文明" showAs="周文明"/>
                 <TLCPerson href="/ontology/person/::/楊進彥" id="楊進彥" showAs="楊進彥"/>
                 <TLCPerson href="/ontology/person/::/許恩恩" id="許恩恩" showAs="許恩恩"/>
-                <TLCPerson href="/ontology/person/::/吳祥瑀" id="吳祥瑀" showAs="吳祥瑀"/>
             </references>
         </meta>
         <debateBody>
@@ -313,9 +312,9 @@
                         大家好，我是交通部路政司的陳彥政，跟這個議題比較相關的是法令面的討論。
                     </p>
                 </speech>
-                <speech by="#吳祥○">
+                <speech by="#吳祥瑀">
                     <p>
-                        大家好，我叫吳祥○，我是這個提案的附議人，同時也是代表臺灣交通安全協會過來，也有在國外開車的經驗，謝謝大家。
+                        大家好，我叫吳祥瑀，我是這個提案的附議人，同時也是代表臺灣交通安全協會過來，也有在國外開車的經驗，謝謝大家。
                     </p>
                 </speech>
                 <speech by="#孔垂昌">
