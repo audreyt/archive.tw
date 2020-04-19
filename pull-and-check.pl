@@ -23,5 +23,5 @@ while (1) {
     my $from_to = $1;
     my @xmls = grep { chomp; -s } `git diff --name-only $from_to | grep .an.xml\$` or do { sleep 60; next };
     for (@xmls) { chomp; system($^X, "upload.pl" => ($baseURL . uri_escape($_))); }
-    system "rm -rf /var/cache/nginx/*; service nginx reload";
+    #    system "rm -rf /var/cache/nginx/*; service nginx reload";
 }
