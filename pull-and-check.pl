@@ -11,7 +11,7 @@ my $branch = $1;
 close $fh;
 
 `git remote -v` =~ m{github\.com[/:](.*?)\.git \(fetch\)} or die "Cannot parse remote (needs to be in github)";
-my $baseURL = "https://raw.githubusercontent.com/$1/$branch/";
+my $baseURL = "https://archive.tw/"; #raw.githubusercontent.com/$1/$branch/";
 
 `git config core.quotepath off`;
 
@@ -22,6 +22,14 @@ while (1) {
     }
     my $from_to = $1;
     my @xmls = grep { chomp; -s } `git diff --name-only $from_to | grep .an.xml\$` or do { sleep 60; next };
-    for (@xmls) { chomp; system($^X, "upload.pl" => ($baseURL . uri_escape($_))); }
+    for (@xmls) {
+    my $waitURL = $baseURL . uri_escape($_);
+    my ($status) = `curl -I $waitURL`;
+    until ($status =~ /200/) {
+            sleep 5;
+            ($status) = `curl -I $waitURL`;
+    }
+            chomp; system($^X, "upload.pl" => $waitURL);
+    }
     #    system "rm -rf /var/cache/nginx/*; service nginx reload";
 }
