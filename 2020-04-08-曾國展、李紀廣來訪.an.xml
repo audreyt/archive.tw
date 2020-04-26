@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/曾國展" id="曾國展" showAs="曾國展"/>
+                <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳"/>
+                <TLCPerson href="/ontology/person/::/李紀廣" id="李紀廣" showAs="李紀廣"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-04-08 曾國展、李紀廣來訪
+                </heading>
+                <speech by="#曾國展">
+                    <p>
+                        想請教New eID預計需要多久普及？
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        就我所知，至少還要一年多的時間。
+                    </p>
+                </speech>
+                <speech by="#李紀廣">
+                    <p>
+                        有關於未來在利用New eID的這一件事上，我的理解是ICAO區有一個規劃，因為我們看到好像RFP，不知道這一個部分是不是？
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        因為ICAO最主要的是使用情境是通關使用，但是那用MRZ光學識別即可。晶片內資料的部份，我還沒有聽過哪個團隊非要不可。
+                    </p>
+                </speech>
+                <speech by="#李紀廣">
+                    <p>
+                        謝謝，瞭解了。辛苦了。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        謝謝。
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
