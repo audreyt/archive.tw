@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+                <TLCPerson href="/ontology/person/::/Ted Osius" id="Ted Osius" showAs="Ted Osius"/>
+                <TLCPerson href="/ontology/person/::/Anita Chen" id="Anita Chen" showAs="Anita Chen"/>
+                <TLCPerson href="/ontology/person/::/Tina Lin" id="Tina Lin" showAs="Tina Lin"/>
+                <TLCPerson href="/ontology/person/::/Lan Chang" id="Lan Chang" showAs="Lan Chang"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-05-11 Conversation with Ted Osius and Anita Chen
+                </heading>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Is the sound getting through?
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Yes, sound getting through.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sorry for the connection issues. I’m slightly late, but I think we have a stable connection now.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        I’m very happy to meet you. I’m sorry it’s over GVC instead of in person. I hope it will be in person one of these days.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure thing. How is it going?
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        It’s going well. Thank you very much for taking the time. We had actually planned to bring the whole team, the whole Asia team, to Taiwan. We were hoping this spring. Maybe we’ll just have to wait a little bit and we’ll still be able to go, because I’m very eager to bring the team to Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Looking forward to it.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Thanks so much for taking the time. I copied you on a letter that I sent to the President about what Google’s doing to try to be helpful. Actually, I should start with introducing my colleagues. Anita Chen. You can probably see…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Hi.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        Hi.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Hi. Long time no see… Not really.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Anita Chen">
+                    <p>
+                        Not seen each other in person.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. We work with each other quite closely.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        And Tina Lin. Can you see? There’s Tina.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Hi.
+                    </p>
+                </speech>
+                <speech by="#Tina Lin">
+                    <p>
+                        Hi. Hi, Audrey. This is Tina. I’m in charge of the Google Taiwan sales business in Taiwan. Nice to meet you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We worked together during the Mask 2.0, during the eMask for all sorts of different things. Thank you so much for all your support.
+                    </p>
+                </speech>
+                <speech by="#Tina Lin">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        There’s Lan there, Lan Chang.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Hi.
+                    </p>
+                </speech>
+                <speech by="#Lan Chang">
+                    <p>
+                        Hi. I cover communications in Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Awesome.
+                    </p>
+                </speech>
+                <speech by="#Lan Chang">
+                    <p>
+                        Nice to meet you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Nice meeting you.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        Because of social distancing, I actually have keep them away from me. They’re in the room.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Ted Osius">
+                    <p>
+                        Very safe. Good, good, good, good. We really do want to do what we can. Anita has shared with me a lot about what you all have been doing to deal with COVID. I have to say, it’s very fortunate that you have a vice president who’s an epidemiologist. How many around the world have such…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Actually, the epidemiologist because he literally wrote a textbook of epidemiology. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        That’s the right leader in the right place at the right time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Congratulations. Only 444 cases. I understand that now has been 28 days without new local case.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We are relaxing a lot of things. Our professional baseball now have thousands of old people in the audience. Life is migrating to the new normal now.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Wow, I can’t wait till that happens to the rest of the world. Congratulations. It’s so clear that SARS taught Taiwan so much about how to deal with a crisis like this.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        You’re way ahead of the rest of the world. The rest of the world is very eager to learn from your success. On the policy side, it’s really clear that you’ve had terrific, very smart, science-based policies. On technology, what have been some of the secrets? What are the ways you deployed technology?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Indeed, I must praise the ease of use of the Google Places and Map API, [laughs] because that’s literally how our mask rationing system hinges upon.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Good.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When we initially distributed the masks through convenience stores, there is a GDG, that’s Google Developer Group, in Tainan, one of the southern cities that’s very quickly become the cultural capital and is already the capital for food. You know how developers love good food, and so they have a group of people there that just started prototyping. It’s like Ushahidi if you know that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s people who voluntarily report how many convenience stores still have masks and how many of them are out of stock. It’s a crowd reporting tool, a collective intelligence system.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Fantastic.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Unlike many other map API providers, the GDG has already well-equipped themselves so that they can prototype it in a matter of minutes, not of days. That is essential, because then it showed everybody what is possible.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The very next Monday, I just presented that Google Map API visualization to our Premier saying that we really got to support this guy, especially because he’s, at that time, owes Google US$20k [laughs] in API credits. We really need to support him financially. I’m happy that, eventually, the CSR team wrote it off.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is a really good story of not your traditional PPP, which is the government setting the agenda for the private sector to enlist social sector support. Rather, this is the social sector setting the agenda, and they enlist the public sector to work with the private sector such as Google to realize their design. We become like vendors of those civic technologies.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is really the key of the success of the fairness, because then the real-time map let everybody see that a pharmacy distribution is fair. You can go to a pharmacy, swipe your NHI card, and see for yourself after a couple of minutes that the stock level decreased by nine.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s a participatory ledger, almost like a blockchain that increased everybody’s trust in each other. Instead of a daily publication, there’s a real-time publication.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Transparency is the key.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        You had already established a lot of credibility through policies that you’ve chosen as government. Then, you’re able to engage the social sector in a really positive and actually beneficial way.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        To trust them with open data, as we say.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        A lot of countries could learn from that. There are a lot of countries that follow a different model, where there is less transparency and where the social sector isn’t as supported as it is in Taiwan. I guess some of the ingredients you have because you’re a democracy, you’re a working democracy, and you have very energetic NGOs, very energetic civil society. That’s part of the story…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I was just talking to a journalist this morning from “WIRED.” I said that when we had the first presidential election in ‘96, the World Web is already part of the culture. People know that there’s a lot of things that could change because the power structure has massively changed with the World Web.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        During that time, in a decade or so, even our constitution went through six or seven revisions. Unlike many other older republican tradition, democracies, we don’t have hundreds of years of proud tradition.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        On the other hand, our constitution and our polity, the design of our administration and legislation is as malleable as the World Web itself. People really put a lot of energy into thinking innovation also about democracy, not just under democracy.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        That was ‘96. Was that Chen Shui-bian?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        The election…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The election of Lee Teng-hui in ‘96. Then the next term is Chen Shui-bian.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        That’s right. I should congratulate you also, this is now one year anniversary of marriage equality in Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        The first in Asia. I was Ambassador to Vietnam. At that time, I thought maybe Vietnam would be the first, but you’re the first.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Or Thailand, but we’re the first. We got ahead because we work in a way that connects intergenerational solidarity, because we introduced a truly innovative model that I call [non-English speech] , or we marry the bylaws, but not the in-laws.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That really convinced the people who are of elderly imagination of like, “The wedding is between a couple, but the marriage is between two families.” I’m like, “OK, so marriage equality is about the bylaws, the same rights and responsibilities, but it doesn’t marry the families.” Everybody happy with that. At least they can live with that.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        That’s a lesson that other Asian countries could learn. When I was in Vietnam, Vietnam was the first to enable transgender people to change their gender on their identity cards.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        That’s crucial if you’re trying to get health insurance. You’re trying to get health care, any kind of healthcare, that’s critical. It was a big step, and lots more steps to go towards equality.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. Definitely. Nowadays, in our famously digitized health declaration card when you fly in to Taipei, the other gender is displayed prominently, so that people from Australia or other places where the neutral gender is recognized, they can actually just tick that box.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Very soon, we will also roll out in our residence certificates as well, so that we’ll have this national ID number that allows for a gender-neutral and non-binary gender as well. That is for foreign nationals. That is another big step. People can choose to be non-binary in our software systems, not just in our legal systems.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        That’s fantastic. Congratulations. It’s been really interesting for us to see how committed President Tsai is to a digital economy, making your services available digitally, digital education. It’s, again, a model for much of the region. You have played not a small role in that whole process.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Mostly as a inspiration, I guess. [laughs] I’ve seen my name being used in Japan or in South Korea, but it doesn’t really sound like me or seem like me. It seems like they’re using a model of me to inspire their cabinet members. I’m fine with that remix, Creative Commons and all. [laughs] It doesn’t really seem like myself.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        As long as you’re associated with something you believe in and care about, then it’s OK.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. Exactly.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        I’m sure Anita has told you about this. We’ve been really happy to be able to provide ad grants that would be helpful to the government, to SMBs, because we want to be part of Taiwan’s economic recovery. Part of getting small businesses back up to speed, getting schools, students back up to speed. We feel like we will be able to contribute.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s awesome.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        If you have ideas, if you have other things that we could be doing and that we’re not yet doing, we are open.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re at the moment still at defending against coronavirus stage. Soon, we will migrate to the revitalization stage, as you said, the recovery stage. We don’t call it recovery because we never really had a lockdown. [laughs] We didn’t close at all. There’s nothing much to recover from, but we really want to revitalize the economy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s quite a few plans in the works that will encourage people to spend more on the SMBs, because it’s true that during the coronavirus, even though we had no lockdowns, you see a large boom in, for example, food delivery services, online platforms, and so on. They’re primarily ecommerce.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Conversely, the large gathering places, such as the wedding banquets, restaurants, and so on, they do suffer and they tend to be SMEs, and not chain convenience stores or things like that. We’re designing a stimulus package actually right after this video conference. I’ll keep you posted when it comes to fruition. There’s plenty of ways that Google can help.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Thank you. We would like to be involved. I also think it’s going to set the tone for others in the region. Yours is an open economy. I know that you are the first to get onboard planes and make sure people were safe getting on and off planes.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The first day of…
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        At some point, that’s got to start up again. Flights will start up again.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        You’ll have more imported cases. It’s not going to suddenly be OK. We’re not going to suddenly see blue skies. We feel like the economic recovery, such as it is, in the region in particular, is really a long-term process.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It is.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        We feel like the key is going to be small, medium-sized businesses, because they are what make up most of the economy in most of the countries in Asia Pacific.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s true. The MSMEs also, particularly it gives them the reason for digital transformation. Previously, many MSMEs has no reason to traditionally transform themselves because they have a flurry of business from the places that they used to run a physical store and things like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        During this time, everybody needs to pause a little bit and think how to digitally transform themselves. Indeed, the larger companies, on the other hand, probably all have business continuity and high availability plans in place. It’s crucially important that we offer the particular tools and the know-how of digitally transform the business itself, not just the way that it interacts with its customers.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        If I can…
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        There are three tools that we hope are going to be useful. There’s Digital Garage, there’s Google My Business, there’s the remote work page. All of those are skilling tools that we hope SMBs will take advantage of and help them move into this digital era that the President and you have been talking about.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        We want to make sure that they’re appropriate for the Taiwanese context, as well as for other contexts…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think Anita is trying to say something.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Go for it.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        I was just going to add a little bit about digital transformation SMB. This is something that I myself, Tina, and Lan here, we have actually been discussing with the Google Taiwan team. We’ll have more details in the coming weeks. It literally is centered around how we assist SMBs, especially important in Taiwan, because a large portion of the economy in Taiwan is SMB.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        Like Audrey said, they are particularly vulnerable to a economic downturn like this. We’re talking about how we’re going to use Google products and services to help them, and also provide them with the tools. Digital transformation, that is actually a topic that we actually have been working on even before COVID.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        At this point, it actually seems more important. I’ve been talking with Tina’s team on how we can help provide trainings, whether it’s Google tools or it’s non-Google tools. We want to go out there and talk to SMBs, and then really answer their questions.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        I’ve attended a few of those sessions. I found that sometimes even just a session to walk them through very simple things, it’s the peace of mind, it’s letting people know that, “Yes, you’re doing this right and yes, you can ask us questions, and you have support.” That really is important.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        All of these, hopefully, will come to some sort of a final package in a few weeks. Audrey, I will keep you posted when we have more details.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I really looking forward to it. You will coincide nicely with our own timeline for the stimulus package.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        That’s fantastic.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Good. The other thing we’re working really hard on is making sure that we’re putting out authoritative information. We’re an information company. We want our information to be as authoritative as possible. The good news in Taiwan is you have TCDC that has been putting out authoritative information.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        We’ve been able to steer people to that information, and not to the sources of the people who are trying to make money off the pandemic or those who are making up stories about medicine that are not accurate. We’ve actually literally removed millions of YouTube videos that were not accurate. We’ve been really, really ruthless during the…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’ve heard that from the more than 140 mask distribution app makers. They say that as soon as they put any advertisement on it, or as soon as they put a merchandise link, it just gets delisted from Google Play within minutes. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Nobody is allowed to profit from the accurate information thing. This is really nice.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        When think it’s really important. Look at the way you all have been acting during this crisis. You’ve sent 17 million masks to countries that needed them, 3.5 million to my country. I really appreciate it, because you geared up so fast. You’d learned so much from SARS, and you knew what to do.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        You were not profiting from this crisis. We are not seeking to profit from this crisis. We are seeking to help countries get back on their feet, businesses get back on their feet, and students get back on their feet. We think that’s going to be really important in the time to come.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Very much so.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Please, I’d love to continue this dialogue. I’d like to come and visit with you when we finally do get to Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        We’re really thrilled that the President was able to stop by our Google campus. We’re building a new engineering campus. Our numbers in Taiwan keep going up. A lot of talent there.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        After India, Taiwan is the second largest in Asia Pacific in terms of number of people hired, more than 2,000. We’re committed. The commitment continues. We really are determined to be as helpful as possible at this time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s great. I also welcome the news that this Trans-Pacific fiber optic line is getting to its final stages of approval. This is really symbolic geopolitically as well. It means that we’re firmly on the side of liberal democracy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re really happy to share exchanges that we had with Google, both on promoting renewable energy, responsible counter-disinformation strategies, and things like that. We don’t always agree 100 percent. At the end of it, we always end up with something that we can all live with.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is important, especially around East Asia, because all too often, many jurisdiction take a top-down approach when it comes to Internet governance. We’re adhering strictly to the Internet governance norms. We’d always do a norm-shaping before legalization. Anita also appreciate that [laughs] in our previous work.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        Yes, definitely. Ted, if I can add a few things.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Sure.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        I want to thank Audrey for all of her help. Last year, especially before the election, there was a lot of different opinions in Taiwan as to how the disinformation phenomena should be governed in Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        Audrey is a very important partner of ours. She helped us to communicate our position and our proactive measures to her other government fellows so they understand what is important, what is in at stake.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        I hope, Audrey, through 2019, all of the activities, initiatives that you and your fellow government officials now have a better idea of the proactive and self-voluntary measures that we’ve taken while ensuring that the Internet remains free and open.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Basically, you implemented our Control Yuan norms without us having to put a law to it. [laughs] This is the best…
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Much better that way.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Much better that way. Much better than the other way around.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        Exactly right.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        You had a successful election. You had a successful and fair election. Early in 2019, we all have a lot of worries about that, and how much misinformation might be used. I know we did a lot of training, both on the executive side and the legislative side, where we’ve been very committed to fact-checking of all kinds. We’re able to dig deep. In the end, it was a successful and fair election.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Everybody learned the importance of timely response and humor over rumor. Even now, the spokesdog of the CECC is still trendy among all the different age groups. It’s not just among young people, but the elderly also loved the Zongchai, the dog meme that shares hand sanitation rules and social distancing rules.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I would say that these trainings and these knowledge exchange sessions really played a large part.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        That’s really good to hear. I’m also happy to report, Audrey, that we’re continuing with similar activities, and actually expanding it this year. Now, of course, with COVID, we’re also being creative, shifting things to online. Again, I’m working on these plans. When I have more details that are confirmed, I will definitely let you know.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        This remains a very important priority for us in Taiwan. We continue to work with outside partners like Taiwan FactCheck Center or MyGoPen, and increase their capacity while we work together. Again, later, at a certain point, I’ll let you know when we have more confirmed details.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s great. I also personally learned a lot with the interactions in your workshops with YouTubers, journalists, and things like that. Because after going into the cabinet, I really haven’t practiced so much at this YouTuber know-how. [laughs] I get to learn from the best when they share that in your workshop.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I just had a recording session this morning with Ati, one of the YouTubers in Taiwan, on the taiwancanhelp.us campaign. That campaign, again, shows how the social sector can even take public diplomacy and uplift it into a very successful, not just social media campaign, but actually real-world campaign where there’s a lot of offline support after “The New York Times” advertisement as well.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        YouTube also played quite a part in making this a reality.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        The Vice President has been a good user of YouTube. Getting out there and talking to Bloomberg Johns Hopkins School of Public Health. Johns Hopkins has been one of the most authoritative sources for the world on COVID.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        It was really interesting to see him have an exchange with the dean there, because he’s an epidemiologist. He knows what he’s talking about. Just when he speaks, he’s putting out authoritative information on the virus. He’s also putting out wise policy advice, science-based policy advice.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        I just wish the rest of the world would listen. Some parts of the world are listening. Some parts haven’t been so good about listening.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The crash course that VP Chen Chien-jen recorded, a crash course on epidemiology is on YouTube. It’s being translated into 17 languages or something. That’s also something that you can talk to Ati and how to amplify that message. It’s right on the front page of taiwancanhelp.us.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        That’s amazing. That’s what we need to be able to do. We need to be able to put out information people who know what they’re talking about are sharing, and he certainly does.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        On this topic of YouTuber, Ted, I may have included in one of my reports. One of the different characteristics of Taiwan’s YouTuber community is that they really like to work together. In early March, they actually came up with this idea of how about we…About seven of them, they recorded a clip, because they are all very popular. They all have a lot of viewers.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        Record a clip to tell people, “How do you wash your hand properly? Where do you need to wear a mask?” They also talk about, “Do not panic. This is a time that we work together. If we all work together, we’ll get through the crisis.” They did this completely voluntarily and worked with us. That is really something, a really phenomenal project that you don’t see a lot in other places.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s a genuine vaccine against the infodemic.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Exactly. That’s the reverse of what we’re talking about, those who are trying to take advantage of the pandemic to make money. 23 million citizens need to know what to do to stay safe, and they want to help those 23 million citizens. It’s quite an inspiration.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        I don’t know if, Audrey, you have question for us, or if, Ted, you have any further questions for Audrey. I’m happy to continue this inspiring discussion, but I also know that both of you have a lot of other missions and duties.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I need to explain my radical transparency ideas. We make a transcript of this conversation. We will not publish the video unless you do. We’ll send the transcript over for you to edit as you see fit. You can change any part that you have said. We publish usually after 10 days. That is my rule entering the cabinet for all the conversations, interview, and even internal meetings that I chair.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Great. I’m all in favor of transparency. Transparency is a way to govern well, is to use radical transparency, if you will. That’s good governance, in my view.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Excellent.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Great.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s the only thing. Very nice meeting you and looking forward to meet you in person, where we don’t have to wear a mask each. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        I look forward to that, too.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        Before we all sign off, can I take a photo of the two of you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Sure.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        Let me turn off my own camera, so it’s only the two of you. Audrey, you need to maybe either push your computer back a little or you move your chair like this.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Like this?
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        Yes, this is good. Hit Ctrl-Cmd-3.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Anita Chen">
+                    <p>
+                        Ready, guys?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Mm-hmm.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        One, two, three. Wait, Cmd-Shift-3. Sorry.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Anita Chen">
+                    <p>
+                        Sorry. False alarm. Ready? One, two, three. One more. One, two, three. Perfect.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Awesome.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        Thank you so much, both.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        I look forward to meeting you in person.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Very much so.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        We’re going to come and have some good meals in Taipei, and learn about all that you’re doing. We’re inspired by your model.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Very much so. Have a good local time. See you next time.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Thanks very much.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Cheers.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        Thank you, Audrey.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Bye.
+                    </p>
+                </speech>
+                <speech by="#Anita Chen">
+                    <p>
+                        Thank you, Ted.
+                    </p>
+                </speech>
+                <speech by="#Ted Osius">
+                    <p>
+                        Bye. Thanks, Anita.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
