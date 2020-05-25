@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-04-22 陳○宇來訪
+                </heading>
+                <speech by="#唐鳳">
+                    <p>
+                        感謝詢問。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        其實資安處這次做電子圍籬的三角定位，並沒有管是什麼型號的APP，也不管手機長什麼樣、用了幾層的VPN，只要還在用4G，基地台就知道它的位置，所以等於跳過了上面各層。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        從各大電信的角度來看，他們畫三個圓就知道在哪裡，解析度幾十公尺左右。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        如果是別的電信商，當然不可能取得他的註冊資料。
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
