@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Sean Moss-Pultz" id="Sean Moss-Pultz" showAs="Sean Moss-Pultz"/>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+                <TLCPerson href="/ontology/person/::/Casey Alt" id="Casey Alt" showAs="Casey Alt"/>
+                <TLCPerson href="/ontology/person/::/Joel Chen" id="Joel Chen" showAs="Joel Chen"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-06-03 Sean Moss-Pultz visits
+                </heading>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        …I’m actually super excited about Cohack.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Congrats on winning!
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Thank you. Thank you. It really helped with UC Berkeley. The School of Public Health there is tasked with how to reopen the campus.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        We did work with them three years ago. They have a new Dean now, and so these past two weeks it’s been nonstop meetings, trying to figure out how we can help. There’s a bunch of really good stuff there.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Berkeley really wants to work with Taiwan. They think that there’s this amazing cohort in Taiwan that they would love to be able to study.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Cohort of civic technologists?
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        You got it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        But not cohort of confirmed…
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        People. People’s data. Both.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …cases? Both, including confirmed cases?
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Yeah. Out of Cohack came two amazing things. First is we met Dr. Ho at Sinica. She has been a huge help.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I know.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        The new stuff we’re doing with our app now relates to nutrition, so she was showing us from age 7 to age 12 the youth in Taiwan already have the biomarkers for prediabetes. It was blowing my mind.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        We’re doing all kinds of cool stuff to combine nutrition.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s awesome. When we’re in the jury panel we see Dr. Ho’s name. I’m like, “Wait, did you hire her?”
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        I can’t afford her.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. She’s the authority of these matters.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        She’s so awesome. This is recorded. It will come out the wrong way, but she reminds so much of my mom.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        From the youngest of age my mom always told me about the benefits of nutrition. “Take care of your health. Your health is the most important thing.”
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        We originally wanted her help with Cohack, but then as we talked the stuff that Casey and I are interested in, both physical health, mental health, before we spoke about the social media…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Precision public health.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        You got it. That’s what she wants to do. She doesn’t know software. I’m like, “OK, we know software. We don’t know health and nutrition.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s perfectly complementary.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        We’ve been meeting with her at least once a week since then.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Wow. She’s like your real mentor now?
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        She’s a full-on mentor. She’s awesome. She’s like, “Look at these figures.” She’s like, “I’m not a medical person. I’m public health, but look at these numbers.”
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        She’s like, “If I saw these numbers I couldn’t sleep at night. What are we doing?”
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        The backdrop of all of this is that because of Cohack we got Dr. Ho. UC Berkeley is really excited, “How do we do US-Taiwan study of public health?” so today, mainly, I want to ask for your help navigating.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        There’s three things. When we first showed you the app that we were working on you said, “Hey, maybe do it Web-based.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right, because at that point you were not using many of the cell phone sensors.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        That’s right. We’re adding more and more of those cell phone sensors – health, nutrition, location, all this kind of stuff. We have a practical problem in that Apple and Google block anybody that’s not an institution or university.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you do a Web app, no such…?
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Correct, but there’s enough still in our app that we need to be mobile. What we’re trying to do now is essentially, “I’m in this location. Can I show you places that have nutritious food, places you can exercise?”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s like the mask map. Many of them are Web apps.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        This is interesting. I will push the team to look into that direction again.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Go ahead. I don’t mean to interrupt you.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        No, this is interesting. We’ll definitely look at that again.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        The one thing that we are trying to do is to nudge people through notifications, but then I don’t know. It feels like people have almost managed to crack progressive Web apps to do notifications. We’ll bring this back.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        What I would love your help on is, first, to know are there any institutions that you feel in Taiwan – and we can think about this very creatively. It doesn’t need to be CDC, for example – that we can partner to work on this neighborhood public health.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        In my mind I’ve been crazy inspired by SpaceX and NASA, how you have private and public together. It’s so inspiring.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        What Dr. Ho was showing us was all of this data that CDC is releasing, but they’re mainly releasing it as PDFs. She’s like, “If you just put this into an app and it became location based…”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Aware of that.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        I would be curious, is there any institutions that you felt we could talk to?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Obviously, the whole Cohack organizers.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        That’s the purpose of it, right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The Cohack organizers. Cohack is run by the Board of Science and Technology. The main institution that supports them is the III.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        That’s why they reached out, then? I’m meeting with them next week.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. You can quote me on it.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        [laughs] Good.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You can quote me in saying that there should be more business-to-government relationships when it comes to counter-coronavirus efforts.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Just as we donated a lot of medical mask to international humanitarian aid, we should also dedicated in a open source manner all our solutions to the epidemic, including the ones that Taiwan have not deployed because of the lack of community spread stage, but we should, nevertheless, support other jurisdictions in doing that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        III is focused on the digital transformation of the government and the way the government works. If they can help the business community, including medical mask makers, to get this “Taiwan Can Help” brought out to everybody, then every digital governance tool should be part of this so-called national team on the “Taiwan Can Help” club.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Who else is in this club? You have…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’ve got the medical mask manufacturer. They are now producing a micro-factory that can churn out two million medical masks a day, 24 hours a day. The government, the other economy has to only provide the plots of land, electricity, and water.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Really?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, so that’s something.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        That’s amazing.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Once you churn out those masks you have to distribute it evenly and have the social innovation that incentivize people to start building the habit of wearing mask, which is far from universal. At which point things like autonomy begin to play a part because it’s essentially a habit-forming tool.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        That’s what we’re trying to do.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You can quote me on that.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        I love this.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        III could help you bring this through.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        I brought my notes. The other thing is the NDF has an angel fund. They have three different funds.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m aware of that.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        We’re in the final stages of the process. Our application was accepted.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yay.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Yes. That would be an investment. What I would also like, how can I find if are there government projects that need infrastructure?
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        We want to build open infrastructure. That’s how we see what we’re doing. With UC Berkeley they’re connecting us now to…Public health offices in the US is county-based.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m aware of that.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        They’re connecting us, and we’re trying to figure out how do we build, let’s call it, next-generation public health infrastructure. What I’m curious of is does Taiwan have any of that kind of thing?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, but it boils down to the NHI and pre-NHI. Everything that’s covered by the National Health insurance is…
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Would they also cover public health? Is that under the same umbrella?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If it’s chronic disease management, that is both Health Promotion Administration, HPA, and also NHI, because it uses insurance money, so that’s naturally NHI.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        HPA, Health Prevention.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        HPA is trying not to use NHI money by preventing you from getting sick in the first place.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Intervention and prevention?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right, exactly.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Who does the prevention?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Prevention is the HPA.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        HPA?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The Health Promotion Administration.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Who are they under?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Both are under the MOHW, the Ministry of Health and Welfare.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Do they ever give government contracts to private companies?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, of course. They contracted out some websites and apps. They even get selected to the second round of Presidential Hackathon, which means that you can join the…
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Which means we can collaborate with them, right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly. They have a very interesting topic that works with the weather bureau.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Really?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. The weather bureau partnership is quite surprising, because you wouldn’t think that it has anything to do with public health, but then they work on this kind of heat damage prevention.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The idea is that it can do a precision notification so that the people who anticipate that there is going to be a heat wave or something, they can change their habits, like maybe get a sun umbrella or something, so that they don’t end up using NHI money.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Focus on the prevention, right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. They are team 189. That’s both the Central Weather Bureau and a promotion agency, but you mostly want to talk to the HPA part of it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course, there’s nothing that says your application cannot connect to the Central Weather Bureau data. They do provide quite some good data when it comes to, for example, respiratory diseases, like if air pollution there was high probably you should stay indoors, or something like that, or wear a mask.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        This is awesome. This is really, really good.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You can volunteer and maybe join the team.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        If we wanted to connect US and Taiwan…we can be even more specific. Let’s say Berkeley and…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        And the research institution.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Academia Sinica, right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        How would you go about doing that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Talk to Professor Ho. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        She’ll know?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, because we in the administration, we have no control over Academia Sinica. The Sinica is under the President’s office, so they are not part of the Minister of Science, Education, or anything, which means we can’t really touch Academia Sinica.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It helps, of course, that our previous Vice President is a academician, and the top authority on epidemiology.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You actually have a connection there, through Dr. Ho.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        We do now, yes. She would be good to help navigate this one?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Very much so.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Perfect, because so many people are looking to the public health people to figure out how to open things up, but then the public health people are like, “We don’t have the data to open it up.”
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        The US right now is riots and rockets. It’s complete chaos. We’re trying to export some of the good stuff that Taiwan did over there.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I see that.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        That’s great. The new dean, Michael Lu is his name. He’s Taiwanese. The School of Public Health. There’s such roots between Berkeley and…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Natural connections.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Yes. How should we think of, say, academia or hospitals? NTU, either as a hospital or as a university, versus Sinica? How does the government look at these in terms of public health?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sinica does research, so Sinica doesn’t quite do application-level stuff. More science, less technology. NTUH is science and technology.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The more industrial, the less applicable is Academia Sinica, but Academia Sinica is also very happy to work with the people who want to…for example, when they’re working on this rapid testing stuff, then they still need to partner with the industry.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For NTUH they have this natural ecosystem of makers that can help translate any idea into application, into industry. Our previous Minister of Science and Technology is famous for that.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        This is so good. Those are all my questions related to autonomy, navigating how to connect US and Taiwan. Do you have any other things that are on your mind about that?
+                    </p>
+                </speech>
+                <speech by="#Casey Alt">
+                    <p>
+                        That’s everything we talked about.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This gentleman with a ice stick is a aforementioned foreign service delegate to our office…
+                    </p>
+                </speech>
+                <speech by="#Joel Chen">
+                    <p>
+                        Nice to meet you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …and is, in fact, in charge of Cohack. Joel, meet our Cohack winner. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Joel Chen">
+                    <p>
+                        Wow. Really? Where are you from?
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        California.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They’re looking to build institutional collaboration between UC Berkeley – the dean is Taiwanese – and with local research institutions, because III runs the Cohack. They’re going to meet with III, so it’s a great bridge as a part of the U.S.-Taiwan… Sorry, I should say Taiwan-U.S. joint statement here…
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …for coronavirus prevention, this is one of the flagship cases where the III is already looking to export the medical mask and the digital governance know-hows. Having someone who speak both culture is great as our digital ambassador.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        We want to export software.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Because the US really needs different software. The hardware’s OK, people are still good, but you have to reload the software.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Governance software.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        It’s really bad. It’s falling apart.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Anyway, this is so that you can make acquaintances.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Yeah, this is so cool.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s fine. It’s fine.
+                    </p>
+                </speech>
+                <speech by="#Joel Chen">
+                    <p>
+                        I’ll keep your attention now.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Please.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is Joel.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Joel? Sean. This is Casey.
+                    </p>
+                </speech>
+                <speech by="#Joel Chen">
+                    <p>
+                        Nice to meet you.
+                    </p>
+                </speech>
+                <speech by="#Casey Alt">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s pretty much it? Anything from you?
+                    </p>
+                </speech>
+                <speech by="#Casey Alt">
+                    <p>
+                        No. Did you want to ask about the…?
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        I have another set of questions, but those are all the…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Set B?
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        This is plan B questions.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We have 14 minutes. Go for it.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        This guy, Daniel Schmachtenberger, I’ve never heard of him before. Casey found the podcast, “The Portal,” the podcast that I’m a big fan of. This guy is super, super interesting.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        We have both been involved with RadicalxChange and looking for tools besides private property, capitalism, what comes next. This Daniel Schmachtenberger guy has all of these fascinating ideas around non-rivalrous stuff.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. Kanban.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Are you aware of any other likeminded efforts or people in Taiwan that we can connect with, that we can try some of these ideas?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        A lot.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Pretty much half the people who come to my office are.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        I’ll look at your transcripts, then find people, and then…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Seriously, like Rufus Pollock, obviously. He created the Open Knowledge Foundation. That’s the Open Data Index. Author of the book “The Open Revolution,” probably think along extremely similar lines. His team, most of them are in Taiwan now.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Really?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you go to Taiwan around this month you don’t want to go back anywhere. Many of them are trapped in the bubble.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Casey Alt">
+                    <p>
+                        It’s a good bubble to be trapped in.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a good bubble.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        There’s three people that work for Peter Schwabe, one of our advisors, in Amsterdam. They’re postdocs. They happened to be stuck at Academic Sinica, and now they’re stuck for a year.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. There’s Ray Chan and Joe Hsueh.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Joe?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They were there when Otto Scharmer of the Theory U, they organized this meeting with this Theory U thinker.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Theory U it’s called?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Theory U. U as in the letter.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s many things. Looking at my transcripts…
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        That’s what I’ve got to do.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …most thinkers here share very similar lines of thought. I’m this natural attractor.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Can you share a little bit about the history of g0v? I read it through a Westerners lens, but I’m curious what is it doing now? How did it come about?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I wrote, along with many g0v contributors, something called “The First Year of g0v.”
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Is there an English version of this?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course. If you google for First Year of g0v, with a zero in it, you will find it. There’s also Japanese version. That goes through all the whys, what, and whos. If you have any follow-up questions it’s easier if you first read this.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Are there other efforts like this that I should be aware of here in Taiwan, or is this the main you think that’s really…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s many ones like this, but g0v is particularly good because in g0v hackathons most of the other movements will show of to recruit. The next large one is the g0v summit 2020. That’s in Tainan.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        When is this?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s December 3 to 6th.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Good, we still have time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Tainan, the cultural and food capital of Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Tainan is the best weather.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The best food.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        The best food.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Best culture.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        I had Niurou Tang for breakfast. It’s like heaven. It was unbelievable.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Unbelievable. I totally agree. I believe that.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        It’s so good.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s very, very believable to me.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        It was the most amazing. I am like…My friend, he says, “We’re going to go get beef soup for breakfast.” I’m like, “For breakfast? Seriously?” It was 6:00 AM.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        He’s like, “Get out of bed. It’s going to be gone by 7:00 if you don’t go.” [laughs]
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        This is Scott. It’s so funny.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Until next time.
+                    </p>
+                </speech>
+                <speech by="#Casey Alt">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Thanks again for everything.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Feel free to quote me when you talk to the III.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Really appreciate it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think they’ll be very interested.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Good. This is my first time here.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        I like this.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Much better than the administration building.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        For sure.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is a park.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        When did that wall come down?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m sorry?
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        The big wall.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Three weeks ago.
+                    </p>
+                </speech>
+                <speech by="#Sean Moss-Pultz">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
