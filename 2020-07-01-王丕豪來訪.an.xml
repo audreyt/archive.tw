@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳"/>
+                <TLCPerson href="/ontology/person/::/王丕豪" id="王丕豪" showAs="王丕豪"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-07-01 王丕豪來訪
+                </heading>
+                <speech by="#唐鳳">
+                    <p>
+                        您好。原本是約 10 點，您提早到 8 點 45 就來了？
+                    </p>
+                </speech>
+                <speech by="#王丕豪">
+                    <p>
+                        報告政委，我認為公司或企業應適時正合時宜，不以營利為最大目標，維持社會的使命感，並回到勿忘初衷。
+                    </p>
+                </speech>
+                <speech by="#王丕豪">
+                    <p>
+                        敝公司也朝著發展體育教育、不遺餘力，並關懷人文教育及品德教育札根固本，也持續關懷水污染對大自然的影響，甚至並共存共榮。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        瞭解。
+                    </p>
+                </speech>
+                <speech by="#王丕豪">
+                    <p>
+                        報告政委，丕豪日前就讀比利時日立列日大學高階企業管理碩士，順利通過畢業確定屬實，與您分享。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        恭喜。
+                    </p>
+                </speech>
+                <speech by="#王丕豪">
+                    <p>
+                        丕豪我還有事，請先辭席。感恩有您！
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (合照)
+
+                        </i>
+                    </p>
+                </narrative>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
