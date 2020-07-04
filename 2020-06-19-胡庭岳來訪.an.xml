@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/胡庭岳" id="胡庭岳" showAs="胡庭岳"/>
+                <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-06-19 胡庭岳來訪
+                </heading>
+                <speech by="#胡庭岳">
+                    <p>
+                        所以我應該要先問……
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        您好。你是這邊的進駐團隊嗎？
+                    </p>
+                </speech>
+                <speech by="#胡庭岳">
+                    <p>
+                        不是。我應該先講做什麼，然後再給你思考。
+                    </p>
+                </speech>
+                <speech by="#胡庭岳">
+                    <p>
+                        我問一些私人的問題，你會用番茄鐘做工作，您一個禮拜會花多少時間在閱讀新資訊？
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        隨時都在閱讀新資訊，像現在也是在閱讀新的資訊。
+                    </p>
+                </speech>
+                <speech by="#胡庭岳">
+                    <p>
+                        比如像報章雜誌？
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        你是說紙嗎？完全沒有。
+                    </p>
+                </speech>
+                <speech by="#胡庭岳">
+                    <p>
+                        我知道你是把紙變成電子書。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我沒有看紙的習慣，如果有人給我紙本，我希望給我電子檔。
+                    </p>
+                </speech>
+                <speech by="#胡庭岳">
+                    <p>
+                        我是指你大概花多少的時間在閱讀？
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        隨時都在閱讀。
+                    </p>
+                </speech>
+                <speech by="#胡庭岳">
+                    <p>
+                        你口罩這一段時間都滿忙的？
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        還是在閱讀。因為我們要建置實名制系統等等，像系統的特性、規格，還有閱讀別人的程式碼，也是閱讀。
+                    </p>
+                </speech>
+                <speech by="#胡庭岳">
+                    <p>
+                        如何可以跟您成為朋友？
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        是說像FB加友嗎？
+                    </p>
+                </speech>
+                <speech by="#胡庭岳">
+                    <p>
+                        像您跟朋友的互動。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        你如果只是要在FB上加我當朋友，那當然，因為你現在來，我們已經見過面了，所以就按加朋友就好了，這應該是沒有問題的。
+                    </p>
+                </speech>
+                <speech by="#胡庭岳">
+                    <p>
+                        對。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        那就加。
+                    </p>
+                </speech>
+                <speech by="#胡庭岳">
+                    <p>
+                        你是一個很厲害的人。一般來說，朋友做什麼事您會覺得被打擾？
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        應該還好。
+                    </p>
+                </speech>
+                <speech by="#胡庭岳">
+                    <p>
+                        謝謝你的時間。謝謝您和筱婷和逐字稿老師。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        謝謝。
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
