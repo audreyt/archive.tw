@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Nick Aspinwall" id="Nick Aspinwall" showAs="Nick Aspinwall"/>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-06-16 Nick Aspinwall visits
+                </heading>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        All right. I’ll start recording this one.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Great. Thank you. Good to see you again. We’ll just get started. There have been so many developments within Taiwan and with the world’s understanding of Taiwan as the pandemic continues.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        I think there’s a lot of interest not only in what Taiwan has done and your role in that. We’ve heard so much about that, but also the role that Taiwan continues to play going forward.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        “Taiwan Can Help” finally meant something.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Taiwan can help. It’s become very recognizable around the world. We’ve seen on Twitter people from other countries. I want to start by asking about Taiwan’s continued role. Of course, Taiwan has donated millions of masks. They have done some more recent developments in offering to…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Build those manufacturing plants
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Right. Factories for surgical masks that can be N95, N98 as well.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …or N95, whatever.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Right. Also, there were apps developed here within Taiwan, for social distancing, and for coronavirus information that…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …and the Mask Map, Availability Map.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        The Mask Map, of course.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s been used in South Korea already.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Absolutely. We’ll definitely get into that. That’s been a really fascinating development. I just want to ask, first of all about the recent interest abroad in these ways that Taiwan can provide direct assistance.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure. First of all, it’s all listed in taiwancanhelp.us. The great thing is that, that’s not even a government website. It’s a crowdsource crowdfunded website by Aaron Niang and friends, that asked who can help Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think it’s a social sector message that says, for example, “The mask donations were dedicated by more than 600,000 Taiwanese people. Half of them choose to publish their name, so you can see how much I contributed to my uncollected mask quota. All together, more than 5 million masks dedicated this way.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a message from the Taiwanese people, not just the Taiwan government or the Minister of Foreign Affairs. The same goes to the mask manufacturing plant. Some of them were doing far more advanced manufacturing, but they applied their know-how, and is willing to transfer those blueprints, so that you as a receiving jurisdiction would own the plant, including all the technologies in it. That was plenty of three tons per day or more to do other PPEs, such as the protective gears, and so on. I think this is really a made in Taiwan, has a double meaning now.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        One is the kind of quality of the PPEs, and one is the blueprints, the process is also made in Taiwan. That also then, covers the social distancing app also from the social sector, the contact tracing log board, which allows people to log their everyday health information, and when a medical officer comes to them, they will review this one time link with absolutely minimal information.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That still allow the contact tracer to do their work without divulging the private information of their friends and families as would in their traditional interview, and so on. All of this is also listed in the cohack hackathon, at cohack.tw
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Of course. I want to jump ahead, and then, I’ll go back a bit regarding the contact tracing and the information apps, the social distancing apps. Of course, those apps weren’t really used in Taiwan, because they were developed…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, because we’re now post pandemic.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Of course.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …comes, which is a proof of that.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We will not do that during the pandemic.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        That’s very true. It still is very amazing that we’re able to shake hands here in Taiwan. Yes, the contact tracing was used here. Of course, this is something where in, in much of the world contact tracing initiatives are bringing up all sorts of privacy concerns, things, digital surveillance.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        These are things that happened in Taiwan, but there’s been, at least from my observation, something that I know you’ve played a role in, is that there was always a very strong trust between society, government, and the technology that was being used.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because it’s only done at the borders. I mean, the surveillance, the digital fence, it’s only done at the border, at the airport, in the seaports. There’s always another choice. You can choose a physical quarantine hotel, if you don’t like your phone being tracked for 14 days.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Of course. Can you explain just a little bit more just about…Because we’ve seen this in the past in Taiwan’s relationship with tech. The civic trust between, once again, society, government, and technology, has been quite strong. It’s something that regardless of…Even if Taiwan’s contact tracing technology was adopted in the US, there may be a lot of people who are just refusing to or…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Do you mean, are the telecoms able to send SMS to the police? [laughs]
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Exactly. I know that goes beyond tech. That’s a multifaceted relationship. I just wonder your thoughts on, because we’ve seen in Taiwan, how of course it’s never flawless, but there has been a development of that trust.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. However, I would not credit it to the government. The government, of course have done things right, especially our top epidemiologist, also vice-president, Chen Chien-jen, [laughs] did a lot of things right. What we call advanced deployment of all the measures. At the root is the social mobilization that stemmed out of a collective memory, traumatic memory of the 2003 SARS incident.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        People know the drill literally because we run yearly drills as if SARS have happened again in all the important medical centers, clinics, medical officer, and even the CECC itself was designed as explicitly to solve the chaotic communication issue that we experienced in 2003.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You can look at the other jurisdictions that suffers similarly in 2003 such as Hong Kong, where people instinctively know that they need medical mask, that physical distancing is to be observed. Even though maybe they do not have a government that trust them to the extent that Taiwan does.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Still, they’re doing quite well because the social mobilization helped to provide the PPEs and physical distancing, other scientific knowledge about SARS 2.0 because it’s not SARS 1.0 after all, but what I’m trying to get is that as long the society is aware of the science behind it, they always come up with social innovations that control the R0 value. That is the real societal inoculation.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Of course. You mentioned that collective memory of SARS. This is something, of course, that much of the world doesn’t have, but now we see countries such as the US, European countries that are attempting to reopen. There are fears in many of these countries that there could be second outbreaks.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Whether or not that happens, this is an opportunity potentially. Something that I’ve noticed with Taiwan is that there has been a lot of sharing of everything Taiwan did right at the beginning, but for some countries, it’s already a bit too late, unfortunately.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No, well, once you had a lockdown, you will be back to where we were in February.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        That’s right, and that’s precisely it. That if you are going back to that stage, there are plenty of ways that it can be improved. Do you think that there are…Perhaps we can start with the US. I’m interested in the conversations you’ve had with people.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        With other epicenters.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Right, exactly. I know in the US, by my understanding, and I think you’ve talked to people more local levels, state levels because the responses are coordinated there. What have those interactions been like?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Pretty good. We worked with the civic technologies across the world, not just in the US. We do also work in the federal level too because the State Department, after all, is a co-sponsor to the cohack hackathon. It’s a part of the Taiwan-US joint statements to beat the coronavirus.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re not skipping the federal is what I’m saying, but on the state level, there is two things that I think are immediately exportable. One is this hotline. Everybody can pick up a phone, call 1922, and ask whatever they want to ask about the coronavirus and get a very sympathetic answer. It’s a very old technology. It’s called telephone, landline, and is a call center. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you cover with a good knowledge-base system, you can build interactive chat bots that empower not only the call center operators, but also people using voice assistants such as Siri, or Alexa, or Google Voice. That’s what some state have done. New Jersey have built Ask a Scientist based on that sort of technology. Just as our CECC did with Google Voice Assistant.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        That’s right. Of course, so you mentioned that’s one exportable technology. Are there other immediately exportable things, whether technology or just…Once we have lessons from Taiwan just building this process?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, I think the medical mask is a very interesting case because in Taiwan, it’s built as something that protect the wearer from themselves. I’m wearing a mask to show signal that I’m not going to touch my face with unwashed hands, that I’m going to use the soap very vigorously. This is a very different signal.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’ve seen variously in other jurisdiction that people say, “Oh, you wear a mask to protect other people. You wear a mask to show respect. You wear a mask to whatever,” but if it appeals to mostly altruistic and not selfish interests, as Taiwan does, actually, it has a harder time to spread.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because when you build that’s something that’s entirely selfish, like protecting myself from my hands, it enabled me to take care of my friend and family’s health by reminding them to take care of themselves, which a very natural thing to do.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        But if I am going to tell my friend, “You have to wear a mask to respect me,” that doesn’t quite work, and so the incentive design itself is a teller model that’s immediately exportable along with those very cute dog picture dresses this time.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Right, of course, and those have also been exported globally and got plenty of reactions. For this idea of the mask as something that signals you are…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Wash your hands and don’t touch your face.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        …being responsible. I know you’ve talked about how important sensitization, and so is indeed, then the mask becomes that signal that I’m being responsible. I’m preventing. I’m raising my chances of not spreading it.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        What is your experience been like when you engage with people in a place like the United States where we’ve seen that message has not resonated as quickly everywhere?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. Because there was already a signal that’s associated with medical mask that says, “Basically, I’m a sick person,” so it’s very hard to break that association. [finger snaps] Just like that, even though the Czech Republic did exactly that. It was the Mask for All campaign, 
+                        <a name="" id="Ma" style="cursor: default; color: black; background: lightgreen;">
+                            MaskForAll or 
+                        </a>
+                        MasksForAll, anyway.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In any case, the Czech Republic, I think, largely succeeded because they did not insist on where the mask comes from. It could be from your old T-shirt. It could be whatever. But then, the important thing is that people share ever more innovative way to make mask out of pretty much any material. It could be your vacuum cleaner’s filter or whatever.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’ve watched quite a few fun videos of that DIY, [laughs] do-it-yourself mask making. That becomes something of a social innovation, meaning that people who have a better idea gain social status by sharing a more creative way to make mask.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That, I think, has its benefit because if you insist on reusing the old idea, that N95 or medical mask protects the wearer better or protects other people better, it’s hard to shape the old association that is for ill people, so I would of course recommend to use still very light – because it’s summer after all – material, but that doesn’t look quite like a medical mask.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, we use those protective shielding or the cold gel towel, the outer protective layer that you can swap the medical mask so it doesn’t look like you’re wearing a medical mask. It looks like you’re wearing a fashion item.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        When you speak to people in epicenters in the US including officials, is this a message that is resonating there? Is this something that you feel like there’s a chance of it picking up?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think yes. Even the WHO changed their stance, right?
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        That’s correct.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now, they’re advising everybody in the places where there’s community spread to wear a fabric mask. That’s essentially the same message as Taiwan has been sending for. Oh, I don’t know it’s five months now. [laughs] We’re happy that the WHO is on board.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        I want to just go back to the mask…I forget how you’ve determined, but just like the…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The mask map.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Yeah, the mask map, the system where you can locate masks, which, as you said, has been adopted in South Korea. Is this something that you are still in conversations to potentially export to other countries? I know that there’s been…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, definitely.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Is there anything that maybe happening in the near future?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because it’s on GitHub, so maybe, many epicenters are already using that, and they don’t have to tell us.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        That’s right. That’s for all.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s the beauty of it.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        It’s open source.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s all open source, and so because now we’re reusing this. We’re creating a post office map to map the triple stimulus vouchers availability, because summer is hotter, right? [laughs] We need that even more. We’re using basically older code that the people have written.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Specifically, we’ve said that each post office needs to offer exactly the same API, as Finjan Qiang Jao Min Zhong designed for the mask map, and so that order 140 clients can very easily be repurposed to show where the stimulus vouchers are.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think that is going to be very helpful to not only share the front-end code, which is the chat bot and maps, but also the API server, so that anyone with any connection was a bit convenient – store, pharmacies, all those places where people can get their PPEs.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They can just hook on to their own database to that API server, and starting get access to not just finch and count snap, but 140 different implementations from Taiwan. The beauty of it is that they don’t need to tell us. It is all open-source.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        It’s freely available.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s freely available.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Going back to Taiwan Can Help, this has been, of course, a message to the world that things like this are available, assistance is available, but it’s also been in a sense…I’ll see how you would characterize it, but it’s been a way for Taiwan to brand itself as well.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        For people who didn’t know that much about Taiwan is doing how it’s responding to gain awareness. In much of the world, I know there are many countries where just awareness of Taiwan has…Even my relatives and friends in the US, who knew nothing about…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Or, maybe poverty. Surely poverty. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        They knew poverty. It might have done it.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        When COVID-19 happened, they suddenly knew a lot more. I know that Taiwan has also been donating masks and engaging other initiatives in the Global South and developing nations, including some countries, especially in Southeast Asia, Africa, and Latin America, which do not have deep ties with Taiwan and in many cases have very deep ties with the PRC.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Well, it’s the humanitarian, right?
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Of course.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In humanitarian work, you do not pick, whether you have diplomatic ties or not. You look at which epicenter suffers the most, and then do work there.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Right, of course. The question is more about, in these countries, there may be very little awareness of what Taiwan has to offer. If you engage at societal, local levels, there is probably a lot of interest even.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Then the first thing that has to happen is they know what Taiwan is, what it has to offer. In some of these places, there is also very little trust in the national governments. You don’t have this nexus of trust that may exist in Taiwan. How have you been able to get around that when you are…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s why open technologies work. Their civic sector can just download our code from GitHub and start setting up distribution centers even without states’ approval. That’s how our occupy movement, the Sunflower Movement basically just export the entire software stack to the Umbrella Movement to Hong Kong.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s not because we have an official tie with Hong Kong. [laughs] Somehow it says, “Oh, we see you’re going to do an occupy — Let’s do a MOU.” Of course, it didn’t happen like that. Is the Hong Kong activist look at what happened in Taiwan, learned about the techniques, and then improving it until it’s now entirely leaderless.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, we still have like 20 leaders, but in Hong Kong now, 20,000 leaders. What I’m trying to say is that we don’t see that this is branded Taiwan. You can white label the spirit of social innovation. That’s to the best because for it to gain acceptance it need to have a social incentive that align with the local norm.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you keep saying that this comes from Taiwan without people understanding what Taiwan stands for, that doesn’t necessarily translate to better incentive design.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you just say, “I know a place that managed to fight off the pandemic without a lockdown and fight off the infodemic without a takedown,” these words by itself have the power to convince the social sector, or the fast fear fun, or humor over rumor. For those memes to grow, it’s more important than the brand Made in Taiwan to grow.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Is this something that we’ve seen where a community in a decentralized way has adopted this technology in countries? For instance in…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Code for Japan is prime example. It’s like g0v, but in the social sector. They managed to just do an unofficial website for the Tokyo municipality until the Tokyo municipality have to offer then a domain name that is a official domain name. That’s the stopcovid19 work, which I also contributed. [laughs] That effect, that’s classical.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Can you tell me a bit more about that project, because I know that in Japan you received quite a bit of media coverage for your role in what you did in Taiwan and also what you did in Japan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Japan, what they, the Code for Japan people, have built is really a long-term relationship. Before the pandemic, we had what they call, Facing the Ocean hackathon. I wasn’t there, but many of my friends are in Okinawa, which is the midpoint between Korea, and Japan, and Taiwan. There is a lot of friendship and relationship.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even before that, I attended Code for Japan workshops in Tokyo and also around Tokyo to talk about things like teleworking, about how to mediate the electronic signature. Actually, not even the electronic, just the signature itself is a problem because of their CO culture.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        All of this is very transferable in a sense that when we solved the teleworking problem like two years ago or three years ago, it’s what’s being discussed in Japan at the moment. The same goes for the electronic signature act.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        All of this makes sure that our civil societies have a lot of common problem to talk about, so that when the Code for Japan decide to do the Stop COVID dashboard, naturally, the g0v people learn about it, because we also have bilingual cultural ambassadors. People mobilized and translated Taiwan Mandarin version of that on a shared Google spreadsheet.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Pretty much every part of the website in just a couple of days. What I did is actually not translating because by the time I’m on that Google spreadsheet, it’s already done translating. I just did some proof editing. Then I noticed that the first row, which is the name of the languages were not being incorporated automatically into the website.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Which means that on the language selector, the traditional Chinese is on the wrong font. I went into the source code and changed that part in the source code. Literally just one character. Of course, Hal Seki loved that, and so tweeted it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The city councilor retweeted it, and of course, because city councilor retweeted it, the mayor have to retweet it. It become not even second track, I’m not even sure how to call this.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is diplomacy but through GitHub.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        It’s fascinating. There is definitely a particular interest that we’ve seen in Japan from what they’ve wanted to learn. What do you think that interest stems from? If there is any overarching…
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        For instance, in their society and their culture, you mentioned their CO culture, which is signatures and electronic signatures. I know also there is in Taiwan, for instance, the household registrations have been digitized, right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. The household registration. That’s equivalent to Japanese.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        That’s right. In Japan, they rely a lot more on paper. Is that something where you’ve seen…Because of course, this is something that, as you’ve said in past interviews, COVID has also emphasized how we can find ways to…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Work together across borders.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Right. Also just find good ways to rely on technology. Things like teleworking. I know you’ve mentioned that you’re optimistic about these things.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, very much so. In Japan, it’s a wake-up call. In a sense that, although the traditional way still works and is culturally important, as you said, coronavirus forces people to innovate. Because there really is no other choice but to innovate.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For many people who think meeting face-to-face is required, even not meeting someone face-to-face on the first meeting is something they apologize for. [laughs] This happened to me quite a few times. Like, “Sorry that I only meet you online for the first time.” [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It seems that that’s because for many people, especially higher senior officials, their first experience with televideo conference was maybe 5 or 10 years ago, and that was when it was really pretty bad. So they feel it’s something they need to apologize for.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Nowadays, it’s just open a browser and you can look at in crystal clear, like 1080p, and much more clearer than if you were both wearing a mask, so there is nothing to apologize for. [laughs] It basically serves as a way for people to clear away cache in their head of the prehistoric base of video conferencing, and rejoin the new reality, which is that it is really pretty good nowadays.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        People even after the pandemic will refresh their ways of work. I’m quite optimistic about Taiwan and also about Japan as well.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        It’s certainly something I think we see particularly in Japan. That it’s about gaining the trust in the technology and also just becoming familiar as a user, becoming comfortable. Just going back to, once again, it’s just fascinated me this trust between tech and society here in Taiwan. Tech society and government, I should say.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        In the past, the last time that we met, I know we spoke a bit about this information. This is something that countries around the world are trying to combat, with disinformation about the coronavirus. In your recent interview, you’ve mentioned wanting to build nerd immunity here in Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, nerd immunity, humor over rumor.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        That’s right. Of course, there was some COVID-related misinformation that spread here in Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, but they were trivial.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Right. How did it stay that way? Do you think this was because, once again, there was a very strong, the messaging from the government…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The cute dog is really cute. The daily press conference. Even you just listen to it in the background, it’s by osmosis. Everybody become amateur epidemiologists. That’s really what it is.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        When other countries are trying to diffuse and ultimately eliminate misinformation in their own discourses, if they look at Taiwan, aside from cute dogs in press conferences…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Also a premier willing to make himself the butt of the joke quite literally. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        How much importance would you assign to that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Quite important because it’s a political signal. When the premier is willing to make himself literally the butt of the joke in order to stop panic buying, it has this inspirational effect felt all throughout the ministries. The ministers, for example, I just met with a minister of culture today. He was the Hakka Council.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        That’s right, the new minister.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, head of the Hakka Council. If you look at Hakka Council’s Facebook, there is no end of memes, including one featuring yours truly, called 唐鳳過台灣. It’s hilarious.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What I’m trying to say is that basically, Minister Li, just like Premier Su, pre-cleared his image for his creative team and comedians to use. He basically says, “I will not fire you, no matter how much you play with my images.”
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The same promise that I made with my set of stock photos. Those become really viral.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        This is something that may depend on culture, but do you see this as exportable?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think that cute dog is universal.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Cute dogs are maybe universal.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Cute cats also. The president’s cats. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        I think so. When we look at Taiwan as an example here of countering disinformation or potentially getting out ahead of it, I’m not sure how you would characterize it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure. I would even go as far as to say we’re now close infodemic as well.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        I know we talked about how that was a key role. I know that there was also…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There were professional and amateur fact-checkers. Still very important.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        That’s right. There were the fact-checkers. There was the announcement of penalties that would fine people who spread misinformation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Deliberately sponsored by the foreign political entity.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        What importance would you ascribe that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s not instating new penalty. That law was basically just saying, all the proxies, all the intermediaries, would suffer from the same penalty. This is basically closing a loophole where if you find a few domestic…I don’t know the English. Sock puppets or something like that, intermediaries?
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Sock puppets, right.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Intermediaries?
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You would evade the justice, and that law basically says, no, recursively we are applying this penalty to everybody in the intermediate chain if we can prove that they are intentionally carrying out those orders. It’s as simple as that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think it has some effect in deterring such intermediaries from operating in the profit, but if they just go out, not covertly but overtly, say that, “We’re just a state propaganda organ,” and that’s actually legal. It’s fine if they are overt. It’s not fine if they are covert and serve as proxies.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        I know that when those prospective penalties were announced, and this was early on, this was, I’m forgetting the exact date but there was more conversation in the month of February where there was also some concern from people who had privacy concerns, especially academics, that some people who had been party to discussions…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They were quite afraid that this was encroach constitutional democracy. That this will create a de facto emergency situation. But that’s for a very good reason because at that time, everybody around the world, every jurisdiction, is considering declaring a state of emergency.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        The fascinating thing – and at that time I was in the Philippines and they declared a state of emergency – I would say they have had a different approach to countering disinformation.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        In Taiwan, it fascinated a lot of observers that despite those initial concerns, there was never…and certainly it’s always struck me as a society that’s very concerned with privacy. Concerned with upholding constitutional rights.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        How would you describe what society said at that time? It almost felt like we’re saying, “We trust you with this but don’t step over the line.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly. You put it perfectly. Basically, the CECC need to earn their trust, and they earn their trust by responding to each and every question that you just refer to in the daily press conference.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Many journalists brought it out in a even hostile angle, but Commander Chen always responded with civility, and even telling a bunch of school children no matter how hostile a deaf person seems or how irrational that person seems, it makes sense from their point of view. What’s important is to step into their shoes and understand their point of view.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s kind of a Pygmalion effect. If Commander Chen treats the civil society all as adults, even the most childish of them eventually become adults.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        I think once again, we hear Minister Chen, Premier Su, and many others, there have been people in government who were willing to be civil, deferential, as you said, sometimes even be the butt of jokes. That certainly played a huge role in gaining trust and keeping that trust.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        You’ve been involved in so many civic tech communities around the world that are very decentralized. A lot of them – I think of, once again, places like the Philippines, Indonesia – right now, both of them are in the midst of quite serious outbreaks. There’s also a very substantial public distrust in the government response in both cases.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        At the same time, some of the initiatives that Taiwan reaches out, as you mentioned earlier, these are things that could be adopted at the societal level, but do you have conversations with them? If so, what would you say as far as creating an environment where reliable information on the virus, how it happened that…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s a great question. I had run a workshop before the pandemic at Chulalongkorn University in Thailand and it felt very much like what you described.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Like the people who are professional journalists, they were quite afraid that the democracy is fragile because of the disinformation crisis. That speech freedom is going to be constrained, and perhaps with no good reason, according to them.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The Taiwan model of fighting the infodemic at that time is very reassuring to them because it showed the ministries, and we talked to the officials also saying that, “Of course, you can choose the authoritarian model. There’s nothing stopping you from doing so.” But at the other end of the spectrum, we would argue that a Taiwan model is as effective and at less societal externality.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is to say, it will not distance the government too much from the civil society. That civil society would no longer be cast always in a critical role or in a protester’s role. That it will be working with the people, not for the people only. That’s the message that resonates.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Cofacts, a key piece of that machinery, is replicated also in Thailand. If you go to cofact.org, the Thai version, of course, they’re doing fact-checking on still primarily health-related rumors because of their different political climate.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        But at least is building a lot more trust between the various stakeholders, including professional journalists and amateur fact-checkers. That’s a plus. We’re seeing similar shapes like that. That just the existence of the Taiwan model serves as a inspiration.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Right, and to be specific in a case like this, there is no government involvement, right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Mm-hmm.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        This is something where it’s…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, it’s just social sector to social sector.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Right, and a place where civil society is in the role of the protesters rather than a stakeholder. That’s something that could be replicated.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Going back to Taiwan’s history with disinformation, of course, last year there was some debate over how to institute penalties for people who were spreading disinformation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        With intentional public harm, yes.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Of course. I know that you do not like to use the term fake news, but that term did get thrown around at times. There was also…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You’re a journalist, so you can say that yourself.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a chivalrous thing. I’m not a journalist. I cannot say that.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        We also saw that there were some summons handed out to people who had made potentially false social media posts that came from police. There was quite bit of pushback about this. Once again, though, that ended up being contained in a certain sector. It didn’t lead to a break of trust.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        And the judicial precedents draw the line quite firmly.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Do you think that there are any lessons that Taiwan took away from those debates, which at times, if we go back to in 2018, there were quite a few proposals to institute harsher fines, harsher penalties against disinformation.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        At that time, the Thai administration did not have approval ratings that are quite as high as it does now. I think there was a greater bit of societal push back.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That was never our goal to instate penalties in order to control the societal order. Even the most harsh people did that specifically to counter state-based propaganda. That’s the often-cited goal, and de facto foreign-state controlled media as well.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        These are quite different because the one you’ve cited about approval rating, about protesters, that’s entirely domestic. It’s organic. It’s natural tension between the centralized government and the civil society, whereas the external threat that threatened to take over entire elections does something else altogether. Because if the election gets taken over, everybody loses in a democracy.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        That’s very true. Did you feel, and as we’re going forward now…? Once again, this trust is very strong. Once again, a lot of times there are ways for Taiwan to export this either through material means or just ideologically. A lot of times, though, I think there may be fears that it just sounds idealistic given the state that much of the world is in now.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s one of this binary thinking like it’s either a large state, and authoritarian, and small market, and all the large enterprise become state owned. That’s one side of it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Or the other side where it’s a market-driven, even capitalistic social order and government outsources most of its work to the private sector and therefore cannot mobilize freely. It seems like a zero-sum spectrum that you have to move to the left or to the right and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Why Taiwan sounds almost too idealistic, it’s because we reject that binary, linear thinking. We see it more like two axes. On one axis is the state’s capability to trust its people on social innovation, and the other axis is the economic sector like the so-called national mask production team, how much they are willing to work in a pro-social way. At the end, both serve the social sector.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, the social sector first determine, for example, the mask map prototype, that gains wide legitimacy, and then the private sector, like Google, actually, have to waive the API usage fee, because otherwise, they will be seen as maybe the bad blood.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then once that happens, the public sector is pressured to give out real-time API so maps like that could function. This is the reversal, the flip of the traditional public-private-people, call it partnership model, where it starts from the state, getting maybe captured by the private sector and the social sector is left with just some communal education part of it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This flips it around by the social sector doing the prototype first and the private sector scaling it out, and then the public sector doing the absolutely minimum necessary to make that happen, not get in the way. Because of that, a procurement would take 48 days for things like that to happen, but this reversed procurement of thoughts take only 48 hours for this to happen.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Absolutely. As you said, that’s why the Taiwan model within Taiwan, it doesn’t have to be idealistic, but once again, if you are hearing about this and thinking of implementing something similar in your own society, in many other countries in the world, it probably does sound a little bit like a dream, right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Especially now we’re seeing an unprecedented in many places backlash toward not just the role of states, but also the structural models of society in a place like the US, there is civic energy to demand many changes but also to make many changes.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        I’m very curious what you may think when you see the protests happening in the US, which have so many different potential motives. Of course, there are core motives, but also, they are protesting. I just wonder what you think as far as how you would advice someone how to act.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I have seen demonstrations before. My advice to demonstrators, no matter where they are, is always that turn the demonstration into a demo, into basically be the change you want to see in the world. That still rings true today in the sense that if you believe in that deliberative facilitation methodologies can help people get rough consensus, you need to apply it within your own movement.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you believe that communal oversight, and neighborhood watches, and SMS that sends to the neighborhood wardens can largely replace a heavy handed police, you can actually code it up. It’s not rocket science.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Just be the change you want to see in the world, and maybe people will see your demonstration as something to be inspired, as the Sunflower Movement eventually did.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        In much of the world, there is a concern about turns into authoritarianism, that we’ve even had some countries that openly flirt with the idea of martial law or just a police and military that take measures that many people fear will end up chipping away at their rights.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The permanent or at least semi-permanent.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        That’s right, and that will lead to future consequences that are not going to turn back. Of course, Taiwan has its own history and has very rapidly come out of this period of martial law.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        I know that it’s part of the societal fabric to think about the consequences of something like this. I just wonder, as you’re witnessing these potential turns into a more authoritarian state in countries around the world, what your thoughts are about. Sometimes, it’s not immediately possible to resist this, but there are probably things. Sometimes, the processes end up not being on the surface successful.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. My dad did his PhD in Saarbrucken University in Germany on the aftermath of the Tiananmen protest. Many of his research subject interviewees were people who fled Beijing and continued their undergrad work or graduate level work in France and Germany. I grew up with these exiles, as they called themselves.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Many of them think that maybe in their generation, they will not see the change that they initially hoped for when they organized that demonstration. You can also see a rippling effect. For example, the fall of the Berlin wall may or may not be the peaceful…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Fall of the Berlin wall may or may not be influenced by the Beijing protest in Tiananmen, same as our Wild Lily movement, which actually is directly non-violent, also from a state level, because people do not want to repeat the Tiananmen incident.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Some of the Tiananmen organizers eventually became professors that taught students that occupy the parliament in Taiwan. You never know, [laughs] but there is a long strand of history. The pandemic serve as the amplifier in Taiwan for social sector in many places, as you’ve said, on state’s capabilities and powers. Still others amplify multinational capitalist entities. It’s an amplifier.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We would probably see it plays out in different norms, but I’m not saying that our amplification is particularly the only or unique solution. I do think that this offers the most potential to resilience of different future models if you have biodiversity in the ideas space. Then when new challenges come, there is bound to be people who discover that a traditional rice cooker is good to disinfect a mask.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        But if you do not have the speech freedom, the journalistic freedom, even the most well-intentioned authoritarian ruler will have no way to actually know what’s happening on the ground. I still think that our way is better, but history will tell.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Right, of course. What are your immediate thoughts when you’ve seen people from Hong Kong come here to Taiwan, of course.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. This is a humanitarian situation.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        That’s right, and it’s ongoing. I know that. Of course, we both came last year and he has said in the past that he encourages more Hongkongers to come if they can. I know that there’s an ongoing policy debate.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. I think if it’s humanitarian, then there’s much more social consensus. If this is any other scenario, it would not be that easy. It would be a very prolonged debate, but because there is an emergency, almost like a countdown timer now.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think there’s definitely in a more humanitarian flavor of the debate.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Of course. We have seen protesters, people who are engaged in the pro-democracy movement there come here and immediately engage in Taiwan civic society. They’ve been going to observe your elections. I think even in the Kaohsiung recall election, a group of Hongkongers went there.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Many of them did visit me. It’s on public record.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        I know in many cases they are looking for knowledge, not just for their own movement, but they’re engaging globally. This is something that we may start seeing with protesters in other countries.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. At least I think since the Umbrella, and definitely during the anti-ELAB, Taiwan served as a safe harbor for international journalists to meet with those protesters and for them to have a voice to run the, for example, Oslo Freedom Forum, to run many platforms, actually, for them to have their voice to the international audience. We will continue to do that.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Something I want to ask. I’m trying to check the time. I don’t know if we’ve been too long.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, we’re about time.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        If I can leave you with one last question.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        I’m very curious about your thoughts about this. We’ve seen in the US the Black Lives Matter movement is drawing global attention even here in Taiwan to systemic discrimination and racism in society. There’s just a Black Lives Matter rally…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even my old friends circle of “Magic: The Gathering” players.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Oh, really?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They’re talking about that because the “Magic: The Gathering - Wizards of the Coast” bond that their earliest cards that refer to racial injustice and prejudices.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Oh, wow. They’re…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, from tournament play.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        I see.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        I know that conversation has gained a bit more attraction in Taiwan lately. Since you have been working to open government data to just digitize things, I’d like to ask about Taiwan’s current…Its current policies and data keeping as well, on foreign workers from Southeast Asia in Taiwan?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. It’s a real topic.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Right, and we’ve seen some things like for instance, the fishing industry, many of its, there have been…There’s lots of some clouds over ownership of vessels, over captains and brokers, who have been convicted of human trafficking and continue to work.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yup, and because of the IUU there’s been reformed measures of servers, and so on. I think there’s plenty of ways where technologies can help. For example, technologies can help sharing the vehicles whereabouts, and when they’re going to move too closely when they should not be moving that close.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …may do something fishy, and that doesn’t involve fish. It’s happening.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re working on those technologies and there’s also being on the public record. Many international NGOs were concerned of what’s the humanitarian side, trying to figure out a way to improve accountability without for example, revealing their trade secret of where has the most fish, this time it’s real fish. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s actually possible — and it’s based on the same principle as the Bluetooth contact tracing app.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        That’s right. Right at the same thought where it’s possible to track their systems, but not to keep their data secure. We’ve seen other…I’m not sure exactly how Thailand has done with securing data, but they have managed to get much of their fleet, pretty much their entire fleet. They’ve got them on board with this, because they came under an immense amount of…
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        …I’m sure that there are fears. I know there are fears amongst the other ministries here, that Taiwan is also facing similar scrutiny.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m basically quite optimistic when it comes to privacy enhancing technologies. Pretty much all, may not be not all, a majority of the cohack winners, of the coronavirus hackathon winners are privacy enhancing technology in one way or another. Something quite advanced the AI labs, for example, who was part of the judge.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even do as the judge, it’s very much aligned with using the latest in federated learning and fully homomorphic encryption in all those new tools that basically allows for a statistical overview of things with our compromising any individual’s privacy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Again, where the old generation of big data analytics basically makes a false dichotomy between over collection of data and over protection of personal data, to the detriment social good. Now, we have a new set of technology that again, can build a new axis out of those two seemingly intentional issues.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s an area that we’re looking to invest a lot, not just on the coronavirus hackathon, but the presidential hackathon.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Of course. In the fishing industries, specifically in this…
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        …there’s been things for the major seafood traders and for vessel owners, and captains. The main drawback to embracing technology for things like traceability or just logging your foreign crew, and making sure that they have accept that they are able to as they do in Thailand, they can anonymously login any of the users.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        The main concern is not necessarily privacy, it’s more so that many of these vessels are breaking the law or…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …the flag of convenience or something.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        That too, even though…I know there’s a flag of convenience database which that is also a thing that can…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        [laughs] We can schedule another hour to talk about this.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        I know that this can be a very…
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        …a future of Internet.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …but it is a issue. I’m actually working with the new Council of Ocean Affairs, the COA on the new ocean policies. Just like the opening up the mountain policy, which we worked on last year. The idea, again, is using technology to empower people who wants to build a norm of non-abusive relationship. Both with indigenous people and their cultures, but also with the environment itself.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That translates in the sea in the ocean context as, no marine debris or no over fishing or just sustainability in general. I think the more people who care about these, the less abuse we will see. How do we get more people care about this? Well, you do not restrict them from going to the oceans. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We will soon have a policy around that and also a public consultation just like we did on the opening up mountains. I think some of these questions, you can bring to our joint platform and we will happily do a multi-stakeholder conversation around those two.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Of course, yeah, I’d be happy to…Especially if these things develop. If we do need to schedule another interview…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, I know.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        …there is always some.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        Thank you so much for…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        …your time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Always great questions, thank you.
+                    </p>
+                </speech>
+                <speech by="#Nick Aspinwall">
+                    <p>
+                        No, thank you, as well.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
