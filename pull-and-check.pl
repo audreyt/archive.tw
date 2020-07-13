@@ -11,7 +11,7 @@ my $branch = $1;
 close $fh;
 
 `git remote -v` =~ m{github\.com[/:](.*?)\.git \(fetch\)} or die "Cannot parse remote (needs to be in github)";
-my $baseURL = "https://archive.tw/"; #raw.githubusercontent.com/$1/$branch/";
+my $baseURL = "https://raw.githubusercontent.com/$1/$branch/";
 
 `git config core.quotepath off`;
 
