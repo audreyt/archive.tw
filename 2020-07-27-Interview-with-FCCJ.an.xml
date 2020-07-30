@@ -1,1135 +1,507 @@
-<?xml version="1.0" encoding="utf-8"?>
-<akomaNtoso>
-    <debate>
-        <meta>
-            <references>
-                <TLCPerson href="/ontology/person/::/Andy Sharp" id="Andy Sharp" showAs="Andy Sharp"/>
-                <TLCPerson href="/ontology/person/::/Teddy Jimbo" id="Teddy Jimbo" showAs="Teddy Jimbo"/>
-                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
-                <TLCPerson href="/ontology/person/::/Nakano" id="Nakano" showAs="Nakano"/>
-                <TLCPerson href="/ontology/person/::/Kondo" id="Kondo" showAs="Kondo"/>
-                <TLCPerson href="/ontology/person/::/George" id="George" showAs="George"/>
-            </references>
-        </meta>
-        <debateBody>
-            <debateSection>
-                <heading>
-                    2020-07-27 Interview with FCCJ
-                </heading>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Good morning and welcome to the FCCJ. Thank you, those who’ve come to the club and also those watching online. My name’s Andy Sharp. I work at the “Nikkei Asian Review.” Today, we have a very special guest.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        It’s Audrey Tang. She’s Taiwan’s Digital Minister, a 39-year-old former hacker with a reported very high IQ, who at the age of 14 co-founded a computer book publisher and developed a search engine. She went on to become a Silicon Valley consultant for the likes of Apple.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Audrey Tang was invited into President Tsai Ing-wen’s cabinet in 2016 to help boost Taiwan’s digital prowess. She’s gone on to help lead the country’s much-applauded fight against the coronavirus by helping develop apps to spread the distribution of masks and economic stimulus coupons.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        There’s much to discuss. Clearly, China tech is a big issue here. In a recent interview with my colleagues at the Nikkei in Taipei, she said that allowing Chinese equipment into a country’s core telecom infrastructure is like inviting a Trojan horse into the network.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Anyway, without further ado, I believe Miss Tang’s going to make a short speech. We have a bunch of questions already received online. We’ll also take questions from the room. Just to introduce myself, by the way, I am the moderator. This is Teddy Jimbo. He’s the FCCJ PAC co-chair.
-                    </p>
-                </speech>
-                <speech by="#Teddy Jimbo">
-                    <p>
-                        Hi, Andrew.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Over to you.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Hello. My extremely short speech, about 30 seconds long…
-                    </p>
-                </speech>
-                <narrative>
-                    <p>
-                        <i>
-                            (laughter)
-                        </i>
-                    </p>
-                </narrative>
-                <speech by="#Audrey Tang">
-                    <p>
-                        …is just to introduce the Slido system that we’re going to use for this live Q&#x26;A. I see there’s already seven questions being asked. Very quickly, I think they will project the Slido link on the screen. If the tech is still being worked on, you can also manually go to slido.com – that’s S-L-I-D-O.com – and enter this code. The code is 00727.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Whether it’s by scanning the QR code, hopefully to be projected soon, or by going to slido.com and enter 00727, you can like each other’s questions. The question with the most number of likes will float to the top. I will answer that first.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        [laughs]
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        If we get all the questions, that’s great. At any given time, of course you can ask me a question which will appear on the bottom right of the projection screen.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        If I cannot get to all the questions by the end of the hour, sorry about that, but if people have anything to ask from the podium, actually I don’t see the camera of the person, people on site, so the moderator will have to interrupt me during my answer to the online questions so that we can get a good online-offline mix. That’s my opening presentation.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you very much. Do you want to start by answering some of the questions that’s been sent so far on Slido?
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        That’s right. The top one, currently from – sorry if my pronunciation is not perfect – from Ilgin Yorulmaz from BBC World Turkish. The question was, what would I advise other governments in how to deal with social media companies when it comes to balancing citizens’ privacy while maintaining free speech?
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        We believe, in Taiwan, that free speech is a core value. It’s not an instrumental value. Indeed, according to the CIVICUS Monitor, we’re the only jurisdiction in Asia which allows the completely open freedom of speech, assembly, the press, and so on, and if you count New Zealand, that’s one of the only two in Asia Pacific.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        In our norm, it’s not about takedown. We don’t believe in takedown. We believe that a journalist’s word should always worth the same as a minister’s word, actually more.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The point is not allowing the administration to collaborate with social media companies to take down anything, but to rather work out a way for people who see disinformation, as defined as intentional untruth to do public harm, the antithesis of journalism, people can flag it very easily.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        For example, I’ll use a metaphor, maybe you’ve noticed that in your email inbox, if you receive a email saying that, I don’t know, they’re a royalty, they have like 10,000 Bitcoins, and they want to wire you if you just pay this small deposit and so on. It’s a scam, by the way, and so you would probably flag it as spam. That is the norm in the Internet governance.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Basically, email is supposed to be private, but if you flag something as spam, you donate the signature, the fingerprint of that email so that people who receive similar email in the future, they still receive the email, but it goes to the spam mail, the junk mail folder rather than the inbox.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        That is to say, it doesn’t pay to send spam after a sufficient number have flagged it because it stops wasting people’s time.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Similarly, when people flag things on the, for example, LINE, which is end-to-end encryption channel, as scam or spam, it get sent to the International Fact-Checking Network members.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        In Taiwan, there’s two, the MyGoPen and in the Taiwan FactChecking Center, and they make sure that they flag things as scam or as disinformation a soon as possible.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The role of the government is just to make sure that once we detect that there is such a trending disinformation, not only do we, with journalists, so that they can do a public attribution so that people understand it is actually not true when they see it online or on the Facebook Media and so on.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        We also roll out counter-messages that are true up to what we understand, and then package in a very funny way. This is what we call humor over rumor because a lot of conspiracy theory travel on outrage, and if we publish something that is very funny, literally a person cannot simultaneously feel joy and outrage about the same thing.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Because of that, people who have seen for example our premier wiggling his butt, saying that there’s no need to panic-buy tissue papers because we only have one pair of butt each, and by the way, tissue papers are of a different material than medical mask, so ramping up medical masks doesn’t hurt tissue paper production.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        That’s very funny and has a higher R value than the original conspiracy theory.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        That is the idea of humor over rumor and partnering with journalists and fact-checking organizations. The social media companies basically conform to this norm by doing notice and public notice.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you. Maybe we can go on to the next question from, on your list, from Peele?
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Peele, from Italy?
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Yes.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The question is, do I think the world can survive without Chinese technology? I think Peele doesn’t mean paper, but rather Huawei.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        In Taiwan, as actually the moderator have already mentioned, during the Sunflower Movement in 2014, there’s half a million people on the street, many more online deliberating each and every aspect of the Cross-Strait Service and Trade Agreement, or CSSTA. One of the aspects was this very issue.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        It’s not about any particular company, though. The issue was about whether we want to allow PRC components in our then new 4G infrastructure. The consensus on the street, later ratified by the National Communication Commission and National Security Council, is no.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The reason is not that they’re inferior or that they necessarily come with malaise or whatever, but rather with the realization that there is no private sector organization in the PRC. When the need comes, the state can always make it de facto state-owned by searching and replacing leadership.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Basically, that says each time we upgrade, even though the previous version that we installed have passed cyber security scrutiny, we will have to do that over again.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        There is no telling whether there are state-owned or de facto state-owned actors trying to, via these upgrades, to install new backdoors into the system, and so the total cost of ownership of maintenance is deemed too high compared to other vendors.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Because of that, starting from 4G, that’s 2014, we did not use any PRC components in the core infrastructure, and what little there were, I think were all replaced by 2016.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Obviously we’ve survived not only the pandemic and infodemic, but we have pretty good 5G connection. I’m holding a 5G phone, using, this is LG technology, I think, as we speak, and so obviously we’re doing fine, not only surviving but thriving.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you. I’m going to open this to the room as well, if there are any questions, so please raise your hands if you have anything, but let me ask one question first.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        It’s a question sent by email from Peter Elstrom at Bloomberg News. He asks, do you think there’s a justification for governments around the world to tighten controls or ban social media apps such as TikTok and WeChat, and are there specific security risks that those apps pose to users?
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Yeah, in Taiwan, we make a distinction between the social sanction, which is a very strong power. For example, Facebook, during our election in 2018, the mayoral election, because our control branch, that’s a separate branch of the government, published for the first time the raw data of campaign donation and expense.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        People independently discovered, by people, I mean investigative journalists, independently discovered that there’s a large swath of campaign donation expense that’s not filed to the control branch. These are social media advertisements, precision targeted advertisements.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Of course, Facebook at that time, there was no disclosure of the kind of the control branch, the radical transparency that we did, and so there’s a social backlash.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        People were saying that Facebook, by not disclosing it to the Control Yuan standards, is hurting the democracy by allowing extrajudicial donations to the campaign sponsorships to the campaigns, and that has a detrimental effect on the democracy.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Because of that, the Control Yuan norms, which is two, first, only domestic citizens get to donate, and second, each and every raw expense item is published, we basically had a public conversation around it, the transcript of which is online, with all the social media companies.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        We agreed on a norm on a counter-disinformation self-regulation principle. The implicit outside game is always of course that if Facebook doesn’t publish its advertisements libraries to the same degree or more as compared to the Control Yuan.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Even though that we may not have the legal instruments to shut down Facebook or to dispel Facebook, people would view that Facebook is actively working against our democracy, and so we’ll boycott Facebook. That’s what I call social sanction.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        By the presidential election this year, they basically implemented the same Control Yuan norms and publishing the ads library in real-time for people to fact-check, working with investigative journalists.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        That is the kind of norm conversations that we’ve had, and of course Google and Twitter simply refrained from running advertisements.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        I think, for questions like this, instead of saying like we should outright ban it or that we should allow it, getting a social norm, a social outrage if you will, about the kind of threat that it could have on democracy and negotiating a safe norm and so making sure that international companies conform to that norm in a auditable, accountable fashion, that is preferred.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Only if they refuse to negotiate, only if they refuse to conform to the norm do we go to the social sanction route and eventually the state action route.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you. Questions from the room? Yes, Nakano-san.
-                    </p>
-                </speech>
-                <narrative>
-                    <p>
-                        <i>
-                            (pause)
-                        </i>
-                    </p>
-                </narrative>
-                <speech by="#Nakano">
-                    <p>
-                        My name is Nakano. I’m freelance. Thank you, Minister Tang. I have two questions. Just let me hear what’s going on in Taiwan these days. Is there any digital gap between generations in Taiwan? My second question is, do elderly people have difficulty accepting the digitization of the society in Taiwan?
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Sorry, I didn’t get the second question. Do…
-                    </p>
-                </speech>
-                <speech by="#Nakano">
-                    <p>
-                        Do old people, do elderly people have difficulty accepting the digitization of society in Taiwan?
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Thank you. There’s just a, I think, a NPR and “New York Times,” piece about how a Taiwanese couple in their 80s becomes Instagram’s newest fashion influencers. They own a laundry shop in Central Taiwan, and became Instagram stars by posing as models the laundries that their customers never picked up, and so they run a very successful Instagram campaign.
-                    </p>
-                </speech>
-                <narrative>
-                    <p>
-                        <i>
-                            (laughs) The point I'm trying to make is that this is a lifelong learning process. This is not necessarily that the older people are not digitally competent. It's just that if we shape the conversations so that we encourage everybody to learn.
-                        </i>
-                    </p>
-                </narrative>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The technologies in Taiwan basically says that we need to adapt to the societal needs. It’s not asking a certain population to come to technology. Rather, it is us, the technologists, conforming to what the societal expectation, societal norms of technologies are.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        I just mentioned 5G. When we’re deploying 5G, there’s a auction on the spectrum. There’s a lot of extra money that we can allocate.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        We allocate it to the places where the 4G connections are least utilized, specifically around a more rural areas, in the places with higher average age of population, and to focus on education, that’s lifelong learning, and health. These are the two things that the people across all age groups feel passionate about.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Yes, of course there is some digital gap, but it is actually not as severe as most other places because we have broadband as a human right, we have digital opportunity centers, and most importantly, we emphasize lifelong learning around especially education and health areas, and so that’s the main idea.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The other thing I want to bring upon is that, like my own grandma, 87 years old, I consult her all the time when we’re designing new digital services like the mask rationing. You can preorder mask using your National Health Insurance card on any local kiosk by any local convenience store, of which there’s more than 20,000 in Taiwan.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        My grandma suggested that I consult her younger friend who is 77 years old.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Grandma Yang, her friend, told me a lot of things, for example, that we should pay over-the-counter rather than to the ATM because a lot of the elderly people associate ATM with scam, and so that we really need to allow cash-based payment when you’re preordering the mask on the convenience stores, and many other small things like that.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        I think the wisdom of the elders are also very important when we’re designing digital services.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you. Take another question here online. It’s from Anthony Rowley at the “SCMP.” As I mentioned in my opening remarks, you said in the “Nikkei” interview that allowing Chinese equipment into a country’s infrastructure is like inviting a Trojan horse in. Why do you think this, and how exactly does this work?
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Yeah, and I was simply relaying the rough consensus of the 2014 occupiers, so it’s not my view. It’s what the occupiers feel at the time, and then ratified by the National Security Council and National Communication Commission. How does that work?
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        If you install certain components, no matter whether it’s software or hardware, of course you do a security audit, but then necessarily, either in a emergency situation, for example when it’s out of service or whether there’s just a security vulnerability that’s discovered and disclosed, you will probably have to update that piece of software and firmware, and even hardware, from the vendor.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The main idea around Occupy in 2014 was that we never know at which point would the CCP, through its party branches, install in all the large so-called privately owned enterprises did do a swap of the leadership and take de facto control of the private enterprise, so that they become de facto state-owned.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Every time you operate, you have to do another systemic risk assessment, which could be done. The feeling at the time is that the risk is too high and the protocols of ownership too high. We would be better to work with other vendors from liberal democratic countries.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you. Now, I’m just going to put up this. Take a picture of this for the audience, please. It’s for questions to Ms. Tang on Slido, 
-                        <a href="https://sli.do/00727">
-                            https://sli.do/00727
-                        </a>
-                        . I’m using it here now, and it’s very clear and easy to use.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        People at home, if you want to send a question, please use this link. OK? Thank you. Another question has come in on Slido. It’s from Patrick Velter at FAZ. That’s German media. “With the economic quarrel between the US and the People’s Republic of China, do you expect that companies will leave China and move to Taiwan or elsewhere?”
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The first time I’ve seen PRC spelled PR China. Interesting spelling.
-                    </p>
-                </speech>
-                <narrative>
-                    <p>
-                        <i>
-                            (laughter)
-                        </i>
-                    </p>
-                </narrative>
-                <speech by="#Audrey Tang">
-                    <p>
-                        I think there’s two things. The first is that we are already seeing companies that strive only free speech. For example, media companies, the journalism workers, they are already setting up their headquarters in Taiwan and either moving from Hong Kong or moving from PRC to Taiwan.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The people who hold, for example, the Oslo Freedom Forum choose Taiwan as their base. Indeed, the Reporters Without Borders, Reporters sans frontièrs, choose Taiwan as their regional headquarter.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        All of this, of course, is recognizing the fact that in Taiwan a journalist’s word is worth at least the same, or if not more, compare to a minister’s words. You will not get “harmonized” or “disappear” if you say something that hurts the image of a minister. That’s just good journalism.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        I think anything that thrives on free speech, anything that thrives on what we call a permissionless innovation, including many more interesting fintech, including DeFi, distributed finance companies, and so on, they necessarily think that Taiwan is a better place, even though that their innovations may not be restrained to Taiwan only.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Taiwan offers a really good sandbox for people to experiment there. That includes also what we call digital nomad, who can hold a Taiwan Gold Card. You can check it out at taiwangoldcard.com.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        There is, I think by this time, almost 1,000 now people holding these three-year resident and work permits. They don’t have to find an employer. They can work for themselves or international company and so on, but just enjoy Taiwan as a safe and free space.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Many people visit just by visitor’s visa, a tourism visa, and so on. They decide they like it, and they’re a foreign talent. They just apply for the Gold Card and just convert their six-month trip into a three-year stay. We’re seeing a lot of that going from the direction of PRC as well.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        OK, thank you. Another question from Slido here. It’s from Kantaro Suzuki, a freelance reporter. He’s asking were there any cyber attacks from China during the recent Taiwanese presidential election? If so, can you tell us how you blocked these attacks?
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        There’s cyber attacks literally every hour. The question is yes, no matter which day you ask. [laughs] Fortunately, most of those attacks were thwarted automatically by the defense in-depth system that we deployed.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        It did not really interfere the presidential election, although there’s a lot of disinformation campaigns, which are not strictly speaking cyber attacks in the traditional cybersecurity sense. There were specifically around the anti-ELAB protests in Hong Kong.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        We have seen concerted disinformation campaigns in the Taiwanese social media. For example, there was one last November that tries to portray the young people who go to the street in Hong Kong as “Thugs that gets paid $200,000 to murder police.”
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        They even use a Reuters photo. The Reuters photo, the caption initially said nothing of that sort. They just swapped a different caption saying that this certain-years-old bought new iPhones, because they went on the street getting paid, like mercenaries and things like that.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Of course, it’s completely untrue. It’s really making the round on the Taiwanese social media. Again, we did a public attribution notice and public notice, thanks to the help by the International Fact-Checking Network.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        In particular Taiwan FactCheck Center, who traced the original post to the Weibo of the [Chinese] of the central political and law unit of the CCP. That’s very interesting, because it’s not covert.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        It’s not like traditional cybersecurity attack. It’s right there on their Weibo. Maybe they did not pay for the license from the Reuters photographer and simply just use a new caption to sow discord and spread disinformation.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        There’s and lot of that, and you can check Taiwan FactCheck Center, MyGoPen, and so on, for a list of things. There’s one about the invisible ink provided by the CIA. “If you vote for Han, your ink will disappear and replaced by the invisible ink that appears for Dr. Tsai Ing-wen.”
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Of course, the way to debunk those is very simply encourage YouTubers to record – and live stream, even – the counting process, because we are using paper ballot. We use the counting process, inviting journalists to film from all the different sides.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        If there is invisible ink, I’m sure that it will get discovered and so on and so forth. There’s a lot of overt work on disinformation, but I think it’s proved to be much less impactful in the presidential election, compared to the mayor election, partly because the social media agreed on the counter-disinformation norms.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you. My next question is from Martin Kölling. He’s a correspondent for Handelsblatt, a German financial paper. He’s saying that, in Germany and Japan, the voluntary apps for tracking have been a failure so far.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        The approaches by Taiwan and South Korea have been rejected because of privacy concerns. What is your answer to that?
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        There’s a saying, “Anything that’s in-place when I’m born is human nature, and anything that’s introduced after I’m born is called technology.” So, in Taiwan, democracy’s a technology.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Paraphrasing that, we could say that any measure that’s already taken by the state before the pandemic is considered norm, and any measure that’s introduced only after the pandemic would be considered novel.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        In Taiwan, for example, the digital fence relied on a system that’s already in-place and that advanced earthquake and flood warnings so that people in certain regions will receive an automated cell broadcast or an SMS seconds before a major earthquake happening, or that if they’re in a vulnerable place, a flood, when there’s a typhoon or a heavy rain.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Indeed, last night, I just received one because of the earthquake, giving me plenty of time. By plenty, I mean maybe a few seconds, to find someplace solid. Because that’s already in-place, this geofenced SMS delivery is already in-place.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        When we repurpose that so that people who return to Taiwan can choose either to go to a quarantine hotel for 14 days, or if you decide to stay home, if they have a bathroom of their own and they don’t live with people in the vulnerable groups, they can choose to place their phone instead under quarantine.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        That is the digital fence. Whenever the phone escapes the roughly 50-meter radius – it’s not GPS, it’s just cellphone tower broadcasting triangulation – just like receiving an SMS of earthquake warning, their phone and the nearly household managers, as well police, will receive such an SMS.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        They will check their whereabouts. Because of that, the system is already quite well-understood before the pandemic. When we repurpose that, people feel that it is a narrow, deep intrusion to their privacy, but it’s clearly time-limited.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        It goes away after 14 days, and we do not collect new data. That is felt as OK. I think every jurisdiction need to look at the toolkits that’s already in-place before the pandemic and see if you can use a different configuration in an appropriate technology manner so that people understand already how it works.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The Greenfield code – that is to say, code that’s produced after the pandemic – of course, will always face a stronger scrutiny, because there was no previous audits.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you. Another question here. It’s also partly something that I want to ask myself is where do you see the East Asian countries such as Taiwan, Japan, China, South Korea, on the digitization ladder?
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        How do these countries compare to each other, and how do they compare to places such as the EU and the US? There’s a lot of concern here in Japan about how Japan has been, in some ways, slow to digitize. Especially, and this has come up with the COVID-19 pandemic.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        In Taiwan, we see the digitalization project not as one letter, but as four letters. It’s very easy to remember. The four letters are called digitization, innovation, governance, and inclusion.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The acronym is, of course, DIGI. Easy to remember. They talk about different aspects. Digitization talks about broadband as human right, talks about the 5G infrastructure, talks about the fact that most services provided by the government has a digital equivalent.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The innovation cause about Presidential Hackathon, about sandboxes, about the kind of freedom to innovate, even in a more or less disruptive way, and that’s the innovation part. The governance part talks about regulatory technology, the regtech.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The government’s own way of getting a rough consensus from the people, from the stakeholders that’s affected by the innovations, so that we can come up with new norms that can then guide the technology so that it works with people, or even after the people, rather than for people.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Finally, the inclusion parts talks about the Digital Opportunity Center, talks about the intergenerational solidarity, talks about how we’re working to right the wrongs of the social injustice and so on using technologies that empower people closest to the suffering, rather than in a way that excludes them from conversation.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        That includes, for example, participation by people who are not of the voting age, or even a ways, like the civil IoT infrastructure, that makes air, water, or mountains, oceans, previously unrepresented in the democratic conversation to represent them in the democratic conversation.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        These are four very different pillars, and it’s hard to make a linear projection, linear conversation, because it’s all about the societal priorities. I don’t think there’s right or wrong about these.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        In Taiwan, we try to make sure that all those four pillars support each other, rather than detract from each other, and cause polarized, heated debates between the different pillars. That is to say, the way to connect those pillars is what I’m focusing on, not making one pillar particularly high to the detriment of the other cultures. This is called transculturalism.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Just to follow up quickly there, and then I’ll come to you in one second, please. Would you have any advice for lawmakers and policymakers in Japan on how to improve their digitization process here?
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        I think in Taiwan, we’re conscious of not making this about paperless or sealless or things like that. It’s not about removing the previous ways of doing things. There’s always more than one way to do it.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Just the triple stimulus voucher have no less than four different variants depending on the payment method and more than three methods of collecting even just the paper part. The point here that I’m making is that, if you work with the stakeholders across different generations, you will find ways that doesn’t take away from anyone.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Like in the National Palace Museum [Chinese] in Taiwan, we work to improve the ticketing process to reduce queuing. Previously, they found that the elderly people insist on queuing with paper ticket, rather than using QR code for the ticketing process, like the high-speed rails.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        It’s not that elderly people doesn’t like QR codes. It’s that after interviews, we discovered they really like this paper ticket, because they can take it home to put in their diaries, to share with their families on dinner tables.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The token, this paper token, really matters. After we did this interview, we discovered they would be perfectly happy if, after using QR codes to very quickly get into the museum, they can collect their receipt.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Nobody says the receipt has to be dull and uninteresting. It could be gold-plated. It could have their name on it. It could have any number of beautiful design, including QR code that you can scan and bring to your grandchildren’s island on a popular Nintendo Switch game, and things like that.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Which, by the way, the National Palace Museum actually do. This kind of intergenerational co-creation workshop is the key in producing digitalization project that doesn’t make anyone feel that they have been left behind. That is the key here.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you. Question over here, please.
-                    </p>
-                </speech>
-                <speech by="#Kondo">
-                    <p>
-                        Hello, my name is Kondo from Gendai Business Japan. My question is that the Chinese government thinks that the Internet is a tool for controlling 1.4 billion Chinese people. What do you think of this policy, and it will succeed? Thank you.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Thank you. We have seen that previous attempts at totalitarian government is, at most, sub-totalitarian, because there was no sufficient technologies to ensure a total tracking of people.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Now, in places like Xinjiang, of course, we are seeing the prototypes of a truly total, not just sub-total, totalitarian surveillance regime is being worked on. My main point here is that, in Taiwan, because we are a liberal democracy, we see things through a human right and democracy lens.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        These attempts – for example, in Xinjiang that I just alluded to – is basically prompting all the sectors in Taiwan, not just we, the social sector people, the hacktivists, but also people in the private sector and so on, to look at these applications and technologies and serves as a really strong reminder that we should not go there.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        This is also why we have such a strong societal norm, for example, against takedowns and lockdowns, by the way. That is because we just look at the takedowns, the surveillance censorship regime – the Great Firewall sometimes turn into a Great Cannon – and say that we should totally not go there.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        In an interesting sense, it actually made consensus easier to reach in the Taiwan political discussion when it’s about emerging technology, because people can just bring out the argument saying, “What? You’re doing censorship of the Internet? Are we going to the route of the PRC?” That proposal become a nonstarter.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you. A couple of geopolitical questions have come in online here, too. I’ll probably ask you them both together now. Unfortunately, we don’t have this person’s name for this one. This person asks about hearing about Huawei spying for the Chinese Communist Party.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Especially Mr. Trump making these claims, but we’ve not seen any proof presented. What would you say about this first, on the first question there?
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        As I said in the very beginning, I am not making any comments about any specific companies. Indeed, when we talk about the 4G and the Sunflower rough consensus, the conversation on the street is not about specifically Huawei or ZT or any companies.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        It’s about a systemic risk assessment of the de facto control of the state from the PRC government to their so-called private sector companies. That is our main argument and my main message to people around the world. I do not, as a rule, comment on specific companies.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you. Following up there with a question from someone called Tom – very simple question – “When do you think China will invade Taiwan?”
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        I think that is a question to PRC leadership. That is certainly not a question from us. I have no idea. I cannot offer an answer of that question.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        OK, understandable as well. George. Got a question from the room now.
-                    </p>
-                </speech>
-                <speech by="#George">
-                    <p>
-                        Hello, Ms. Tang. I am working from Swiss Radio and Television. Can you talk a little bit about your own career and about your priorities today as minister of digitization, but to promote the development of the software industry in Taiwan, to make it as competitive, or even more competitive, as in China or in the US?
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Thank you. My own upbringing is, as a moderator have introduced an entrepreneur, and later on, work as an open source movement consultant to large companies, including Apple, so that they can work more in the open.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The idea here is very simply that open innovation works better than closed-room innovation when it comes to software. One of the key of software is that, while making new software is very easy, maintaining software in the face of changing society is very costly.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        If we can empower all the citizens of software to become co-creators, rather than just users, who often connote a very addictive way of relationship to technology – there are some other industry that also use the term “users” – we need to rethink the relationship of software-making and people who use the software.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Because of that, my job description, I think, very clearly explains the priorities that I have in mind. I’ll just simply read my job description, which is very short. It goes like this.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        “When we see the Internet of Things, let’s make it an Internet of Beings. When we see virtual reality, let’s make it a shared reality. When we see machine learning, let’s make it collaborative learning. When we see user experience, let’s make it about human experience. And when we hear that the singularity is near, let us always remember the plurality is here.”
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you. We’ve got a question here following up on the Internet of Things. It’s again from Anthony Rowley at the SCMP. “Has 5G made it easier to access the Internet of Things from outside, granting others access to vital control systems?”
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Not necessarily, because the information flow can be configured in various different ways. For example, in Taiwan, there’s a lot of people voluntarily putting AirBoxes – that is, very cheap, less than $100 – PM2.5 and other air quality detectors on their balconies, on the primary schools to teach kids digital competence.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        So that they become data producers, data stewards, rather than just consumers of data. That is, of course, a great educational tool, but it also enabled us to have a very complete structure of moving this to other, for example, water pollution sensing and mask availability level and so on.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        It enables the entire community, the entire society, to collaboratively do sense-making about things. It relies on the ideas of a distributed ledger that everybody can just write to, append to, without taking control of anybody else’s numbers.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        That is to say, it is just a way for data to grow into a ledger structure without relinquishing any source code, algorithmic control, or things like that. It’s a commons in a data collaborative for all to use.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        If you configure it this way, then there is no risk of people interfering with the control systems of the larger, for example, environmental sensors or the industrial processes, and so on. People just write to this distributed ledger, and the use of that ledger is governed by its own logic, according to each and every collaborator in the data collaborative.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        There are ways to design the data flow such that this concerns is minimized. It’s very important to look at into the 5G specification and see where do we want to place the computing? Is it at the edge? Is it at the datacenters? Is there something in-between?
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Is it federated learning? Is it about protection of private data using differential privacy or fully homomorphic encryption, open algorithms, or things like that? In Taiwan, we’re looking to establish, just as Japan recently did, a dedicated data protection authority that is independent from any ministries.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        That can look at those mathematical, cryptographic building materials and suggest the best way to configure those.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you. Another question here from Mishimoto from the “Asahi Shimbun,” a Japanese newspaper. “You’re communicating, obviously now, through the world online. How, to you, does online communication compare with face-to-face communication? What is the advantage of online, and what is the advantage of face-to-face?”
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The advantage of online is twofold. First, that we can see each other more clearly without wearing a medical mask, nowadays. The second thing is that it reduces carbon footprint. Also very important.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Speaking personally, because I adjust to jetlag very slowly, it also is much better than long-distance flight. On average, it takes me one day or more to adjust for one hour of jetlag difference. That’s just selfish reason. The other two are public benefit.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        In any case, [laughs] the point I’m making is that mostly we can replace the knowledge-sharing part of face-to-face gatherings using online conference, as we’re having now, or even in virtual reality, where we can share knowledge about three-dimensional spatial objects, buildings, simulations, and things like that.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        I even had a conversation with people in the primary and secondary schools by shrinking my own avatar in virtual reality to the same height at the kids. That really made them much more eager to interact with me, because I don’t look a meter and 80 centimeters high anymore.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        These are the great thing about online, is that you can transcend the physical and acoustic rules. Of course, there’s parts of face-to-face that are not replaceable. For example, the face-to-face conversations that is around understanding what people feels like is very important.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        In face-to-face conversations, we often make, for example, food, drinks, music, and things like that. Making sure that we can feel that we are not only in the same place, talking about the same things, but feeling the same.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        That is harder to replicate in the online way, although I guess we can order the same pizza delivery beforehand and have the same beer or something. It could, of course, be arranged and approximated, but it’s not as natural as people gathering in the same face-to-face place.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        In Taiwan, because we never had a lockdown, what we have seen is that people avoid large gatherings during the pandemic. We see education facilities encourage some kind of satellite structure, where people gather in preferably outdoor place, keeping one-meter distance, so we don’t have to wear a mask.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Having food, enjoying drink together, and using large projectors or virtual reality to connect to many more such places, so you can have the best of both worlds. Indeed, I’m working in the park in the Social Innovation Lab.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        If you look out of the door, you can see people just holding such outdoor gatherings at any given time. They can just go through this place and look into outdoors at the same time, look into my office and see very transparently how I’m working, why I’m working.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        At the same time, we can amplify these face-to-face conversations to various different municipalities, different places, using 5G technology, even to the most rural and highest mountains, so that people can also feel that they are in this co-creation workshop, no matter how remote they are.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        I think it’s imminently possible to make the best of both worlds happen if you design the interaction space appropriately.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you. Another question here from Ilgin at BBC World Turkish. She says, “You’re a civic hacker turned government minister. Where does your heart lie, and do you miss your earlier life as a conservative anarchist?”
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        My heart does not lie. Well, I’m a slushie, so I am at once digital minister – that’s my day job – but I am also moonlighting as a civic hacker. Not only for mask availability map, but also, for example, with Vitalik Buterin, creator of the Ethereum blockchain, and Glen Weyl, Danielle Allen, and so on.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        We have a startup, really an NPO, a social innovation organization, called RadicalxChange in New York. I am a board member. I’m also board member of the Digital Future Society in Barcelona, of Consul Democracy Foundation in Amsterdam.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        That’s the original Madrid decision-making community after the 15M. Very much civic hacker organizations.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        As long as I don’t take a salary from those organizations, as long as they are not-for-profit, and as long as the premier, the prime minister, feels that it furthers our digital diplomacy, they are OK with me moonlighting as a civic hacker while being a digital minister.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        I see myself as a channel, as a bridge, as a Lagrange point, between civic movements on one side and governments on the other.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        As the Lagrange point between the Earth and the Moon – there are three points, and two more behind the Earth and behind the Moon – I am in the place where I can more effortlessly balance between the movements as the governments and find a common purpose, common value, despite their initially very different positions.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you. We have a question here about the mask app. It’s from Riho Izawa at NTV Japan. “What was the most difficult thing regarding creating and using the applications such as the mask map when you were trying to deal with COVID-19 initially in Taiwan?”
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        What was the biggest challenge in creating such apps, given that, obviously, COVID-19 came very quickly?
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        As I said, because the civic hackers already had experiences working with the air pollution map, working with the WaterBoxes, and so on, the code is already there. We just need to repurpose it with a new, real-time news feed, an API – an application programming interface – for the mask availability.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Which the National Health Insurance Agency provided very quickly. It’s updated at the time every 30 seconds. That’s not the hard part. The most challenging part, actually, is in the negative externalities that it caused the pharmacists.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Soon as we rolled out the mask availability map, we see that the pharmacies who swiped the NHI card and then hand out the mask praising that it’s working very well. There are also pharmacists that choose a different strategy.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        They say that you can get a numbered badge, a numbered card from the pharmacy, in exchange of your NHI card. They just hand out those number plates very quickly and then start to swipe the NHI card in bulk.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        It will create a couple hours in which that they’re just slowly doing this NHI card swiping and telling the people who have those numbers to collect in the afternoon, for example, so that the map will show that they still have mask in-store.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Actually, they have already rationed all the masks of the day using numbered plates. Those pharmacists are actually quite upset of the map, because map is inaccurate and actually increase their work.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        People will just call them, saying, “Why are there discrepancies? Are you keeping the masks for yourselves?” Even though they are volunteer, they were not getting paid. This conflict is solved quite quickly, because that we have a weekly iteration cycle.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        When the pharmacist says, “OK, we will announce the availability hours, the schedules, and you need to make an additional field in the open API for that,” we just adjust very quickly. Eventually, we also develop a back end button so that each pharmacists can just click that button and disappear from the map.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Which they will do if they handed out all the numbered plates and so on. This is truly a co-creation process. There’s a crack in everything, and that’s how the light gets in.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Good. Do we have any more questions from the room?
-                    </p>
-                </speech>
-                <narrative>
-                    <p>
-                        <i>
-                            (pause)
-                        </i>
-                    </p>
-                </narrative>
-                <speech by="#Andy Sharp">
-                    <p>
-                        I’ll go to the next online question. It’s from Rick Weisburd from ELSS. “How can democracies effectively deal with threats that unfold over long periods, despite relatively short cycles of elections, and of course, corporate strategy?”
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        I would argue the cycles of the elections are too long for real-time feedback. In Taiwan, during the pandemic, we have the Central Epidemic Command Center doing daily live-broadcasted press conferences such as this one, where the journalists ask anything they want and the minister always respond to each and every single one of them.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        If you do this daily iteration cycle plus a toll-free number, 1922, where everybody can call and not only get their question answered but also correct the parts that we did wrong.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        For example, there’s a young boy whose family called saying that “My boy doesn’t want to go to school because you only ration pink medical mask to our district. We don’t have other color of mask and our boy said that he will be bullied.”
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The very next day, in the daily press conference, all the medical officers started wearing pink. The Minister of Health and Welfare said Pink Panther was his childhood hero, in a way of gender mainstreaming, I’m sure. Suddenly, the boy is the most hip person because only he has the color that the heroes are wearing.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The point of this daily, rather than every four years, iteration is that the social sector can bond together. Instead of just criticizing, they can offer constructive ways, alternative visions, forking the government and merge on a daily cycle just as in open source development.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        If you have a short enough iteration, then the threats that unfold over long periods will get the collective intelligence sensing it long before it actually become a large problem. For example, when Dr. Li Wenliang, the whistleblower from Wuhan, posted that there are “seven new SARS cases” in a local seafood market, within 24 hours it gets reposted to PTT, the local equivalent of Reddit here.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        It gets upvoted, so our medical officers take that in for action. Imagine what would happen if it would take us a or so [laughs] to notice that post. That would have been impossible.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The way Dr. Li Wenliang became literally a savior of Taiwanese population is having a collective intelligence mechanism and have a really short iteration cycle from noticing it into sense-making, into triaging, into starting health inspections for all flights coming in from Wuhan to Taiwan the very next day, the first day of January of this year.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Short iterations, quick merging of alternative vision from the civil society, a strong and robust social sector, I think these are the ways that democracies can effectively deal with threats that are advanced and persistent.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you. We have another question here form Izawa-san at NTV. What is your message to Japan, given that it seems now to be in the midst of a second wave of the COVID-19 virus with increasing numbers of infections every day?
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Don’t panic. That’s always the most important.
-                    </p>
-                </speech>
-                <narrative>
-                    <p>
-                        <i>
-                            (laughter)
-                        </i>
-                    </p>
-                </narrative>
-                <speech by="#Audrey Tang">
-                    <p>
-                        In Taiwan, we have a very calm minster, Minister Chen Shih-chung, that appears every day.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Even though there were panic, like panic buying of tissue papers which was solved with a meme, panic buying of instant noodles which solved with another very funny meme that says, “There’s endless instant noodles. Buy as much as you want, and add some vegetables to it so you have a balanced diet.” [laughs]
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        This whole point of making sure that people can remix those messages into a way that’s calm, collected, and even humorous is very important to make sure that people don’t panic. Once they don’t panic, they have some mental capacity to understand some epidemiology and working with people who are closest to the suffering. I will use one example.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        In Taiwan, there was a day when there was a confirmed case, and the confirmed case, she said that she stayed at home with no contact to people, a very simple family and so on. There’s no way that she would get infected by the COVID.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        The medical officers keep on interviewing, and the next day, we discovered that she works in a kind of intimate bar and as a professional service provider in that intimate bar. She initially provided a different account because she didn’t want to reveal the people that she had intimate encounters with in that intimate bar as a professional.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        At that point, many people were saying that we should just shut down any like night clubs, intimate bars, and so on, but Minister Chen Shih-Chung insists on saying, we’re not putting them any criminal threats.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        They’re not criminals. They’re professionals, and we’re not threatening them even with the closure fines. We’re challenging them to discover ways that they can continue their business while observing physical distancing and real contact. That is to say, people have to find other way to contact them if there is really a virus outbreak.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        At the time, it was met with some ridicule because people thought the entire point of intimate bars is to break the physical, and there really is no way [laughs] that people would consent of leaving their real contact details to the intimate bars. This is like the Pygmalion effect. If you expect the civil society to come up with innovations, eventually they do.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        There’s some intimate bars that then discovered that if you wear a cap with a plastic shielding, then you can still have a clear view of the people who drink with you and even have drinks while observing the physical distancing rules.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        If you keep only on paper your contact phone number but under a pseudonym and if you physically shred that that paper after four weeks of no local outbreak, then people actually trust them enough to actually leave their contact details. You can do a SMS or LINE to check that it’s actually their number before they enter.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        They eventually rose up to the challenge and become part of our conversation about the counter-coronavirus pandemic. Instead of casting any group as outsiders, it’s important to work with each and every group. Even though they’re currently not capable of coming up with physical distancing rules and so on, the belief is that they eventually would.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Once they do, the municipalities eventually require them to say which rules they’re implementing. Based on that accountability, then they’re allowed to reopen. That’s just one of a lot of [indecipherable 58:31] into the Taiwanese counter-coronavirus. I hope this conveys the idea of co-creation.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        That brings us to the end of the hour. Thank you very much for your time, Audrey. Much appreciated. We’re going to send you, by email, a one-year honorary membership to the FCCJ.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        When you are allowed to come to Japan, whenever that may be, we do hope you come and have a drink with us in the bar and tell some more of your stories.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        [Japanese] Live long and prosper.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you very much indeed.
-                    </p>
-                </speech>
-                <speech by="#Teddy Jimbo">
-                    <p>
-                        Thank you.
-                    </p>
-                </speech>
-                <speech by="#Andy Sharp">
-                    <p>
-                        Thank you.
-                    </p>
-                </speech>
-                <speech by="#Audrey Tang">
-                    <p>
-                        Thank you.
-                    </p>
-                </speech>
-                <narrative>
-                    <p>
-                        <i>
-                            (applause)
-                        </i>
-                    </p>
-                </narrative>
-            </debateSection>
-        </debateBody>
-    </debate>
-</akomaNtoso>
+# 2020-07-27 Interview with FCCJ
+
+:::info
+🌐 This is a collaborative editor for the meeting transcript. If you want to adjust your own speech, please click on the "Pencil" icon at the top left corner to start editing. The system automatically saves each edit. It is scheduled to be released on XXXX-XX-XX and will be published at https://pdis.nat.gov.tw/track/ to the [public domain](https://github.com/audreyt/archive.tw/blob/gh-pages/LICENSE). Thank you for your contribution to the commons.
+:::
+### Andy Sharp:
+Good morning and welcome to the FCCJ. Thank you, those who've come to the club and also those watching online. My name's Andy Sharp. I work at the "Nikkei Asian Review." Today, we have a very special guest.
+
+It's Audrey Tang. She's Taiwan's Digital Minister, a 39-year-old former hacker with a reported very high IQ, who at the age of 14 co-founded a computer book publisher and developed a search engine. She went on to become a Silicon Valley consultant for the likes of Apple.
+
+Audrey Tang was invited into President Tsai Ing-wen's cabinet in 2016 to help boost Taiwan's digital prowess. She's gone on to help lead the country's much-applauded fight against the coronavirus by helping develop apps to spread the distribution of masks and economic stimulus coupons.
+
+There's much to discuss. Clearly, China tech is a big issue here. In a recent interview with my colleagues at the Nikkei in Taipei, she said that allowing Chinese equipment into a country's core telecom infrastructure is like inviting a Trojan horse into the network.
+
+Anyway, without further ado, I believe Miss Tang's going to make a short speech. We have a bunch of questions already received online. We'll also take questions from the room. Just to introduce myself, by the way, I am the moderator. This is Teddy Jimbo. He's the FCCJ PAC co-chair.
+
+### Teddy Jimbo:
+Hi, Andrew.
+
+### Andy Sharp:
+Over to you.
+
+### Audrey Tang:
+Hello. My extremely short speech, about 30 seconds long...
+
+> (laughter)
+
+### Audrey Tang:
+...is just to introduce the Slido system that we're going to use for this live Q&A. I see there's already seven questions being asked. Very quickly, I think they will project the Slido link on the screen. If the tech is still being worked on, you can also manually go to slido.com -- that's S-L-I-D-O.com -- and enter this code. The code is 00727.
+
+Whether it's by scanning the QR code, hopefully to be projected soon, or by going to slido.com and enter 00727, you can like each other's questions. The question with the most number of likes will float to the top. I will answer that first.
+
+### Andy Sharp:
+[laughs]
+
+### Audrey Tang:
+If we get all the questions, that's great. At any given time, of course you can ask me a question which will appear on the bottom right of the projection screen.
+
+If I cannot get to all the questions by the end of the hour, sorry about that, but if people have anything to ask from the podium, actually I don't see the camera of the person, people on site, so the moderator will have to interrupt me during my answer to the online questions so that we can get a good online-offline mix. That's my opening presentation.
+
+### Andy Sharp:
+Thank you very much. Do you want to start by answering some of the questions that's been sent so far on Slido?
+
+### Audrey Tang:
+That's right. The top one, currently from -- sorry if my pronunciation is not perfect -- from Ilgin Yorulmaz from BBC World Turkish. The question was, what would I advise other governments in how to deal with social media companies when it comes to balancing citizens' privacy while maintaining free speech?
+
+We believe, in Taiwan, that free speech is a core value. It's not an instrumental value. Indeed, according to the CIVICUS Monitor, we're the only jurisdiction in Asia which allows the completely open freedom of speech, assembly, the press, and so on, and if you count New Zealand, that's one of the only two in Asia Pacific.
+
+In our norm, it's not about takedown. We don't believe in takedown. We believe that a journalist's word should always worth the same as a minister's word, actually more.
+
+The point is not allowing the administration to collaborate with social media companies to take down anything, but to rather work out a way for people who see disinformation, as defined as intentional untruth to do public harm, the antithesis of journalism, people can flag it very easily.
+
+For example, I'll use a metaphor, maybe you've noticed that in your email inbox, if you receive a email saying that, I don't know, they're a royalty, they have like 10,000 Bitcoins, and they want to wire you if you just pay this small deposit and so on. It's a scam, by the way, and so you would probably flag it as spam. That is the norm in the Internet governance.
+
+Basically, email is supposed to be private, but if you flag something as spam, you donate the signature, the fingerprint of that email so that people who receive similar email in the future, they still receive the email, but it goes to the spam mail, the junk mail folder rather than the inbox.
+
+That is to say, it doesn't pay to send spam after a sufficient number have flagged it because it stops wasting people's time.
+
+Similarly, when people flag things on the, for example, LINE, which is end-to-end encryption channel, as scam or spam, it get sent to the International Fact-Checking Network members.
+
+In Taiwan, there's two, the MyGoPen and in the Taiwan FactChecking Center, and they make sure that they flag things as scam or as disinformation a soon as possible.
+
+The role of the government is just to make sure that once we detect that there is such a trending disinformation, not only do we, with journalists, so that they can do a public attribution so that people understand it is actually not true when they see it online or on the Facebook Media and so on.
+
+We also roll out counter-messages that are true up to what we understand, and then package in a very funny way. This is what we call humor over rumor because a lot of conspiracy theory travel on outrage, and if we publish something that is very funny, literally a person cannot simultaneously feel joy and outrage about the same thing.
+
+Because of that, people who have seen for example our premier wiggling his butt, saying that there's no need to panic-buy tissue papers because we only have one pair of butt each, and by the way, tissue papers are of a different material than medical mask, so ramping up medical masks doesn't hurt tissue paper production.
+
+That's very funny and has a higher R value than the original conspiracy theory.
+
+That is the idea of humor over rumor and partnering with journalists and fact-checking organizations. The social media companies basically conform to this norm by doing notice and public notice.
+
+### Andy Sharp:
+Thank you. Maybe we can go on to the next question from, on your list, from Peele?
+
+### Audrey Tang:
+Peele, from Italy?
+
+### Andy Sharp:
+Yes.
+
+### Audrey Tang:
+The question is, do I think the world can survive without Chinese technology? I think Peele doesn't mean paper, but rather Huawei.
+
+In Taiwan, as actually the moderator have already mentioned, during the Sunflower Movement in 2014, there's half a million people on the street, many more online deliberating each and every aspect of the Cross-Strait Service and Trade Agreement, or CSSTA. One of the aspects was this very issue.
+
+It's not about any particular company, though. The issue was about whether we want to allow PRC components in our then new 4G infrastructure. The consensus on the street, later ratified by the National Communication Commission and National Security Council, is no.
+
+The reason is not that they're inferior or that they necessarily come with malaise or whatever, but rather with the realization that there is no private sector organization in the PRC. When the need comes, the state can always make it de facto state-owned by searching and replacing leadership.
+
+Basically, that says each time we upgrade, even though the previous version that we installed have passed cyber security scrutiny, we will have to do that over again.
+
+There is no telling whether there are state-owned or de facto state-owned actors trying to, via these upgrades, to install new backdoors into the system, and so the total cost of ownership of maintenance is deemed too high compared to other vendors.
+
+Because of that, starting from 4G, that's 2014, we did not use any PRC components in the core infrastructure, and what little there were, I think were all replaced by 2016.
+
+Obviously we've survived not only the pandemic and infodemic, but we have pretty good 5G connection. I'm holding a 5G phone, using, this is LG technology, I think, as we speak, and so obviously we're doing fine, not only surviving but thriving.
+
+### Andy Sharp:
+Thank you. I'm going to open this to the room as well, if there are any questions, so please raise your hands if you have anything, but let me ask one question first.
+
+It's a question sent by email from Peter Elstrom at Bloomberg News. He asks, do you think there's a justification for governments around the world to tighten controls or ban social media apps such as TikTok and WeChat, and are there specific security risks that those apps pose to users?
+
+### Audrey Tang:
+Yeah, in Taiwan, we make a distinction between the social sanction, which is a very strong power. For example, Facebook, during our election in 2018, the mayoral election, because our control branch, that's a separate branch of the government, published for the first time the raw data of campaign donation and expense.
+
+People independently discovered, by people, I mean investigative journalists, independently discovered that there's a large swath of campaign donation expense that's not filed to the control branch. These are social media advertisements, precision targeted advertisements.
+
+Of course, Facebook at that time, there was no disclosure of the kind of the control branch, the radical transparency that we did, and so there's a social backlash.
+
+People were saying that Facebook, by not disclosing it to the Control Yuan standards, is hurting the democracy by allowing extrajudicial donations to the campaign sponsorships to the campaigns, and that has a detrimental effect on the democracy.
+
+Because of that, the Control Yuan norms, which is two, first, only domestic citizens get to donate, and second, each and every raw expense item is published, we basically had a public conversation around it, the transcript of which is online, with all the social media companies.
+
+We agreed on a norm on a counter-disinformation self-regulation principle. The implicit outside game is always of course that if Facebook doesn't publish its advertisements libraries to the same degree or more as compared to the Control Yuan.
+
+Even though that we may not have the legal instruments to shut down Facebook or to dispel Facebook, people would view that Facebook is actively working against our democracy, and so we'll boycott Facebook. That's what I call social sanction.
+
+By the presidential election this year, they basically implemented the same Control Yuan norms and publishing the ads library in real-time for people to fact-check, working with investigative journalists.
+
+That is the kind of norm conversations that we've had, and of course Google and Twitter simply refrained from running advertisements.
+
+I think, for questions like this, instead of saying like we should outright ban it or that we should allow it, getting a social norm, a social outrage if you will, about the kind of threat that it could have on democracy and negotiating a safe norm and so making sure that international companies conform to that norm in a auditable, accountable fashion, that is preferred.
+
+Only if they refuse to negotiate, only if they refuse to conform to the norm do we go to the social sanction route and eventually the state action route.
+
+### Andy Sharp:
+Thank you. Questions from the room? Yes, Nakano-san.
+
+> (pause)
+
+### Nakano:
+My name is Nakano. I'm freelance. Thank you, Minister Tang. I have two questions. Just let me hear what's going on in Taiwan these days. Is there any digital gap between generations in Taiwan? My second question is, do elderly people have difficulty accepting the digitization of the society in Taiwan?
+
+### Audrey Tang:
+Sorry, I didn't get the second question. Do...
+
+### Nakano:
+Do old people, do elderly people have difficulty accepting the digitization of society in Taiwan?
+
+### Audrey Tang:
+Thank you. There's just a, I think, a NPR and "New York Times," piece about how a Taiwanese couple in their 80s becomes Instagram's newest fashion influencers. They own a laundry shop in Central Taiwan, and became Instagram stars by posing as models the laundries that their customers never picked up, and so they run a very successful Instagram campaign.
+
+> (laughs) The point I'm trying to make is that this is a lifelong learning process. This is not necessarily that the older people are not digitally competent. It's just that if we shape the conversations so that we encourage everybody to learn.
+
+The technologies in Taiwan basically says that we need to adapt to the societal needs. It's not asking a certain population to come to technology. Rather, it is us, the technologists, conforming to what the societal expectation, societal norms of technologies are.
+
+I just mentioned 5G. When we're deploying 5G, there's a auction on the spectrum. There's a lot of extra money that we can allocate.
+
+We allocate it to the places where the 4G connections are least utilized, specifically around a more rural areas, in the places with higher average age of population, and to focus on education, that's lifelong learning, and health. These are the two things that the people across all age groups feel passionate about.
+
+Yes, of course there is some digital gap, but it is actually not as severe as most other places because we have broadband as a human right, we have digital opportunity centers, and most importantly, we emphasize lifelong learning around especially education and health areas, and so that's the main idea.
+
+The other thing I want to bring upon is that, like my own grandma, 87 years old, I consult her all the time when we're designing new digital services like the mask rationing. You can preorder mask using your National Health Insurance card on any local kiosk by any local convenience store, of which there's more than 20,000 in Taiwan.
+
+My grandma suggested that I consult her younger friend who is 77 years old.
+
+Grandma Yang, her friend, told me a lot of things, for example, that we should pay over-the-counter rather than to the ATM because a lot of the elderly people associate ATM with scam, and so that we really need to allow cash-based payment when you're preordering the mask on the convenience stores, and many other small things like that.
+
+I think the wisdom of the elders are also very important when we're designing digital services.
+
+### Andy Sharp:
+Thank you. Take another question here online. It's from Anthony Rowley at the "SCMP." As I mentioned in my opening remarks, you said in the "Nikkei" interview that allowing Chinese equipment into a country's infrastructure is like inviting a Trojan horse in. Why do you think this, and how exactly does this work?
+
+### Audrey Tang:
+Yeah, and I was simply relaying the rough consensus of the 2014 occupiers, so it's not my view. It's what the occupiers feel at the time, and then ratified by the National Security Council and National Communication Commission. How does that work?
+
+If you install certain components, no matter whether it's software or hardware, of course you do a security audit, but then necessarily, either in a emergency situation, for example when it's out of service or whether there's just a security vulnerability that's discovered and disclosed, you will probably have to update that piece of software and firmware, and even hardware, from the vendor.
+
+The main idea around Occupy in 2014 was that we never know at which point would the CCP, through its party branches, install in all the large so-called privately owned enterprises did do a swap of the leadership and take de facto control of the private enterprise, so that they become de facto state-owned.
+
+Every time you operate, you have to do another systemic risk assessment, which could be done. The feeling at the time is that the risk is too high and the protocols of ownership too high. We would be better to work with other vendors from liberal democratic countries.
+
+### Andy Sharp:
+Thank you. Now, I'm just going to put up this. Take a picture of this for the audience, please. It's for questions to Ms. Tang on Slido, https://sli.do/00727. I'm using it here now, and it's very clear and easy to use.
+
+People at home, if you want to send a question, please use this link. OK? Thank you. Another question has come in on Slido. It's from Patrick Velter at FAZ. That's German media. "With the economic quarrel between the US and the People's Republic of China, do you expect that companies will leave China and move to Taiwan or elsewhere?"
+
+### Audrey Tang:
+The first time I've seen PRC spelled PR China. Interesting spelling.
+
+> (laughter)
+
+### Audrey Tang:
+I think there's two things. The first is that we are already seeing companies that strive only free speech. For example, media companies, the journalism workers, they are already setting up their headquarters in Taiwan and either moving from Hong Kong or moving from PRC to Taiwan.
+
+The people who hold, for example, the Oslo Freedom Forum choose Taiwan as their base. Indeed, the Reporters Without Borders, Reporters sans frontièrs, choose Taiwan as their regional headquarter.
+
+All of this, of course, is recognizing the fact that in Taiwan a journalist's word is worth at least the same, or if not more, compare to a minister's words. You will not get "harmonized" or "disappear" if you say something that hurts the image of a minister. That's just good journalism.
+
+I think anything that thrives on free speech, anything that thrives on what we call a permissionless innovation, including many more interesting fintech, including DeFi, distributed finance companies, and so on, they necessarily think that Taiwan is a better place, even though that their innovations may not be restrained to Taiwan only.
+
+Taiwan offers a really good sandbox for people to experiment there. That includes also what we call digital nomad, who can hold a Taiwan Gold Card. You can check it out at taiwangoldcard.com.
+
+There is, I think by this time, almost 1,000 now people holding these three-year resident and work permits. They don't have to find an employer. They can work for themselves or international company and so on, but just enjoy Taiwan as a safe and free space.
+
+Many people visit just by visitor's visa, a tourism visa, and so on. They decide they like it, and they're a foreign talent. They just apply for the Gold Card and just convert their six-month trip into a three-year stay. We're seeing a lot of that going from the direction of PRC as well.
+
+### Andy Sharp:
+OK, thank you. Another question from Slido here. It's from Kantaro Suzuki, a freelance reporter. He's asking were there any cyber attacks from China during the recent Taiwanese presidential election? If so, can you tell us how you blocked these attacks?
+
+### Audrey Tang:
+There's cyber attacks literally every hour. The question is yes, no matter which day you ask. [laughs] Fortunately, most of those attacks were thwarted automatically by the defense in-depth system that we deployed.
+
+It did not really interfere the presidential election, although there's a lot of disinformation campaigns, which are not strictly speaking cyber attacks in the traditional cybersecurity sense. There were specifically around the anti-ELAB protests in Hong Kong.
+
+We have seen concerted disinformation campaigns in the Taiwanese social media. For example, there was one last November that tries to portray the young people who go to the street in Hong Kong as "Thugs that gets paid $200,000 to murder police."
+
+They even use a Reuters photo. The Reuters photo, the caption initially said nothing of that sort. They just swapped a different caption saying that this certain-years-old bought new iPhones, because they went on the street getting paid, like mercenaries and things like that.
+
+Of course, it's completely untrue. It's really making the round on the Taiwanese social media. Again, we did a public attribution notice and public notice, thanks to the help by the International Fact-Checking Network.
+
+In particular Taiwan FactCheck Center, who traced the original post to the Weibo of the [Chinese] of the central political and law unit of the CCP. That's very interesting, because it's not covert.
+
+It's not like traditional cybersecurity attack. It's right there on their Weibo. Maybe they did not pay for the license from the Reuters photographer and simply just use a new caption to sow discord and spread disinformation.
+
+There's and lot of that, and you can check Taiwan FactCheck Center, MyGoPen, and so on, for a list of things. There's one about the invisible ink provided by the CIA. "If you vote for Han, your ink will disappear and replaced by the invisible ink that appears for Dr. Tsai Ing-wen."
+
+Of course, the way to debunk those is very simply encourage YouTubers to record -- and live stream, even -- the counting process, because we are using paper ballot. We use the counting process, inviting journalists to film from all the different sides.
+
+If there is invisible ink, I'm sure that it will get discovered and so on and so forth. There's a lot of overt work on disinformation, but I think it's proved to be much less impactful in the presidential election, compared to the mayor election, partly because the social media agreed on the counter-disinformation norms.
+
+### Andy Sharp:
+Thank you. My next question is from Martin Kölling. He's a correspondent for Handelsblatt, a German financial paper. He's saying that, in Germany and Japan, the voluntary apps for tracking have been a failure so far.
+
+The approaches by Taiwan and South Korea have been rejected because of privacy concerns. What is your answer to that?
+
+### Audrey Tang:
+There's a saying, "Anything that's in-place when I'm born is human nature, and anything that's introduced after I'm born is called technology." So, in Taiwan, democracy's a technology.
+
+Paraphrasing that, we could say that any measure that's already taken by the state before the pandemic is considered norm, and any measure that's introduced only after the pandemic would be considered novel.
+
+In Taiwan, for example, the digital fence relied on a system that's already in-place and that advanced earthquake and flood warnings so that people in certain regions will receive an automated cell broadcast or an SMS seconds before a major earthquake happening, or that if they're in a vulnerable place, a flood, when there's a typhoon or a heavy rain.
+
+Indeed, last night, I just received one because of the earthquake, giving me plenty of time. By plenty, I mean maybe a few seconds, to find someplace solid. Because that's already in-place, this geofenced SMS delivery is already in-place.
+
+When we repurpose that so that people who return to Taiwan can choose either to go to a quarantine hotel for 14 days, or if you decide to stay home, if they have a bathroom of their own and they don't live with people in the vulnerable groups, they can choose to place their phone instead under quarantine.
+
+That is the digital fence. Whenever the phone escapes the roughly 50-meter radius -- it's not GPS, it's just cellphone tower broadcasting triangulation -- just like receiving an SMS of earthquake warning, their phone and the nearly household managers, as well police, will receive such an SMS.
+
+They will check their whereabouts. Because of that, the system is already quite well-understood before the pandemic. When we repurpose that, people feel that it is a narrow, deep intrusion to their privacy, but it's clearly time-limited.
+
+It goes away after 14 days, and we do not collect new data. That is felt as OK. I think every jurisdiction need to look at the toolkits that's already in-place before the pandemic and see if you can use a different configuration in an appropriate technology manner so that people understand already how it works.
+
+The Greenfield code -- that is to say, code that's produced after the pandemic -- of course, will always face a stronger scrutiny, because there was no previous audits.
+
+### Andy Sharp:
+Thank you. Another question here. It's also partly something that I want to ask myself is where do you see the East Asian countries such as Taiwan, Japan, China, South Korea, on the digitization ladder?
+
+How do these countries compare to each other, and how do they compare to places such as the EU and the US? There's a lot of concern here in Japan about how Japan has been, in some ways, slow to digitize. Especially, and this has come up with the COVID-19 pandemic.
+
+### Audrey Tang:
+In Taiwan, we see the digitalization project not as one letter, but as four letters. It's very easy to remember. The four letters are called digitization, innovation, governance, and inclusion.
+
+The acronym is, of course, DIGI. Easy to remember. They talk about different aspects. Digitization talks about broadband as human right, talks about the 5G infrastructure, talks about the fact that most services provided by the government has a digital equivalent.
+
+The innovation cause about Presidential Hackathon, about sandboxes, about the kind of freedom to innovate, even in a more or less disruptive way, and that's the innovation part. The governance part talks about regulatory technology, the regtech.
+
+The government's own way of getting a rough consensus from the people, from the stakeholders that's affected by the innovations, so that we can come up with new norms that can then guide the technology so that it works with people, or even after the people, rather than for people.
+
+Finally, the inclusion parts talks about the Digital Opportunity Center, talks about the intergenerational solidarity, talks about how we're working to right the wrongs of the social injustice and so on using technologies that empower people closest to the suffering, rather than in a way that excludes them from conversation.
+
+That includes, for example, participation by people who are not of the voting age, or even a ways, like the civil IoT infrastructure, that makes air, water, or mountains, oceans, previously unrepresented in the democratic conversation to represent them in the democratic conversation.
+
+These are four very different pillars, and it's hard to make a linear projection, linear conversation, because it's all about the societal priorities. I don't think there's right or wrong about these.
+
+In Taiwan, we try to make sure that all those four pillars support each other, rather than detract from each other, and cause polarized, heated debates between the different pillars. That is to say, the way to connect those pillars is what I'm focusing on, not making one pillar particularly high to the detriment of the other cultures. This is called transculturalism.
+
+### Andy Sharp:
+Just to follow up quickly there, and then I'll come to you in one second, please. Would you have any advice for lawmakers and policymakers in Japan on how to improve their digitization process here?
+
+### Audrey Tang:
+I think in Taiwan, we're conscious of not making this about paperless or sealless or things like that. It's not about removing the previous ways of doing things. There's always more than one way to do it.
+
+Just the triple stimulus voucher have no less than four different variants depending on the payment method and more than three methods of collecting even just the paper part. The point here that I'm making is that, if you work with the stakeholders across different generations, you will find ways that doesn't take away from anyone.
+
+Like in the National Palace Museum [Chinese] in Taiwan, we work to improve the ticketing process to reduce queuing. Previously, they found that the elderly people insist on queuing with paper ticket, rather than using QR code for the ticketing process, like the high-speed rails.
+
+It's not that elderly people doesn't like QR codes. It's that after interviews, we discovered they really like this paper ticket, because they can take it home to put in their diaries, to share with their families on dinner tables.
+
+The token, this paper token, really matters. After we did this interview, we discovered they would be perfectly happy if, after using QR codes to very quickly get into the museum, they can collect their receipt.
+
+Nobody says the receipt has to be dull and uninteresting. It could be gold-plated. It could have their name on it. It could have any number of beautiful design, including QR code that you can scan and bring to your grandchildren's island on a popular Nintendo Switch game, and things like that.
+
+Which, by the way, the National Palace Museum actually do. This kind of intergenerational co-creation workshop is the key in producing digitalization project that doesn't make anyone feel that they have been left behind. That is the key here.
+
+### Andy Sharp:
+Thank you. Question over here, please.
+
+### Kondo:
+Hello, my name is Kondo from Gendai Business Japan. My question is that the Chinese government thinks that the Internet is a tool for controlling 1.4 billion Chinese people. What do you think of this policy, and it will succeed? Thank you.
+
+### Audrey Tang:
+Thank you. We have seen that previous attempts at totalitarian government is, at most, sub-totalitarian, because there was no sufficient technologies to ensure a total tracking of people.
+
+Now, in places like Xinjiang, of course, we are seeing the prototypes of a truly total, not just sub-total, totalitarian surveillance regime is being worked on. My main point here is that, in Taiwan, because we are a liberal democracy, we see things through a human right and democracy lens.
+
+These attempts -- for example, in Xinjiang that I just alluded to -- is basically prompting all the sectors in Taiwan, not just we, the social sector people, the hacktivists, but also people in the private sector and so on, to look at these applications and technologies and serves as a really strong reminder that we should not go there.
+
+This is also why we have such a strong societal norm, for example, against takedowns and lockdowns, by the way. That is because we just look at the takedowns, the surveillance censorship regime -- the Great Firewall sometimes turn into a Great Cannon -- and say that we should totally not go there.
+
+In an interesting sense, it actually made consensus easier to reach in the Taiwan political discussion when it's about emerging technology, because people can just bring out the argument saying, "What? You're doing censorship of the Internet? Are we going to the route of the PRC?" That proposal become a nonstarter.
+
+### Andy Sharp:
+Thank you. A couple of geopolitical questions have come in online here, too. I'll probably ask you them both together now. Unfortunately, we don't have this person's name for this one. This person asks about hearing about Huawei spying for the Chinese Communist Party.
+
+Especially Mr. Trump making these claims, but we've not seen any proof presented. What would you say about this first, on the first question there?
+
+### Audrey Tang:
+As I said in the very beginning, I am not making any comments about any specific companies. Indeed, when we talk about the 4G and the Sunflower rough consensus, the conversation on the street is not about specifically Huawei or ZT or any companies.
+
+It's about a systemic risk assessment of the de facto control of the state from the PRC government to their so-called private sector companies. That is our main argument and my main message to people around the world. I do not, as a rule, comment on specific companies.
+
+### Andy Sharp:
+Thank you. Following up there with a question from someone called Tom -- very simple question -- "When do you think China will invade Taiwan?"
+
+### Audrey Tang:
+I think that is a question to PRC leadership. That is certainly not a question from us. I have no idea. I cannot offer an answer of that question.
+
+### Andy Sharp:
+OK, understandable as well. George. Got a question from the room now.
+
+### George:
+Hello, Ms. Tang. I am working from Swiss Radio and Television. Can you talk a little bit about your own career and about your priorities today as minister of digitization, but to promote the development of the software industry in Taiwan, to make it as competitive, or even more competitive, as in China or in the US?
+
+### Audrey Tang:
+Thank you. My own upbringing is, as a moderator have introduced an entrepreneur, and later on, work as an open source movement consultant to large companies, including Apple, so that they can work more in the open.
+
+The idea here is very simply that open innovation works better than closed-room innovation when it comes to software. One of the key of software is that, while making new software is very easy, maintaining software in the face of changing society is very costly.
+
+If we can empower all the citizens of software to become co-creators, rather than just users, who often connote a very addictive way of relationship to technology -- there are some other industry that also use the term "users" -- we need to rethink the relationship of software-making and people who use the software.
+
+Because of that, my job description, I think, very clearly explains the priorities that I have in mind. I'll just simply read my job description, which is very short. It goes like this.
+
+"When we see the Internet of Things, let's make it an Internet of Beings. When we see virtual reality, let's make it a shared reality. When we see machine learning, let's make it collaborative learning. When we see user experience, let's make it about human experience. And when we hear that the singularity is near, let us always remember the plurality is here."
+
+### Andy Sharp:
+Thank you. We've got a question here following up on the Internet of Things. It's again from Anthony Rowley at the SCMP. "Has 5G made it easier to access the Internet of Things from outside, granting others access to vital control systems?"
+
+### Audrey Tang:
+Not necessarily, because the information flow can be configured in various different ways. For example, in Taiwan, there's a lot of people voluntarily putting AirBoxes -- that is, very cheap, less than $100 -- PM2.5 and other air quality detectors on their balconies, on the primary schools to teach kids digital competence.
+
+So that they become data producers, data stewards, rather than just consumers of data. That is, of course, a great educational tool, but it also enabled us to have a very complete structure of moving this to other, for example, water pollution sensing and mask availability level and so on.
+
+It enables the entire community, the entire society, to collaboratively do sense-making about things. It relies on the ideas of a distributed ledger that everybody can just write to, append to, without taking control of anybody else's numbers.
+
+That is to say, it is just a way for data to grow into a ledger structure without relinquishing any source code, algorithmic control, or things like that. It's a commons in a data collaborative for all to use.
+
+If you configure it this way, then there is no risk of people interfering with the control systems of the larger, for example, environmental sensors or the industrial processes, and so on. People just write to this distributed ledger, and the use of that ledger is governed by its own logic, according to each and every collaborator in the data collaborative.
+
+There are ways to design the data flow such that this concerns is minimized. It's very important to look at into the 5G specification and see where do we want to place the computing? Is it at the edge? Is it at the datacenters? Is there something in-between?
+
+Is it federated learning? Is it about protection of private data using differential privacy or fully homomorphic encryption, open algorithms, or things like that? In Taiwan, we're looking to establish, just as Japan recently did, a dedicated data protection authority that is independent from any ministries.
+
+That can look at those mathematical, cryptographic building materials and suggest the best way to configure those.
+
+### Andy Sharp:
+Thank you. Another question here from Mishimoto from the "Asahi Shimbun," a Japanese newspaper. "You're communicating, obviously now, through the world online. How, to you, does online communication compare with face-to-face communication? What is the advantage of online, and what is the advantage of face-to-face?"
+
+### Audrey Tang:
+The advantage of online is twofold. First, that we can see each other more clearly without wearing a medical mask, nowadays. The second thing is that it reduces carbon footprint. Also very important.
+
+Speaking personally, because I adjust to jetlag very slowly, it also is much better than long-distance flight. On average, it takes me one day or more to adjust for one hour of jetlag difference. That's just selfish reason. The other two are public benefit.
+
+In any case, [laughs] the point I'm making is that mostly we can replace the knowledge-sharing part of face-to-face gatherings using online conference, as we're having now, or even in virtual reality, where we can share knowledge about three-dimensional spatial objects, buildings, simulations, and things like that.
+
+I even had a conversation with people in the primary and secondary schools by shrinking my own avatar in virtual reality to the same height at the kids. That really made them much more eager to interact with me, because I don't look a meter and 80 centimeters high anymore.
+
+These are the great thing about online, is that you can transcend the physical and acoustic rules. Of course, there's parts of face-to-face that are not replaceable. For example, the face-to-face conversations that is around understanding what people feels like is very important.
+
+In face-to-face conversations, we often make, for example, food, drinks, music, and things like that. Making sure that we can feel that we are not only in the same place, talking about the same things, but feeling the same.
+
+That is harder to replicate in the online way, although I guess we can order the same pizza delivery beforehand and have the same beer or something. It could, of course, be arranged and approximated, but it's not as natural as people gathering in the same face-to-face place.
+
+In Taiwan, because we never had a lockdown, what we have seen is that people avoid large gatherings during the pandemic. We see education facilities encourage some kind of satellite structure, where people gather in preferably outdoor place, keeping one-meter distance, so we don't have to wear a mask.
+
+Having food, enjoying drink together, and using large projectors or virtual reality to connect to many more such places, so you can have the best of both worlds. Indeed, I'm working in the park in the Social Innovation Lab.
+
+If you look out of the door, you can see people just holding such outdoor gatherings at any given time. They can just go through this place and look into outdoors at the same time, look into my office and see very transparently how I'm working, why I'm working.
+
+At the same time, we can amplify these face-to-face conversations to various different municipalities, different places, using 5G technology, even to the most rural and highest mountains, so that people can also feel that they are in this co-creation workshop, no matter how remote they are.
+
+I think it's imminently possible to make the best of both worlds happen if you design the interaction space appropriately.
+
+### Andy Sharp:
+Thank you. Another question here from Ilgin at BBC World Turkish. She says, "You're a civic hacker turned government minister. Where does your heart lie, and do you miss your earlier life as a conservative anarchist?"
+
+### Audrey Tang:
+My heart does not lie. Well, I'm a slushie, so I am at once digital minister -- that's my day job -- but I am also moonlighting as a civic hacker. Not only for mask availability map, but also, for example, with Vitalik Buterin, creator of the Ethereum blockchain, and Glen Weyl, Danielle Allen, and so on.
+
+We have a startup, really an NPO, a social innovation organization, called RadicalxChange in New York. I am a board member. I'm also board member of the Digital Future Society in Barcelona, of Consul Democracy Foundation in Amsterdam.
+
+That's the original Madrid decision-making community after the 15M. Very much civic hacker organizations.
+
+As long as I don't take a salary from those organizations, as long as they are not-for-profit, and as long as the premier, the prime minister, feels that it furthers our digital diplomacy, they are OK with me moonlighting as a civic hacker while being a digital minister.
+
+I see myself as a channel, as a bridge, as a Lagrangian point, between civic movements on one side and governments on the other.
+
+As the Lagrange point between the Earth and the Moon -- there are three points, and two more behind the Earth and behind the Moon -- I am in the place where I can more effortlessly balance between the movements as the governments and find a common purpose, common value, despite their initially very different positions.
+
+### Andy Sharp:
+Thank you. We have a question here about the mask app. It's from Riho Izawa at NTV Japan. "What was the most difficult thing regarding creating and using the applications such as the mask map when you were trying to deal with COVID-19 initially in Taiwan?"
+
+What was the biggest challenge in creating such apps, given that, obviously, COVID-19 came very quickly?
+
+### Audrey Tang:
+As I said, because the civic hackers already had experiences working with the air pollution map, working with the WaterBoxes, and so on, the code is already there. We just need to repurpose it with a new, real-time news feed, an API -- an application programming interface -- for the mask availability.
+
+Which the National Health Insurance Agency provided very quickly. It's updated at the time every 30 seconds. That's not the hard part. The most challenging part, actually, is in the negative externalities that it caused the pharmacists.
+
+Soon as we rolled out the mask availability map, we see that the pharmacies who swiped the NHI card and then hand out the mask praising that it's working very well. There are also pharmacists that choose a different strategy.
+
+They say that you can get a numbered badge, a numbered card from the pharmacy, in exchange of your NHI card. They just hand out those number plates very quickly and then start to swipe the NHI card in bulk.
+
+It will create a couple hours in which that they're just slowly doing this NHI card swiping and telling the people who have those numbers to collect in the afternoon, for example, so that the map will show that they still have mask in-store.
+
+Actually, they have already rationed all the masks of the day using numbered plates. Those pharmacists are actually quite upset of the map, because map is inaccurate and actually increase their work.
+
+People will just call them, saying, "Why are there discrepancies? Are you keeping the masks for yourselves?" Even though they are volunteer, they were not getting paid. This conflict is solved quite quickly, because that we have a weekly iteration cycle.
+
+When the pharmacist says, "OK, we will announce the availability hours, the schedules, and you need to make an additional field in the open API for that," we just adjust very quickly. Eventually, we also develop a back end button so that each pharmacists can just click that button and disappear from the map.
+
+Which they will do if they handed out all the numbered plates and so on. This is truly a co-creation process. There's a crack in everything, and that's how the light gets in.
+
+### Andy Sharp:
+Good. Do we have any more questions from the room?
+
+> (pause)
+
+### Andy Sharp:
+I'll go to the next online question. It's from Rick Weisburd from ELSS. "How can democracies effectively deal with threats that unfold over long periods, despite relatively short cycles of elections, and of course, corporate strategy?"
+
+### Audrey Tang:
+I would argue the cycles of the elections are too long for real-time feedback. In Taiwan, during the pandemic, we have the Central Epidemic Command Center doing daily live-broadcasted press conferences such as this one, where the journalists ask anything they want and the minister always respond to each and every single one of them.
+
+If you do this daily iteration cycle plus a toll-free number, 1922, where everybody can call and not only get their question answered but also correct the parts that we did wrong.
+
+For example, there's a young boy whose family called saying that "My boy doesn't want to go to school because you only ration pink medical mask to our district. We don't have other color of mask and our boy said that he will be bullied."
+
+The very next day, in the daily press conference, all the medical officers started wearing pink. The Minister of Health and Welfare said Pink Panther was his childhood hero, in a way of gender mainstreaming, I'm sure. Suddenly, the boy is the most hip person because only he has the color that the heroes are wearing.
+
+The point of this daily, rather than every four years, iteration is that the social sector can bond together. Instead of just criticizing, they can offer constructive ways, alternative visions, forking the government and merge on a daily cycle just as in open source development.
+
+If you have a short enough iteration, then the threats that unfold over long periods will get the collective intelligence sensing it long before it actually become a large problem. For example, when Dr. Li Wenliang, the whistleblower from Wuhan, posted that there are "seven new SARS cases" in a local seafood market, within 24 hours it gets reposted to PTT, the local equivalent of Reddit here.
+
+It gets upvoted, so our medical officers take that in for action. Imagine what would happen if it would take us a or so [laughs] to notice that post. That would have been impossible.
+
+The way Dr. Li Wenliang became literally a savior of Taiwanese population is having a collective intelligence mechanism and have a really short iteration cycle from noticing it into sense-making, into triaging, into starting health inspections for all flights coming in from Wuhan to Taiwan the very next day, the first day of January of this year.
+
+Short iterations, quick merging of alternative vision from the civil society, a strong and robust social sector, I think these are the ways that democracies can effectively deal with threats that are advanced and persistent.
+
+### Andy Sharp:
+Thank you. We have another question here form Izawa-san at NTV. What is your message to Japan, given that it seems now to be in the midst of a second wave of the COVID-19 virus with increasing numbers of infections every day?
+
+### Audrey Tang:
+Don't panic. That's always the most important.
+
+> (laughter)
+
+### Audrey Tang:
+In Taiwan, we have a very calm minster, Minister Chen Shih-chung, that appears every day.
+
+Even though there were panic, like panic buying of tissue papers which was solved with a meme, panic buying of instant noodles which solved with another very funny meme that says, "There's endless instant noodles. Buy as much as you want, and add some vegetables to it so you have a balanced diet." [laughs]
+
+This whole point of making sure that people can remix those messages into a way that's calm, collected, and even humorous is very important to make sure that people don't panic. Once they don't panic, they have some mental capacity to understand some epidemiology and working with people who are closest to the suffering. I will use one example.
+
+In Taiwan, there was a day when there was a confirmed case, and the confirmed case, she said that she stayed at home with no contact to people, a very simple family and so on. There's no way that she would get infected by the COVID.
+
+The medical officers keep on interviewing, and the next day, we discovered that she works in a kind of intimate bar and as a professional service provider in that intimate bar. She initially provided a different account because she didn't want to reveal the people that she had intimate encounters with in that intimate bar as a professional.
+
+At that point, many people were saying that we should just shut down any like night clubs, intimate bars, and so on, but Minister Chen Shih-Chung insists on saying, we're not putting them any criminal threats.
+
+They're not criminals. They're professionals, and we're not threatening them even with the closure fines. We're challenging them to discover ways that they can continue their business while observing physical distancing and real contact. That is to say, people have to find other way to contact them if there is really a virus outbreak.
+
+At the time, it was met with some ridicule because people thought the entire point of intimate bars is to break the physical, and there really is no way [laughs] that people would consent of leaving their real contact details to the intimate bars. This is like the Pygmalion effect. If you expect the civil society to come up with innovations, eventually they do.
+
+There's some intimate bars that then discovered that if you wear a cap with a plastic shielding, then you can still have a clear view of the people who drink with you and even have drinks while observing the physical distancing rules.
+
+If you keep only on paper your contact phone number but under a pseudonym and if you physically shred that that paper after four weeks of no local outbreak, then people actually trust them enough to actually leave their contact details. You can do a SMS or LINE to check that it's actually their number before they enter.
+
+They eventually rose up to the challenge and become part of our conversation about the counter-coronavirus pandemic. Instead of casting any group as outsiders, it's important to work with each and every group. Even though they're currently not capable of coming up with physical distancing rules and so on, the belief is that they eventually would.
+
+Once they do, the municipalities eventually require them to say which rules they're implementing. Based on that accountability, then they're allowed to reopen. That's just one of a lot of examples in the Taiwanese counter-coronavirus effort. I hope this conveys the idea of co-creation.
+
+### Andy Sharp:
+That brings us to the end of the hour. Thank you very much for your time, Audrey. Much appreciated. We're going to send you, by email, a one-year honorary membership to the FCCJ.
+
+### Andy Sharp:
+When you are allowed to come to Japan, whenever that may be, we do hope you come and have a drink with us in the bar and tell some more of your stories.
+
+### Audrey Tang:
+[Japanese] Live long and prosper.
+
+### Andy Sharp:
+Thank you very much indeed.
+
+### Teddy Jimbo:
+Thank you.
+
+### Andy Sharp:
+Thank you.
+
+### Audrey Tang:
+Thank you.
+
+> (applause)
+
