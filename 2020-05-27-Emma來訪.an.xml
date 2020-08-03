@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Emma" id="Emma" showAs="Emma"/>
+                <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-05-27 Emma來訪
+                </heading>
+                <speech by="#Emma">
+                    <p>
+                        我叫Emma，我是從日本來的，我現在在台北的語言學校學習華語。
+                    </p>
+                </speech>
+                <speech by="#Emma">
+                    <p>
+                        因為我的中文能力還不夠，所以我把想要告訴唐政委的事情寫了這張書面裡。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        您講的非常好，聽得非常清楚。
+                    </p>
+                </speech>
+                <speech by="#Emma">
+                    <p>
+                        謝謝。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        你的自動延長簽證目前碰到一個情況是，已經在臺灣的朋友，希望能夠再次延長他的停留期限，是這樣嗎？
+                    </p>
+                </speech>
+                <speech by="#Emma">
+                    <p>
+                        我聽說自動延長的事，但是有一共一百八十天的期限，下個學期中期限會到了。
+                    </p>
+                </speech>
+                <speech by="#Emma">
+                    <p>
+                        雖然以免簽證入境台灣的人申請居留證時,必須去母國,但是現在因為新型冠狀病毒的關係，一出台灣就無法在入境了。因此，僅限並非新入境，而是已經在台灣的人、僅於因疫情而產生混亂的時候,請台灣採取在台灣國內也可以申請到簽證或居留證這樣的特別措施。這樣才能在臺灣繼續學中文。
+                    </p>
+                </speech>
+                <speech by="#Emma">
+                    <p>
+                        我在台灣受了很多照顧，但是因為疫情衝撃，語言學校也開始陷入經營困難的狀況，因此也為了報答受到的恩惠，我希望能繼續學習，我支付的學費雖然不多，但即使只有一點點也希望幫到學校與台灣。在學校有和我一樣的狀況的學生。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        瞭解，你的這一百八十天，您還有多久？
+                    </p>
+                </speech>
+                <speech by="#Emma">
+                    <p>
+                        我最後一次來臺灣是3月18日。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        還有滿長的一陣子？
+                    </p>
+                </speech>
+                <speech by="#Emma">
+                    <p>
+                        的確，但是如果找不到申請的辦法的話，我沒辦法在台灣繼續學習華語了。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        你還想待接下來的一個學期，也就是六個月的時間？
+                    </p>
+                </speech>
+                <speech by="#Emma">
+                    <p>
+                        是的。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        所以再待三個月，一百八十天就到了，如果當時日本疫情結束了，也沒有問題，去日本再回來就是了，但是那時並不是很確定日本的疫情一定已經結束了，所以我們有個成語叫做「未雨綢繆」，就是還沒有下雨先買一把傘的意思，是三個月之後還可以留在臺灣的意思。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我們這邊有一位外交部的朋友在處理這個情況，但是他現在在我們行政院，他不在我們這裡，所以我現在會請筱婷跟在外交部的朋友聯絡，想想看怎麼樣處理您的需求，如果您留個email在這裡，我們直接回個email給您就可以了，我們會請那位外交部的朋友理解到您的狀況，還有您的同學狀況，然後再一致給您回覆，也可以把回覆給您的同學知道。
+                    </p>
+                </speech>
+                <speech by="#Emma">
+                    <p>
+                        謝謝。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        謝謝你專程跑一趟。
+                    </p>
+                </speech>
+                <speech by="#Emma">
+                    <p>
+                        我是早稻田大學政治經濟系畢業的，我常常看跟唐委員有關係的新聞，每次讓我感動。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我們目前正在跟好比像紐西蘭等等的國家討論這種雙方可以互相旅行，不受全世界影響的方法。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        那個部分是外交部的權限，但是外交部剛好有朋友在我們辦公室，我們會請那位朋友瞭解目前外交部的狀況跟未來三個月發展的各種可能再跟您回覆。
+                    </p>
+                </speech>
+                <speech by="#Emma">
+                    <p>
+                        謝謝。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        謝謝。
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
