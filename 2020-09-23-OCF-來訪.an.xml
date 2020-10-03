@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Singing" id="Singing" showAs="Singing"/>
+                <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳"/>
+                <TLCPerson href="/ontology/person/::/Joseph" id="Joseph" showAs="Joseph"/>
+                <TLCPerson href="/ontology/person/::/A" id="A" showAs="A"/>
+                <TLCPerson href="/ontology/person/::/Kevin" id="Kevin" showAs="Kevin"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-09-23 OCF 來訪
+                </heading>
+                <speech by="#Singing">
+                    <p>
+                        今天會來是因為Joseph，另外還有Kevin，也就是社群的朋友，我們有講到Linux Foundation的計畫，我們想說在防疫的時候，臺灣做的事情有沒有辦法……
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        你們大概是我遇到第十個想實作「GAEN（Google-Apple Exposure Notification）」授權的團隊……
+                    </p>
+                </speech>
+                <speech by="#Joseph">
+                    <p>
+                        最主要是Linux Foundation下面還有Public Health，這個是他們為了疫情，希望結合大家的力量。
+                    </p>
+                </speech>
+                <speech by="#A">
+                    <p>
+                        有通用的EN，因為現在很多EN都是各寫各的。
+                    </p>
+                </speech>
+                <speech by="#Joseph">
+                    <p>
+                        除了通用EN之外，其實也需要稽核這些科技人的力量，也就是發展疫情這一塊。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        現在也有台灣的團隊在幫其他國家。
+                    </p>
+                </speech>
+                <speech by="#Joseph">
+                    <p>
+                        想說如果政委有興趣的話，因為在立的計畫其實是以前CNC的聯繫leader，他一開始在成立之前，5月就有在問政府這一塊，臺灣這塊，他也不清楚是不是政府做。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我們有一位社群朋友叫做Poga，幾個月前在人工智慧實驗室就發展過
+                        <a href="https://github.com/ailabstw/social-distancing">
+                            類似的系統
+                        </a>
+                        。
+                    </p>
+                </speech>
+                <speech by="#Joseph">
+                    <p>
+                        意思是有沒有可能機會跟臺灣的這些開發者一起合作。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我不確定AI Labs的那組人在不在，但是臺灣有好幾組人都有興趣，我想主要還是以open source為主。
+                    </p>
+                </speech>
+                <speech by="#Joseph">
+                    <p>
+                        沒錯，如果有興趣，就引薦給政委或者是臺灣的哪一個團隊。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我跟Linux Foundation本來就一直有在接觸，但跟那一位朋友之前比較沒有接觸過。除了現有的臺灣開源社群開發者之外，Linux Foundation還有什麼我們可以幫的忙？
+                    </p>
+                </speech>
+                <speech by="#Joseph">
+                    <p>
+                        應該是說技術發展是一塊，他們是有基礎，他們希望發展更多的技術，也知道臺灣有一些……
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        Cohack.tw這些，他們也有五組人。
+                    </p>
+                </speech>
+                <speech by="#Joseph">
+                    <p>
+                        還有一些已經開發完的技術，也許有機會也可以open source出來到這個基金會。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        Cohack很多都是開源的，像Mydata Taiwan的「LogBoard」、Bitmark的「Autonomy」。那些團隊其實社群大概都知道，也在g0v的Slack，可能不一定需要我來引薦，我當然很樂意引薦，但是其實也都在Slack的頻道上。
+                    </p>
+                </speech>
+                <speech by="#Joseph">
+                    <p>
+                        因為Linux在主導這塊的還不熟悉臺灣的社群。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        好啊，看是不是約個時間，我們跟他們介紹一下。
+                    </p>
+                </speech>
+                <speech by="#Joseph">
+                    <p>
+                        可以啊！
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我只是需要紀錄就好了，但是像籌辦cohack的蕭景燈老師，就是科技會報數國組的主任，他的社群連結也非常好，其實他有空的話，也可以由他來介紹。
+                    </p>
+                </speech>
+                <speech by="#Joseph">
+                    <p>
+                        可以，就看哪個比較適合。
+                    </p>
+                </speech>
+                <speech by="#A">
+                    <p>
+                        剛剛政委是有稍微講一下社群專案的部分。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        就是cohack，也就是台美防疫松，其實有些也都是整天的g0v的slack裡面。如果基金會的主持人不熟這些人，是不是安排個機會，看一下cohack的影片，或者是社群朋友跟他有個Q＆A，我想OCF就可以幫忙弄了，我是可以出席，或者是請蕭老師、同仁出席。
+                    </p>
+                </speech>
+                <speech by="#Singing">
+                    <p>
+                        我想還有一部分是除了社群之外，有沒有一些政府開發的東西是有open source？
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我們沒有開發東西，像口罩地圖都是社群開發的，後來三倍券那邊倒是有放在github上，不過我想那個階段已經過了，現在大家口罩也沒有短缺的問題。但是我們一向是公民有開發的全力支持，但是不會去主導，所以我不確定有沒有什麼比較固定的，也就是你們覺得哪一個……
+                    </p>
+                </speech>
+                <speech by="#Kevin">
+                    <p>
+                        最後是跟電信公司合作。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        那個是電信公司自己去implement，指揮中心只是給一個類似地震或者是防災、颱風的土石流警報的spec。
+                    </p>
+                </speech>
+                <speech by="#Joseph">
+                    <p>
+                        瞭解。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        所以如果要跟中華電信問，那一個部分的source code或者是跟HTC DeepQ要疾管家的source code，或者是疫止神通的source code，那個要分別跟他們去要，因為從指揮中心的角度來看，只要有實作到，那就支持。我自己有下去寫的，只有口罩實名制的部分。
+                    </p>
+                </speech>
+                <speech by="#Joseph">
+                    <p>
+                        瞭解。我們大概可以跟這家公司再……
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        基本上就是HTC DeepQ跟中華電信，這兩個是主要的。
+                    </p>
+                </speech>
+                <speech by="#Joseph">
+                    <p>
+                        因為這個基金會現在也是有些member，也就是各國政府參與，除了美國52州的政府都有參與這個計畫之外，其他歐洲很多國家都會參加，如果政府在這一塊有興趣的話，其實也可以。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        會讓我們以國家身分參加就是了？
+                    </p>
+                </speech>
+                <speech by="#Joseph">
+                    <p>
+                        是。
+                    </p>
+                </speech>
+                <speech by="#Kevin">
+                    <p>
+                        現在OCF有在推Open Chain的專案。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        這我知道。
+                    </p>
+                </speech>
+                <speech by="#Kevin">
+                    <p>
+                        應該這個禮拜就可以進ISO了，我們現在看到的是從國外那邊大的公司，基本上都已經certified，可是國內……國內只要是做這種通常都會是相對被動的。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        主要是一定要在採購或者是其他方面有一些好處，不然沒有動機，就像我們那時候說如果要接政府的案子，要給source code，如果用Linux Foundation的SPDX的話，你可以免責，因為有這個可以免責，所以才願意來運用SPDX來做。Open API也是一樣，如果你只給人用，而不給機器用，你歧視機器人，你可能會因此被disqualified，類似無障礙的那種條款，因為這樣子所以在願意不用收費就給出Open API，同樣也是改了採購規則，我不確定Open Change在這個上面，他們在其他的政府採購上，有沒有什麼我們可以幫忙的？
+                    </p>
+                </speech>
+                <speech by="#Kevin">
+                    <p>
+                        像場上的採購，類似像ISO 9000跟12000的推動方式。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        對，有沒有其他國家的政府，已經有他們在採購條約上類似我們針對SPDX，因為SPDX只是Open Chain的一部份，我們採購合約裡面只有SPDX的部分，像合規認證等等的部分還沒有寫進去，我要問的是，因為Linux Foundation有很多的政府夥伴，有沒有其他的政府在他們的採購合約裡面已經放進去，因為像OpenAPI的標準，當時Linux Foundation在OpenAPI 3.0還不是標準，還只是beta的時候，我們請國發會直接變成National Standard。還好到beta沒有改幾個字，不然太超前布署，但是那個是很好的例子。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我們因為有把這個放到採購，所以後來好像英國GDS等等反而是來參考臺灣的，但是軟體授權的部分，像Open Definition是誠夏帶著社群一起做的版本，那個是落後於各國的，看到各國有了之後這個有類似的文字，把當時國發會的適用版，變成熱群認證的合法版，而且跟CC授權相容，我覺得在技術部分、合規的部分，一般來講這邊可以領先，但是這邊通常會看到類似的文字在別的地方比較容易。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我們會做逐字紀錄，然後會mail給大家，然後編輯十天之後公開。我的具體建議還是由OCF主辦，但是我們可以邀cohack的那幾個贏家的團隊來分享，他們就算沒空，當時都有錄，所以那些影片至少都可以分享、使用，接下來是臺灣可以多幫什麼忙，看負責辦這個活動的蕭老師跟他們那組是不是可以問資策會，因為資策會幫他們落地那組的人是不是願意跟基金會分享，我如果有空就出席、沒空就錄一段。
+                    </p>
+                </speech>
+                <speech by="#Singing">
+                    <p>
+                        所以政府在合作的是中華電信跟HTC的DeepQ，所以那些都是他們各自開發的，政府只是提供……
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        ……API，就像疾管家的Frank，自己跑到g0v上，說這個API是不是只給吳展瑋、江明宗用？我當然是說他們也可以用，一瞬間疾管家就多出了地圖功能，等於跟吳展瑋、江明宗的地圖同時上線。
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
