@@ -1,0 +1,1704 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+                <TLCPerson href="/ontology/person/::/Kurt Liu" id="Kurt Liu" showAs="Kurt Liu"/>
+                <TLCPerson href="/ontology/person/::/Yngve Holen" id="Yngve Holen" showAs="Yngve Holen"/>
+                <TLCPerson href="/ontology/person/::/Michael Connor" id="Michael Connor" showAs="Michael Connor"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-09-08 Meeting on 7x7
+                </heading>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Hi Kurt!
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Hi.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Michael and I both got a XRSPACE headset. For Yngve, it’s still in Hamburg, because it’s classified as a radio frequency device. Maybe it needs the customs clearance, or something like that. Have you shipped anything to that region before?
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Yeah. It’s the perks you get from not being fully integrated in the European Union.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Have to ship bubble.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Is it cleared?
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe we should just join the European Union. Makes it easier.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What do we do?
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        There’s no way to share…We can’t stream from XRSPACE to Yngve, or anything. I don’t think that makes sense.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Hello, sorry, I’m back, hi.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, it’s fine. Yeah, Michael was asking is it possible for you or us to can stream out a perspective from XRSPACE, so at least Yngve can take a look?
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Right. Let me check that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Or are we, just to take selfies? I understand we can take selfies in XRSPACE, and we can take any number of selfies, but they may not be very helpful.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        We actually have the PC client ready inside that meeting room that was going to, per requested that we were going to record. We’re able to record what’s going on inside the…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe you can install Skype on that PC, join from that PC, do a screen share, and then Yngve will be able to witness my co-creation with micro. I don’t know what, but anyway, yeah.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Sure. Then give us a few minutes to try to…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        To set it up. Yeah, of course.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Yeah?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, and this will be on the record, by the way, because this is part of our 7x7, so you are now part of the Yngve’s exhibition. [laughs] OK?
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Sure.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Maybe it’s also a good moment to take a quick step back and maybe also have another meeting on the 23rd.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        We could also use this time to plan that a little or think about things that could happen in the space. It is a shame that you don’t have the headset.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Yeah, I’m very sorry. I’m really like, I’ve been on the phone yesterday for…
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Sorry it was a hassle. So many plans are shifting these days with the pandemic that…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, and I believe Michael’s XRID is just Michael, right, with an uppercase M?
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        OK, let me find you. Let me find you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, Kurt can get you to the same space, so at least three of us four will be in the same room. Then Yngve will feel very excluded.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You can see what Kurt is doing. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        That’s very inconvenient, though.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, like talking to imaginary friends. That’s what it looks like.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Yngve Holen">
+                    <p>
+                        It feels like a sci-fi movie, huh?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. “Snow Crash,” to be very precise. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        It’s uppercase M-I? I don’t see you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, M-I-C-H-A-E-L.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        I don’t see you yet.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Oh, no?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No?
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Hang on.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        OK, so I’m just logging into Skype on the other PC. I’m going to log out now, and then I’ll log in again.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure, of course. Yeah, it’s fine. It’s fine. OK, bye. Bye from XRSPACE. Bye-bye. Let me give you a hug or something [laughs] in XRSPACE. [laughs] OK, right? OK. Yeah, I just literally laughed out loud in XRSPACE. [laughs] OK, that seems to work. OK. [laughs] All right. Then I’m out of the multiverse, and we’re back to two dimensions.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (chime)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Ah, it’s M-C.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK, as in hot dog, like M-C-something, yeah. [laughs] M-C-Audrey. OK.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Michael lowercase.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        On the screen, I see my picture, and then it says M-C and then my email, and then it says Michael.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Ah, OK. Your email is the one that you use the Ryzone one, right?
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        I actually used this email.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Ah, OK. It may be easier for…Ah, that’s why. Right, it doesn’t start with AM. Kurt can probably find you using that email much more easily.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        I got a friend request.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Oh, you got a friend request. You have an imaginary friend.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Hey. Now…
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Hi.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now you see. If I put myself back in, you should see me any moment.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Then, Michael have you received a friend request?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes. Michael has.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Very exciting.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK. I don’t know, clap or something.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Do you guys see the screens?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, we do. This is…
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Oh, I see Michael is coming. Great.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yay. Let’s give it a like or something. This is working very well.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Oh, here you go. OK.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK. Let’s…
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        We are in the same space. You guys see Mary there, right? In the front of the meeting room. Do you guys see?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, I do.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        That’s actually our PC client. This cannot be spending there. Listening to us in recording so we’ll reverse. You can start the recording now. You guys go ahead.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        On the PC stream it’s frozen. We don’t see Michael anymore. It’s like a screen cap.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Oh, OK. As well frozen. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Did you see what I mean?
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        We’ll try to fix that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK. MC I believe you can see me again maybe laughing out loud and so on.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Yes. I can see you.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe we can plan something for our next actual meeting.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        This is already very interesting, the idea. Last time I felt like we had some interesting conversation starting aboutthe inquiry. I guess definitely making use of this.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Last time we talked about the poetry aspect of your job description. That was something that was worth exploring further. Then I think maybe, maybe we’re in this room together. Maybe you can chime in?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The screen cap is working perfectly well. Maybe Yngve can just chime in because you are listening to a phone conversation, I guess, [laughs] but with avatars recreating the different conversation the radio show is doing.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan we call it 布袋戲 but I don’t know how it translates into English. Anyway, yeah. [laughs] A puppet show or something.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <narrative>
+                    <p>
+                        <i>
+                            (background conversation)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Nice carpet.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Michael Connor">
+                    <p>
+                        OK, guys, see any problem with share screen?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I added you as a friend, Michael, whatever that means. It means that I can high five you, hug you, and so on. OK. That’s great.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        I cannot read the menu…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Raise your palm back against yourself. You hold your hand facing yourself and then you put your hands together. Clench your against your own face.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        For menu, left hand palm facing yourself and then make a fist to see the menu…
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Are the gestures in menu? I’ve forgotten. Laugh out loud or…
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Yes. You use your right hand index finger will pick those menu items.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Is that under tools? Where is the…?
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        What are you looking for?
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Hugging or gestures.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Hugging. Oh, OK. Sorry. Instead of left hand, use your right hand palm facing yourself and make a fist.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, you will see a hexagon.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        There we go.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        The left hand is showing you the system menu, but with the right hand is a quick access menu.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Got it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then you can laugh out loud or…
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        You can have different social gestures.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, you just did that. Uh-huh. I would now take a picture of you with this selfie machine.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Wow.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Is the selfie screen actually visible to Yngve or not?
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        No. You should be able to see. Let’s take a selfie, for example, like this. You guys see?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. Of course. Yes. I see the selfie now. Yeah, OK. That’s great. [laughs] That’s not too bad. OK. I’ll do the other way around. Like this. Three, two, and one. That worked pretty well.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Kurt Liu">
+                    <p>
+                        This is the meeting room. We actually also have a feature for gradually facing in. For example, there is the note-taking feature. It’s…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Can you bring us to one of those 360…
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Sure.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …movie rooms so that we can feel that we are hovering above a waterfall or something.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        OK. Sure. Of course…
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        You may see that invites just hit the start when you get the invite to the cinema.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (background conversation)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s the two of us here. We will go to the cinema, I think, sometimes. I just literally saw TENET a couple of days ago.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Oh, how is it?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s pretty good. I fully expect that I will start walking backwards now as the blue team. Anyway, we see this cinema invitation and I’m clicking at that. I’m in. The screen share is frozen again. I think Yngve is not seeing any of these actions.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        We’ll restart.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe restart the…Because that’s the part that I would like Yngve to see. We’re back.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        OK. It’s back.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (background discussion)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Kurt Liu">
+                    <p>
+                        You won’t be able to record while we are in cinema. That should be OK, right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s fine.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        In this cinema, you are able to watch through the screen, obviously, something like a big screen, high quality.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe let’s try a 360 one?
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Sure. Next will be… Key is watch together, right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Wow. This is something. Wow. This is of a slightly higher resolution than we last watched this. I’m happy.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Or something like this.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Ooh. Now, this is good. Michael, I was having something around this in mind. When I talked about the possibility of getting the 3D sculpture and/or poetry, but against a background that is not…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They would look like we are all floating in midair, but we just have to imagine that we’re looking [laughs] at the mountain ranges, the lake, and so on. Those doesn’t translate to the image. [laughs] I am sorry about it.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        There’s a black background here. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I know. You have to fill in with your imagination. I’m able actually to change seats in midair, so I can now stand, or rather, closer to Michael. We’re just admiring the ability of the snow-covered mountain range. That’s really the only thing I wanted to show. I don’t have anything else on my agenda.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        I have a question before we…Maybe in a moment, we’ll convene meeting and just type, but this is still coming in from the party, or is it served to us by associates?
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        OK, these are the primary contents. Basically, we work with these, some licensed some free. We work with many entertainment, travel, education-type partners that they generate these 360 and on our CMS, so that user can watch.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Is there a process for creators to push content and make it available within XRSPACE?
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Sure. The 3D, actually, they just send us the video files. The video file compared to apps and games are relatively a lot, actually a lot easier. We just need a DOC, MOV files, or…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s just like a regular YouTube upload, yeah.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        What about VR content within XRSPACE? I downloaded a couple of the apps but haven’t explored too much. That’s…
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Right, apps are a little bit different. Apps, they would require a dev kit, which is a development device. A developer develop their apps and games on that device for testing and so on then they submit.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        We have a developer console where they submit the APK, the VR experience, that you’re referring to. They upload for review. If it’s OK, we agree on setting the price. Then we basically launch in the app store.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s only Unity3D, or is there any other toolkits that you support?
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Sorry, I was unable to hear you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Is it always Unity3D, or are there other dev kits?
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Right now, we support Unity. Unreal will be actually probably before mid-next year. Right now, we only support Unity.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Unity is good enough. Unity is good enough for our purpose.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Great. Thank you so much for hosting us here. Maybe we should have the rest of this on Skype…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right, yes, exactly. OK. Thank you, cheers.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Yes, thank you very much.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK, bye.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Bye-bye.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you. Next time, I will show up as my avatar, instead of my colleagues. OK, cheers. Bye. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Bye-bye.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        And off we go.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        I will also log out of Skype, OK? You guys go ahead.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK, of course. Thank you so much for your help. Thank you.
+                    </p>
+                </speech>
+                <speech by="#Kurt Liu">
+                    <p>
+                        Thank you. No problem. Bye-bye.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Bye.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Michael Connor">
+                    <p>
+                        It must have been very strange.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Yngve Holen">
+                    <p>
+                        How does your avatar look like?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        My avatar, they customized one for me. They already have the two-dimensional renderings, but they are still doing the 3D. I think the technical word for it is the inverse kinetics. Yeah, you can see it in two dimension here. I pasted on Skype. They are still working on making it properly animatable. Do you see it?
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Oh, yeah, cool. Very cool.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes. It’s roughly based on a previous photo that I took with random people on Twitter that says, “Can I take a photo of you?” They just bring me this outfit.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        [laughs] It’s cute. Round glasses, though?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, it’s not the same glass. It’s roughly based on this picture.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Yeah. Oh, yeah, I see. Very cool. This is a monocle, right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, this was a monocle. They had a monocle version as well, to fit with the monocle theme. It turns out that in VR, monocles doesn’t look as hip as in real life, because it just will look like I’m missing one side of the glass. This is the monocle version. I think you will agree it doesn’t look as good.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Yeah, totally, it’s better.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        [laughs] Right. That’s right. Michael, you’re muted.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Yeah, there are fireworks tonight, because it’s Liberty Weekend. Also, there’s fireworks all the time now. What would you call this style of costume?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This style of what, of costume?
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Of your outfit, yeah. What is…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What was it? I would say it’s the Taiwan model, as in fashion model. It’s an actual hashtag that we use.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Cool. Yngve, you weren’t in the space with us, but it does seem like there could be some opportunity. I was thinking about the show that I saw of yours at Oslo with the climbing sculpture. Just think, I don’t know.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        I think that Minister Tang’s idea or prompt to think about creating backdrops for spaces within a virtual world could be something to consider as an avenue for experimentation.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Mm-hmm. Is the recording of you sending me, or the recording of what happened?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The recording was a recording from the side. The large file, the hertz, almost 200 megabytes file, is a recording from their perspective in XRSPACE. If you download it, you can see it from the observer’s perspective.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Which is basically almost what I had, yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right, except for the parts where the connection dropped or that the screencast doesn’t work, but yes.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Actually, you get to see the selfie. The selfie is different. I don’t think they broadcasted the selfie. It may be worth your time to download and see from the 10th second to maybe the 40th second, for just half a minute.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Yeah, totally.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        I think it’s interesting, like I was reading your article, Minister Tang, on deep engagement in civic discourse in VR, or how listening could provoke awe, and how really these listening experiences or conversation experiences within virtual can be quite profound as part of a civic process.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        It made me think about how I think how we interact in a space is determined, in a way, by all these architectures that we’re a part of, or the architecture’s shaping the way that we behave.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        That architecture is the headset, but also the spaces that they make available. Having seen a show of Yngve’s, which was very much about play in relation to these industrial objects in space, I was thinking about whether some spatial conversation could be an interesting line of inquiry.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        I slightly feel like I’m being overly involved in your conversation, because [laughs] I just came out of the VR headset, maybe.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, that’s the overview effect. People go to space, come back to Earth, become a better person. [laughs]
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Yngve Holen">
+                    <p>
+                        I’m curious. I didn’t get to see the mountain range and stuff like that. I just saw a black screen and two sacks to sit in.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even if you saw that, I don’t think it’s the same, though, because it’s the co-presence. The experience of floating together across the mountain range, like in a helicopter ride, minus the noise. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think it’s the co-presence that I alluded to when Michael talk about civic space for deliberation, because the ultimate question for all those sortitions, civic assemblies, participatory budgeting, town halls.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The ultimate question is not how to make harmony or social understanding in the deliberative space, but what can you bring out of the deliberative space to your respective communities?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If there are the selfies, like the one I just shared, that can convey some sort of the meaning, or if there are access to this kind of devices, where anyone who was not part of the conversation can just put it on and put themself in the shoes of the actors.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then actually the R value, the basic transmission rate of the co-presence will grow. That’s the essential argument I made in the piece that Michael referred.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        My sense in this…I don’t really mean this in a negative way, exactly, because I think, if I were in this space, the shoes of XRSPACE, I would do things the same way. I do wonder if the way that they think about creating these spaces, it could be a little more experimental.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Maybe that’s what Second Life is more like. Yeah, I was curious. I meant to ask whether meeting spaces can be created.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, and you can use this to 3D-scan the room you’re in.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Oh, you can?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, you can. They also offered to do a model of the cabinet office for me.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        I feel like I’m pushing the conversation towards what would be of interest to Liam Gillick, who’s an artist that’s always recreating these spaces for conversation. Different for me… his interest, maybe.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s important because then just being situated in, for example, a ruin of the previous Air Force headquarter and have a meaningful conversation about how beautiful we’re going to make into a Social Innovation Lab or a park, and being able to share those visions to other people in the same ruin and see different futures, so to speak, is much more transformative than the tour over these mountain ranges that we just had.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I totally agree. It’s the creative part that’s important. For the person to create, though, you need more than your hands. You probably need proper Vive controllers for that. There is also interoperability.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Do you have controllers for XRSPACE?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s designed as something that is social. It basically said that this is not a creator’s tool. This is a visitor’s tool, so to speak. If you want to make Unity 3D artwork, I’m sure you can get a tilt brush and draw those things, export it and import it to XRSPACE. This is not a creation tool.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        I’m curious, Yngve, what your preconceptions of VR have been or your existing feelings about it.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        I’ve been to, what do you call it, a 3D cave in Berlin. I’ve been inside the CT scan of Knut, the cute ice bear that was in Berlin. They did an autopsy and did the CT scans. I’ve been walking inside his head. Call it perfect. [laughs] That would have been weird. I’ve been on the moon.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        I’ve seen some works, like Jordan Wilson’s work, a couple of works. I saw a lot of work lately, but I can’t remember the artist. I can’t even remember what it was. It was in a Beirut political ad where I was sitting in the seat of a person that was once kidnapped. It was a historical piece. It was more about actually the surroundings.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Nothing really happened. It’s more that you were in the rooms where stuff happened or something like that. That’s it. Except the 3D caves, always came to it half an hour waiting in queue to have one minute of not the best resolution.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        It’s very interesting. I was very curious to be a part of. I do like the social space, active space aspect, being a visitor because it’s designed not really having to think about if it’s good or not good because the function is different. That’s what’s interesting here.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        The social aspect does make it feel really different. It’s less about a composed reality.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        You think it works. It could be somebody clean up this room or something.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. This is a visitor’s space. This is not our room, per se. It’s for watching together, C-beams glitter in the dark near the Tannhäuser Gate, or something like that.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        What’s possible is to project something in that cinema mode.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Actually, it has a Web browser. Anything that you can show on a Web browser can be shown there.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        In 2D?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In 2D. If it is 3D content, you can import that into Unity as well. Basically, anything Unity can render, it can show but it is a glorified unity viewer.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        You can make something in Unity that shows in a Web browser and bring it into XRSPACE very easily with that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. They choose Unity over Unreal because more people can code Unity.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        More democratic, maybe.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Cool. I’ve been pushing this heads up, and it’s annoying. I’ve been meaning to write also. I’ve been thinking about, last time, I was like, “How can we go from the poem to make a collection of poems?” We were speaking about the question format, what’s the format.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        I’m struggling. I really have to say I’m struggling because from this perspective of how we used to do ETOPS, it’s impossible to illustrate these things in art. I want to do objects, then I want to split the text, and I just want to release the text as conversation. The format just came very natural. It was more about the topic at that time, and then filling in the topic.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        The format question for me always comes with the topic in some way. I’m trying to think a little bit about what’s the format here. I could say, “Oh, I’ve been asked to print it like that and design it like this,” but it’s not how it used [laughs] to work for me with ETOPS.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Also, when I thought about poem, it’s so powerful. I’m into the idea of using a poem as a job description, and how does the format switch. It’s hijacking or hacking a format to…It’s a job description. It’s a poem. It’s very clear. It’s very condensed. It’s perfect. It would be a little weird to try to replicate something that’s already so…How do you say?
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        It’s very cool. It’s very good. It works really well. The format here is actually 7x7 or it is one to one. That’s the format in the first place. If it would be ETOPS, that will be the conversation.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        The conversation is like all the directions we’re going in, but maybe there are topics that we could address or talk about so that maybe the one that’s recorded, the one that’s initially becoming what’s being screened can contain all of the stuff that we’ve been working on.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Maybe it doesn’t need to be a sculpture or a print document. Maybe just finding out what we want to put into that time is not the format, but somehow it needs the topic or something like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As for topic, for example, I had a conversation with a Japanese, interview a journalist with the name Chikaku Masuda. She just picked out a little bit like my job description. Not as finely carved, but these are just fragments of the words that I shared during that conversation, which I just pasted.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        She shared that with a rap group in Japan, which they turned it into a rap song. I share with you here the YouTube. For the video part, they just used a generative adversarial network to make weird symbols from the concepts mentioned. I don’t know whether you speak Japanese, but just for your reference, here are the English translations of the lyrics that they rapped during the rap.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is the flow that you were mentioning. This is not me sampling specifically for a rap song. This is just fragments of poetry, either from the parts of my conversation that looks poetic, or GPT-3 can generate it into a poetic style.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They just take it and basically rap it in a rhythm, and then make the visual part of it. Not in three dimensions and two dimensions, but using a very simple AI algorithm. Actually, the result is not bad. It is quite good.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        This is where we arrived at with ETOPS last time, which is that ETOPS is an existing project that has an existing methodology. Mr. Tang, your suggestions about topic that GPT-3 could be a topic, and the poems that you arrive at in your work are another topic.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        It’s also a process question because you’re suggesting a process involves GPT-3. I’m sensing that Yngve’s not sure about what that…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I brought up GPT-3 simply because we were saying that the amount of material to work with in a, say, transcript may or may not fit into the style that Yngve was looking for, because you need certainly more than three poems for it to happen. We can automate it with GPT-3, but it doesn’t have to be GPT-3.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        I wonder, steer the conversation away from ETOPS.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Super.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        GPT-3, generating texts, and poems should still be topics of conversation. I feel like ETOPS has become a red herring. It’s become something that we’re focusing on. Maybe that’s driving the conversation in a certain way. What we do have is we’re going to be doing a presentation.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        There’s a lot of really interesting ideas to talk through. Some cool 7x7 presentations are just like, “Here’s all these ideas we had,” and we all explored them. Yngve, I do encourage you to follow-up on some of the GPT-3 things, but maybe not with the pressure of formatting it into ETOPS, maybe.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        I have. I just got a friend of me here to, what do you call it, ask for permission to get it. We had this thing where you had the connection in Berlin, which I also know, but then I was not in Berlin anymore and then Berlin got red flagged, so I’m stuck in Norway again.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        I know.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        We’re working on it there. This week, I would have access to it. I have a couple of things. For instance, the idea with the poem, that’s something I’ve prepared some stuff. I want to run that, test it, see how it looks like just to get an idea for it. Sometimes it’s hard to imagine something further if you haven’t just done it.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        I want to mention that I do think the gallery exhibition is going to happen at Kunsthall Stavanger. Maybe thinking about something that eventually lives in a gallery could be another format to think about.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        The art thing is maybe another red herring in a sense, but just the fact that we have to make a presentation and it’s there as an option that people haven’t really done that in 7x7 before would be, at the least, very entertaining.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Even if your project was on ETOPS, you could discuss the ETOPS issue in VR, or if your project was a series of poems written in different ways about different topics, that could be presented in XRSPACE. If your project is going to be a sculptural installation, you could unveil that in the VR space, too.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        I would encourage you to think of the VR space for your presentation, even if it’s just like a presentation space, just because it might be fun, [laughs] dare I say it. This final work, ETOPS is becoming a distraction.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Me, too. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        We still could be thinking along this line. That’s all I’ll say.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        I just want to share something completely off topic here. It’s just something I’ve been working on the last three days, maybe that’s something to come up…Does this work?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Are the images going through on Skype? Hi. Can you hear me?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes. This looks red.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        It looks red. [laughs] Pretty red. I’m working on this big carpet, this exhibition I’m doing in a couple of months’ time, which is based around this flat magazine ETOPS, which was about the brain. We don’t have to talk about that. It’s the sculpture works that come from that, which is a series of bronze figures, like toy warriors.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        I don’t know. Did we talk about that? It’s a Lego series called Chimas. It’s a bad series. They only produced it for two years. It has a storyline which is basically different animal tribes fighting each other. One is a fire tribe. One is the ice tribe. They fight for chi.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        If they find this sparse natural resource, they just put it in themselves, they get high, and they race each other. It’s two groups fighting for dope, which was a kids series. It’s interesting what narratives one builds for kids. I’m trying to build a show where basically the whole flow is based on the meat scan.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        In the sketch, you’re on the carpet and you’re standing on this end, ego-shooter mood. It’s bloody and it’s neat. The picture is just very simply taken from another work that I’m doing where we actually scan meat parts in slaughterhouses, because I’m working on a different sculpture project, which is incorporating meat industry and cartooning industry.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        I’m working in carbon fiber to replicate meat pieces in large size. This is, basically, you scan the 3D object. Normally, I use industrial scanner. It’s all gray. This time, it was a handheld so it came with this photo which is just basically the mapping to map the 3D meat piece. In this case, it looks good. You know it from mapping a human and mapping other stuff. I thought this is a good floor.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        I don’t know. Maybe that’s a format to develop the carpet for the…I don’t know. [laughs] It could be something in that direction rather than the printed magazine. The third picture shows just a division of the carpet, how it’s going to be laid out in space. It’s 11 meters times 9 meters times 20 meters. You’d basically be walking on this.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        That’s the closest to what I can come to imagining the VR space you guys were in. It’s a 2D picture, but you walk on it. That’s going to be the exhibition with the bronze figures. Maybe just throw that in and share it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I like the idea that you take a basically floor and make the floor part of the space. This obviously works. That was why I intended to show Michael and you what if we just replace the floor of the ordinary meeting room into essentially a art object, because people will keep looking downward, which was not a natural thing to do, even in museums. This is great. I really like the idea.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Maybe we have a real space next year in Stavanger. Oh, wow. Who made this now?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I just did, literally looking into the floor.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thanks for all the fish. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Forty-nine. 49 fishes. [laughs] That’s very good.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        42.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        42?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No, it’s 49.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Meaning of life or something. Like the universe and everything?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        42 was the meaning of the universe, but we’re talking about 7x7.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Maybe it’s worth trying out some stuff in VR space. Maybe it’s possible, Mike, if we meet to connect me with somebody where we can throw in some images, some objects into…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, because you don’t have to wait for the headset. Anything that can be brought into Unity 3D from a floor perspective would equally work.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        I’m pretty sure I get the heads-up tomorrow. That’s how it always works the last seven times I’ve transferred up to here. It’s delayed. I’m calling all day.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        C’est la vie.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        C’est la vie.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        The idea of the carpet/360-degree backdrop as a format is potentially very useful. Can you explain, I’m just curious, the link between meat and you said it was about the brain, the meat…?
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        There is like a magazine of ETOPS, which is called ETOPS Headache, which is essentially just on the brain. It’s introduced with neuroscientists, that field of research. That’s the conversation. Then, there was an exhibition in London including these bronze figures.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        I guess, essentially, the link was widely, “What is a concept? How do you make a concept a story line in order to teach?” That was the link between the two, but they were released at the same time.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Now, the magazine is gone. The figures are still there, but there’s the end presentation of it, just has this meaty carnage carpet, which is more about idea of fighting for resources. It’s very, very simple like that. It’s, yeah. I think it would be a good place to actually really see those sculptures and just be in that.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        I just can imagine like these small bronze warriors that all of the people in the show on the meat carpet. I think that’s the essential. It’s like the 7x7=49 here, like all the fish in the space, for the grand red herrings, yeah.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Then it might just be also just like in the resolution thing, like the carpet has a resolution, which is 72 dots per inch. The image is big. There’s a bunch of, I don’t know, we’re testing out the colors at the moment. I think it’s more like that’s the look of it, yeah.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Right, there’s the idea of the scan of something three-dimensional as something that’s imported into your virtual social environment. I guess I’m curious what you would scan for a carpet for seven on seven, or is there something emerging from our conversations? Would it be a meat carpet for seven on seven?
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        No, that would make no sense. The only thing that would make sense is just like the carpet idea into what the carpet could be. I think just putting in the meat carpet could print the 7x7=49 with the herrings. That’s something that would come out from here [laughs] as the carpet.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        No, it would need to be something else. I just, the imagination of a carpet being a format or where something could end up in, or like a way to…If you say, “Let’s think about exhibition space, what could a formative exhibition space be?” it would be then…
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Then I guess I have my format. I’ll do different versions of sculptures, like I do world-based sculptures at the moment. Then there’s the question of sizing, or where do you take this place, but a carpet could be a good format to create something within a gallery space, yeah.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        I wouldn’t see the reason why it should be meat, yeah, like in this case. It could be something, yeah.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Should we leave it there with that question or prompt to work through over email and things? Or Minister Tang, do you have a few more minutes? I think we had you booked until 12:30. Oh, I think you’re muted.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, of course, it’s my next session is just lunch, so happy to forgo that. [laughs] Anyway, but yeah, I think it’s a good intuition pump, so to speak. I don’t have more ideas. Maybe only just another presentation with just me. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a wordplay on your link, if you add a space between the L and I. [laughs] It becomes Neural Ink, right?
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It doesn’t mean anything, right?
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I don’t have anything. No. I think it’s good we call it a wrap now, and maybe think about pretty much anything that can be represented in Yngve 3D can be created into the in-carpet form or carpet plus wall form, which is really immersive, yeah.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Michael Connor">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        OK, mm-hmm.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK?
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        All right.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As usual, live long and prosper.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        [laughs] Yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK, bye.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Bye-bye.
+                    </p>
+                </speech>
+                <speech by="#Michael Connor">
+                    <p>
+                        Take care.
+                    </p>
+                </speech>
+                <speech by="#Yngve Holen">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
