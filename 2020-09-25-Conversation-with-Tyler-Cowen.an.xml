@@ -3,7 +3,7 @@
     <debate>
         <meta>
             <references>
-                <TLCPerson href="/ontology/person/::/Tyler Cohen" id="Tyler Cohen" showAs="Tyler Cohen"/>
+                <TLCPerson href="/ontology/person/::/Tyler Cowen" id="Tyler Cowen" showAs="Tyler Cowen"/>
                 <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
             </references>
         </meta>
@@ -12,7 +12,7 @@
                 <heading>
                     2020-09-25 Conversation with Tyler Cowen
                 </heading>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Hello, everyone. Welcome back to Conversations with Tyler. Tonight I’m chatting with the amazing Audrey Tang, who is also digital minister of Taiwan. Audrey, welcome.
                     </p>
@@ -22,7 +22,7 @@
                         Hello. Good local time, everyone.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         What software that doesn’t exist yet would be most helpful for coordinating future antiauthoritarian movements?
                     </p>
@@ -32,7 +32,7 @@
                         Well, of course, a quantum-resistant cryptographic channel will really help to enable true secure conversation, that once someone tries to intercept it, you will know immediately.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         There are encrypted channels now, such as WhatsApp. Do they not serve that function?
                     </p>
@@ -42,7 +42,7 @@
                         If the makers of this software decide to eavesdrop themselves, then there’s no physical property, only mathematical property that stops the conversation being eavesdropped. Now those — what we call the public key cryptography in mathematics has added a very real danger of being broken within a decade or so, or two decades if you’re optimistic, by the quantum computer themselves.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         What kind of software do we need to make the democracy of the future work?
                     </p>
@@ -52,7 +52,7 @@
                         Well, first of all, I think democracy is an ongoing process, definitely as something that makes the listening at scale work, that makes co-presence work, that enables people who are closest to the suffering amplify their experiences, and so that people with various different backgrounds can empathize with that experience. In short, software that enables listening and feeling scale.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Does virtual reality help in that regard? Or does virtual reality give us experiences so intense that we become less empathetic to suffering because that VR vacation in Paris is just so amazing?
                     </p>
@@ -62,7 +62,7 @@
                         That’s right. Only if it’s shared reality, though. I hear you talking about your amazing VR Paris vacation, but unless I can enter the same space and make it an extended reality that contains both of us, it would not become a social reality and to say individual reality. That may, of course, have some therapeutic effects or overview effect. I’m not denying that, but I would say that this is pro-social but not necessarily democratic.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Do you think, at the margin, people with virtual reality will be more interested in visiting the slums of Mumbai or going to Sun Moon Lake in Taiwan, which is very beautiful, of course?
                     </p>
@@ -72,7 +72,7 @@
                         Well, why not do both? I mean, you can definitely take the Sun and Moon Lake, and just in the Sun and Moon Lake have a conversation and watch together how it works in Mumbai, and vice versa. I mean, we just had an Asia Pacific Social Innovation Partnership Award, and in a summit, we hear the designers in Singapore are working for an app that enable foreign workers, the offshore workers from Philippines in, say, Taiwan, to take care of their loved ones. Instead of sending cash home, they can do grocery shopping to make sure that their money is not spent on luxury goods, and so on. That’s three different countries and cultures right there.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Let’s say we had a service, a better version of AI, and anyone in the world could ask it any question in any language, it would mostly give pretty good answers. Would that increase empathy or lower it?
                     </p>
@@ -82,7 +82,7 @@
                         Well, of course, that depends on what you mean by pretty good. Does it make satisfying-sounding answers? Does it make answers that seem real? Does it make mostly factual but not empathetic answers? Does it make mostly empathetic but factually untrue answers? What does good enough mean to you?
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Say it’s mostly factual answers. It’s as good as a computer chess program — not perfect, but quite good relative to human knowledge. And anyone can ask anything, like a supercharged Google plus better-functioning Siri with real answers. What do we do with that knowledge?
                     </p>
@@ -92,7 +92,7 @@
                         Okay. Well, first of all, that’s the value-alignment part. What you’re saying is that it more or less agrees with the epistemic norms, that is to say, the norm around knowledge that a society has. The other part to ask is about the accountability, like when it makes mistakes, who gets to correct those mistakes? When it’s biased, who gets to participate in overcoming the bias? Is the source code, is the API, is the data that it uses participatory, or it is known to only a few?
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         What’s the innovation that would do the most to boost empathy?
                     </p>
@@ -102,7 +102,7 @@
                         Definitely open innovation — that is to say, innovation that is co-created to bring technology to people rather than asking people to adapt to technology.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Do you think the United States today has more empathy than 20 years ago?
                     </p>
@@ -112,7 +112,7 @@
                         I’m not sure that the States is a useful abstraction when you talk about empathy. Empathy are between human beings or at least animals.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Do we have more empathy toward animals than a hundred years ago? There’s much more factory farming, right?
                     </p>
@@ -122,7 +122,7 @@
                         There’s much more factory farming. That’s exactly right. On the other hand, of course, people understand how animals suffer more. That leads to more people understanding the animal welfare and animal right angles. It also leads to innovations, such as the Impossible Burger, the future of meat, and things like that. Maybe people eat it only because it actually tastes better and is free of the possible industrial-farming side effects, specifically carbon emissions. But whatever reason you approach those new kinds of meat, I think they’re superior in almost every regard than cost. And that part, the scientists are working on it too.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         What’s your view of that old, I think Stalin quotation, that “one death is a tragedy; a million deaths are a statistic”? Could it be that the evolution of open-source technology, it directs our attention toward the whole, and the telling of a single story becomes somewhat diminished, and therefore we’re less empathetic?
                     </p>
@@ -132,7 +132,7 @@
                         Well, of course, that between one and one million, there’s many zooming levels. I mean, if you look at an OpenStreetMap but you can only zoom to the globe or zoom to an individual block in a city, or even just to an individual level, then that map is not very useful at all. What’s useful is in the transitional zoom levels that makes sure that people can build a context in their head and connect their experiences with people who are slightly different but not all that different, and that builds common values. So that a transition between the zooming levels is much more important than the one and the million level.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Would it be better if smartphones did not have touch screens?
                     </p>
@@ -142,7 +142,7 @@
                         I use, of course, stylus all the time. The touch screens are useful when I don’t have this stylus and keyboard Hanzi, as a fallback, but if the touch screen is the primary interaction button, then, of course, it builds addiction.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         But say we could magically revert to the days of BlackBerry, and somehow that would stick. Would society be better off, do you think?
                     </p>
@@ -152,7 +152,7 @@
                         I’m sure that people would still invent a touch screen.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Say we could avoid the touch screen, and we just stop at BlackBerry. Do we use social media in better ways?
                     </p>
@@ -162,7 +162,7 @@
                         Why? Do we jump to Neuralink directly from the BlackBerry, then?
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         It would take several decades, at least. Right? We have 30, 40 years of BlackBerry, and people are on social media less. Is that a better outcome? Do we have better discourse, more empathy?
                     </p>
@@ -172,7 +172,7 @@
                         Well, that may be the case because in Taiwan, the most popular Reddit equivalent is the PTT. It’s still terminal-based. It’s like a late ’90s version of the bulletin board system. We do see that it leads to better discourse qualities.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         How bullish are you on work from a distance? This is pandemic time; there’s a lot of data. What do you think?
                     </p>
@@ -182,7 +182,7 @@
                         Well, working from a distance does not mean that you don’t meet people face to face. It only means that we transcend space boundaries when we’re talking to each other. If it is something that you can opt into, then, of course, there are places and ways of work that improve the work quality, and I’m quite bullish on that. But if it is a must, and you have to work from a distance even for the kind of work that doesn’t quite suit this working from distance, then of course it’s going to hurt the quality of work.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Take the major tech companies: Apple, where you’ve worked, Facebook, Google. So seven years from now, when the pandemic is clearly over, say in the United States, how much of the current work-from-distance practices will persist? Or do you think it will all just have gone back to how it was in 2019?
                     </p>
@@ -197,7 +197,7 @@
                         I think, again, this is not about excluding people from participating in work. It’s about expanding the idea of face-to-face meetings and the empathy and rough consensus that we can form and scale it to the more remote places. It’s not a replacement. It is an augmentation to the face-to-face form.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         How should the United States handle the regulation of major Chinese tech companies — the service Tiktok or, say, the service of WeChat? Should we allow major Chinese tech companies to own them?
                     </p>
@@ -212,7 +212,7 @@
                         We decided, eventually, that making the infrastructure components in the PRC while they’re a state subsidy looks quite lucrative. Amortized is actually a higher overall cost of ownership because you have to reassess for each upgrade whether the state have already taken over that so-called private phantom.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         The US government should block TikTok, or make sure it’s solved to Oracle or Microsoft? Or what, concretely, would that mean?
                     </p>
@@ -222,7 +222,7 @@
                         I’m saying that all of society deliberation, the style of the 2014 Sunflower, needs to happen for the society to come to a common value about these sort of things, and this is what we call data norm. Do you think it is normal for facial recognitions and such data that you are just filming yourself as singing and dancing to be aggregated to a single state, of which there’s no jurisdictional accountability of using such data? If you think it’s great, as a country, well, more powers. But if you think it’s not great, as a country, then maybe you collectively can find something to do.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Given your position on democracy, are you concerned about the de facto extraterritoriality of European privacy regulation? Web services marketing to the EU have to meet GDPR, say. There’s not an actual democratic deliberation, but it’s handed down by the European Union.
                     </p>
@@ -242,7 +242,7 @@
                         Just like the example I mentioned of the Singaporean app with Filipino workers in Taiwan buying grocery for their families. It’s by its very nature, three different overlapping jurisdictions, and all have a governing interest in it. It’s a reality, and GDPR is part of that reality.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Why is Finnegans Wake your favorite book?
                     </p>
@@ -252,7 +252,7 @@
                         Well, because it’s very complex and complicated, and I can enjoy it without understanding it, just treating it as lyrics like a notebook, literally a book of notes.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Has it influenced your approach to tech at all?
                     </p>
@@ -262,7 +262,7 @@
                         Yes, I think so, because when I was 20 years old, I would wake up, log in to the Perl IRC channel — that’s Internet Relay Chat — and type “river run,” and then a bot will just paste a random paragraph, literally a random paragraph from Finnegans Wake, which would begin my day’s work. That’s social, too. Everybody in the chat channel sees it. I’m sure that it has influenced our work on Perl, which is full with haiku and poetry and things like that.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Have you written poems in Perl?
                     </p>
@@ -272,7 +272,7 @@
                         Oh, yeah, of course.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Are they good?
                     </p>
@@ -282,7 +282,7 @@
                         I don’t know. You can check the Pugs.hs repository to see them.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Now, your ideal of radical transparency and communications — do you think this is appropriate for all organizations and personality types, or just something that’s good for you?
                     </p>
@@ -292,7 +292,7 @@
                         What’s a personality type at all? Like horoscopes?
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         People who are very balanced and moderate I think can do better with radical transparency. People who, say, might have very high levels of testosterone — if they see and hear everything being said about them, they might go into a rage or overreact, right?
                     </p>
@@ -302,7 +302,7 @@
                         Well, going into a rage may also be cathartic.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         It might be, but rages can be dangerous, right? Countries going into a rage, people going into a rage.
                     </p>
@@ -317,7 +317,7 @@
                         But it could also be directed into co-creation — that is to say, make new institutions so that the old problems that provoked your rage in the first place do not happen again. That’s how democracy grows. I’m also pro-outrage, actually.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         What do you think of creative ambiguity of a way of postponing disputes? The European Union often does this. They write a complicated document that means something a bit different to each country. They don’t agree. They don’t have to agree; it’s never radically transparent. But they revisit it seven or eight years later and do another tweak and just keep on moving down that road. Does that offend your sense of radical transparency?
                     </p>
@@ -327,7 +327,7 @@
                         Well, these two are certainly orthogonal. I can imagine being radically transparent but deliberately moving in a very slow fashion and only act on the lowest of the lower-hanging fruits, I can see merits in that too. I can also see, of course, this slow-moving part being non–radically transparent, and then the main repercussion would probably be that people will cease to feel that it’s relevant to their lives and will not devote their energy to it.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Given your own radical transparency, do you think people speak to you differently, always being aware that it’s being recorded or transcribed? Or do you think they just forget about it and become their normal selves?
                     </p>
@@ -337,7 +337,7 @@
                         Well, I think the better parts of themselves are shown much more visibly. That is to say, if they have an agenda that benefits humankind or the planet or the cosmos, they are much more likely to share it because it’s also performative. They understand that people from the future will see it. The parts of themselves destined for the next quarter only of linear, individual growth or GDP growth at the cost or expense of future generations, that part doesn’t seem to show.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Larry Wall once said that Perl is designed around laziness, hubris, and impatience. Which of those qualities do you think most appeal to you?
                     </p>
@@ -347,7 +347,7 @@
                         Laziness.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Why? You don’t seem lazy. You’ve done a tremendous amount.
                     </p>
@@ -357,7 +357,7 @@
                         Well, first of all, I’ve done a tremendous amount precisely because I design the spaces for the people who care about things to make things happen. Certainly not me, personally, that have done those things; I just hold the space. The second is that laziness also means that you do not over-scare yourself. You evaluate — this quite lazy evaluation — evaluate the parameters, the input, and so on, as the situation calls it. That also enables a much more balanced work-life balance, I guess.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         What is a way the world could use the incentive of fun more productively?
                     </p>
@@ -367,7 +367,7 @@
                         Use humor over rumor.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         What does that mean, specifically?
                     </p>
@@ -392,7 +392,7 @@
                         The idea is that before people go to sleep, even if they see both the conspiracy theory, they also see this humor because it travels very quickly, go viral. By the time that they go to sleep and form long-term associations in their minds with the keywords such as masks or social distancing, they think of something fun. And that enables more pro-social behavior.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Arguably, contemporary Taiwanese culture is really quite gentle in a nice way. Say you were in one of the less liberal parts of Eastern Europe or the Balkans, and the slogan was “Humor over rumor.” Do you think it would work as well as it has in Taiwan? Or this would be nastier and less empathetic?
                     </p>
@@ -402,7 +402,7 @@
                         We know that humor is not the same as sarcasm, for example, or as toxic attacks that make fun of someone. A humorist makes fun of oneself or makes fun with someone, but it’s never a kind of aggression. When I say humor, I mean specifically humor and not any kind of comedic style. Of course, there are comedic styles that doesn’t work and that will very quickly actually reinforce conspiracy-theory thinking.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         How much of humor do you think is at someone else’s expense? Say you watch Seinfeld. They’re quite brutal to each other, right, even though they’re friends.
                     </p>
@@ -412,7 +412,7 @@
                         I don’t think that’s humor, by the way.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         What is it?
                     </p>
@@ -422,7 +422,7 @@
                         Well, it is, of course, comedic. It makes fun of people. But to me, humor is makes fun with someone or makes fun of oneself.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         What is the future of blockchain in Taiwan?
                     </p>
@@ -432,7 +432,7 @@
                         Well, it will just keep growing, I guess.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         But used for what purposes? What’s the killer app for blockchain? Ten years from now, what will I be doing with it?
                     </p>
@@ -442,7 +442,7 @@
                         What’s the killer app for relational databases, again?
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Well, there are many kinds of relational databases. It’s not clear that blockchain is the one emerging from markets as the preferred solution. Visa has databases. Those work well; it’s a huge company. What’s the competitor for blockchain?
                     </p>
@@ -457,7 +457,7 @@
                         If you think only of the cryptocurrency applications, I don’t think that it will overtake the central bank anytime soon in Taiwan. I think it only is of value in the cryptocurrency sense if the people have very low trust in the fiat, in the central bank. If you mean like a ledger technology that keeps people accountable and honest across jurisdictions, and more multiple writers for things like environmental science, and things like smart contracts for labor — like for migrant workers, as I mentioned at the very beginning — those can see useful work of distributed ledger technologies, and blockchain is just more implementation detail.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         How do you think it mattered for Taiwan that democracy and information technology came to the country at more or less the same time?
                     </p>
@@ -467,7 +467,7 @@
                         Well, of course, that means that we see democracy as a set of technologies, social technologies. To us, technologies are not always industrial; it could also be social. The set of constitutional amendments, of which another one or few is going on right now, shows that even the constitution, the kernel of democracy, is technology — that people can contribute to it just like sending pull requests to the Linux kernel.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         How did Taiwan become such a nice country so quickly?
                     </p>
@@ -477,7 +477,7 @@
                         Well, maybe the food is good, and bubble tea helps too.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         What’s the best food in Taiwan, and where do you find it?
                     </p>
@@ -487,7 +487,7 @@
                         Well, I think the rough consensus is that you can consult the Michelin Guide, which operates in Taiwan in a lot of municipalities. But of course, being an oyster vegetarian, the majority of which is I don’t really pursue. You have to be your own guide.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         How do you think your politics have been influenced by Taiwan’s Aboriginal communities?
                     </p>
@@ -507,7 +507,7 @@
                         The Amis because I think they’re a matriarchy and so quite useful to remind people that in Taiwan, with more than 20 national languages, there’s various different gender stereotypes going on. And once you have 20 different stereotypes, it becomes a rainbow, and it helps people to break out of the binary thinking when it comes to gender, but also to other categories.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         How useful a way is it of conceptualizing your politics to think of it as a mix of some Taiwanese Aboriginal traditions mixed in with Daoism, experience in programming, and then your own theory of humor and fun? And if you put all of that together, the result is Audrey Tang’s politics. Correct or not?
                     </p>
@@ -517,7 +517,7 @@
                         Well as of now, of course. But of course, I’m also growing, like a distributed ledger.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         At the margin, what’s the new influence on your thought in addition to those sources?
                     </p>
@@ -527,7 +527,7 @@
                         I just read again the Mandarin translation of Ted Chiang’s novel, collection, Exhalation. I already read the English one, but the translation book just arrived, so I read that again. And so, that’s on the margins. I learned about The Lifecycle of Software Objects and so on. I think that one is really good.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         What else from Chinese literature has influenced you?
                     </p>
@@ -537,7 +537,7 @@
                         Of course, there’s not only the Tao Te Ching, there’s this whole literary tradition that began with Laozi. Chuang Tzu, of course, is of a lot of influence to me. The collection of poems the Shih Ching, also, and of course also the I Ching, the original binary thinking. Of course, the thing about the Book of Change is that it teaches about, the only thing that is immobile, that would not change, is change itself, and how to work with the change, to face, to accept, to deal with it, and let go of it. And I think it’s a core teaching of the I Ching.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         How about contemporary Chinese fiction, or is that somehow too anti-empathetic?
                     </p>
@@ -547,7 +547,7 @@
                         I enjoyed The Three-Body Problem trilogy. That’s contemporary Chinese fiction, isn’t it?
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         From Taiwanese culture, what has influenced you most? Taiwanese cinema from the 1990s — does that matter for you, or that’s orthogonal?
                     </p>
@@ -557,7 +557,7 @@
                         Well, of course, I watch the artwork done within the Taiwanese renaissance of filmmakers and books and so on, but I wouldn’t say that any of them influenced me to such a high degree as the classics have. So I’ll probably have to say that of course I’m influenced one way or another, but not in a major part of my thought.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Which Western anarchists, if any, have shaped your thought?
                     </p>
@@ -567,7 +567,7 @@
                         Well, that’s a really good question, isn’t it? Well, I don’t know. I’ve read, of course, An Anarchist FAQ, the anarchists’ handbook online, and also The Illuminatus! Trilogy, which may or may not count as anarchist. That, of course, has really left an impression to me. I think the main source of inspiration I draw off — and that’s why I call myself a conservative anarchist — is from the more Eastern traditions, the Daoist tradition, the Chuang Tzu tradition, and more definitely from Kojin, a Japanese anarchist thinker.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         To what extent do you understand Daoism as standing in opposition to a more hierarchical Confucian view? Or do you think it’s simply a separate doctrine? By being a Daoist, do you view yourself as opposed to Confucianism?
                     </p>
@@ -577,7 +577,7 @@
                         Well, the Daoist isn’t quite opposed to anything. That’s the thing with Daoists, right? We’re always making space so that opposition can grow into common values and innovation. I think that’s something that a Confucian approach works, too, except for the Confucianism that is by coding, essentially, the rights, the norms, the best practices norms. For a Daoist, of course, there’s no best practice. There’s just practices. The best practice is maybe just to share and let go of your practices and be humble.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         How do you think Singapore differs in this regard? Is there a different understanding of Daoism there? More emphasis on Confucianism?
                     </p>
@@ -587,7 +587,7 @@
                         I haven’t been to Singapore. I can’t answer that.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Never?
                     </p>
@@ -597,7 +597,7 @@
                         No.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         I’m surprised. What would improve Taiwanese education the most?
                     </p>
@@ -607,7 +607,7 @@
                         That’s an interesting thought, but maybe Neuralink. I don’t know.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         In the meantime.
                     </p>
@@ -617,7 +617,7 @@
                         In the meantime. Well, I think that the shift from a literacy-based, standardized answer, rote memory, standardized test, “the teachers know the best” into a competence-based education, which is, the people are producers of data and media and narratives — that really helps. On the other hand, I’m biased because I’m part of the K-to-12 curriculum committee that put this into action starting last year.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Do you have any sense how that’s going? I know it’s only a year, but what are you seeing that’s different?
                     </p>
@@ -627,7 +627,7 @@
                         Yes, I think it’s going quite well. The cram schools, for example, instead of putting people into long hours trying to memorize standardized answers, are now offering cram schools on hiking and maybe kayaking and all sorts of outdoor group activities, and also help on the humanitarian aid overseas. Even though travel is restricted now, we can still help through teleconference and so on. Yes, there’s a lot more emphasis on social responsibility, starting from a more tender age, rather than just individualistic competition between people and people.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         You’re working, of course, in Taiwanese government. What’s the biggest thing wrong with economists?
                     </p>
@@ -637,7 +637,7 @@
                         You mean the magazine?
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         No, no, the people, economists as thinkers. What’s their biggest defect or flaw?
                     </p>
@@ -647,7 +647,7 @@
                         I don’t know. I haven’t met an economist that I didn’t like, so I don’t think there’s any particular personality flaws there.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         A few questions about the pandemic. How much of Taiwan’s success do you think was due to government’s openness, and how much do you think was due to the fact that in Taiwan, standards for privacy are different than in the West, and there’s a certain acceptance of government protocol?
                     </p>
@@ -662,7 +662,7 @@
                         Of course, the argument would be very strong, and so the people who advocate for less privacy — their argument would be a nonstarter. And so I think it really helps to conserve the societal energy to work with the data that’s already being collected. Just use it in a way creatively to counter the pandemic instead of inventing new ways to collect data, which always has uncertain privacy properties. So I think of course that helps.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Now, my country, the United States, has made many, many mistakes at an almost metaphysical level. What is it in the United States that those mistakes have come from? What’s our deeper failing behind all those mistakes?
                     </p>
@@ -672,7 +672,7 @@
                         I don’t know. Isn’t America this grand experiment to keep making mistakes and correcting them in the open and share it with the world? That’s the American experiment.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Have we started correcting them yet?
                     </p>
@@ -682,7 +682,7 @@
                         I’m sure that you have.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Okay, I’m delighted to hear that. How much did Taiwan rely on privately written apps to combat the pandemic?
                     </p>
@@ -697,7 +697,7 @@
                         If you keep working in the open, working out loud, even the most privately held corporation, such as Google, eventually agreed to make the parts of the counter-pandemic, the mask availability, and so on, and develop them in the open.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Given Taiwan’s remarkable success with the pandemic, its amazing success with high-quality semiconductor chips, why are there in relative terms so few successful Taiwanese software companies? And to what features of the Taiwanese psyche do you attribute that?
                     </p>
@@ -712,7 +712,7 @@
                         There are very successful Taiwanese software companies. They are new in the software world. Trend Micro is another one. But because these are less directly to users, to customers, and so maybe they are less well known, that’s a fact. The Taiwanese psyche, I think, is mostly about being okay with that. I guess the hashtag #TaiwanCanHelp, #TaiwanIsHelping really says it on the tin, that we don’t quite do this egoism. You don’t have to thank Taiwan every 20 seconds if our innovations have helped you. We really just want the world to be better.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Do you ever worry that Taiwan has had so much success against COVID-19 that now the country is painted into a kind of corner, unwilling to give up its grand prize, and it just won’t be able to open to other places for a long time? Or do you think testing will manage?
                     </p>
@@ -722,7 +722,7 @@
                         I think that once the vaccine is here around the turn of the year . . . I’m sure that by Q1 next year, when people are vaccinated, we will open. That is what the scientists are saying.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         If you’re recommending for a visitor an ideal trip to Taiwan, obviously they fly into Taipei. There’s plenty to do and see in Taipei — National Museum — but where else should they go, for you?
                     </p>
@@ -732,7 +732,7 @@
                         Well, the Pescadores, the Penghu Islands are great too. I mean, Taiwan is beautiful islands, and it’s plural; it’s not only the mainland of Taiwan but also the Pescadores Islands, the Orchid Island. There’s many other islands other than the main island of Taiwan for you to enjoy.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         What’s your favorite Chinese dynasty and why?
                     </p>
@@ -742,7 +742,7 @@
                         I don’t know. I don’t have a favorite Chinese dynasty. Do you have a favorite GPS location?
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         My home. But the Tang dynasty I thought would be your answer. There’s the Silk Road, right?
                     </p>
@@ -752,7 +752,7 @@
                         I don’t know. I haven’t lived in the Tang dynasty.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Xi’an is the capital.
                     </p>
@@ -762,7 +762,7 @@
                         I haven’t lived in the Tang dynasty. I read about the Tang dynasty. And although my family name I guess is the same character as the Tang dynasty, it never really brought me closer to any particular dynasties.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         As a Taiwanese, how do you think you understand earlier Chinese history in maybe a different way than Chinese mainlanders would?
                     </p>
@@ -777,7 +777,7 @@
                         The main interest for me is how those cultures transfer and learn from each other and make cultural innovations, such as Zen, which is a transcultural conversation between the Buddhist tradition and the Daoist tradition. That interests me more than whether you call a particular dynasty Chinese or not. For the Qin dynasty, the Yuan dynasty, that’s a very interesting way to call a dynasty.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         I believe no Chinese person from the mainland would have given me that answer. Another historical question: when you read about the Taiping Rebellion, for whom are you rooting, the rebels or the government?
                     </p>
@@ -787,7 +787,7 @@
                         Yes, the Taiping Rebellion, the Jesus-worshipping religion.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         There’s a millenarian sense to it that’s a bit like some of tech utopianism, right? That the word should become an open place.
                     </p>
@@ -797,7 +797,7 @@
                         It was a document — I think it was Taiping Zhao Shu or something — that has a lot of tech utopianism in it, but I don’t think it’s ever put into practice. If you view it from an admiring, science-fiction-novel kind of way, I think you can definitely root for it. But I don’t think the Taiping Tianguo actually deployed what’s described in the Taiping Zhao Shu to any significant degree.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Which are the most important remnants of Japanese influence remaining in Taiwan?
                     </p>
@@ -807,7 +807,7 @@
                         Well, the emphasis on public health, the fact that people see that working in the medical and public health professions as the high and noble cause of calling. I think that was introduced by the Japanese colonial rule. Well, of course, there’s the political part of it, because the Japanese really didn’t like Taiwanese going into politics, or law for that matter. The emphasis on public health and medicine and Medicare, I think that really is one of the legacies.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         The organization of streets and shops in Taiwan, especially Taipei, feels quite Japanese to me. Do you have the same impression?
                     </p>
@@ -817,7 +817,7 @@
                         There are parts of Taipei that feel quite Japanese, of course. The cabinet office, the Executive Yuan, and the presidential office were both buildings of that era. Of course, they were also learning from European architects, so it’s also very transcultural.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         In both Japan and Taiwan, baseball is fairly popular, as it is in the United States, but most countries reject baseball altogether. Do you have a sense of why Taiwanese have welcomed baseball? Is it just historical accident, or revealing of something deeper?
                     </p>
@@ -827,7 +827,7 @@
                         I haven’t considered that question, maybe because when I was young I couldn’t participate in any kind of sport, baseball included. I’ve never thought too much about sports. eSport, of course, I have thought about quite a bit. But of course, we’re not here to talk about Magic: The Gathering, which I can talk for hours.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         What’s the most popular eSport in Taiwan?
                     </p>
@@ -837,7 +837,7 @@
                         Well, that’s a really good question. I think, by the current definition of eSport, it will probably be Wei Chi — Go — which is an intellectual game that’s played on stones and large boards, and of which AlphaGo, of course, showed that machines can play too. It’s still very popular in Taiwan, as with Gomoku, also known as Renju, and Xiangqi, the elephant chess. [laughs] I don’t know how to translate that, actually. Various board games, and these are —
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Shogi, right?
                     </p>
@@ -847,7 +847,7 @@
                         Yes, that’s right. Well, Shogi is a slightly different rule and played in Japan. But yes, board games that are turn-based and moved, of course, nowadays all into the electronic realm remained of the lowest threshold to join, and therefore are very popular.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         What’s your favorite eSport?
                     </p>
@@ -857,7 +857,7 @@
                         As I mentioned, Magic: The Gathering, but I don’t play it much anymore. I used to play it a lot.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Because of addiction. It’s like a touch-screen smartphone.
                     </p>
@@ -867,7 +867,7 @@
                         No. Because I was making the software that enabled people to play Magic: The Gathering without paying Wizards of the Coast. It was a real software project that I was working on, the Magic Suitcase. Also, working with the Apprentice, with a drafting mechanism, so that people don’t have to be locked into Wizards of the Coast and so on. To me, it also feels liberating, so that people — even with no money and who are living very modest means and so on — can enjoy the game and essentially creating their own rules.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Why is it you think that Taiwan has been so much more open and accepting of LGBTQ than most or maybe all other parts of Asia?
                     </p>
@@ -892,7 +892,7 @@
                         I think early successes, and also the way to work themself into the gender equality committee and 12 years of gender mainstreaming work, the gender impact assessment in the public sector, and so on. All of these mechanism designs help to make a more liberal culture out of the existing culture of family-to-family relationship, which we did not actually disrupt with the marriage equality law. It only hyperlinks to the individual parts, the bylaws but not the in-law relationships, the family-between-family relationships.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         For our final segment of this conversation, I’ll turn to what I call the Audrey Tang production function. At ages five to six, you read a lot of classical literature. What did you read and how did it shape you?
                     </p>
@@ -907,7 +907,7 @@
                         Of course, the Tao Te Ching that showed me that we are merely spaces of which thoughts may pass through us, but we don’t own the thoughts; the thoughts own us briefly.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         How did having a heart problem until age 12 shape your life?
                     </p>
@@ -917,7 +917,7 @@
                         Well, it made me less interested in outdoor sports. It also made me less prone to anger or really any passion. I can’t feel very joyful either because of the heart condition. I’m more calm and collected. I learned Daoist breathing exercises, and they are with me like a survival instinct still now.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Do you think there’s any cognitive disadvantage to being more objective and arguably more detached?
                     </p>
@@ -927,7 +927,7 @@
                         I’m not sure that I’m currently detached to you, and I’m not sure that I’m sharing things from an objective point of view. I’m sharing my feelings and personal memories when I was a young child, and these are only verifiable as phenomena in my own mind. I’m not sure that the term “objective” is the right term to use here.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         What was your family discussion table like?
                     </p>
@@ -937,7 +937,7 @@
                         It was very lively. And because both my parents were journalists, that works with the political and law training, and so democratization is on the forefront of their minds. And also, because they were censored by the Single Party a lot at the time, I would read their drafts and their drafts being censored, and they will debate a censor, taking the case to the owner of the press if needed be, and for environmental justice and social justice and so on. A lot of discussion was around censorship and the freedom of press when I was really young.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Are their cognitive advantages to being transgender?
                     </p>
@@ -947,7 +947,7 @@
                         Of course. I think it makes it easier to empathize with people because I’ve gone through some parts of your puberty, no matter the gender of you, so I wouldn’t feel that half a population is different from me. I would feel that I am just part of homo sapiens. This is a large community.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Do you think there are cognitive disadvantages of being transgender?
                     </p>
@@ -957,7 +957,7 @@
                         No. I think people can be more transgender. When our Minister Chen Shih-Chung, commander of the Central Epidemic Command Center, put on the medical mask to show solidarity to the young boy who called to say that he doesn’t want to go to school because pink masks being rationed makes him look like he’ll be bullied, I think Minister Chen and medical officers became a little bit more transgender on that very moment. It’s a practice like translation and transculturalism.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         What’s the biggest misconception about transgender life and existence amongst intelligent, educated people?
                     </p>
@@ -967,7 +967,7 @@
                         I have no idea. I have not done a qualitative survey.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         You didn’t go through the cycle of being educated in the United States the way many Taiwanese do. Do you think that’s given you a different perspective?
                     </p>
@@ -982,7 +982,7 @@
                         Of course, nowadays, the internet governance is multicultural and there’s multicultural internet domain names, but we’re still using ASCII, which the A in ASCII is “American.” The idea that the American values imbued in the internet are somehow universal of course are now being challenged, but it’s not lost. I think the core internet is still very much the values of the United States.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         In 2014, you were part of a group of activists that occupied Taiwan’s parliament building. What was your thinking behind participation in that activity? What were you hoping to accomplish? What did you see as the tradeoffs?
                     </p>
@@ -997,7 +997,7 @@
                         That is to say, the conservative part in anarchism has a chance to thrive, and people have a chance to arrive to a rough consensus and running code, legal code in this case, when they can literally hum in the street. My main work there is just with a bunch of people in the g0v community to set up communication infrastructure so that people can understand what’s really going on with their own eyes and participating in the journalism-making without being derailed by the rumors and disinformation campaigns that’s bound to come with any occupy.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         How important is the skill of translation for becoming a better thinker?
                     </p>
@@ -1007,7 +1007,7 @@
                         I think it’s very, very important. Also important is the skills of rotation and scaling.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Were you afraid that working in government would ruin or corrupt you?
                     </p>
@@ -1017,7 +1017,7 @@
                         No, not at all. I’m working with the government; I’m not working for the government.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         What are your skills of rotation and scaling? How do you use them in the government?
                     </p>
@@ -1032,7 +1032,7 @@
                         By rotation, I mean taking all the sides. Whenever there are people of differing positions on an emerging topic — it could be Uber, it could be eSports, it could be 5G, self-driving vehicles, you name it. If I find that I cannot argue from any particular viewpoint, I will book a couple of days to spend time with that community on ethnographic — just hanging out until I rotate my worldview and until I can argue from their viewpoint. That’s called taking all the sides.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Why aren’t there more Audrey Tangs in the other governments of the world?
                     </p>
@@ -1042,7 +1042,7 @@
                         I don’t know. That’s a question for the other governments. Maybe I think people were limited by the imagination of the government being a single thing. We said internet governance; we didn’t say internet government. If the IETF or ICANN started calling themselves internet government, I’m sure that there will be a lot of more limitation in thinking in the multi-stakeholder approach, but no, we call it governance. We don’t call it government. So maybe just the word “government” itself limits people’s imaginations.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         If rotation is fundamental to your thought, it seems that most governments in the literal sense of that term are not always so interested in rotation, right? They want to push through a particular set of policies to serve interest groups and constituencies toward the end of being reelected.
                     </p>
@@ -1052,7 +1052,7 @@
                         Well, but election is a kind of rotation; it’s just temporal. It rotates the loop every four years.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Sure, but any particular government is not interested in rotation per se. In fact, they would prefer its opposite over time.
                     </p>
@@ -1062,7 +1062,7 @@
                         Yes, but I’m talking about democratic cultures and democratic norms. If we shorten the iteration to not four years, but actually maybe 60 days, as is the standard iteration in Taiwanese citizens’ initiative, the e-petition platform, then we can iterate more. Each particular generation, of course, in that 60 days, are interested from their point of view. If you rotate quickly, then even still pictures, when rotated quickly, looks like animation. Actually, that’s where the word “anime” came from. It’s just quickly animated frames.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         If you think about your own life and career over the next few years, if you wish to increase your own empathy at the margin, what do you feel that calls for from you?
                     </p>
@@ -1077,7 +1077,7 @@
                         The other thing is also synthesize more of the cultures that I have come across into a more transcultural way of living, transcultural way of thinking, and that includes up to the name of the country itself. Taiwan — the name of the country is officially Zhōnghuá Mínguó, which I translate as a transcultural republic of citizens. Now, that’s, I wouldn’t say universal, but at least a world globally applicable view. Anyone can be part of a transcultural republic of citizens.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Which languages do you know now already?
                     </p>
@@ -1087,7 +1087,7 @@
                         Javascript pretty well.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         That counts.
                     </p>
@@ -1097,7 +1097,7 @@
                         Perl, Raku, [laughs] Haskell, and Python not very fluently, Ruby, of course, and so on.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         English, right?
                     </p>
@@ -1107,7 +1107,7 @@
                         C, C++, C# — not really C# — OCaml, and also C. OCamel is F#. English, of course.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Chinese? Native Taiwanese?
                     </p>
@@ -1117,7 +1117,7 @@
                         I think in English mostly nowadays, if you talk about natural language. For me, Mandarin — along with Mandarin, Taiwanese Holo, which are my two native languages. I reserve them for more poetic expressions, but my work language is now definitely English.
                     </p>
                 </speech>
-                <speech by="#Tyler Cohen">
+                <speech by="#Tyler Cowen">
                     <p>
                         Audrey Tang, thank you very much. It’s been a great pleasure.
                     </p>
