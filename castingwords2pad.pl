@@ -8,6 +8,7 @@ while (<>) {
     utf8::decode($_);
     next if /^\s*$/;
     next if /[\(\[]crosstalk[\)\]]/;
+    s/[\x30\x20]{4}/ — /g;
     if (/((?:\s\w\.|[-'\w ]+)*):/) {
         my $n = $1;
         if ($n =~ / /) {
