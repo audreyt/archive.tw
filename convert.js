@@ -18,7 +18,7 @@ function cw2pad(x){
     if (/[\(\[]crosstalk[\)\]]/.exec(ln)) {
       continue;
     }
-    ln = ln.replace(/[\x30\x20]{4}/g, ' — ');
+    ln = ln.replace(/[\x1e\x20]{4}/g, ' — ');
     if (/(?:[A-Z]\w*\.)*[-'ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØŁÚÚÛÜÝÞßàáâãäåæçèéêëìíîïłðñòóôõöøùúûüýþÿ\w ]+:(?!\d)/.exec(ln) && /^((?:[A-Z]\w*\.\s?)*)((?:\s\w\.|[-'ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØŁÚÚÛÜÝÞßàáâãäåæçèéêëìíîïłðñòóôõöøùúûüýþÿ\w ]+)+):(?!\d)/.exec(ln)) {
       var p = RegExp.$1; // honorific prefix, if any
       var n = RegExp.$2;
