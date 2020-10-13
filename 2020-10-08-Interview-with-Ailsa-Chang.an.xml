@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-10-08 Interview with Ailsa Chang
+                </heading>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Oh, wow. It’s made in the world.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (interviewer speaks)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, sure. Of course.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What else would you call me? “The Right Honorable”? [laughs]
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (interviewer speaks)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. Yes.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (interviewer speaks)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (interviewer speaks)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Hello, and good local time, everyone.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (interviewer speaks)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, the most important technology is definitely soap, followed by alcohol hand sprays, and then medical masks, and so we very early on had this meme that called on all citizens to wear a mask to protect oneself from one’s own unwashed hands, and that meme I think helped a lot.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Also, I think digital technologies also help. There was a app made by civic hackers that showed the availability of medical mask in nearby pharmacies, so people don’t have to queue in vain.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s also the quarantine measures on the border. When people return to Taiwan, they can choose to go to the hotel for 14 days of physical quarantine, or they can stay at their own home if they have their own bathroom, and put their phones into the digital quarantine for 14 days.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Either way, we pay them $33 per day, as a stipend, but if they break the quarantine, they pay us back 1,000 times that.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (interviewer speaks)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, when I say hacker, I didn’t mean it in a cybersecurity sense. I mean it in the connecting systems in a surprising way sense. For example, when Howard Wu, the hacker from Tainan…I’ll do this part again. Just a second.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (interviewer speaks)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, a civic hacker is rather like a civil engineer, only in the digital space. It’s not about cybersecurity hacker, which is the white hats and the black hats. The civic hackers connects existing systems, open source, open data software, in surprising ways.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, when Howard Wu, the civic hacker in Tainan, connected the OpenStreetMap…Well, he first started with Google Map, but very soon owed 20K US dollars to Google in API usage fees, and allow people to report where it has masks and where not.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s a civic hacking because Google Map or OpenStreetMap was not designed to enable people to report mask availability and enlist the pharmacists, but he went on and do that anyway as a prototype for the whole society to see.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I showed his work to the premier, the head of the cabinet, and he of course supported it, and said that, “OK, so from now on, all the 6,000 or more of the pharmacists can share their real time availability just through the map.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Along with the map, there’s more than 100 different chat bots, voice assistants, analysis, dashboards, and so on, that showed how people can actually make, when we were ramping out the medical mask from 2 million a day to 20 million a day in production line, how we can get it to more than three quarters of the people in less than one month’s time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s civic hacking for you.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (interviewer speaks)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, definitely. There was a time when the MP Kao Hung-an, Ann Kao, she served as vice president of data analytics at Foxconn, so she knows something about data.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        She cited the numbers from the geoBingAn mask map, another OpenStreetMap based idea of mask availability, and showed the difference between what looks like fair is actually only measured by physical distance, but if you take into the account that people have to spend on public transport, the picture looks very different.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        She require adjustment for the Minister Chen Shih chung, the Minster for Health and Welfare. Instead of defending the existing policy, Minister Chen just said, “OK, legislator. Please teach us,” and then we revised it, co creating with the community the very next day.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (interviewer speaks)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, there was a case when a worker in an intimate drinking bar was diagnosed with COVID, and she did not initially reveal the contact because of professional requirements, but of course that will hurt the reliable information requirement for contact tracing.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We did not, however, do any top down shutdown, takedown, lockdown, of those places. [laughs] Rather, the people in the CECC, because they already had extensive prior experience working with HIV positive communities, so they designed what we call a real contact system.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As long as people can be effective contacted and also social distancing requirements are met, no data is sent to the central government. It could be kept in these businesses.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They developed creative approaches such as leaving code names, single use email, prepaid mobile phone numbers, hats with the plastic shielding to maintain physical distancing, and then they reopened, and the municipalities still consider them part of the national counter pandemic team of 24 million.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (interviewer speaks)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s exactly right. Yeah.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (interviewer speaks)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The collective memory of SARS 1.0 in 2003, definitely. At that time, I think we had to lock down the Hoping Hospital, unannounced, and with no definite termination date for the lockdown. I think 73 people died directly or indirectly from SARS 1.0, so anyone above 30 years old, myself included, remember how bad it was.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In the very beginning, last December actually, when we heard through the PTT, that’s the Taiwanese equivalent of Reddit, that seven new SARS cases were reported by Dr. Li Wenliang from Wuhan, Dr. Li literally saved the Taiwanese people because we all took it very seriously and we started health inspection from the Wuhan flights to Taiwan the very next day, the first day of January.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (interviewer speaks)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure. The ideas of building trust through social innovation, I summarize it in three pillars, and that’s fast, fair, and fun. The fast part is very easy to understand. We have the daily Central Epidemic Command Center, CECC, press conferences where they answer all the questions from all the journalists.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even anyone really who has access to a landline or a mobile phone can call 1922, the toll free number, and get all their questions answered, but it’s not just a frequently asked questions board. It also allows people to make new suggestions.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, there was one day in April when a young boy called saying that he doesn’t want to go to school because we’re rationing mask and all he got was pink medical mask, and his classmates may laugh at him.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The very next day, everybody in the CECC wore pink medical mask. Minister Chen even said that Pink Panther was his childhood hero, and then the boy become the most hit boy because only he has the color of the mask that heroes wear, and that’s gender mainstreaming, and so the 24 hour response cycle, really important.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The fairness part, not only about mask rationing, but also about taking care of people who could not go to the pharmacies because they work very long hours, we also designed a 24 hour pre ordering through mobile app, and through convenience stores, and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because our National Health card, which is a single payer system, covers more than 99.99 percent of not just citizens, but also residents, so everybody can feel calm and collected and know that they will incur no financial or social burden when they develop COVID like symptoms and report to a local clinic.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Finally, a very cute dog, the Zongchai, a Shiba Inu, translates all that are mentioned in the CECC into very cute dog pictures. For example, for physical distancing, we have a picture that says, “If you’re outdoor, please keep two Shiba Inus away, and if you’re indoor, keep three dogs away from one another.” [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s idea we’re spreading, just spreads much faster than conspiracy theories.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (interviewer speaks)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Definitely.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (interviewer speaks)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, there’s a couple of points. One is the fast, fair, fun principle. You don’t have to adopt all three, but starting from the fast one will really help. Also, I think the other thing is that if the digital space is opened to the civic hackers, then people can… I’ll do this again. I’ll start from the beginning.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (interviewer speaks)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, a couple of things. First of all, while the fun part of fast, fair, fun, may take some practice, the fast part is easy to imitate from the Taiwan model.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        On the fair part, I think if you open up the API, that’s the application programming interface, in real time, of the decision making evidences, and the PPE availability, and so on, to civic hackers, then everyone can have a voice and a part to play.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Imagine if we publish the mask availability only every day or every week, then there’s really no way the civic hackers could be helpful, but because we publish every 30 seconds, so people queuing in line can actually keep the system honest and accountable, just by checking on their phone the person queuing before them have actually purchased like nine medical mask, and the availability has gone down. If it doesn’t go down, they will call 1922 right there.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (interviewer speaks)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you. Live long, and prosper.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
