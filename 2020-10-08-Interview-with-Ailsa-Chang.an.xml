@@ -328,6 +328,18 @@
                         Thank you. Live long, and prosper.
                     </p>
                 </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (interviewer speaks)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                         [laughs] To-siā.
+                    </p>
+                </speech>
             </debateSection>
         </debateBody>
     </debate>
