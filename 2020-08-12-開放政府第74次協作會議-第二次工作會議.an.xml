@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/出席名單" id="出席名單" showAs="出席名單"/>
+                <TLCPerson href="/ontology/person/::/第一次工作會議資料" id="第一次工作會議資料" showAs="第一次工作會議資料"/>
+                <TLCPerson href="/ontology/person/::/第二次工作會議資料" id="第二次工作會議資料" showAs="第二次工作會議資料"/>
+                <TLCPerson href="/ontology/person/::/科技部" id="科技部" showAs="科技部"/>
+                <TLCPerson href="/ontology/person/::/其他建議" id="其他建議" showAs="其他建議"/>
+                <TLCPerson href="/ontology/person/::/曾昭愷" id="曾昭愷" showAs="曾昭愷"/>
+                <TLCPerson href="/ontology/person/::/可能協作方向" id="可能協作方向" showAs="可能協作方向"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-08-12 開放政府第74次協作會議 第二次工作會議
+                </heading>
+                <speech by="#出席名單">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                科技部綜規司 科長 許嘉文
+                            </li>
+                            
+
+                            <li>
+                                科技部資訊處 黃惠珍
+                            </li>
+                            
+
+                            <li>
+                                廉政署(防貪組) 科長 陳忠政
+                            </li>
+                            
+
+                            <li>
+                                廉政署(肅貪組) 廉政官 白佳渝
+                            </li>
+                            
+
+                            <li>
+                                廉政署(綜合規劃組) 科長 陳國男
+                            </li>
+                            
+
+                            <li>
+                                廉政署(綜合規劃組) 廉政專員 林希恬
+                            </li>
+                            
+
+                            <li>
+                                法務部綜規司　副司長　曾昭愷
+                            </li>
+                            
+
+                            <li>
+                                法務部綜規司　 楊智茵
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#第一次工作會議資料">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                <a href="https://docs.google.com/spreadsheets/d/1tLwl6VNngnIvE7a0tpJZ9qjtN9EIk6p9lvozkflSNpk/edit#gid=161429140">
+                                    議題分析表
+                                </a>
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#第一次工作會議資料">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                <a href="https://drive.google.com/file/d/1mJh1nVz-2CepY1u1RMsYcBKfUBPvwzn1/view">
+                                    教育部提供監察院來函(103教調27)
+                                </a>
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#第一次工作會議資料">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                <a href="https://drive.google.com/file/d/1wygX0aPlqpfov-yx3fjY3FqRQ8TsoU6_/view">
+                                    臺灣臺北地方法院 104 年訴字第 477 號刑事判決
+                                </a>
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#第一次工作會議資料">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                <a href="https://drive.google.com/file/d/1vgslzRLcsHWTpD28TKqoMh4BYB539iEJ/view">
+                                    國科會補助經費興利除弊措施專案報告final-1010608
+                                </a>
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#第一次工作會議資料">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                <a href="https://drive.google.com/file/d/1q3DFLX-Ob1lfAPyteN6yhuFWnGD9olz3/view">
+                                    歷次會議主席指(裁)示事項及列管情形1031117
+                                </a>
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#第二次工作會議資料">
+                    <p>
+                        部會繳交
+                    </p>
+                </speech>
+                <speech by="#第二次工作會議資料">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                <a href="https://drive.google.com/drive/folders/1cQRlNYaJJrwSLs-ik9dOFxZRrGB-4ji0">
+                                    106年迄今司法裁判彙整表–(廉政署)
+                                </a>
+                            </li>
+                            
+
+                            <li>
+                                <a href="https://drive.google.com/drive/folders/1cQRlNYaJJrwSLs-ik9dOFxZRrGB-4ji0">
+                                    計畫經費改善情形
+                                </a>
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#第二次工作會議資料">
+                    <p>
+                        其他參考資料
+                    </p>
+                </speech>
+                <speech by="#第二次工作會議資料">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                <a href="https://drive.google.com/drive/folders/1cQRlNYaJJrwSLs-ik9dOFxZRrGB-4ji0">
+                                    臺灣臺南地方法院108年訴字第765號刑事判決
+                                </a>
+                            </li>
+                            
+
+                            <li>
+                                <a href="https://www.most.gov.tw/hum/ch/detail?article_uid=816881c2-6459-46ac-b16e-6d4364d63b2b&#x26;menu_id=9aa56881-8df0-4eb6-a5a7-32a2f72826ff&#x26;content_type=P&#x26;view_mode=gridView">
+                                    科研經費彈性，從今嶄新開始
+                                </a>
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#科技部">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                司法、行政責任不同
+                            </li>
+                            
+
+                            <li>
+                                針對廉政署的第一案已有行政處分，第二案目前法院審理中。
+                            </li>
+                            
+
+                            <li>
+                                此兩案非為制度造成
+                            </li>
+                            
+
+                            <li>
+                                第一案老師坦承有不當行為，有私用
+                            </li>
+                            
+
+                            <li>
+                                第二案老師主張其將人力經費用於研究用途，為公用
+                            </li>
+                            
+
+                            <li>
+                                101年起已進行制度面的整體檢討
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#科技部">
+                    <p>
+                        這一波的案件跟101年那一波的差別？
+                    </p>
+                </speech>
+                <speech by="#科技部">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                手法都一樣：票據、助理人事費
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#科技部">
+                    <p>
+                        若已經給彈性了為何還會發生？
+                    </p>
+                </speech>
+                <speech by="#科技部">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                內控強弱：從中央機關到學校
+                            </li>
+                            
+
+                            <li>
+                                老師自身觀念未變、師生關係及法治觀念
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#科技部">
+                    <p>
+                        檢討是例行性嗎？
+                    </p>
+                </speech>
+                <speech by="#科技部">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                視需要，不定期。101年開始補助要點修了十幾次，有需要一年會修兩次
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#科技部">
+                    <p>
+                        如何檢討？
+                    </p>
+                </speech>
+                <speech by="#科技部">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                參考國外作法，國內國情，開必要說明會，找老師助理
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#科技部">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                一個月前有一個版本，對於補助資格還會再修正
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#其他建議">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                修改版本脈絡，做為社會溝通過程
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#其他建議">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                共同被提出、不被採納的意見
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#曾昭愷">
+                    <p>
+                        101年發生研究經費之亂後，研究經費浮報或假報，以非貪污治罪條例範圍，執法強度和曝光度較強，可能影響案件查緝數。後改為詐欺、偽造文書等輕罪，執法強度和關注度變低。
+                    </p>
+                </speech>
+                <speech by="#可能協作方向">
+                    <p>
+                        <ol>
+                            
+
+                            <li>
+                                下一次滾動式檢討（有人反映）說明會納入開放政府元素，邀請法務部與PDIS一同參與做法治宣導 or 廉政署跟科技部政風處一同->常態化
+                            </li>
+                            
+
+                            <li>
+                                申請資格的討論，邀請利害關係人與會->思考如何協作
+                            </li>
+                            
+
+                            <li>
+                                科技部網站懶人包的宣導推廣和優化
+                            </li>
+                            
+
+                        </ol>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#可能協作方向">
+                    <p>
+                        <h2 id="利害關係人盤點">
+                            利害關係人盤點
+                        </h2>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#可能協作方向">
+                    <p>
+                        <h2 id="會議目標">
+                            會議目標
+                        </h2>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#可能協作方向">
+                    <p>
+                        <h2 id="行政庶務確認">
+                            行政庶務確認
+                        </h2>
+                        
+
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
