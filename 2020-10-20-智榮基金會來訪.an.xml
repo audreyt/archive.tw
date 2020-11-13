@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/馬惠群" id="馬惠群" showAs="馬惠群"/>
+                <TLCPerson href="/ontology/person/::/唐鳳" id="唐鳳" showAs="唐鳳"/>
+                <TLCPerson href="/ontology/person/::/施振榮" id="施振榮" showAs="施振榮"/>
+                <TLCPerson href="/ontology/person/::/吳建豪" id="吳建豪" showAs="吳建豪"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-10-20 智榮基金會來訪
+                </heading>
+                <speech by="#馬惠群">
+                    <p>
+                        謝謝政委給我們機會來介紹，我們取名為「s」的原因就是secure，重點是「security」，我覺得這個是非常重要的。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        當然。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        就算疫情過了，其實大部分很多的企業還是會繼續維持在家工作，而且也有很多的公司甚至設定了一些政策，不要說FB百分之百。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        現在連微軟都是。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        微軟是百分之五十。百分之五十最多到office，也很有彈性，有這麼多的在家工作，他們是不是真的很安全，這個是電子時報的一篇報導，他用的是這家的統計，他們說在這些國家裡面統計的結果，百分之六十三的企業選擇Zoom、Cisco Webex，就是前三名。有百分之三十九的企業在過去中遇到的視訊會議的公司。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        對，Zoom還為了這個特別併購了Keybase，因為他們沒有辦法解決，只好找外面的team來解決。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        而且他們說亞洲地區被攻擊的比其他地區更高，有個解釋是亞太地區的企業好像比較沒有聘請足夠的雲端技術產業人員來，而且也缺乏內建視訊會議的保護工具，所以企業成本是最容易被受害的關鍵之一，當然這又再次證明視訊會議的安全性真的是很重要。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        我們再舉另外一個例子，大部分的video的conference，像現在我們講這幾家，Zoom是用Aws，Teams是用Azure，Cisco Webex應該也還是Aws，或者是我他自己set up的data center，沒有一家有在臺灣真正的video server，全部都在臺灣以外。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        唯一有就是google meet。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        所以像你是香港、日本、新加坡。
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        Teams就是微軟的……
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        是，我們都知道Azure快要落地了。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        也許到時我們就把Teams拿掉。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        也要看一下路由是不是真的有經過我們這邊。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        其實大部分你會選擇video server，通常是由他決定，第一個是看哪裡比較有空，或者是哪裡比較便宜，就像上次zoom的問題是……
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        ……把開到一半的國際會議停掉……
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        一般的情況，你就算在臺灣，從這樓跟那樓做code，都還是要回到這三個某個區域的video server再下來，所以其實是非常沒有效率，在網路而言事實上浪費了非常多的頻寬，latency也增加，事實上從video conference是不合理的，是雲端的video server最大的問題，除了安全性，還有一個是這個。所以我們要講的是，為何會有sMeet，我們也說這就是jitsi，但是除了jitsi之外，我們也強調花不少時間想辦法變成更安全性。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        預設上，不要勾很多東西才變安全，這個是最重要的。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        很簡單的架構，唐委員是專家，我很快講一下，當然你在企業當中可能有一個D＆Z的區域，跟你內部相隔，所以有兩層防火牆，一層對外、一層對內，所以jitsi的架構是有不同的server，這個是服務，其實沒有這麼多的server，當然這個跑在一個地方，有的時候透過VPN，一般的客人也是用網路，當然我們就有一些特別防護的機制來保護它，大概就是這樣子的架構。
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        那一天透過美國來參加我們開會，他用VPN不行，可能是他的VPN，他說進不來。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        可能沒有開UDP的協定。
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        他是技術人員，所以他懂。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        現在有些VPN只有web traffic，其他的都關起來，那樣目前就有困難。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        我們也說一下有做哪一些，安全性也是管理，就像Zoom，當初可以有password，也可以沒有，很多人沒有password，當然也是不對的，你強迫要password，還有你的IP，也不要太容易被猜到，這是基本的管理。安全性的話，當然一定是要有https，你的audio、video要如何加密，像剛剛講的DMVPN的設定，還有一個也滿重要的，也是最近在談的是e2e。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        這個你們有試過了嗎？jitsi的e2ee模式？
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        有。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        確定是可以支援的？
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        有。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        因為Zoom也開始要測這個模式，類似Google Duo，可能會變成標配。這跟LINE本來是個人對個人才有e2ee，群組是沒有的，後來群組就變成點對點加密，這應該是趨勢。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        當然也會有一點side effect，理論上e2ee就不能做雲端的錄影。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        可以啊，多一個人進來就好了，jitsi的原理是多一個參加者。他的錄影原理跟別人不一樣，並不是靠server錄，而是靠參加者來錄。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        你是專家。錄影官。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        就是這個意思。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        除了剛剛講的jitsi本身有的功能以外，我們跟安基合作，安基也有一套threat detection的tool，我們就在每個裡面都放，所以也會定期偵測，也會報告現在是有什麼樣的threat，多少level，當然到什麼level，就要有解釋，就會給IT，他們就要去注意，所以就算有那些機制，還是要有更多的tool來保護它，這是我們跟default用的，也就是跟安基合作，安基在這塊就有比較多的經驗。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        對比剛剛講假設你在臺灣地區，好比像某個國營事業好了，你要跟中南部開會，其實所有的server，好比像台北地區的機房，這樣就夠了，事實上只有島內的網路，根本完全不需要出去，所以當然這樣子就更安全的。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我現在是架在國網中心，也就是新竹的。往hinet的國內、國外連線都不錯，看起來幾乎沒有延遲。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        其實我們也在考慮EDC，假設有企業不太想自己做，我們也可以在EDC。還有一個好處，當然是國外也不用再轉接，因為一轉接就要再多一層，直接到那個點，理論上也會省一點，反正越少轉接，letency就越短。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        當然因為是browser，所以也不用install任何的東西，當然除了智慧手機以外，所以這樣子對大家而言也會更容易使用。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        你們的iOS App有上架了嗎？
+                    </p>
+                </speech>
+                <speech by="#吳建豪">
+                    <p>
+                        也有。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        沒有任何的問題，測起來ok？
+                    </p>
+                </speech>
+                <speech by="#吳建豪">
+                    <p>
+                        對。我們又加了一個像企業，不用買到幾百、幾千才可以，可以做行政院的logo，在你的網頁log in，你只要一log in，就可以看到行政院，所以每個企業都可以，包含他的thing也可以去改變。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        可是這個是白牌，等於是要自己上APP嗎？還是用你們的APP？
+                    </p>
+                </speech>
+                <speech by="#吳建豪">
+                    <p>
+                        用我們的APP，但是我們APP會抓客製化的。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        但是我還是要輸入伺服器的位置，所以一開始還是看到Acer，下一個畫面才是自己的logo。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        是。
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        我們還是要enable by acer meet，我們有看到。
+                    </p>
+                </speech>
+                <speech by="#吳建豪">
+                    <p>
+                        換了logo之後，我們會加字眼，像power by Acer。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        這個很重要。
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        其實這裡有一個好處是確認有沒有跑錯網頁，並不是隨便人家用一個fack就過去。當然我們總結一下，大概有這幾點，像安全性、network latency降低，但可以規劃自己公司企業、個人網頁。我們現在想要用的商業模式，不是照account，而是以concurrent call，好比以20、50、100，只要沒有超過這個concurrent call，你要有多少個都可以。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        這很好。
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        雖然Zoom是一個meeting可以有1、200或者是300，但是事實上不會有人這麼多，一個會議還是一個人。
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        實體沒有限制會議室的多少，隨時開會議室，只是不同步這麼多人就可以了。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        很合理。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        當然剛剛也有提到，我們認為是針對臺灣地區非常重要的，雖然別人也在做，畢竟沒有用真正本土化的speech，剛好jitsi也有這樣的介面，當然我們現在還在做幾家比較，像雅婷、交大，也有跟資策會在談。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        這個你不能做成API嗎？就是好比有些人已經有簽了跟雅婷的合約，就直接運用你們的API接上去，比如有人覺得沒有什麼機密可言，不反對用訊飛，訊飛也有他的API。
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        可以這樣做。不過因為這個服務是客戶自己要去買，所以本來就分開的。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        因為你們如果要內建的，這個是滿難的，要每個講的人自己在瀏覽器裡面跑web的語音辨識，這是jitsi最預設的那個做法，但是我們都知道如果是用Chrome內建的那個，收音要很近的時候才會對，收音稍微遠一點就完全亂掉，那比不送還要差，當然是在server端做會比較對一點，但是server又是etee，所以變成要有專門做紀錄，但你看不到的人在那邊聽，那個過程如果都已經是虛擬的人，等於是完整的client，其實沒有道理不能邀好幾個人進來。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        因為這樣子的話，好比像專門有辨識中文的，另外一個專門辯識英文的，中、英夾雜的，沒有哪家做得非常好，好比像你現在是跨國的會議，但中間有口譯等等，這樣就會需要兩個，一個聽英文、一個聽口譯講出來的中文，所以你有這種多個可能做紀錄虛擬的與會者，我覺得是比較好的架構，比起寫在server裡面。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        甚至也有分專業的領域，好比像今天是醫院用的，或是法院用的。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        對，這樣就可以主張這個紀錄的方法不好，趕快再去找一個vendor，甚至是可以人跟機器合作，我覺得反正從你們架構的角度來看，你們不管，只要有符合API的連線者上線，負責告訴他說這個聲音是誰講的，就這樣而已。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        還有更困難的事就是大家都在做，像會議摘要。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        很棒。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        像剛剛講的，也有滿有趣的解決方式，像video conference在公司裡面常碰到的問題，不是每個人都有獨立的辦公室，你雖然用耳機聽得比較清楚，但是自己講話有很多背景噪音，如果常常mute，就會很麻煩，有時會忘了mute，所以現在也做一個AI noise cancellation，其實這個模型是學習人聲，而是要辨識什麼東西叫做人聲。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        對麥克風有什麼要求？
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        還好。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        對著手機講也可以？
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        是，當然重點是在那個模型。第二個是有所謂的Beamforming，像你可以畫個圈，好比附近1公尺、多遠，只有在這部分的聲音會被收進去，所以這樣就不需要擔心旁邊的人講話也會進來，這是我們現在正在做，只是目前是Acer筆電才有，現在還沒有辦法所有的都有。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我要換掉手上這台筆電？（笑）
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        這個我們覺得滿特別的，因為這要在edge做，不是server。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我理解。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        要在server做，等於程序都要在server。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        e2e不太可能，在edge做比較好。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        是，當然剩下的很多人都做好。像有背景的replacement、face detection、attention、emotion，attention是開會的時候，有多少人是注意開會、有多少人不注意開會。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        有的教學模式是隨時讓人看到有多少人打磕睡。
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        不過我在開國際會議，大家都關著螢幕。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        就是有人做這個功能。（笑）
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        但是大老闆開會，怎麼要求呢？（笑）
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        這也是不容易，所以我建議也是在edge做（笑），如果不準確，是個人的問題，如果你在server做，就是你的問題了。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        不然這樣server的負擔太重了，而且現在edge有很多community power根本沒有被用到。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        對，視訊的時候除了邊解碼，什麼都沒有做，嚴格來講cpu是沒有在動的。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        最後還是有一個management portal，可以讓你管理，可以開account、管理storage這些種種，我們當然也support microsoft agent，所以要導入account也很方便。我們現在開始demo。
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            （測試中）
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#唐鳳">
+                    <p>
+                        你如果按分享「桌面」，就會回到jitsi，就會到Chrome。
+                    </p>
+                </speech>
+                <speech by="#吳建豪">
+                    <p>
+                        比較有趣的是，每個人都可以分享，還可以選擇要看哪個。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        而且分享完之後還可以把臉蓋住。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        也可以打開。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        但這個不是e2ee吧？你們e2ee如果接起來的話，我是真的非常有興趣，因為有一些jitsi的場景需要e2ee。所以下一步怎麼樣？你們有做過滲透測試嗎？
+                    </p>
+                </speech>
+                <speech by="#吳建豪">
+                    <p>
+                        有請安基的人做過，也把問題解了。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        有些解了，你們可以送回上游，看jitsi本身要不要幫忙你們。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        是我們的問題或者是jitsi的問題？
+                    </p>
+                </speech>
+                <speech by="#吳建豪">
+                    <p>
+                        有些是我們的問題，有看到一些問題。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        好啊！因為我們要放在on premise跑的話，我們一般都會自己弱掃一次。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        對，大部分都會做這樣的事情。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        好啊！我們什麼時候來弱掃？
+                    </p>
+                </speech>
+                <speech by="#吳建豪">
+                    <p>
+                        要怎麼架？
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我自己是admin，我就可以裝上去。
+                    </p>
+                </speech>
+                <speech by="#吳建豪">
+                    <p>
+                        要找機器。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        有國網的機器。我們現在的meet.pdis.tw，就是jitsi，在國網，我就自己當網管，所以看你們客製化的版本，現在用on premise，你們怎麼做？
+                    </p>
+                </speech>
+                <speech by="#吳建豪">
+                    <p>
+                        其實我們內部都是docker，就拉下來裝。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        所以直接聯絡我，我從docker裝一下。
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        我們還沒有正式release，不過希望不要再改了，有1.0、1.1、1.2。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        他們已經放app store，表示基本沒有問題？
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        這在國網中心也很好，試試看。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我們也讓國網的人比較習慣這套，他們也花了很多時間，把以前批次的運算，再加上docker等等的東西，所以很需要證明，來說不只是做批次運算，也可以做隨選運算。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        您裝的是臺灣杉二號的server？
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        <a href="http://www.TWCC.ai%E3%80%82">
+                            www.TWCC.ai。
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        那個是超強的server。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        是啊。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        是Nvidia v1版嗎？
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        是。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        我們還沒有什麼發揮（笑）。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我覺得這個可以給大家好的刺激，不是國外很昂貴的公有雲在可以跑這個等級的服務，而是臺灣杉最基本的服務，就可以跑得很好，也是建立信心。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        那個server大概跑幾百個都沒有問題，太強了。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我們自己測還沒有測超過四十人同時上線過，但是反正我們在臺灣杉找台好一點的話，也許到上百人都沒有問題。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        我們連一台小的IPC，就是i5的，我們都測到五十人，所以jitsi在先天的loading……
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        ……可見是ok的。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        好啊！大概就三個步驟，第一個是先在我自己國網那台機器，希望年底以前，我們可以真的跑起來。
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        這個月、下個月就跑起來。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我也會請人做弱掃，看有沒有設定層的問題，有的話就回報給你，那個之後我才可以推薦給別人用。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        好，馬上進行。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        真的很棒。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        倒是想聽聽看，我們想要推廣，您覺得怎麼樣更合適？
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我看Zoom很快就要推出e2ee，所以你們還是得把e2ee測出來，不然馬上就會變成他有security features，你反而沒有，他就會說他們叫secure meet，為什麼我們沒有et2e，所以至少做個opt in，Zoom並不是全部都e2ee，而是可選。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        他本來說free的帳戶不給，但是最近後來又改口。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        因為各界的壓力實在太大了。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        但是為何會談Zoom？我還以為政府完全就不讓大家用Zoom。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        我們的政策並沒有改變，仍然是禁止安裝Zoom的軟體。那他們現在的主張是，他們未來會是e2ee、路由又不會亂跑。
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        剛剛我想到臺灣杉是學術界免費在使用的，是不是？
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        是的。
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        我們如果跟國際上學術界的人常常討論，那個地方如何install到臺灣杉進去來做這個服務。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        對，如果要做自動的摘要，或更方便點的AI，真的可以考慮那個license的不管雅婷或者是其他，就直接跑到臺灣杉的同台上，就是proxy進去，我沒有記錯的話，AI Labs早期也是無人機用臺灣杉在算，所以已經知道如何布署上去，這樣的好處是最低的latency，就是我講，馬上字幕就出來了，概念上還是另外一個client，但是因為lookback interface，所以完全沒有任何時間差，我覺得這樣子demo起來會比我們上次在頒獎典禮那次，我們當時講一句話回到server再回來，多少還是有點延遲，如果可以在server端弄client的話，我覺得就會很快。
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        因為整個學術界也算是超前user，讓他們來用，然後他們面對國際，等於這個對於技術的成長、進步很快。
+                    </p>
+                </speech>
+                <speech by="#吳建豪">
+                    <p>
+                        我們拜訪了一些學校，就是政府不准用Zoom，可是他們覺得teams根本不好用，微軟是要把office綁進去，不單獨販售，然後Cisco Webex更不用說了。所以也很苦惱，沒有很合適的。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        對，所以我具體建議，如果有e2ee的話，我們從公部門的角度來看，好比像昨天跟德國議員的視訊，那個有沒有e2ee就差很多。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        如果不主張e2ee的話，在伺服器端GDPR馬上就有適用範圍存在。如果我主張e2ee，server不管放在哪裡，都是在合理的框架裡面。
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        看e2ee什麼時候，可以問一下。
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        現在是1.1版。
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        是明年初或者是什麼時候？
+                    </p>
+                </speech>
+                <speech by="#馬惠群">
+                    <p>
+                        今年第四季。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        如果真的第四季e2ee起來，然後我們資安測起來也沒什麼問題，至少我自己的國外視訊，我很願意來用。
+                    </p>
+                </speech>
+                <speech by="#唐鳳">
+                    <p>
+                        那就差不多這樣子，謝謝。
+                    </p>
+                </speech>
+                <speech by="#施振榮">
+                    <p>
+                        非常謝謝。
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
