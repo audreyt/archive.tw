@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/黃子維" id="黃子維" showAs="黃子維"/>
+                <TLCPerson href="/ontology/person/::/何小鳳" id="何小鳳" showAs="何小鳳"/>
+                <TLCPerson href="/ontology/person/::/游慧真" id="游慧真" showAs="游慧真"/>
+                <TLCPerson href="/ontology/person/::/許恩恩" id="許恩恩" showAs="許恩恩"/>
+                <TLCPerson href="/ontology/person/::/賴致翔" id="賴致翔" showAs="賴致翔"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-11-12 開放政府第83次協作會議 第二次工作會議
+                </heading>
+                <speech by="#黃子維">
+                    <p>
+                        那就直接討論，日期11月24日可以嗎？
+                    </p>
+                </speech>
+                <speech by="#何小鳳">
+                    <p>
+                        這個時間點提案人不一定可以。
+                    </p>
+                </speech>
+                <speech by="#黃子維">
+                    <p>
+                        所以這個時間還沒問過他？
+                    </p>
+                </speech>
+                <speech by="#游慧真">
+                    <p>
+                        我們有預備三個時段，哪三個時段？
+                    </p>
+                </speech>
+                <speech by="#何小鳳">
+                    <p>
+                        11月24日、11月30日、12月1日。
+                    </p>
+                </speech>
+                <speech by="#黃子維">
+                    <p>
+                        他會不會一定要周末？
+                    </p>
+                </speech>
+                <speech by="#何小鳳">
+                    <p>
+                        應該不會。
+                    </p>
+                </speech>
+                <speech by="#黃子維">
+                    <p>
+                        那一號上午可以。11月24日跟30日上下午，跟12月1日上午，有五個時段。這樣要在哪裡？
+                    </p>
+                </speech>
+                <speech by="#游慧真">
+                    <p>
+                        18樓可以裝到兩百人。
+                    </p>
+                </speech>
+                <speech by="#黃子維">
+                    <p>
+                        會議主席跟內容，這個沒問題吧。
+                    </p>
+                </speech>
+                <speech by="#游慧真">
+                    <p>
+                        說明的部分沒問題，那主持的部分？
+                    </p>
+                </speech>
+                <speech by="#黃子維">
+                    <p>
+                        這沒問題，議程應該很單純。
+                    </p>
+                </speech>
+                <speech by="#何小鳳">
+                    <p>
+                        總會有個致詞，需不需要一個溝通協作原則?
+                    </p>
+                </speech>
+                <speech by="#黃子維">
+                    <p>
+                        這都可以討論，協辦單位是甚麼？
+                    </p>
+                </speech>
+                <speech by="#游慧真">
+                    <p>
+                        主席是共同主持，還是你們這邊？
+                    </p>
+                </speech>
+                <speech by="#黃子維">
+                    <p>
+                        你們大概誰出席？
+                    </p>
+                </speech>
+                <speech by="#何小鳳">
+                    <p>
+                        長官說都尊重辦公室想法。
+                    </p>
+                </speech>
+                <speech by="#黃子維">
+                    <p>
+                        原則上共同主席好了，有點像無人機那樣。你們出席層級是？我想建議是組長，再上面長官就看時間。
+                    </p>
+                </speech>
+                <speech by="#何小鳳">
+                    <p>
+                        CDE在幫忙我們收集病友意見，他們平常就有為病友舉辦一些課程。
+                    </p>
+                </speech>
+                <speech by="#黃子維">
+                    <p>
+                        所以未來臉書上這些人如果需要就找他們，可以認識一下。那議程的話，我們就框一個順序，接著就看上下午。
+                    </p>
+                </speech>
+                <speech by="#許恩恩">
+                    <p>
+                        如果人少的話，通常還會有個自我介紹，這比較細節，前面先留這個時間沒問題。
+                    </p>
+                </speech>
+                <speech by="#游慧真">
+                    <p>
+                        原則上還是分兩個比較明確。
+                    </p>
+                </speech>
+                <speech by="#許恩恩">
+                    <p>
+                        時間這樣ok。
+                    </p>
+                </speech>
+                <speech by="#何小鳳">
+                    <p>
+                        主題要怎麼呈現？
+                    </p>
+                </speech>
+                <speech by="#許恩恩">
+                    <p>
+                        開放政府簡介或協作會議介紹，不過這場協作成份比較少一點，看用什麼詞比較好都可以。
+                    </p>
+                </speech>
+                <speech by="#黃子維">
+                    <p>
+                        簡單就是會議說明？
+                    </p>
+                </speech>
+                <speech by="#許恩恩">
+                    <p>
+                        其實沒有致詞這個環節，是你們的長官致詞，我再說明，我只要說明就好。
+                    </p>
+                </speech>
+                <speech by="#游慧真">
+                    <p>
+                        這個時間我們槓掉？
+                    </p>
+                </speech>
+                <speech by="#許恩恩">
+                    <p>
+                        第一部分是你們主席，第二部分是我開場，就這樣。
+                    </p>
+                </speech>
+                <speech by="#黃子維">
+                    <p>
+                        主題名稱呢？致翔有什麼想法？
+                    </p>
+                </speech>
+                <speech by="#賴致翔">
+                    <p>
+                        短一點話就協作議題簡介。
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            （議程字詞討論）
+                        </i>
+                    </p>
+                </narrative>
+                <narrative>
+                    <p>
+                        <i>
+                            （行政庶務與直播事宜討論）
+                        </i>
+                    </p>
+                </narrative>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
