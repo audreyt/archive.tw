@@ -135,11 +135,7 @@
                 </speech>
                 <speech by="#Audrey Tang">
                     <p>
-                        It’s a geek thing. In negotiating what kind of language you speak for a browser, for example, it can say accept JavaScript or it can say accept some other language. When you say accept 
-                        <em>
-                            /
-                        </em>
-                        , you mean whatever language is fine.
+                        It’s a geek thing. In negotiating what kind of language you speak for a browser, for example, it can say accept JavaScript or it can say accept some other language. When you say "Accept: */*", you mean whatever language is fine.
                     </p>
                 </speech>
                 <speech by="#Sarah Gonzalez">
