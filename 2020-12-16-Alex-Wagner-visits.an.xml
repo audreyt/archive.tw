@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Alex Wagner" id="Alex Wagner" showAs="Alex Wagner"/>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-12-16 Alex Wagner visits
+                </heading>
+                <speech by="#Alex Wagner">
+                    <p>
+                        I have a lot of admiration for you. You’re like a tech paladin. I’m usually pretty bleak on tech, but I appreciate your outlook on things. I’m a little nervous, so…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s fine.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        One reason I wanted to talk to you is because you seem like you’re very about collaboration. I agree, it’s important for how we move forward like a species, but I’m not very good at it. I’ve traditionally done things myself and have powered forward.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        I have this idea that’s bigger than me, and I believe that it could provide a lot for Taiwan, and I want to work on it. [laughs] I’m unsure of how to do that. I get very discouraged by it sometimes.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Really?
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What kind of collaboration are you looking at?
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        It’s more of this idea that I’ve been developing. Over the last two years I’ve worked out in Humei. We built a small pizza manufacturing factory, and every day I drive out towards Longjing, to the sea, the power plant.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        As I’ve driven out there, and I see all this agricultural land and the way that it’s spatially oriented, I’ve seen this opportunity to use agrivoltaics of putting solar panels in farm fields to feed into these local…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a thing.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        The big problem here is that the COA doesn’t want to build any fixed in farm fields, but I’ve been having this idea of if you could create solar panels that could be redeployed within an area that could be then moved around to work within agricultural cycles…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The idea is that it’s still arable land, and they’re still growing plants on it.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        Eventually, it’s like if there’s, say, recharge the land we need to let the land sit fallow. There’s periods of time where you just let…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I understand that.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        The idea is that you would have this system that would be managed by…To me, what actually excites me the most isn’t the production of energy. It’s more of like I see this like a rural community development project.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        It’s like you create a system with a government body looking over like we’re agricultural co-ops. I call them agro-electric co-ops. They look at managing the land as well as managing the rotation of these solar panels.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’ve been to the Taromak. It’s a indigenous community doing their own solar, and also some wind and also some water, all renewable self-sufficient powering. They do use a co-op-like structure for it.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        What’s the name of it?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s called the Taromak, T-A-R-O-M-A-K.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        Where are they?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s quite close to the city center of Taitung.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        In this process, I’ve got an untraditional background. I went to school for geography, and I came out here and I started a pizza place. Now me and my wife opened up this factory, and it’s just us figuring out how to do it like restaurant, and a factory arguably is harder, but they’re all attainable, like I’m able to do it. This idea I have is way beyond my scope here.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Especially in Taitung, there is a strong sense of community renewal, when it comes to not only the Taromak, which is I think Rukai, but in Taitung there’s Amis, Paiwan, Bunun, Puyuma, Kavalan, also Tao — on the island — and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s more than 183 different indigenous places. That’s actually easier, because for the ethnic Han changing the land’s purpose from arable to industrial or, as you said, part-time, like timesharing between arable and industrial, it is a very instrumental thing, utilitarian thing.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        They’re used to it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        And there’s not as much bureaucracy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly, exactly. In the indigenous use, we already have existing laws and regulations that promotes the forming of co-ops, especially labor co-ops. For example, like fixing the electricity setting up, those GST wires and things like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If it is a certain percentage, like a majority or something of indigenous people within that co-op, then it qualifies also for a additional types of benefit and so on.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        One thing to me is that a lot of what I need to know is way outside of my expertise, and I don’t know how to necessarily gain access to that. Do I have to go to school for land planning to even start doing this, or what is a way to get research done?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe you can just join one of those co-ops of powering up. There are existing structures like the Homemakers’ Union. They are setting up co-ops for this kind of work. There’s also a social enterprise, the name is 陽光伏特家.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        陽光伏特家.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s called Sunny Founder. Sunny, as in lots of sun, founder, as in a founder. [laughs] They’re not quite co-op. The idea is like crowdfunding.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You pay upload a bit to own a stake at one of the sites of the solar panels, and you eventually earn back, or if you want, you can also donate to a charity. Instead on one-time donation, you can try to help them to set up those photovoltaic panels, and then of course as a fellow donor you can visit them and share them up.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Either through the Homemakers’ Union front or through the Sunny Founder front that gets you immediate access to this co-op or co-op-like structure. Of course, you can also visit Taramak. [laughs] They’ve got quite a few visitors.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        I go to Taitung quite a bit, so this would be great.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Alex Wagner">
+                    <p>
+                        Another thing, and this is more probably of personal…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure. No worries.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        For me to do this, it involves me having to change my life, kind of. One thing that makes me afraid is like is this even possible? Is this something that can even happen in Taiwan? Is it worth my time and effort?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe you can talk to the three, the indigenous part, the co-op part, and also the social enterprise part, and explore whether that feels like a agreeable lifestyle to you, and make your own decisions.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s true that in Taiwan we are still at a piloting phase, but that’s also because the photovoltaic arrays along the coast becomes bearable or even competitive only in the past few years. This is a very new thing for all of us, actually for around the world, too.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        Yeah, absolutely.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Nobody knows whether this will turn out to be widely adopted everywhere, or because of Taiwan’s unique landscape, or only applicable in some places where it’s more sunny than others.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        Absolutely. A lot of what I’ve been doing is going and trying to talk to people that are way smarter than me to see if it’s something that seems…Basically, I’ve been trying to have people poke holes in my idea, and it seems…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a great idea. I don’t think there’s any holes in it.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        That feels like validation. Talk to this people and just get going.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. I think they’re quite OK talking in English, too. Especially at Sunny Founder, they’re very eloquent.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        Very cool. I really appreciate you making yourself available like this, and I hope I didn’t waste your time and this is cool.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No, really happy to contribute to sustainability.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s a fair going on.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        What is this called?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Every year I go out and give award to the organizations, including companies and public sector organizations, that have bought a lot of products and services from the sustainable suppliers. Those suppliers, including circular economy and things like that, all have to make their impact reports, and so…
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        Circular economy, what is that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is a way of saying upcycling. Instead of recycling down, we can recycle up. For example, this jacket is made out of like 5 cups worth of coffee bean waste, and also 12 recycled plastic bottles.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        Like baking it into a better product than it was.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly. So sourcing instead of from freshly cut trees or something. Just source from what used to be called waste, but it’s actually upcycling.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        Why do you think Taiwan is in such a position? It feels so progressive. Is that just the government, or is it the people why?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s mostly the people. The people here, as I mentioned, there’s a lot of different national languages, so the indigenous perspectives, the ethnic Han have at least three or more perspectives and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In order to make progress, it has to be transcultural meaning that we can’t do what some other jurisdiction does, which is to a point a sector or a certain industry and say, “You know, you’re going to be our bet, and everybody sacrifice for you.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan there’s nothing like that. There’s more than 90 percent small and medium enterprises, and each one work on different cultural perspective. The improvement tends to be truly cross-sectoral.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        It’s why I’ve never been able to out my finger on why it is. It seems like such a sandbox of opportunity here.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Definitely.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        That’s why I’ve never… [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, check it out.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        Absolutely.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Alex Wagner">
+                    <p>
+                        Thank you very much. Have a good day.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you, cheers.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
