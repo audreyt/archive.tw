@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/會議結論" id="會議結論" showAs="會議結論"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-12-17 開放政府第85次協作會議 會前會 會議結論
+                </heading>
+                <speech by="#會議結論">
+                    <p>
+                        一、經過跟交通部跟警政署三方決定本場說明會討論核心問題為：「如何在減輕員警行政負擔的前提下，有效運用行政資源及民眾協作精神，改善交通檢舉制度？」
+                    </p>
+                </speech>
+                <speech by="#會議結論">
+                    <p>
+                        由於熱心民眾檢舉許多案件，已造成實際承辦員警日常業務排擠，但我們在一定程度上肯定民眾參與公眾事務協助政府維持交通秩序的努力，希望在兩者之間透過改善交通檢舉制度來取得平衡，這是希望找民眾來討論的目的。
+                    </p>
+                </speech>
+                <speech by="#會議結論">
+                    <p>
+                        本場說明會以交通部刻正研擬中的《道路交通管理處罰條例》第七條之一作為討論基礎。
+                    </p>
+                </speech>
+                <speech by="#會議結論">
+                    <p>
+                        二、本場會議有很多民眾關切，且為重大民生議題，經確認後交通部跟警政署同意本場採直播形式。
+                    </p>
+                </speech>
+                <speech by="#會議結論">
+                    <p>
+                        三、為周延意見蒐集範圍，本場會議亦邀請網路相關議題社群管理者出席。
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
