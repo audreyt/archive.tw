@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/會議結論" id="會議結論" showAs="會議結論"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2021-01-06 開放政府第82次協作會議 會前會 會議結論
+                </heading>
+                <speech by="#會議結論">
+                    <p>
+                        一、本次協作會議處理的核心問題為：如何藉由辦理2021年B肝疫苗40週年主題科學日紀念活動來讓更多人了解及關心「B肝的相關知識」。
+                    </p>
+                </speech>
+                <speech by="#會議結論">
+                    <p>
+                        二、會議預計達成的目的，首先是讓一般民眾對於肝病有進一步認識；其次，期待讓沒有施打疫苗的中高齡族群願意關注肝病，並做篩檢，希望能及早發現。
+                    </p>
+                </speech>
+                <speech by="#會議結論">
+                    <p>
+                        三、為考慮多元的背景、地域及功能性，共邀集專家學者、病友團體、媒體、NGO、公部門、一般民眾、廠商。人數30餘人，共分四組討論。
+                    </p>
+                    
+
+                    <p>
+                        四、本場會議為擴大參與，蒐集意見，會採直播方式進行。
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
