@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Hakima Abbas" id="Hakima Abbas" showAs="Hakima Abbas"/>
+                <TLCPerson href="/ontology/person/::/Kamee Abrahamian" id="Kamee Abrahamian" showAs="Kamee Abrahamian"/>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+                <TLCPerson href="/ontology/person/::/SzuHui Huang" id="SzuHui Huang" showAs="SzuHui Huang"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2021-01-27 AWID visits
+                </heading>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        My name is Hakima Abbas. I’m the co executive director of AWID. We’re joined today by my colleague Kamee. Kamee, do you want to go ahead and introduce yourself?
+                    </p>
+                </speech>
+                <speech by="#Kamee Abrahamian">
+                    <p>
+                        Hi, yeah. Can you hear me?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Kamee Abrahamian">
+                    <p>
+                        Lovely. Hi, I’m Kamee. I’m the arts and creative expression tactic lead at AWID. I work in to implement arts and movement support, and anything in the creative world in arts programming.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        Our colleague, Camila, who set up the meeting and was, unfortunately, drawn into an emergency, and not able to join us. She appears here because she’s opened up the meeting for us, but she’s not actually able to join us. It’s just myself and Kamee. Minister, how would you like to be addressed?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Audrey works.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        OK. [laughs] Thank you so much for joining us on this call. We were so excited to learn about your work. To learn even that there was a digital ministry in Taiwan was exciting to us. All of the activism that you’ve done, and so we were thrilled to be able to get a meeting with you.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        We thought that the best thing perhaps for this meeting, and let us know what you think, would be for us to tell you a little bit about AWID, about our engagement in Taiwan, and what we’ve been thinking in terms of technologies. We would then love to just open it and hear from you about your experience and digital work for social justice in Taiwan. Would that be OK?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure, definitely. My colleague may have already informed you, but we’ll make a transcript of our conversation for co editing for 10 days before publishing on the Internet. This also serves as a general introduction of your work to the general population in Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        OK, fantastic. AWID is global feminist membership and movement support organization. We were founded in 1982, so next year that will be 40 years. We have about 6,600 members across the world in 180 countries.
+                    </p>
+                </speech>
+                <speech by="#SzuHui Huang">
+                    <p>
+                        Hello, Audrey.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        Hi, SzuHui.
+                    </p>
+                </speech>
+                <speech by="#SzuHui Huang">
+                    <p>
+                        Hi.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#SzuHui Huang">
+                    <p>
+                        Hi, Audrey.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        Do you two know each other, or should we stop with a pause and do some introductions?
+                    </p>
+                </speech>
+                <speech by="#SzuHui Huang">
+                    <p>
+                        [laughs] Hi. It is really my honor to meet you. [laughs] I’m SzuHui Huang. I’m the consultant of AWID in 2020. Originally, there was planning to have our forum in Taiwan, so I’m coordinating with Hakima, Camila, and all other teams.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Nice to know you and meet you.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        Fantastic. I was right in the middle of explaining what AWID is, and what we do.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, I just learned that AWID is one year younger than I am. Please continue.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        Yes. We, as an organization, work on lots of different themes. One of the things that we do or are known for is what’s SzuHui was talking about, the forum. The forum is this 2,000 people event that happens every three to four years.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        You can imagine what it feels like when 2,000 feminists come together from around the world in one big celebration, but also a place of deep reflection and analysis and discussion about what feminists needs to do and what it can look like. We bring from this from lots of different movements and identities and geographies.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        Unfortunately, the 14th International AWID Forum has had to be cancelled because of the pandemic, and, simply, because of how difficult it has been to be able to do that in the last two years. Instead of that, we are talking about, and maybe even at a bit of a late stage in terms of where technologies are, and the possibilities.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        We’re wondering how we can leverage technologies to further some of our outcomes of movement support, and what that looks like. We’ve come up with, I don’t know, some quite creative, out there ideas about what can happen and where. What we also wanted to do, was talk to people who have done this before, and find out from you all what does that look like.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        Who should we be talking to? What should we be considering? What do you imagine if you could design amazing feminist tech for movements to use, what would that look like? That kind of thing. This is where your name came up. We wanted to talk to you about these kinds of things.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        To me, tech means many things. Just like in the sciences, there are the natural and the social sciences, there are technologies that are more for industrial use, and technologies that are for organizers for social sector, and so on. For social innovation and social technology, my main idea used that, it needs to be assistive.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Whenever I talk about AI, I talk about assistive intelligence, in a sense that it empowers not just individuals, but also the social groups that people want the AI to assist with, instead of asking people to adapt to technology. The easiest outcome for any gathering is to replicate what has already worked in a face to face setting.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then, of course, there are immersive realities, virtual realities, augmented realities. Technology that can help if it’s about recreating the experience of your forum. As I read from your brief, the sketch of the app, it seems like it’s not just about that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Would you like to elaborate a little bit more about the impact, the endpoint outcome, not just the intermediate outcome, that you would like this former organization tech, for lack of better term, to do?
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        Yeah, thank you so much, and thank you for that language. It’s so helpful. I like the idea of assistive technologies. One of the things that we talked about…Because we have these members around the world, 6,600 in 180 countries, we felt that it would be great to use technologies to enable solidarity across movements.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        To enable connection, to give people platforms where they can also gain knowledge, resources, and even, simply, have fun, but together and what that could look like. At some point, our board member joked, something like a political Tinder for…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Gives a whole new meaning to swiping left wing and swiping right wing.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        Exactly. We were talking about, would it even be possible to almost create a feminist resource bank on this app? You could exchange skills, time and resources with one another, outside of monetary resources and all of those things. We also talked, separately from the app, about the fact that our work on what we’re calling feminist realities, alternatives…
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        We did say something about capturing the imagination of people. Could we use virtual realities, as you said immersive reality and that kind of thing, to give people those experiences of what an alternative and more just world could look like. Those who came here. I do want you to jump in here because I know that you’ve also been thinking about different areas of this.
+                    </p>
+                </speech>
+                <speech by="#Kamee Abrahamian">
+                    <p>
+                        You covered a lot of it. The thing that’s been on my mind the most is ways to engage with the local and at the same time connect to the global so to make those connections between grassroots and global movements, right? There are definitely some interesting ways to do that in harnessing different technologies.
+                    </p>
+                </speech>
+                <speech by="#Kamee Abrahamian">
+                    <p>
+                        That’s where my thinking is at is how to create experiences where folks can connect with their local community but also connect across borders. I feel there are some ways to do that especially in a COVID world where we’re pretty zoomed out. Are there ways to do that is my question?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Mm hmm. To check my understanding, there are actually three quite different but somewhat connected outcomes. One is that people are engaged to the mission on a global scale and know each other more, which is what the original design of the forum is probably going to do.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The second one, more ambitious, is to enable or empower our more local movements. specific calls to action, but I haven’t heard much about what is the call to action. It’s about something that one can do with their local community especially around the time of COVID.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The third thing is about having fun, which I’m totally [laughs] supporting, is starting a fun movement. That’s great, because if people are having fun together, they, of course, imagine and create a lot of calls to actions, possible hashtags, and so on, and you have a lot of intersection with existing fun oriented movements such as — I don’t know — the Buy Nothing movement comes to mind, things like that, the co op’s and so on so.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        To put all these three into an app, it’s quite ambitious I must say because they call for a different engagement. One is for like a conference, a very deep and somewhat expensive in terms of time investment but also about resources and so on. On a smaller scale, maybe thousands of people for a few days. That’s one experience.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The second one is about a day to day continuous engagement with the local people and having an ambient awareness of what’s going on in other locales and maybe share some best practices, where the bandwidth is low and a time commitment is sustained with a smaller intervals of time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Finally, the third thing is deeply personal. It’s creating our together and things like that, which is spontaneous and is difficult to allocate or preallocate the number of people that’s required to do so because it’s very spontaneous, maybe five people, maybe 5,000 people were like the flash mob centered around a certain call of action. These are quite different things.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        I appreciate how you’ve broken them all down. The feasibility and the expense you said run, for instance, the deep and expensive resource which would be the one of forum type experience whereas the day to day continuous might be…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …might be easier. A mobile phone would certainly do, but to deliver the same immersive experience over a mobile phone…It’s more about distraction than anything else. If all you have is a form, a small screen, a form factor that’s handheld, you can’t hold that for an entire day the way that one can immerse oneself in a forum, right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you are already, for example, reimbursing the travel for selected people to travel to Taiwan anyway that was the plan, right? Then, the same resource may be repurposed to get them decent equipment.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It may be virtual reality through XR space, which is a form of hands free virtual reality eyeglass that can be put on for four hours or five hours at a time or to eye staging, which is, again, something that can capture a vicinity, a scenery, or an auditorium or whatever, and make sure that people can engage in a much more interactive high resolution way.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        These are expensive. You can’t deliver them to maybe more than twice of the people who you originally are going to prepare to pay air travel for. While it’s cheap, it’s only half as cheap as an air flight. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        How would we sustain engagement over time? As you were saying, in some ways…I might download an app on my phone. It might be interesting. I might at smaller intervals make content that goes there.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        Facebook is something that people have had for coming up to a long time. Is it possible to be that consistent engagement which no longer then depends on the organization like it would? It becomes almost a space where people talk to each other.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        A social infrastructure of sorts. This is a great question. This is a question of digital public infrastructure of our time. Domestically, within the same culture there tend to be dominant forms of this ambience social communication. In Taiwan, we have the social sector LED PTT.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We also have the commercial sector LED, of course, Facebook, Instagram, and things like that. For a cross cultural communication, for example, when I engage with my counterparts in the Japanese community, I will have to use Twitter because Twitter is by far the dominant social media there.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        While one can design for a specific interaction patterns, what I found is that we end up having to build bridges. For one particular group of people to use Slack, but then build bots, that’s to say, the chat robots that syndicates the Slack conversation to a Telegram or to IRC or to some other forms of communication and share the same working documents like Google Docs and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s our more social production oriented rather than purely experience sharing oriented, because one already has familiar platform for experience sharing, and they differ across jurisdictions.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you say we’re here to collaboratively make something, then it’s more possible to make people’s attention engaged and stay engaged on particular modes of social production. That needs to be co creation instead of just share the things that one individually creates because we already get saturated in existing media platforms, whether it’s social sector or commercial.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        Wow. [laughs] It’s such a amazing way of thinking about all these tools that, for instance, I’m using in my day to day, but I don’t consciously know how they’re built in order to do the things that they do. The language that you’re using in the explanations are so helpful to me in terms of how these can interact with one another. I would love to hear from you.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        We, as an organization, this is not our specialty. This is not what we on a day to day. What we do is the activism, and we use different tools, but we haven’t gotten this far with technology.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        How would you suggest we follow into this? What’s the best approach? Is it to create an advise for people like themselves who know deeply the technology? Is it to hire a company and go with what they do and say? What would you advise?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think that ultimately depends on the priority you set on the second call to action because I’ve read your calls to action and these are brilliant. These are great.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Although through two dimensional forms of communication, one necessarily flattens the interests into the training hashtags, for lack of better term. That is to say, we only share the experience in the ways that are more easily communicable across cultural boundaries, if it could be summarized in essence, in quite short, like just one screen full of terms. It makes sense, if I’m in your position, to choose one or maybe at most two priorities.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, if I want to concentrate on degrowth, then we make a entire movement and resources and sharing platforms around degrowth. It could then be a trending hashtag on existing social platforms and so on, so that we can co op existing weak link connections on social media, instead of having to move everyone to our platform.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        On the other hand, if this is about, for example, resisting and calling out — I’m thinking of a way that’s not user experience — abuser, right? [laughs] Abusers’ experience online communities and so on. That is a more resisting form to existing online realities.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Seeking out alternatives, giving out challenges on how to build pro social rather than antisocial social media that fosters trustworthiness that will be the call to action and a form to work will be partnering with existing social technologies such as the hackathons, right? In Taiwan, we have the g0v. In around the world, we have Code4All, and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is necessarily more about let’s try out this new experience and see if it’s less abusive than those abuser experience platforms and so on. I’m just taking two of the main keywords in your six calls to action, but you can easily extrapolate.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        [laughs] Thank you so much. You’re making me think of things like we should, as you said, focus may be in on two things that we can do in this year, and center it around the calls for actions as you’re saying. Then deep dive in that and think about how we generate engagement through the different mediums that exist.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        I know I’m taking up a lot of the space, so I just want to also ask SzuHui and Kamee. Did you have any questions for Audrey, or things that you wanted to bring into this conversation?
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You’re muted, so maybe unmute yourself is a call to action. [laughs]
+                    </p>
+                </speech>
+                <speech by="#SzuHui Huang">
+                    <p>
+                        Hi, yeah, sorry for that. I believe you have answered already a part of the question. I’m also thinking about, because normally, through my experience in Taiwan, usually we buy the model scheme for the company. It will cost down. I also worry about the privacy of our members, especially those ones doing movement and the cross continentals. I see that the data protection would be an important thing, but I also have the question mark, how can we balance to have our own app?
+                    </p>
+                </speech>
+                <speech by="#SzuHui Huang">
+                    <p>
+                        Hooba Ida is like a CCO, co creating for everyone. Can other NGO have the ability to keep the reason up for the local return? It’s quite a broad question, but, still, it’s one with a bigger question mark for me at the moment.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Just to check my understanding, there’s two requirements here. One is for, essentially, the ability to self host, to not be reliant on any particular wide label company because, when they get acquired, nobody knows where the privacy details go. To self host the communication infrastructure.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The second thing is about the more clear delineation of this is for private chat, and that is for public consumption, for public co creation, for the Creative Commons. Are there platforms that are more supportive of this kind of co creation in a safe space, rather than saying everybody goes to Wikipedia. We all know that’s not a very [laughs] good call to action.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        People who are on Wikipedia already are on Wikipedia anyway. The first question, most of the large community spaces, such as MediaWiki, which powers Wikipedia, can already be self hosted, and without too much trouble. My suggestion would be host one yourself. If you need a wiki, MediaWiki is old fashioned, but it’s still serviceable.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you want a more modern forum, we usually use Discourse. Discourse can also be easily self hosted, and it’s quite conductive to crowd moderation. That is to say, when people step out of the code of conduct boundary, it’s very easy for moderators to notice and to gently nudge certain members back to civility.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Discourse would be my primary suggestion if you want to move to the social production level. In Taiwan, there’s a community called FOReignMOSA for expats in Taiwan that is very successful. Discourse deployments, that you may want to check out how they operate it. Also, for real time communication, we, personally in our office, use Rocket.Chat.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s also pretty good responses about Rocket.Chat Lite, which is a carbon copy of Slack. There’s many, like Discord, that are more for ambient awareness, that could also be easily self hosted. WhiteLabel, too. If you want WhiteLabel, the Discourse app, or the Rocket.Chat app, and so on, there’s many community members in the g0v community that can help you to customize that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Finally, for privacy and safety oriented conversations, Signal is still a pretty good choice. I, personally, use Signal.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is more for things that are not meant for co creation, but for more private sharing of experiences, especially around activists that may suffer from coercion and censorship from their local jurisdictions. That’s why I ask about your use case, because all these warrants different and Free Software public infrastructures. None of them cost any money for licensing.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is more about finding people who are aligned with their value that are willing to tend to the garden a little bit.
+                    </p>
+                </speech>
+                <speech by="#SzuHui Huang">
+                    <p>
+                        Thank you for this because, before your sharing, for me, was so hard to imagine. It sounds very doable, as you say. It sounds like we need to find the team who also have shared the same values as us, and who can allocate access to this work, something like a hackathon, as you said about the g0v community.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. The g0v hacker zone is the natural place to find such people. You can even pitch your idea about maintaining an international community around these principles. There are many g0v members that their day job are womany, and so on, that are already value aligned anyway.
+                    </p>
+                </speech>
+                <speech by="#SzuHui Huang">
+                    <p>
+                        Yeah, thanks a lot. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        Yes, thank you. Kamee, did you have anything that you wanted to bring?
+                    </p>
+                </speech>
+                <speech by="#Kamee Abrahamian">
+                    <p>
+                        No, I’ve been taking notes, storing all of it. I have maybe a fun question. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK, great.
+                    </p>
+                </speech>
+                <speech by="#Kamee Abrahamian">
+                    <p>
+                        I’ve been wondering, if you were to build a cool feminist app, what kind of app would you build in the snap of a finger?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In a snap of a finger, I would probably build something like…There’s this app that I like a lot. It’s a self care app and it makes my mornings easier, I guess. [laughs] When I wake up, there’s this small room in the phone screen that let me play some small games, but without any competition. This is not about beating others or making the scores work.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is about just waking up very gradually. There’s even things for chores, like picking up laundry and things like that. [laughs] That made it a lot of fun. If you want to experience this, I refer to as more symbiotic instead of parasitic AI — #SelfCare, that’s the call to action — then you can try out one on the app store. It’s called #SelfCare.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (background music)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you see this – this is Earth. This is our shelter, that’s our universe and that is us, we’ll be OK. The sun is our life force. It’s a little bit low right now. Let’s practice self care together. You can see this curtain, which symbolizes Earth with a hand. In the back, there’s a cat. You can play with a lot of things in the room.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The more you self reflect and share yourself out, the more the sun rises. This works in offline mode. It doesn’t connect to any sort of data collection or competitiveness. It reminds us to take care of our inner beings, symbolizes that, and makes the morning easier. There’s already someone who built that. We’ve exchanged some thoughts around a little bit on Twitter.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Something along that line will be, not social engagement at all, but something that’s deeply personal and fun.
+                    </p>
+                </speech>
+                <speech by="#Kamee Abrahamian">
+                    <p>
+                        Cute, I like it.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        My favorite part was the cat.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right, yes.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        [laughs] Audrey, do you have any questions for us? I know we’ve been a little extractive, so I’ll let you speak. It’s all about asking you what about this? I wanted to thank you so much for your generosity and for your wisdom. It’s been fantastic to hear. Do you have any questions for us or anything?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, sharing that we’re going to hold a large summit on social innovation. It’s called APSIS, Asia Pacific Social Innovation Summit dot TW, this April 10th in New Taipei City. We will combine a face to face gathering of the social innovator. It will also have a extensive online presence and a online part.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you want to look into how to get social innovators around the world interested in all sort of different things in a online way, you can get in touch with the organizers of apsis.tw. I believe they also may have a lot of resources, at least of the people who are value aligned, to tend to your digital gardens, so to speak.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This year, the organizer is the Foundations for Women’s Right Promotion and Development, or the FWRPD. That’s a organization that long history with a lot of government support, legitimacy in the social sector that are being digitally transformed [laughs] also by the COVID, and have, probably, a lot of stories to tell to work with the younger organizations, such as Impact Hub, social enterprise insights, and so on, to transform what used to be a very large face to face gathering into a hybrid online/offline engagement. That’s a excellent resource for you.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        Yes, that is. We’ve been in touch with FWRPD. When we came to Taiwan, we did site visits and met with them. Definitely, we’ll be in touch with them and find out a bit more about the summit, and what that looks like. Thank you so much.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you. As the APSIS organizer, they’re being voluntold into facing pretty much the same challenge as you are.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        Yeah, exactly. Fantastic. Again, I want to end by saying I can’t thank you enough for your time and for your energies. If you don’t mind, we would love to stay in touch with you?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Definitely. I’m one email away.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        OK, fantastic. As we go on this journey, we will be in touch and let you know how it’s going. We would love to connect with you at a later stage when we’re developing these things.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Definitely. Until then, live long and prosper.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        Live long and prosper. Thank you so much.
+                    </p>
+                </speech>
+                <speech by="#Kamee Abrahamian">
+                    <p>
+                        Thank you so much, Audrey.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Bye.
+                    </p>
+                </speech>
+                <speech by="#Hakima Abbas">
+                    <p>
+                        Bye bye.
+                    </p>
+                </speech>
+                <speech by="#Kamee Abrahamian">
+                    <p>
+                        Bye.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
