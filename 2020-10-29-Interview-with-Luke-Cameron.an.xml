@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+                <TLCPerson href="/ontology/person/::/Luke Cameron" id="Luke Cameron" showAs="Luke Cameron"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-10-29 Interview with Luke Cameron
+                </heading>
+                <speech by="#Audrey Tang">
+                    <p>
+                        All right. Do I look at you or the camera?
+                    </p>
+                </speech>
+                <speech by="#Luke Cameron">
+                    <p>
+                        You can look at me.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Cool. I’m Audrey Tang, Taiwan’s digital minister in charge of social innovation, open government, and youth engagement.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (Mandarin)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Luke Cameron">
+                    <p>
+                        Perfect. Can you tell us a little bit about what you know about 
+                        <a href="https://www.youtube.com/watch?v=0B1qLcSjiwo">
+                            Miao Poya
+                        </a>
+                        , and your thoughts towards her as a politician and being involved in the government?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. I’ve met her maybe a couple of times. My first memory of her was around the time of the Sunflower Revolution, in which she very successfully put a stop to escalating violence on the street. I think she’s a great facilitator and a great speaker at the time as well, speaking very eloquently about the power of democracy.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (Mandarin)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Luke Cameron">
+                    <p>
+                        You’re making this very easy for me in post-production, because I’ll be, “Oh, I’ve got this in English and in Chinese.” [laughs] Which one would you prefer us to use?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I don’t know.
+                    </p>
+                </speech>
+                <speech by="#Luke Cameron">
+                    <p>
+                        I might switch back and forth.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. Why not?
+                    </p>
+                </speech>
+                <speech by="#Luke Cameron">
+                    <p>
+                        That can be cool, too.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I can interpret it myself. [laughs]
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (Mandarin)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Luke Cameron">
+                    <p>
+                        Can you just touch in on the Sunflower Movement? Can you tell us a little bit about why was that important, and how has that helped change things in Taiwan, I suppose?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Certainly. At a time the Sunflower Movement was about the Cross-Strait Service and Trade Agreements or CSSTA, being passed through in the legislature without substantial deliberation. People thought, “OK. MPs were on strike. Let’s occupy the MPs’ office and work their work for them,” I guess.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The idea is that it’s not just a demonstration as a protest, but rather a demonstration as a demo. It shows how half a million people on the street and many more online can collaboratively look at more than 20 aspects of this CSSTA, and arrive to a rough consensus for the month, not one less.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (Mandarin)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Luke Cameron">
+                    <p>
+                        How have LGBTQ rights changed in the past 5 to 10 years?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        One of the thing that’s a legacy of the Sunflower Movement is that none of the 20 or so NGOs are considered fringe anymore because they all united together to complement each other during the CSSTA discussion.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Previously, of course, people would think people working on labor rights, working on indigenous rights, working on animal rights, working on LGBTQ rights, and some are different kinds of people. After the Sunflower Movement, they very much supported each other in the intersectional means.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It not only furthered, for example, the marriage equality, which is the most visible out of this, but also make sure that when you’re going to do the pride, it’s not just about gays and lesbians anymore, but also about transgenders, non-binaries, and many other people who want to look at this intersectionality and learn what they could learn from this camaraderie.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (Mandarin)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Luke Cameron">
+                    <p>
+                        What do you hope can change in the future regarding LGBTQ rights? A lot has already come forward. What do you personally hope can change going into the future in Taiwan?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When you’re arriving to Taiwan, you’re probably filed either through a QR code or through paper. There’s quarantine cards. You would notice that the gender field there is already men, women, and others. We do have some beginning of the non-binary ideas within our quarantine forms.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That of course, is not yet applied to the domestic people, especially that in our ID card. There’s still a very clear delineation between the two genders and nothing about non-binary. Next year we’ll roll out a new format of the ID card that did away with the gender field on the card, which is a really good movement for it. I look forward to seeing more non-binary rights in Taiwan thriving.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (Mandarin)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Luke Cameron">
+                    <p>
+                        My last question for you. How do gender equality and democracy go together?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure. The idea of democracy is based on the idea that a plurality of perspectives, the plurality of voices together, when trusting each other, makes that the polity knows about itself more and know about the world more as a epistemic alliance. Without gender equality, this is basically just privileging one voice to the exclusion to the other voices.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Essentially, at its most drastic form, may just render democracy just like a ritual, which you ostensibly go to vote but all the candidates you vote, all the policies you vote just look the same. That of course, is not a thriving democracy, and will, in fact, make democracy look less appealing to the people who gets excluded, like suffering from epistemic injustice.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (Mandarin)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Luke Cameron">
+                    <p>
+                        Last question, Can I just get a photo for the folks in Washington? I’m just going to update the models with our behind the scenes.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure. Of course.
+                    </p>
+                </speech>
+                <speech by="#Luke Cameron">
+                    <p>
+                        We should have done the interview with that in the whole time. That looks great. One, two, three. Nice. Thank you so much.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Luke Cameron">
+                    <p>
+                        I do have a form from NDI in Washington.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
