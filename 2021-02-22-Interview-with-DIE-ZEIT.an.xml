@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Marc Brost" id="Marc Brost" showAs="Marc Brost"/>
+                <TLCPerson href="/ontology/person/::/Katharin Tai" id="Katharin Tai" showAs="Katharin Tai"/>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2021-02-22 Interview with DIE ZEIT
+                </heading>
+                <speech by="#Marc Brost">
+                    <p>
+                        Here I am. Hi, Katharin?
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Hi.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Greetings.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        Nice to meet you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Hello. Very nice meeting you. We have three recorders, three recorders now.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We have a table full of recorders.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        OK, we’re definitely will have a recording of this conversation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s more than stereo. It’s like Dolby.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Can you hear us OK?
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        I hear you wherever you are. Thank you. Do you hear me too?
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Yes. Great. Excellent.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, OK.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        Thank you for having the opportunity to doing this interview with you, Minister Tang.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        My pleasure.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        We would like to talk about the situation in Taiwan, about the situation in Germany, and if it’s possible to compare both situations or strategies. Katharin, who is a journalist working for us, has prepared everything. She’s doing the interview, and I’m just [laughs] asking a few questions because she’s more prepared than me. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK. Wow.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        Katharin will start with the first question because it’s a very personal question.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Oh. [laughs] Yeah.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        Quite personal.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK. I don’t use e-ink yet but would like to.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Oh, it’s not that question?
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Thank you so much for making time. I have a question. I just got here on public transport. I took a bus, which is an incredible feeling. The life outside seems fairly normal, except that people are wearing masks like me.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        I’m interested in whether you think that…Is Taiwan living with COVID, or are people in Taiwan living with COVID, or is Taiwan already in the post pandemic period?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For a while. It felt like post pandemic when we had this Pride Parade, and when there’s more than three, four months with no local cases at all. That felt post pandemic.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Recently, the Taoyuan hospital had everybody on guard again, and you see people wearing masks again. It lasted for a few weeks, almost a month, but now we’re down to zero level cases again. It doesn’t feel quite post pandemic just yet, but I predict [laughs] two months from now, if it continues to be no local cases, we’ll again feel post-pandemic.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        You think, for Taiwanese people to feel like their post pandemic, it needs to be several months…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …a hundred days, or so, with no local cases.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        OK, yeah. I think that seems to make sense. Do you think it is possible to live with the virus circulating in the country, or does it have to be eradicated?
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (notification alert)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Is that you?
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Oh, yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s you. OK. Eventually, it needs to be eradicated, because if you don’t, it mutates. If it mutates, it gets more deadly. As long as there’s anywhere in the world a large population suffering from the virus, it means that it will just keep mutating to be more and more difficult to contain or to prevent.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        How do you look at it right now? Do you…?
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        Yes, just one question. I cut in because this question is very important for our German readers, because German politicians say, “If you plan to eradicate the virus, you have to deal with it. You have to live with the virus. It’s impossible to get the numbers down to zero.” What do you think of that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even with the vaccines?
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        Sorry?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even with the vaccines, like Pfizer-BioNTech, Moderna, Oxford-AstraZeneca…?
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        No, not the vaccines, not the next step in strategy. During the last year, we had this discussion in Germany. When we didn’t have the vaccines, we had a discussion in Germany, “Should we eradicate the virus, like Taiwan did, or other countries did?” or “Have we to deal with a rate of 50 or 35 incidents per 100,000 inhabitants?” What do you think of…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even before we have biological vaccines, we already have this sort of physical vaccines, right? Especially, medical grade masks has been proven to be really, really useful even if some part of the virus, especially mutations, are being more airborne transmitted than previously thought.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Still, a medical grade mask protects you in many of these scenarios as well. It protects people from their own hands, their own unwashed hands. If people practiced mask wearing as much as Taiwan people did, then arguably, that’s already a physical vaccine. That’s already “herd immunity.” That’s already ways to cut down the R value to be under 1, even if there’s no biological vaccines yet.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Taiwan rests on this premise that it is possible to eliminate the virus using purely public health measures, and border control, and quarantine, and things like that. That’s the hypothesis we’re running with.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        That’s a nice segue into the next big topic that we want to talk about. Can you briefly describe how and when Taiwan started reacting to COVID? How the Taiwanese government, or Taiwan as an entire country, reacted, and why it reacted so early?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, we reacted in 2004.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We call it here 超前部署: Advanced, pre-emptive deployment.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        2004 is important because that’s the year that our universal healthcare, the National Healthcare Service went to IC cards. It became entirely digitized. In 2003, when SARS hit Taiwan early, the very small island of Penghu, the Pescadores island, had IC card. Everybody else in the main Taiwan island was still using those paper cards with stamps on it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What a difference it makes. If you compare the SARS 1.0, as I refer to it, in the Taiwan main island and in the Penghu island, you can see how much a IC card in the national universal healthcare changes people’s behavior. People do not need to feel concerned that they will suffer financial or social damage by going to a clinic to check their symptoms.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s less of a problem of people working with the medical offices, because they know that they will get all covered, even if it’s not COVID. It’s universal healthcare, you’re going to be covered one way or another anyway. The upshot is that in Taiwan, it’s cheaper to get this full diagnosis on a local clinic. That’s in addition to go to a local pharmacy to get a mask.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s both quicker and cheaper than the drive-through PCR tests in some other countries. That influenced Taiwanese behavior to be more pro social, because we won’t hide our symptoms. A lot of it is already there in 2004.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In 2004 also, the constitutional court work with the legislature to pass the Communicable Diseases Act, which institutionalized the collective memory of the chaotic communication in 2003 where the municipal and the central government was saying very different things. People didn’t know what to do.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We codified that institutional memory into the CDA, so that the act says that from this point onward, the Central Epidemic Command Center, or the CECC, is going to take over the entire communication duty, so that each ministry need to work with the CECC send secondments, delegates to the CECC.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The commander of the CECC — in our case this time, Minister Chen Shih chung — will be the one single source of the truth when it comes to communicable diseases communication. That’s also institutionalized in 2004. That year, a lot of that happened because of the fresh memory from SARS. This whole system kick into action by mid January last year.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s because, in December 31st, Dr. Li Wengliang’s message about the “seven SARS cases in the Huanan seafood market” made its round into PTT. That’s the Taiwanese group on Reddit. A very young doctor, Nomorepipe is her nickname, reposted it. People triaged the legitimacy [laughs] of the documents presented by Dr. Li Wengliang.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Dr. Li literally saved the Taiwanese people, because, by the next morning, the January the first, all the flights coming in from Wuhan to Taiwan underwent health inspections. The CECC was set up shortly afterward, even before we had the first two local case. That’s very early response.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Yeah, that makes sense. Do you have any follow ups to that, or should I…?
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        No, it’s great. Thank you. I understood everything and it’s very interesting, thank you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Cool.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        One thing that’s also worth clarifying, you mentioned that there were the checks at the borders for the planes. Do you mind expanding a bit on what else Taiwan did? In particular, some people in Europe are under the impression that the reason Taiwan was able to largely eradicate COVID is because Taiwan went through a strict lockdown, and closed everything at some point.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Like China, banned people from leaving their houses. Is that true, or if not, what did Taiwan do that prevented the virus from ever…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        No, we didn’t do any lockdown unless you count this border quarantine as a lockdown.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Locking down the island.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s not what we mean by lockdown. What we meant by lockdown, like in 2003, we had to barricade the Hoping Hospital. It means that people there cannot go to the street to buy food. We’ve never gone through anything like that in Taiwan this time around. Partly, because anyone over 30 years old remember how bad the Hoping barricade was.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We didn’t want to repeat that, because there’s a lot of trauma associated. If you bring up the word SARS and Hoping Hospital, people who are above 30 years old is going to think about something unpleasant, their personal memory from it. Because of that, we focus on the border quarantine pretty much on day one of the CECC’s setting up.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Though quarantine regime may feel very strict, but it’s also applied with equity. That is to say, we pay people a stipends, like 30 euros per day, for working with the quarantine for 14 days. They can choose to quarantine at a hotel, or even at their own residence if they live by their own residence. They don’t have to go to the central quarantine places.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s flexible, it’s applied with equity. People, by and large, understand that after suffering a little bit of the freedom of movement for 14 days, then it’s what gets us the proper rate. It’s a good deal.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Yeah. [laughs] Would you say that this has been…? Can you still hear us? Marc? Uh oh. Oh, OK, there we are.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Everyday line replaced.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Sorry, it might be my WiFi connection. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        I missed [laughs] the last 30 seconds. It’s OK.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        OK, sorry about that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I said, “Quarantine is a good deal.”
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Everyone is suffering for 14 days upon entering Taiwan, is in exchange to a proper rate. It’s a good deal.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        This trip quarantine system is a topic in Germany too. We discuss it, as it wouldn’t be possible to implement such a strategy in Germany. How did the Taiwanese government convince its people that adhering to this rules, to these measures, was the best course of action? How did you adhere the people to get them this trip quarantine?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In 2004, all of this is put into the Communicable Diseases Act. It’s not that we declare a state of emergency, we never did. It’s not that we have to pass supreme powers of the president to bypass congressional oversight. We didn’t, because all of this is spelled out in the CDA of 2004.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m sure that once Germany is vaccinated, and everything eradicated in the COVID 19, you will also take a look into the institutions and the laws that’s required to implement reasonable quarantine strategies to prepare for SARS 3.0. When SARS 3.0, the next COVID hits, we don’t know whether it’s next year, or 10 years from now, or 15 years from now.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When that time happens, I don’t think you will have the difficulties convincing the public about the importance of mask wearing or quarantine. You can say, “Look back at COVID, and the institutional changes that we did after the COVID.” It’s, by and large, a matter of us having a societal inoculation in 2003.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        Have I understood you right? You think that there will be a COVID 3.0?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        SARS 3.0, yes. COVID 19 is already SARS 2.0. It’s based on SARS, but it has new features [laughs] like asymptotic transmission. [laughs] We are already seeing mutations, like SARS 2.1, 2.2, 2.3 in all corners of the Earth. It’s a matter of time that it evolves into something that existing vaccines don’t work.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now, the current vaccines, especially the mRNA ones, does have the benefit of if you update the virus code, quite literally. [laughs] It can become a good anti virus agent much more quickly than the previous generations, the vaccine technology. Again, it takes still some time for that to be dispensed to a large percentage of the population.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        At least for three or four months, when a new mutation appears, you still have to use public health measures, such as mask wearing and quarantine.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        It’s not a once in a lifetime pandemic? Perhaps we are at the beginning of a pandemic decade or century?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For us, it’s twice in our lifetime already. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        When it starts, a 3.0 in one year, or in…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Or 10, we don’t know.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        …or in 10, then we have the next pandemic, so it’s not a once in lifetime situation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. On the other hand, if the origin, the epicenter of SARS 3.0, practice good public health, then maybe it’s not a pandemic. Maybe it’s a epidemic. If it’s managed well, if it doesn’t go to the higher than one R value, maybe it’s SARS 3.0, but it doesn’t affect as much people.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The public health, understanding the public awareness of epidemiology, that’s what we focus on. We even had the VP, 陳建仁, the person who wrote the textbook on epidemiology, to record online Massive Open Courses, the MOOC courses, on Epidemiology 101. We want people to understand the science behind it, not to blindly follow centrally planned CECC measures.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        Last question, here from Germany in this moment. When we are at the beginning of this pandemic decade or century, as I mentioned, what does it mean for a democratic society when you have to think that the next waves will come? What was the impact for a democratic society?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, we strengthened democracy during the pandemic and the infodemic, precisely because we invited citizens to contribute novel ways. From the very everyday thing, like using traditional rice cookers to cook the masks so it kills the virus and not the mask.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        To the more high tech, like visualization of mask distribution points, and mask distribution strategies from the civic technologies, the mask map. There’s endless innovations from the social sector that form very tight people to people relationships, with, say, the mask map running in South Korea a month after we started in February, or working on the Dashboard to counter COVID in the Tokyo Metropolis with the people in Kofu, Japan, and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The beauty of democracy is that people have the freedom to try new things and to innovate. To scale out those social innovations. It’s a great time for democracy to deepen, among the population, if we don’t resort only for the pandemic lockdown, or for the infodemic takedown measures, because that would restrict the space for the civil society to contribute.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        I have a follow up question on that, too. Since you mentioned that there has been cooperation with South Korea, which adopted the mask map, and there’s been cooperation…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Iteration in system, yes.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Yeah. There’s been cooperation with Japan as well? Where is that, actually?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The Tokyo Metropolitan Dashboard of COVID. The Stop COVID Dashboard. The g0v people help them not only with the translation and development, but…I personally translated some part of that website and even changed a typo…
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …where they used the simplified script of the kanji for Traditional Chinese, and I changed it to the right font. I just contributed on GitHub as a ordinary developer, but that get noticed by the city councilor, and then by the head of Tokyo Metropolis, the mayor, who thanked me on Twitter.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It looks very diplomatic.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s just me, and my habit of changing all the website that I think that has typos in it.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Katharin Tai">
+                    <p>
+                        As Germans, we’re very curious. Taiwan has done so well in combating the pandemic. Has any part of the German government ever contacted you and asked for advice, or tried to talk to Taiwan to see whether there’s anything they can learn from you?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The parliament group.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Parliament? OK.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They’ve contact. If you look for our delegate, or…Is that consulate or embassy? Anyway, our representative office laughs] in the Germany, Ambassador Hsieh Chih wei, have organized briefing, hearings, and so on, with the parliamentary groups, and I joined by telephone as well.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Would you mind expanding a bit on which areas you discussed, or which areas you think Germany might be able to learn from?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure. I think the communication strategy is what a lot of parliamentarians are interested at, this whole “humor over rumor” way of making sure that people associate counter pandemic with mask wearing and hand washing instead of associating with, I don’t know, 5G towers.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s important. Also, this daily update of our CECC, the use of a toll free number, the 1922, to make sure that any new idea coming in from the civil society can escalate very quickly to the CECC. They’re very interested in listening as well.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s this whole what we call the Taiwan Model, that’s just on the websites. If you just look at Taiwan Model, then there’s a lot of things that you can take bits and parcel.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        One criticism that we hear in Germany a lot is that Germany cannot possibly learn from Taiwan because Taiwan was only able to beat the virus because it is an island. Germany, as a country in the middle of the Schengen Area, in the middle of the European Union, could not adopt a similar approach. I’m curious what your view is on that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Us being island does have its advantage in that the quarantine measures are easier to implement. On the other hand, we have one of the highest population densities around, which make any slip in the counter pandemic public health measures almost very difficult to, I would say almost impossible to recover.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If we didn’t do the eradication strategy well, for us to do the coping strategy would be very, very difficult because of the sheer population density. We have something going for, something going against, but I don’t think that it’s categorically islands have it easier.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        A lot more factors like the patterns of transportation, the existing use of face masks to protect, say air pollution or things like that, all of this factors into it as well.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        Again, the question, but in another order. Could Taiwan be a shining example to follow for other countries?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, definitely. That’s why we call it the Taiwan Model. The Taiwan Model, its first and foremost this trust from the government to its citizens. We do not, for example, institute a very top down emergency state when there’s issues like the community spread on nightlife district.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We didn’t close down and put people to jail, like some other jurisdictions did. We worked out a real contact system that preserves anonymity for the nightlife patrons while making sure that contact tracing still work.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s first and foremost why I call it people public private partnership where the people understand the epidemiological ideas behind those measures and can always suggest better measures to the CECC. It’s not a top down model. It’s especially attractive to democracies, especially in liberal democracies. It also has wide applicability even in the more authoritarian parts of the world.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        You mentioned earlier how important it is that now there’s only one source of information, the CECC. Isn’t there a bit of a contradiction there with this idea that there’s a bottom up process? On the one hand, you’re talking about this bottom up process. On the other hand, you’re talking about the centralization of authoritative information. That seems a bit contradictory.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The “authoritative information” corrects itself publicly all the time by the inputs of people calling into the toll free number, of the daily press conference, which they run for more than 100 days, I think, non stop. The journalists are free to ask every question. The press conference doesn’t end until the journalists had their satisfaction.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Journalism is at least equally important to the command in the CECC. The journalists, the Minister Chen Shih chung refer to them as fellow partners, and doing great detective work, innovation work. He even offered to teach epidemiology to all the journalists.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is very important because the journalist knows about emerging developments better than the career public service in many cases. When a journalist raised those points to the CECC, Mr. Chen never said that this is ridiculous. He never defends executive policy. He always says, “Teach us,” or, “Let’s work together,” and things like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The twin characteristics of absolute journalistic freedom and input, and a very accountable daily iteration cycle. If the CECC gets something wrong, it apologizes very quickly in public, 24 hour at most after the fact. That builds trustworthiness to all the parties involved. It’s not your traditional authoritarian way of keeping the information only to the CECC folks and leaving everybody in the dark.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Do you have an example in mind that you’re thinking of where the CECC or Minister Chen had to correct himself in the recent past?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, a lot. For example, in the beginning of the mask rationing, we thought this is a great idea for the civil society to come up with the visualization map so that people queuing in line can see that people queuing before them swiped their national health card and get 2 at a time — now 10 at a time — and check it for themselves. It’s participatory accountability. Great idea.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        But on the day of the launch, February 6th, some pharmacists invented their own social innovation, which we call take a number system, so that people take their card to the pharmacy. Instead of taking the mask, they just leave their card there, their ID card, and get a number card. This piece of number, they can go back in the evening to collect the IC card and the mask.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This take a number system absolutely destroys the mask availability map. If you look at the pharmacies’ record, because they process all the IC cards during lunch break, it’ll look like there’s still nothing in the morning. Sells everything during lunch break. It’s, frankly speaking, not very useful.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        A pharmacy near my place, my residence, even put very large fonts, A4 papers on the front door saying, “Don’t trust the app.”
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’ a clash. It’s like Coca Cola and Mentos, independently good things. [laughs] We apologized very quickly. We didn’t say that the pharmacies have to swipe the IC card during the queuing. You can’t collect IC cards, which is what the authoritarian CECC would do. Instead, we said, “We’re sorry. We didn’t know that this will run like this. We will consult the pharmacists of what to do.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The pharmacists suggested, because there’s feedback forms on the mask maps, suggested that the map should display two different time slots, one for collecting numbers and one for collecting masks. We fixed that the very next week.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even after that, the pharmacy that’s near my residence, still didn’t take the form down, and the text down. I’m like, “Why?” I took a deep breath, I walked into it, asked the pharmacist. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They said, “Our taking number time is 7:00 to 9:00 AM, and our taking the mask time is, say, 6:00 PM afterward, but we run out of those numbers as early as 8:00 AM, or something. During 8:00 to 9:00, there’s still a one hour window where we’re available on the map, the app, but we’re actually not available. We’ve already run out of the cards for the day for our daily ration.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We still get angry phone calls, it’s just not five hours every day. It’s one hour every day, but it’s still something.” I’m like, “OK, so if you are the digital minister, what would you do?” It’s my favorite question to ask. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The pharmacist said, “OK, I have to check with my group, my community, and so come back tomorrow.” I, of course, bought some drinks, [laughs] and then I reached in tomorrow. A day afterwards, then the banner is gone. We didn’t change anything, so what happened? I step in and they said, “Hey, we figured out this hack.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In the system that manage the supplies, every day they would key in 200 masks received. That’s the daily portion that they have to sell. It turns out they can get a negative number in.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If they say negative 1,000, that gets them into negative territory. Our system can’t handle that, so they disappear from the map. [laughs] As soon as they run out of the cards, they go negative 1,000, and then it’s white hat hacking. I’m like, “Yeah, thank you for sharing this with me, but you have to remember to enter plus 1,000 end of the day.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Otherwise, they disappear from the map forever. I went back to the National Health Insurance Agency and, on the next update, we add that as a canonical feature, so that they can push a button and disappear from the map for a day.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s it. It took three iterations, where each iteration’s one week, for us to finally get it to such innovations working together. At no point did we consider just take one side, and force the other side to adapt. We always take all the sides, and co created solutions. There’s many.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s another story about MP Gao Hoan interpolating Minister Chen Shih chung about the fairness of distribution. We were feeling very happy about the pharmacies’ alignment with the population centers. It almost lines up perfectly. We were like, “This is fit.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        MP Gao, who used to be VP Data Analytics at Foxconn , knows something about data, said that it’s unfair, because you didn’t check the time it takes for public transportation in rural areas.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even though it looks the same distance on the Google map, or OpenStreetMap, because you work with OpenStreetMap community, if you zoom it out, then the opportunity cost, the time cost, is different. By the time a rural person goes to a pharmacy, maybe the pharmacy is already closed. It’s biased that we didn’t realize. Minister Chen didn’t defend at all.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        He’s said, “Legislature teach us.” Because we published real time, open data, open API every 30 seconds, that’s not a empty invitation. MP Gao and OpenStreetMap community did contribute, and we changed the distribution, including pre ordering and everything, and working with 24 hour convenience stores the very next day.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        MP Gao was like, “Oh, yesterday interpolation become tomorrow’s co creation.” That’s what I mean by deepening democracy. It’s not just the computer programmers or data scientists at the CECC doing the innovation. It’s pretty much everybody doing the innovation.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        As Katharin already mentioned, the criticism in Germany is that we can’t copy, or can’t replicate the Taiwanese strategy because of different things. It’s an island, as we already discussed, because it’s culturally Asian, because it’s different, because Asian governments are more autocratic, or because the weather in Taiwan is so much warmer than in Europe these days. Is any of these things true?
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It is warmer.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Especially today.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, today it’s very warm. [laughs] I don’t know about being [laughs] warmer that makes it significantly easier. It makes it significantly harder, because when the days gets really warm, people don’t tend to wear a mask, especially thicker masks. It’s hard to wear a thick mask for the entire day during the summer here.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even the medical grade mask that’s used in the mass rationing, we have to innovate on getting it equally protective while using fewer materials, making it thinner and more breathable. Otherwise, it’s very difficult to keep it up in the summer. I would say some of those comparisons are true, but these characteristic make it harder for us, [laughs] and not make it easier for us.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        Some critics, specifically, charged that Taiwan was only able to combat COVID 19 by building a so called 24 hour surveillance state. What do you think about this argument?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        First of all, the surveillance, while true during the quarantine, it’s called a digital fence. We didn’t beautify this word. We used the word “fence” — meaning that it is, of course, quite intrusive — is, nevertheless, applied with equity.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In a sense that, if you are out of the quarantine, you are out of the 14 plus 7 days, there’s no constitutional basis for the telephone triangulation to keep working. While it is true that we only get to use this system because we already have a very similar system going on for earthquake advanced warning, for flood prevention, not prevention, warning, evacuation. [laughs] Can’t prevent flood using SMS.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Advanced warning for evacuation. Those are location based warning system that people already come to know that it only sends the SMS. It can’t read communication from your WhatsApp account, because it’s on different layers for one. People, by and large, understand the separate security and privacy parameters of the SMS based system that we deploy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now, I’m not saying that this is perfect. It, of course, has room for improvement, especially on the accuracy part. On the privacy preserving part, this beats anything that is GPS based, or anything that’s introduced only after the pandemic, and asking people to blindly trust it. We build it upon the data collection points that are already there, and people already understand.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        After one year of the pandemic for Western democracies, it’s still very difficult to fight against the virus. The rates, the numbers are higher. The death rate is very high, too high compared to other countries or other regions. For Western democracies, it’s very difficult. During this last year, what did you learn about Western democracy?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They’re very good at making vaccines.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s quite true, right? The best vaccines, especially the mRNA ones that can plug and play to various different mutations of the COVID virus, came from liberal democracy that has pretty good research power. That’s what I learned.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        That’s not much though.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I don’t know, we want some of those BNT vaccines.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Marc Brost">
+                    <p>
+                        Got it.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Marc Brost">
+                    <p>
+                        Katharin.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Yeah. [laughs] Following up more also on the technical side of things, as a graduate student who also looks at tech policy sometimes, I’m specifically curious how you feel about…You described the digital fence, and you describe it as something that is quite privacy preserving. To a lot of Germans, the system would still feel quite scary.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Intrusive, yes.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Yeah, very intrusive. I saw a recent study, by Academia Seneca, that said that over 70 percent of respondents said that they would be OK with the government using telephone location to check people’s location as part of pandemic prevention, not just limited to quarantine. Do you think that there is…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, but that it’s just for quarantine though.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        The question was open.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, but I mean the CDA, the act, only authorized the use of that sort of measures for quarantine purposes. We can’t use it for other things, so that’s the first thing. The second thing is that, nevertheless, you had a choice. You can choose to go to a central quarantine place in which you are physically barred from leaving, so there’s no need to track your phone.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You physically can’t leave there. [laughs] That’s even more intrusive…
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …if you ask me. [laughs] If people don’t like the idea of digital fence, it’s not like they don’t have a choice.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        There is a degree of a trade off between privacy and fighting the pandemic, because you have some measure that is either you’ve physically kept in the location, or you have the digital surveillance. It’s one of those.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, if for the fact that people know that there’s a huge fine, 1,000 time of the daily stipend of 30 euros, up to, for breaking the quarantine. First of all, we need to understand that people have a good expectation that they will be discovered if they do break their quarantine.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If there’s no measures available, and people break the quarantine with no consequence, then the words will get around, and people will break their quarantine. We will see a quarantine breaking rate certainly not in the single digits, or below one percent in the Taiwan states.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you have 15 percent of people breaking their quarantine with no consequence, then that number will grow into 30, 40, 50 until such a day where quarantine doesn’t mean much anymore. There is no way, island or not, to defend against a respiratory disease if you don’t have a working quarantine system.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        I have one follow up on this to where…This is the one thing I’ve been trying to look into, in that it has been quite difficult, because there hasn’t been that much information about it. There’s some reports of some digital surveillance being used retrospectively as part of contact tracing. This is also common assumption in Germany that this happens regularly.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        My understanding that this means that the local health offices sometimes work with the police, and ask police to access sometimes phone data, sometimes credit card data, and sometimes surveillance cameras. I’m curious because that’s different from…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If someone breaks quarantine, that’s what happens, yes.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        The way I understand is that it sometimes happens in contact tracing, so if someone is tested positive that then it’s used retrospectively to find possible contacts.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe in the very early days. There was a business person from the bureaucy. When we didn’t have the system fully in place, it was maybe used for a while.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        After we declared that entire rest of the world pandemic affected [laughs] area, then the early measures, such as linking the immigration records with the healthcare data, so that the clinics can see whether you have been traveling to a high risk countries, and things like that, those early measures, they fall out of use now.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The entire world is unsafe, [laughs] so there’s no need to link the data together. We have, by then, institutionalized the digital fence system. We didn’t have to do this retroactive work because that, far as I understand, was there before the full digital fence system was in place. It was used in lieu of the digital fence system.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Once the digital fence system is tested and has a high degree of, like, the early fourth warnings. Some were corrected by March or so. Yeah, March, April. April at the latest. Then after that, we don’t do so much ad hoc kind of attrition work anymore.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Do you have a sense of…? I’m not sure how close you work with the CECC, but I’m specifically curious whether you know whether any digital surveillance was used as part of contact tracing the Taiyuan outbreak recently. The CECC had to find contacts of the people who are infected very quickly.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Was there any digital surveillance? Was that used as part of containing that outbreak, which seems contained now successfully?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, it seems contained now. Far as I understand, they use traditional content tracing interviews. Personal reports of the interviewees are correlated with whatever. The CECC sent us data. That includes, for example, CCTV data and other data as well. CECC contains secondments, delegates from all the various ministries.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The minister of interior, the Police Department will have access to CCTV data for specific use for contact tracing and so on. As far as I understand, it’s not a case of following the telephone surveillance stuff. This is more like if there are gaps in travel histories reported by the contact tracing interview.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then full informing the person being content traced, they could go into the kind of report that you just mentioned to remind that particular person of their travel history. It’s hard to remember exactly which places you’ve been to in the past 14 days. I don’t know specifically whether it’s applied to the Taiyuan Hospital case. I’m just talking in a more general fashion.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For that particular case, you have to interview the CECC. I’m more involved during the mask rationing phase, but I’m not that involved after that.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Right. That makes sense. Actually, in that sense also, if there is some uncertainty around this. You’re a digital minister, but you’re also a minister without portfolio. This question in particular also touches on data protection which, as far as I understand, there’s not much of a legal basis.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There is a legal basis. It’s GDPR compatible, except there’s no central independent data protection authority under the current Taiwanese data protection laws, which is almost a carbon copy of the pre GDPR European law. We use a European system.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The main difference is just that each ministry is its own competent authority to all the businesses that has that ministry as the overseeing agency. We don’t have a single DPA. We have 12, or 15, or 16 — I lost count — DPAs. If you’re a business and you register with the Ministry of Economy, then the MOEA is going to be your PPA and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because of that, you can’t get almost the same GDPR-like experience if you file a request. One, the DPAs are going to answer you, but there’s two hurdles. First, there really is no very clear map about, say, in the digital fence system exactly how many ministries are in place. You’ll probably have to do this discovery inquiry process with as much as five ministries.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s a lot of burden. The other thing is that because technically a minister have the final power over whether their DPA find something objectionable or not, it’s true that if a ministry’s public servants do something, it’s less likely that their minister would say that you’re wrong. It’s why GDPR insists on independent DPA. It’s just human nature if you report to a minister, you’re less likely to say that a minister violates privacy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We are now working on the act that will make us entirely GDPR compatible by setting up a independent DPA. That’s part of the Digital Ministry Act. We’ll see. The plan is to get it to the upcoming legislative session.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Looking back, and particularly in light of this, it sounds quite complicated for individual citizens to be able to uphold their privacy rights. Do you think in hindsight, the government could’ve done a better job of empowering its citizens to protect the privacy and also demand this privacy to be protected, especially in the time of COVID?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Definitely. In Taiwan, we did something really well, which is to answer to all the parliamentary interpolations and hearings and things like that to explain exactly how digital fence works throughout its iterations. We’ve never invoked this emergency power of overriding the legislature.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The legislature as well as the constituents of those parties, they all understand how the system works. When it comes to how to build back better…
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …that’s the job of, first, independent DPA. Hopefully, we’ll set up before end of this year or by the end of this year. Also, in our 監察院 or the Control Yuan, there’s now the National Human Rights Council, which wasn’t around during COVID.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They also indicated that they will look at the human rights situation during the COVID, including privacy but also perhaps our migrant workers and other conditions after the fact.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They’ll also do a retrospect and suggest or even command data legislation and the administration to do better the next time. The Human Rights Council and the independent DPR, they’re two commitments from the government to make sure data value is more clearly communicated.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Two, when something like this happens again, there is a way for the full privacy impact assessment to be done in a multi stakeholder function instead of just parliamentary interpolation, which is good but not enough.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Especially as digital minister, you have, if I understand correctly, more of an advisory role for governments. Were there any instances where you specifically which the government had listened to you more or where you would’ve changed, would’ve done things differently if you had more independent power that is not just advisory?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        First of all, because of current act that says each minister is their own PPA, they hold, of course, a lot of power in the interpretation of the existing privacy act. My suggestion is more along the lines of suggesting privacy preserving technologies that could be used in place of the more top down ways of doing things. I don’t think any of my advice was rejected.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a pretty good track record so far. Some of the advice is like having a independent DPA that requires legislation. It’s not like we can just define by ourself in the administration that we will just yield to a council and call it independent. It doesn’t work like that because of the budget cycle and how it works.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        A lot of the suggestions that I brought up through the vTaiwan process, we talked about the DPA and necessity of it. It still require parliamentary approval. It’s a good thing. The four major parties are usually in line in this particular matter.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They disagree on many other things, but for deepening democracy, open government, data governance, better privacy rights and so on, all of them agree. I have high hopes those privacy related acts being endorsed by the major parties and be passed. I can’t promise anything because I’m not a legislator.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Just to touch on another topic briefly before we spend time, time really flies, I briefly want to talk about information and communication, especially combating of misinformation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        To what extent has misinformation and fake news been an issue in Taiwan during the pandemic? What or how has the government been combating it?
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        I’m specifically curious because I saw that a recent survey estimates that the Taiwanese public’s willingness to take a COVID vaccine is as low as 40 percent. That seems like a possible sign of misinformation or mistrust in the government. I’m curious how you…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe it’s also a sign of no local cases, so we’re not in a rush.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Marc Brost">
+                    <p>
+                        Excuse me? What’s the sign of? This low willingness is a sign of…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe it’s also a sign of no local cases.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. I mean if another Taiwan hospital incident appears, the vaccination willingness would go up the roof.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        That’s fair, but that particular vaccine information in sight, do you think has there been an issue with fake news or misinformation? How have you been dealing with that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I don’t use the F word.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You’re a journalist. You’re OK.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s one of those languages. That’s the in group may use, not out group. It’s a offense. [laughs] We deal with this intentional misinformation in a way that relies on the civil society to flag incoming messages on their end to end encrypted channels like LINE, which is like WhatsApp and spam.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s just like if you get an incoming email, you flag it as spam. It’s not just moving it out of your inbox, but you’re also contributing signal to the international spam house. That will help every other recipient of the same spam email to move those into a junk mail folder rather than the inbox.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We have a very similar system going on here with the international fact checking network as well as with local partners, like the leading antivirus company in town called Trend Micro. It has its own…I think it’s called Virus Buster that is a LINE bot. If you added a friend and forward misinformation to it, it can get back to you with real time clarification.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you’re invited into your family chattering and anytime people share anything about like 5G towers, then it just pops out a clarification in real time. There’s also another startup called Whoscall that has a very similar offering called 美玉姨. Both of them built upon the same g0v project called Cofacts, which is for collaborative fact checking.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Our job in the public sector is just to make sure that people get clarification from our side as quickly as possible, but we are not free from fact checking. Those fact checkers can also fact check disease. They can also fact check anything that we get wrong. We just go out and say we made a mistake. We’re sorry.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Empowering journalism, especially investigative journalism, is the true antidote to this information crisis. When people as young as middle schoolers could fact check each and every sentence of our presidential candidates during a platform debate, that really happened…
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Right.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …then it shows them on how newsroom works. How source checking works, and things like that. There’s a vaccine of the mind in the media competence. Not just literacy , in all population, and that’s our strategy. Some ministries are especially good as you think, comedic, like this cute Shiba Inu which is obligatory to…
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Oh, yes.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …for me to show, right?
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        I hope we can include some graphics in the [laughs] interview.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        [laughs] Yeah. I know. This is brilliant. This is a real dog.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The Shiba Inu lives with the participation officer, the officer responsible…
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        Oh. OK, thank you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …for engaging the public.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The preservation officer of the Ministry of Health and Welfare, after each 2:00 PM CECC press conference, literally walks back home a couple of blocks away from the ministry and takes fresh photos…
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …of the dog, and make memetic pictures…
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Yeah. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …and say, “When your indoor, three dogs away. Outdoor, two dogs away, or wear a mask.” You wear a mask to protect yourself against your own, or wash hands…
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Right.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …so that you won’t do what the dog does here.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Once you laugh about it, it’s impossible, literally impossible, to feel the kind of outrage that will spread a conspiracy theory on this kind of thing. That’s our unique input, at this comedic input.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        We’re coming up on time, but just to finish things up, looking forward in the long run, what’s the Taiwanese government’s plan for leaving the pandemic? When will this all be over, because right now, life here is fairly normal, but the borders are still closed?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        When is Taiwan going to open up again? When do you think this will be over for Taiwan?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Well, we’re getting the first batch, for the medical staff, of vaccines soon. Hopefully, with some additional BNT.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        By and large, I think we’ve secure sufficient supplies including domestic production, so that by the end of year, we’ll reach herd immunity in Taiwan, assuming a high enough vaccine enrollments record. I think the Minister Chen’s prediction is that, by Lunar New Year next year, everybody can resume international travel.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Oh wow. OK. Marc, are you [laughs] …?
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        One last question. Please allow me one last question. Very short, but it’s about the beginning of the whole thing. Does the Taiwanese government think the whole thing started on a market in Wuhan…
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        …or was the virus, perhaps, created in a laboratory?
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We look at what Dr. Li Wenliang said, who literally saved the people in Taiwan. You end up, perhaps, not so many people in Wuhan. [laughs] That’s what we work with.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We did send a couple of experts before the lockdown to Wuhan to investigate, but they were not able to get to the bottom of things. The Wuhan people were at that time, before the lockdown of the city, quite secretive about aspects of things, so we didn’t know.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In the beginning of the pandemic, we just play our SARS playbook, and assume SARS 1.0 has happened again. It’s not completely right, because of asymptomatic transmission and all things like that, but it’s a very good bet. That’s what we, as a theory, we run with.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Yeah. Thank you so much.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        Thank you very much.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK. No worries.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        Thank you very much for this time, minister. I think the German government will be very impressed, and they are very curious about your answers. Thank you very much for your time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. Thank you, and I look forward to physically visit again.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe by Christmas.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Hopefully, yeah.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Great.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Cheers.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Thank you so much.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Marc Brost">
+                    <p>
+                        Bye.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Bye.
+                    </p>
+                </speech>
+                <speech by="#Katharin Tai">
+                    <p>
+                        Bye.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Live long and prosper.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
