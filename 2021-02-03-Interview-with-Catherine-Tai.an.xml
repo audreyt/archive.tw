@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Cathy Tai" id="Cathy Tai" showAs="Cathy Tai"/>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2021-02-03 Interview with Catherine Tai
+                </heading>
+                <speech by="#Cathy Tai">
+                    <p>
+                        So hi Audrey, my name is Cathy Tai. Thank you so much for agreeing to take this recording today. The recording is for public use and I’m from the Center for International Private Enterprise, CIPE. We’re an affiliate of the US Chamber of Commerce, and we are also one of the core institutes of the National Endowment for Democracy. And for today’s interview’s purpose is to learn from you about the experiences and also the strength of Taiwan’s democracy in utilizing digital tools. So thanks again for this interview. I will go through a list of questions and you can just answer at your own pace. So the first question is, how does your office typically communicate with the public?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So through two main ways, one is the Participation Officer Network. The POs are a team of people in each and every ministry that’s in charge of engaging emergent ideas, emergent hashtags, emergent petitions, and so on from the public. So a little bit like how media offices talk to the journalists and how the parliamentary offices talks to the members of the parliaments. The Participation Officers, for example, would respond when there’s more than 5,000 people petitioning for, for example banning the plastic straws gradually from our national identity drink, the bubble tea for example, then that would be the POs trying to work out a way to engage with them.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        And they also take a proactive role, for example during COVID. The PO of Ministry of Health and Welfare, who lives with this very cute dog a Shiba Inu, actually walks back to their place, which is quite close to the ministry building, after each 2 PM Center for Epidemic Command Center press conference and takes new photos of the dog and translate the new epidemiological ideas. For example, physical distancing into a very cute meme pictures. Like when we’re indoors we’re supposed to keep three Shibu Inus away from one another or wear a mask. If we are outdoors, keep cute two Shiba Inus away or wear a mask. And it’s illustrated literally with a scale of cute dogs and also taking a cute picture of the same cute dog, putting their food to their mouth and saying, “Wear a mask,” but why don’t you put a mask on? The mask protects yourself from your own unwashed hand. Again, this is an epidemiological, very sound point, but if it’s the minister or it’s me saying this, people may remember it, but it would not go viral, meaning that people would not share it voluntarily. But because it’s done by a very cute dog, people understand immediately and will actually share it across all different age groups.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So, the same Participation Office and Network carries two different roles, one is inbound, responding to the engagements and the new ideas from the public. And one is outbound, like there is something really interesting and important to share with the population, then we work on the so-called memetic engineering to craft those viral memes that make it easier for the people to share.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        That sounds super interesting. So it seems like your office has adopted very creative and innovative ways to interact with public. How about other ministries, are they also doing something similar?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, as I mentioned, in each and every ministry, there’s 32 different ministries, there are at least one, but usually a team, of such Participation Officers, so it’s a cross-ministerial network. As one of the nine horizontal ministries without a portfolio, my work is to coordinate across different ministries. I don’t have my own vertical ministry, I, rather, work with the Participation Officers and work with the government, not for the government, to make sure a straightforward, rapid response whenever there’s any pressing questions from the general public. And also to make sure that the clarifications get to the people’s phones and through chat bots, through civic tech-enabled maps, voice assistance, and so on, in a, what we call, multimodal fashion so that people, regardless of their age or their technical capacity can receive the same, for example, epidemiological idea.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        You’re famous for being very active online, would you be able to share with us how you receive feedback and suggestions from the general public, and either the public sector or the private sector.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Okay, I work mostly with the social sector. The social sector, also known as the voluntary sector, the civil society organizations, already have plenty of ways to organize among themselves. So for example, I am part of this chat channel called “g0v-zero” and it’s easily, tens of thousands of people who just appear on Slack or Telegram or other chat channels, IRC, all the time and think about ways to creatively do something that’s of public benefit but with everyone’s participation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So unlike a, for example, private enterprise which has a fixed number of employees and staff, or the public sector which has the same constraint. The social sector can, basically, make sure that if you have a good idea, you can join a channel in the Slack or in the chat rooms very easily. For example, last February 2020, Howard Wu from Tainan just hopped on the channel saying, “Hey, I just made this map that visualizes the availability of medical masks, but I now owe Google 20,000 US dollars in map usage fees. Are there good ways to reduce the fees that I need to pay Google whenever there’s people using my public service?”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because his public service was already being discovered by the mainstream media. And so there’s a lot of designers, engineers, and so on just brainstorming how to save him the Google bills like switching to open stream members or something. But I’m already part of that channel so I just brought his idea to the head of the cabinet, to Premiere Su Tseng-chang, saying that, we really should support this person because when we’re rationing out the pharmacies’ medical masks, at that moment, there was no way to easily visualize which places still have masks and which don’t.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        And so, that channel ended up providing the most important thing to reduce people’s queuing time. And that’s just one example, but it shows that Howard Wu or Finjon Kiang, or others civic hackers from Tainan, they never need to travel to Taipei City to meet me. They just hop on this online place, the g0v-zero channel, and started typing away and asking open-ended questions like how should we make this more resilient and to be more distributed. And so, it ended up getting more than 100 different Civic Tech teams visualizing or “audio-lizing,” through voice assistance and things like, the same open API information that we publish every 30 seconds.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So basically I lurk on these social sector channels already so whenever there are emerging ideas from the social sector, I usually just witness them firsthand. Or, people also learn that they can also use my name as a hashtag, and if they hashtag me in any of the popular social media channels or even just on their blog or something, chances are, within an hour, I will see it. And if I can give constructive feedback, I just reply on it. These are just in a way that’s very public, if you make a public summoning with my name as a hashtag, I’ll see it.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        That sounds fantastic, it’s a great story. Can you tell us a little bit more about how your office or the Taiwanese government, at that time, coordinated among the Civic Tech community, the private sector—and also, at that time, the public sector holds a massive amount of data on masks, on health information, all kinds of stuff—so, how do you coordinate and make sure that the product that is going to be released is meeting everyone’s needs?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s a great question. What we did, essentially, is say that we’re not good at making a product that satisfies everyone. What we are good at, though, is to provide reliable data in real time. So that’s exactly what we did. We published every 30 seconds, for each of the more than 6000 pharmacies, the real time availability of the medical masks, but that’s all. So how to display that? Well, some people would prefer to see it in Mandarin, some people would prefer to see it in English, some people would prefer to see it as a chat bot on the very popular LINE, end to end encrypted chat channel, so on, voice assistance, Siri, Google Voice and things like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Each and every Civic Tech team that has any good idea or not so good idea—any new idea—vis-a-vis the existing implementations can just go ahead and use the same open API to do their own implementation to make sure that the particular niche is fulfilled. For example, there is a team loosely based on OpenStreetMap that did an regional analysis of supply and demand. So instead of just displaying one single pharmacy, or, later on, convenience stores, they would display this general trend and people can see the rural and urban distribution, whether it’s fair or not. And so, that’s the Civic Tech work.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now, some members of the parliament, they themselves are data analysts. For example, MP Kao Hung-an of the Taiwan People’s Party, before joining the parliament, she was the VP of Data Analytics of Ed Fox-Cong Group. So she knows something about data. And so, after looking at the OpenStreetMap analysis, she did an interpolation to Minister Chen Shih-Chung in the parliament and said, according to this analysis, even though it looks fair—on average each point in Taiwan has roughly the same amount of pharmacies nearby—but if you take into account public transportation time, then chances are, in the more rural areas, by the time they get to the pharmacy, the pharmacy would have already been closed. So it’s actually not a good equity-based distribution. Minister Chen Shih-chung simply said, “Well, legislator, teach us.” And that’s a beautiful response because it’s based on the same evidence that’s updating real time so people could actually implement a more constructive distribution mechanism, simply by suggesting it through MP Kao Hung-an to the minister.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        And so, the very next day, we started doing pre-ordering so that people can pre-order medical mask rations, and get it picked up, for example, at nearby convenience stores the next week, 24 hours a day. That solved a lot of queuing problems and we also adjusted the distributing mechanism, thanks to the suggestion from the ministry and community. And so, MP Kao Hung-an just posted on social media, saying, “Yesterday’s interpolation becomes tomorrow’s co-creation.” I think that’s a really good cross-partisan way of working on the same evidence to improve service reliability and scalability. Of course, the four major convenience store chains all have a lot of new business to do. I think all of them reported record growth during the mask rationing because people would just keep coming back every week or every other week to pick up some medical masks and also buy some coffee or things like that. And so, the private sector helped to scale out the initially just 6000 or so pharmacy stores to more than 20,000 mask purchase points, including convenience stores and pharmacies.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        That’s fantastic, it sounds like you have very strong allies in the parliament and also across different ministries. I want to go back to that because, with your office taking the helm to lead some of the initiative but also, it definitely takes some other allies’ assistance. I want to follow up on the COVID-19 responses. Taiwan also did very well on contact tracing, that’s where a lot of democracies failed. Can you tell us a little bit about how Taiwanese government worked with private sectors, the private telecommunication firms, to enable the authorities to have the ability to even do the contact tracing. And of course, there are also concerns about the privacy-
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        … concerns, can you also talk about how to balance the privacy concerns versus the public health crisis, that it’s necessary to do some of that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right. To clarify, during COVID-19, we never declared a state of emergency, so everything we do in the administration must first get parliamentary approval and all of it is subject to parliamentary interpolation. Because of that, the heuristic is that we do not collect new data and new data collection points that weren’t there before the pandemic. So that ensures that for all the data collection mechanisms, people understand already the cyber security and privacy implications of those data collections. We didn’t, for example, roll our bluetooth-enabled tokens or dongles, we didn’t require people to install apps on their phones, and so on, because these would constitute new data collection points.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now, the way that we work with telecoms is pre-approved by the legislature after SARS 1.0 in 2004, because Taiwan was hit pretty hard in 2003 by SARS. At the time, we had the same failure mode, as you just mentioned. The municipal government is saying a different thing from the central government; we had to barricade an entire hospital, Hoping Hospital, unannounced; and there was all in all, I think, 73 deaths directly or indirectly related to SARS. And so in 2004, we collectively said never again. And so the constitutional code charged the legislature to make new acts on new communicable diseases. So it basically took whatever we did wrong in SARS in 2003 and institutionalized, through the CDA, the Act for Communicable Diseases, the exact playbooks that we imagined out so that when SARS comes again, we will actually counter it with pre-improved tools and technologies, one of which is this quarantine requirement.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        And so in Taiwan, when you’re returning to Taiwan, this time around, you’re subject to 14 days of quarantine at either a quarantine hotel or as home quarantine, if you have your own residence, you can choose that. And after that, it’s seven more days of kind of protecting one’s self by not attending huge expos or something, and then, you’re out of the quarantine days. After the 14 + 7, that’s 21 days, there’s no legal basis upon which to do any sort of contact tracing or tracking through telecom signals.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        And so within this equitably applied 21 days, the telecoms already know where your phones are, anyway, because they need to provide roaming services. And so, just by measuring cellphone signals strength, they know, roughly, where your phones are. But it’s not like GPS where they know the room you’re in, this is more like the block you’re in, within a 50 meter radius. People are already used to getting, for example, advance earthquake warnings or flood evacuation warnings and so on that are also location-based and SMS-based, so people understand the general policy and cyber security implications.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        During the 14 days, if the telecoms detect that a phone moves outside of the quarantine radius, an SMS is sent not just to the phone but also to the phone of the local medical offices who would check your whereabouts. Instead of paying you a stipend of US dollars, I think 33 US dollars per day, for your work in quarantine, if you indeed break out of quarantine, then you are fined up to 1000 time debt. I think less than 1% of people do break the quarantine because it’s fined very heavily. And also, the equitable tracking of the phone’s whereabouts is done entirely at a telecom level so it’s not like the telecom outsources it to some third party data processors, which may sell it to advertisers or something. This is entirely within the same data processing pipeline that already enable earthquake and flood warnings.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        Wow, that does sound pretty interesting and you also clearly, basically explained why there’s no privacy concern whatsoever. Now, I want to go back to the allies and also the friends that you have within the government or in the parliament. Are there any new initiatives or tools that are being used from the government side to better communicate with the private and public sector, or even just to interact with the general public?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah certainly. One of our main allies here is the Join.gov.tw platform, our National Participation platform, which counts more than half of Taiwan’s 23 million citizens as visitors. It’s not quite as big as Facebook, which has almost everyone in Taiwan as its users, but half of Facebook isn’t that bad either. So, Join.gov.tw is maintained by the National Development Council, the NDC. The NDC basically makes sure that each and every regulation is pre-announced, usually for 60 days and usually with an English translation, on the Join platform for general commentary. This is very much like Regulations.gov in the United States.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        But also, the same website has a participatory budget; has data visualization for the National Auditing Office; and has an e-petition section which is like “we the people” in the US, where people can get 5000 signatures and all the petitions that reach that threshold will get a point by point response from the ministers in charge of that particular affair. And if there’s a cross-ministerial issue, the NDC also helps to find which ministries are in charge of responding to which part of the petition and if it requires a more nuanced conversation. For example, the Uber case, it escalated to the Participation Officer meeting of all the different POs in each ministry that we talked about in the beginning of this interview. The POs vote every month on which case—there are usually two cases every month that we need to respond to with a collaborative meeting—and then run an open, multi-stakeholder dialogue with the people who have petitioned for it or even against it in a face to face manner, usually livestreamed, but always leaves a complete transcript and auditable trail of what discussion has been gone through to determine the collective imagination on how to meet that policy goal. We started developing this around 2015, so by now, it is a very stable part of the administration.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        Traditional forms of policymaking is usually pretty slow and they sometimes produce outdated policy frameworks. So from your perspective, have you seen any opportunities to have a little bit more of an interactive, flexible and continuous legislative process?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, definitely. Whereas law making is, by necessity, measures in parliamentary sessions, that’s to say in quarters; rule-making, that’s regulation making, is usually faster and can be done, as I mentioned, within 60 days or something like that. And so for many petition cases, it will be divided into two parts, one that could be fixed by regulation-level actions and one that requires parliamentary action. And so we can actually adjust the regulation- or interpretation-level work based on the popular demand from the petitions. And then, if it actually requires a law changed, the Taiwan system also says that any minister can propose a law amendment or even a new law to the cabinet meeting, and a head of cabinet can then send it to the parliament for further deliberation. And so, the administrative draft is usually taken as an initial consideration for the various different parties—there are four major parties now—in the legislation to change or edit or something, but initial drafting is still done in the administration by the same team of people that does the rule-making level conversation, so this is rather a different system compared to the US system.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        From your background, you were pretty closely linked to the civic tech community and having transitioned from that-
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Still am, still am.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        Now you’re a public sector figure, what tools or policy proposals would you suggest civil societies or business communities leverage to better engage with government counterparts?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Mm-hmm (affirmative), yeah, I think one of the main issues that the Participation Officers system is designed to solve is to make transparent the drafting stage conversations. Around the world, in the freedom of information acts around the world, there’s usually a clause—and Taiwan is no exception—that says the drafting stage conversation is not meant to be made public unless it serves the public purpose to do so. But each and every meeting that Participation Officers work on after the monthly meeting to select the two cases, or each and every meeting with me by interviews like this or with lobbyists or really any internal meeting that I’m the only chair, then all of these, actually, are made transparent even during the drafting stage.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That is important because then, people can understand not just the “What” of policies but also the “Why” of policy making, the alternatives we have explored, the ideas that we have considered and discarded, but maybe had some merit and could be done in a smaller scale or by the private or social sector without government intervention, and things like that. And so, I think this is a spirit of co-creation. It’s not just about a traditional idea of accountability where the government’s held to account to implement policies but also a spirit of social innovation–that is to say, the private and social sector can also say, let’s “fork” the government–fork means, in Civic Tech, to take something to a different direction but without writing it off and with a hope that it will be merged back by the administration. So it’s almost like volunteer work except it’s not quite volunteer work, and it’s with the hope that it will be merged back into everyday administration work, after the fact.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So the mask availability map, of course, is one. But even the Join platform, where we offer a visualization of the National Budget and people can comment publicly in a participatory way on the budget, started as a g0v.zero re-imagination of the National Budget website. At that time in 2012, the National Budget website was still just PDFs and just very hard to read numbers. But, at g0v.zero, people started a endeavor that visualized it as a tree graph or bubble graph or things like that and people can comment around particular items in the budget and have much better contextual details, like, for example, the year-to-year growth or decline of that particular budget. It was such a good idea that by 2016, we merged that back in from Join.g0v.tw to Join.gov.tw.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        And now, for each and every one of the government projects—I think there’s 2000 or more of them—each and everyone can comment publicly and receive public commentary from public servants even before the projects get finished. Again, this is drafting level or on-going level dialogue, a continuous democracy that people can actually communicate with, not just the Participation Officers but offices in charge of these particular budget items in real time, publicly on the internet.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        This is just fantastic. So you talk about co-creation, and we’re wondering if there’s also a policy advocacy process that’s also kind of co-regulated by the public and private sector, as well as civil society-
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Definitely.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        … and are there examples that you can share, that would be great.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, definitely. For example, our counter disinformation strategy, it’s based on the idea of “humor over rumor.” And humor over rumor simply means that whenever there is a trending rumor, a conspiracy theory or something, within a couple of hours, you will see the PO of the Ministry of Health and Welfare roll out a new cute Shiba Inu meme that dispels the rumor. But how would we know, within a couple of hours, what’s going to trend as disinformation, especially when it’s traveling end-to-end encrypted channels–in Taiwan it’s called Line, but it’s like WhatsApp or Signal, right? So there’s no way for the state to peek into people’s end-to-end encrypted conversations.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So how would we know that something would get trending? Well, it’s relying on the co-governance arrangement with civil society projects such as Cofacts. That’s another g0v.zero project that says, if you see something that’s dubious—for example, around November 2019, there was a trending rumor that said, “there’s very young people in Hong Kong who are protesters that are being paid like 20k to murder police and they bought iPhones with it or something”. And that’s because it’s leading up to our presidential election and the Hong Kong issue is shaping to be, kind of, the most important factor in our presidential election.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So there’s a lot of disinformation centering around the Hong Kong situation at the time. But how would we know that this particular one would get trending? Well, that’s because people who see it on their LINE chat groups or end-to-end private messaging, choose to long press that and report it to the Cofacts bot, which is rather like flagging something as spam in your inbox, in the hope that if sufficient amount of people do so. Then Spamhaus, which is the social sector organization, will flag it so that each incoming email from that particular sender will no longer land in people’s inbox but will land in the junk mail box, which is still there so it’s not quite censorship, but it would stop wasting people’s time, right? So Cofacts acts pretty much in the same way. As soon as a sufficient amount of people forward that to Cofacts, then they send it to a public dashboard so we can see which ones are trending.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Nowadays, it’s a real ecosystem. So, not just Cofacts but private sectors, such as Trend Micro, which is a leading antivirus company here, also has this virus buster or 防詐達人that serves the same purpose. There’s also a start up called, Whoscall, which is also quite good in reputation because it can show unsolicited call numbers, the caller identification and so on, and they also have a product called 美玉姨, which again, serves a similar purpose. So regardless of which counter disinformation tool you use, all of it ends up landing on this international fact checking network dashboard where professional journalists and professional fact checkers will look at the kind of trail of the message, and find out the source.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So, within a few hours, the people in Taiwan FactCheck Center at the time, discovered that this particular photo—there was a photo—was from Reuters, it was a real photo. There were young people in the Hong Kong protests, but the caption of that Reuters report was, “There are young people, teenagers, in the protest.” So it’s very neutral, it didn’t talk about murdering police or buying iPhones, right? So where did the new caption come from? Well, the Taiwan FactCheck Center traced it to the Chang’an Jian (长安剑) which is the Weibo account, the social media account of the Central Political and Law Unit of the Chinese Communist Party.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s not covert, it’s very overt, it’s just state propaganda, but interestingly, it’s making its rounds in a very viral fashion in the Taiwanese social media but not in the social media in Hong Kong. So there’s obviously some manipulation and operation going on. But even with that evidence, we didn’t take anything down because we don’t take anything down for the administration. We instead work with Facebook and other platforms on what we call notice and public notice. So, as soon as this is determined by the FactCheckers, then everyone who saw this alternate caption on Facebook suddenly now sees, “This is disputed by the Taiwan FactCheck Center and the Chang’an Jian Weibo account is behind it, it’s sponsored by the Chinese Communist Party.” Now, of course, you can still share it, but you share it with a very different frame, different idea.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is what we call, media competence. It’s not just about media literacy, which is consuming, understanding information; rather, when you’re producing information, when you’re sharing information, this is an act of producing media and therefore, it’s called competence, not literacy in our basic education curriculum. Now, imagine if all those private sector roles, like Trend Micro, or social sectors roles, like Cofacts, if all these roles are played by the state, by the administration, then the administration, essentially, is concentrating too much power and could silence the ideas that don’t rhyme with the state’s ideas. That will actually get us to a more authoritarian state. But with those fact checkers, which are firmly in the social sector and don’t take any money from the state, they can also check us when we’re wrong. And Trend Micro can also fact check us when we’re wrong, and that is a much healthier relationship and we call it, co-governance or People-Public-Private Partnership.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        Taiwan is at the forefront of tech-enabled democracy. What do you want to see next in terms of how digital tools facilitate greater democratic engagement?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, to me, democracy is a type of technology. It’s applied social science, applied political science, and so, to me, democracy is not about just providing three bits of information every four years per person—it’s called voting, by the way—but also day-to-day democracy, including the e-petition I just mentioned, but also the sandbox application for innovative technologies, also Presidential Hackathon, also Participatory budgets. There are a myriad of ways of participating in a day-to-day fashion and setting the agenda of public discourse.  And also, of course, we’re in Taiwan, so also the national-level referenda, that is also very popular here.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        And so, all of this basically makes sure that each and every citizen can see democracy as much more complex, but also not too complicated, in a sense that everyone can choose the modality they want to engage publicly with. They can also volunteer their time to be a fact checker that fact checks the presidential candidates, like when the three of them were having a platform or debate or so, leading to the general 2020 election. Among the volunteer fact checkers, there are many middle school or even private school students, so even before they have the right to vote, they have the right to do their media competence work and ship political discourse. They can also propose e-petitions and actually a quarter or more of new petitions are from people who are not even 18 years old. So that’s a lot of participation from the very young and most of them do not petition for their own good but actually for the environmental sustainability, and long term banking, things like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So I think this is definitely the way the democracy deepens itself, so that teenagers or even people who are not even 10 years old, can see that they are active citizens in a democratic society, instead of having to wait until they’re 18 years old to do so.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        What international standards or framing are missing from the discussion to promote more robust democratic usage of technology in government and/or to counter digital authoritarianism, surveillance, and misuse of tech?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, I think the Open Government Partnership, which is co-founded by the US, provides a really good framework of transparency, participation, accountability, and inclusion to talk about how technology needs to be pro-social in a democracy, rather than social media being anti-social and getting people into a non-democratic mood, right? So the idea of democracy as a type of technology also mean that each person in a democratic polity are technologists.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We can actually try out new voting methods. Like in Taiwan, the Presidential Hackathon uses a new voting method called quadratic voting, where we have 200 or so of proposals, each corresponding to one particular sustainable target, but how to prioritize among the more than 169 targets? Well, people who are versed in any particular field can advocate for a project and vote, and each and every citizen who has a join.gov.tw account gets 99 points.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        And to vote on a project, if you vote one vote, it costs one point, but if you vote 2 votes, that’s going to cause four points in total. Three costs nine and four costs 16, so with 99 points, one can vote at most, only nine votes into one particular project because that costs 81. 1 more would make 100 in total, but one doesn’t have 100, right? So with 81 cast and 18 left, one is promoted, the project. But also, one is looking for another project that has synergy with the initial project that one has advocated for, so maybe I look at another project and cast four votes, that’s 16. So, I still have two points left and I’ll be incentivized to look another two projects to make sure the synergy holds, and maybe I’ll discover something I haven’t learned before, and maybe I take some of the votes back and do a seven and seven or something.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In general, on average, the people who voted through quadratic voting feel that they don’t have to do strategic voting. It’s like the opposite of gerrymandering because the marginal return and the marginal cost of each vote remains the same. And so, people would vote truthfully and honestly and also share, as much as possible, their ideas about the synergy between the projects. And when the top 20 projects are announced, everybody feels like they have won because, on average, each person votes for five or more projects. So chances are, one of them actually gets selected to the top 20.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So, this is just one very small example, like a microcosm, but it does show new innovations that are currently happening. For example, in the distributed ledger technology community can be adopted, rather swiftly, into new mechanisms for democracy like the Presidential Hackathon, if people are in a good situation where broadband is a human right and we’re not excluding anyone by requiring them to log into Join.gov.tw. And we make sure that when people want to record something to promote a project, they actually have access to a good upload link, instead to just a download link, and things like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Once we are relatively sure that anywhere in Taiwan, if you don’t have such a proper connection, it’s my fault, personally, then we can move beyond the “consumer literacy” point of view and move into an “active citizen participation” or even “co-creators of new democratic mechanisms” point of view.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        What advice do you have for other governments to help them leverage technology to improve dialogue in communication with public and private sector actors?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, I would recommend to trust the citizens more and to listen at scale. Those are my two main suggestions. For example, during COVID in Taiwan, in April 2020, there was a case where there’s a professional worker in a hostess bar, part of the nightlife district, that gets diagnosed. But she didn’t, initially, for the first day, disclose that she’s a professional working in the nightlife district because her code of ethics usually says that the anonymity of her patrons needs to be protected. While she worked with the medical office on the second day, there was a huge backlash. There were a load of people clamoring on social media, saying that, the Central Epidemic Command Center should shut down the nightlife district, or should put the business owner to jail or at least fine them, or things like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        But the CECC didn’t do anything like that because we understand that if we do so, it would drive them to the underground. It will show a distrust, and it cannot be reclaimed once the relationship is broken. Actually, the US had that during the prohibition era, so you probably know exactly what I’m talking about. So, instead, the CECC didn’t fine anyone, didn’t put anyone in jail, but said, we recommend people not to go to nightlife district until they have figured out how to do contact tracing through the Real Contact System. That means that they need to figure out, if there is a local outbreak, they need to go back to the 14 days and notify each and every patron. If they can do so, they can reopen. And so after a couple of weeks, they did think of something very clever.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Out the front door of such businesses, those private enterprises have a scratch pad, where each patron can write down their SMS number, which may be a prepaid sim number or a throwaway email address, maybe from proton mail or something. But their real name is not required. It’s a real contact but not a real name system and so after 14 days, if there’s any local case, of course they can be contacted. But after another 14 days, if there’s nothing happening in that vicinity, then that scratchpad is shredded. At no point does this information enter the state apparatus, meaning that the local medical officers or the central government don’t need to know that if there are no local outbreaks. And so, it provides a guarantee of anonymity which keeps nightlife district still running, but also provides contact tracers the kind of information they would need if there is indeed a local outbreak. So it also satisfied the public health criteria. And so the nightlife district then reopened, still remained open and they’re part of our counter-pandemic team.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        And so this is, again, just an anecdote but I hope this showed that radically trusting the citizens is very important because if you don’t give trust then you get no trust.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        What should advocacy look like in a tech-enabled democracy, in your opinion?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think advocacy, in the old days, is just about getting the decision-makers in the government to change a regulation or a law. But, as the examples I just showed illustrate, advocates can also be co-creators. If you think the mask distribution is not fair, you can propose a new distribution method using the same open data as evidence. If you think that requiring real names in the nightlife district is too much of a burden, then you can innovate and invent a scratch pad real contact system. If you think that the National Budget is very boring to read, you can invent a very nice visualization system. So all of these social innovations, I think, are at the core of the public co-creation spirit and most of our work is to make a public infrastructure in the digital world, so that such innovations can reach a lot of people.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        And once people understand, generally speaking, that this is actually a better way to do things, then those forks are then merged back. And indeed, the trophy of the Presidential Hackathon, where we give five teams the Presidential trophy every year, is a micro projector that, when turned on, projects the likeness of Tsai Ing-wen, our president, committing, saying that whatever you innovated in the past three months, we’re committed to making it into national public policy within the next 12 months. So there’s no award, no prize or anything, but it’s actually presidential executive branch power as a trophy. That basically guarantees the merging back of any social innovator, and it also makes sure that the social innovator, instead of just advocating for something, really needs to work across sectors.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The social sector needs to reach out to the private sector people who can scale out their ideas. The private sector people, who are now more often than not, working also for a social mission or purpose, need to reach out to the social sector and academia to make sure that their ideas are well-understood and well-liked by the people voting in Quadratic votes. And once they are already forming partnerships, then the government can come in saying, okay this thing that works really well in this municipality, we’re now committed to making it national level. So, co-creation, I think, is a really good compliment to traditional advocacy.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        What should we, as a democracy promotion organization also focused on private sector development, what should we be asking you when it comes to improving technology’s role in democracy?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, I think in the technology world, we often talk about the internet of things—virtual reality, machine learning, user experience, and things like that—which is fundamentally about treating each other as consumers and users of technologies. But there’s also another side of digital, which is connecting people to people. It’s not just about connecting machine to machine or people to machines. My job description actually talks about this change, and it goes like this, “When we see the internet of things, let’s make it internet of beings. When we see virtual reality, let’s make it a shared reality. When we see machine learning, let’s make it collaborative learning. When we see user experience, let’s make it about human experience. And whenever we hear the singularity is near, let us always remember the plurality is here.”
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        Great. Thank you so much, thank you for taking the time to talk to us today.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        Do you have any suggestions that you want to give us or other organizations that are also working to promote technology’s role, or just any advice to people around the world, when they are looking to Taiwan for inspiration?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure, we have this hashtag called, “#TaiwanCanHelp” so if you use this hashtag, you’re bound to find the resources. And the Taiwan model is not just a single thing, it’s a general way of working across sectors, starting from the social sector with the social norm; and then with the public sector understanding the importance; and then the private sector scaling it out and scaling it up. So, the people-public-private partnership is the main idea I want to get across. And I would also say that this is not just about Taiwan—any democratic polity can also see democracy as a technology that everyone can contribute to and improve.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        Finally, would you like to introduce yourself to the camera and complete this sentence for me? “Tech-enabled democracy is…”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Hi, I’m Audrey Tang. Tech-enabled democracy is awesome. It’s everyone’s business with everyone’s help.
+                    </p>
+                </speech>
+                <speech by="#Cathy Tai">
+                    <p>
+                        Thank you very much. Thank you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you. Live long and prosper.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
