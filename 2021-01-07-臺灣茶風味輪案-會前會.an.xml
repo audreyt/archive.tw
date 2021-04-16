@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/日期" id="日期" showAs="日期"/>
+                <TLCPerson href="/ontology/person/::/出席" id="出席" showAs="出席"/>
+                <TLCPerson href="/ontology/person/::/會議小結" id="會議小結" showAs="會議小結"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2021-01-07 臺灣茶風味輪案 會前會
+                </heading>
+                <speech by="#日期">
+                    <p>
+                        2021/01/07 10:00-11:00
+                    </p>
+                </speech>
+                <speech by="#出席">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                <strong>
+                                    唐鳳政委辦公室
+                                </strong>
+                                 黃子維 賴致翔 詹壹雯 蔡玉琪 許恩恩 張皓婷
+                            </li>
+                            
+
+                            <li>
+                                <strong>
+                                    農委會茶改場
+                                </strong>
+                                 課長/楊美珠 副研究員/陳俊良 研究助理/黃宣翰
+                            </li>
+                            
+
+                            <li>
+                                <strong>
+                                    農委會
+                                </strong>
+                                 科長/王聞淨 吳映慧
+                            </li>
+                            
+
+                            <li>
+                                <strong>
+                                    小桌長
+                                </strong>
+                                 教育部-科長/王珮珊 內政部-科員/鄭蘭娟 人事總處-科員/洪琬婷
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#會議小結">
+                    <p>
+                        <ol>
+                            
+
+                            <li>
+                                本次協作會議核心問題：「為了彰顯台灣茶的特色，如何精進系統性的風味說明。」
+                            </li>
+                            
+
+                            <li>
+                                協作會議時間地點，時間訂於2021年2月4日下午2時至5時，地點在桃園茶改場。出席名單經過盤點兼顧議題和背景多元性，不同背景的27位，其中有6位是開放民眾報名參與。
+                            </li>
+                            
+
+                            <li>
+                                議程細節尚待場勘後確認。
+                            </li>
+                            
+
+                        </ol>
+                        
+
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
