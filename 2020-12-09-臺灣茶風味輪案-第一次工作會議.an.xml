@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/日期" id="日期" showAs="日期"/>
+                <TLCPerson href="/ontology/person/::/地點" id="地點" showAs="地點"/>
+                <TLCPerson href="/ontology/person/::/出席" id="出席" showAs="出席"/>
+                <TLCPerson href="/ontology/person/::/議題分析表中，農委會預計目標" id="議題分析表中，農委會預計目標" showAs="議題分析表中，農委會預計目標"/>
+                <TLCPerson href="/ontology/person/::/待辦事項" id="待辦事項" showAs="待辦事項"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-12-09 臺灣茶風味輪案 第一次工作會議
+                </heading>
+                <speech by="#日期">
+                    <p>
+                        12/9（三）10:00-11:00
+                    </p>
+                </speech>
+                <speech by="#地點">
+                    <p>
+                        行政院內廂會議室
+                    </p>
+                </speech>
+                <speech by="#出席">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                PDIS 黃子維、賴致翔、蔡玉琪、詹壹雯、許恩恩
+                            </li>
+                            
+
+                            <li>
+                                標檢局 科長/詹康琴 技士/林靖哲 科員/吳美玲
+                            </li>
+                            
+
+                            <li>
+                                經濟部 專員/陳嘉豪(PO)
+                            </li>
+                            
+
+                            <li>
+                                茶改場 課長/楊美珠 助理研究員/黃宣翰
+                            </li>
+                            
+
+                            <li>
+                                農委會 王聞淨/科長 聘用助理/吳映慧(小PO)
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#議題分析表中，農委會預計目標">
+                    <p>
+                        「如何建立一套機制或方法去收集每個人對於臺灣茶葉風味的認知。」
+                    </p>
+                </speech>
+                <speech by="#議題分析表中，農委會預計目標">
+                    <p>
+                        核心關懷：「台灣部分發酵茶的國際話語權」
+                    </p>
+                </speech>
+                <speech by="#議題分析表中，農委會預計目標">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                綠茶－日本
+                            </li>
+                            
+
+                            <li>
+                                紅茶－歐美
+                            </li>
+                            
+
+                            <li>
+                                希望讓烏龍茶形塑為臺灣代表
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#議題分析表中，農委會預計目標">
+                    <p>
+                        2020/11/14 辦理過國際品茗交流，有找大使館的人交流；國外雜誌投稿（經費高）；AIT農業組介紹推廣
+                    </p>
+                </speech>
+                <speech by="#議題分析表中，農委會預計目標">
+                    <p>
+                        PDIS建議可以跟國貿局、貿協、外交部接洽
+                    </p>
+                </speech>
+                <speech by="#議題分析表中，農委會預計目標">
+                    <p>
+                        <ul>
+                            
+
+                            <li>
+                                利用風味輪國際推進
+                            </li>
+                            
+
+                            <li>
+                                利用風味輪國內推廣
+                            </li>
+                            
+
+                        </ul>
+                        
+
+                    </p>
+                </speech>
+                <speech by="#待辦事項">
+                    <p>
+                        <ol>
+                            
+
+                            <li>
+                                12/18（五）前請茶改場將自提案上JOIN平台眾開講徵詢意見、茶改場FB貼文
+                            </li>
+                            
+
+                        </ol>
+                        
+
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
