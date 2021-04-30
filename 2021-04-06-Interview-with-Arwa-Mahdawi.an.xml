@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Arwa Mahdawi" id="Arwa Mahdawi" showAs="Arwa Mahdawi"/>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2021-04-06 Interview with Arwa Mahdawi
+                </heading>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        In order to overcome all the challenges of the world is facing, we need a new style of leadership. Right now, our model of leadership is very masculine, very authoritarian.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        Throughout the pandemic, we’ve seen how a more feminine leadership…I’m not saying feminine as in women, but the sort of skills that women have been socialized to have often, like collaboration and cooperating, etc., things Taiwan has totally excelled at.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        I have to talk to you about your approach creating a more participatory democracy and the lessons that can be learned from it.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        One of the things I was thinking of putting in the book is the mask map that you very quickly took from someone’s idea to… and made it much bigger. An interesting contrast to that is I’m based in New York. Right now, we’ve just opened up the vaccination.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        We’re doing well with vaccinations, but the computer systems are a complete nightmare. Some things are here. Some things are there. It took me three hours of trying, clicking, clicking, clicking, to try and find a vaccine appointment.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        There’s this guy…What’s his name? He goes by the name TurboVax. I don’t know if you’ve read about him. His name is Huge Ma. With $50, he came up with this brilliant solution. He’s a 31 year old New York based software engineer. He built a bot called TurboVax that compiled vaccine availability. Everybody has been using that. The government has done nothing with it.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        I feel like if this had happened in Taiwan, we need someone like you who could have helped this guy take it to the next level, rather than OK, we’ve got this concerned citizen who’s doing something, but the government is just going to say welcome but not get involved.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        You see so many great ideas from people about how things can be improved. How do you go about doing what you’ve done in Taiwan, where you managed to surface these great ideas that people are having and put it into the official response?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think it boils down to two things. One is a space where it’s normal for people instead of protesting against the government, or what I call fork the government, take something that’s not working so well and making it working better and publish it. That’s the safe space.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The second thing, equally important, is a quick response cycle. For example, when Howard Wu, the person who did the mask availability map runs into some troubles with his Google builds, he asked on such a safe space to gov zero, g0v chatroom with about 8,000 people out there and yours truly included.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Within 24 hours, I offered to talk to Google for him. Then, probably on the same day, I talked to him and another person doing the map using open source technologies, saying, “OK, we’re now switching to rationing and pharmacy. Would you like to work with our new API instead of relying on crowdsourcing alone?” Again, this is 24 hours.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Once they coded that up — I think it’s 48 hours — it’s deployed to everyone in Taiwan the day after. All in all, within a short week, which more or less happened during our Lunar New Year.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Right after the New Year — it’s early February — everybody saw the work that is on TV, which was the civic hackers’ work, suddenly become a government technology project and with hundreds of people participating.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Note what we didn’t do. We didn’t say, “You’re offered a procurement that’s preferential. You get to be the person leading the map project.” Howard Wu, Finjon Kiang, they are still in Tainan City. They never travel to Taipei. They’re just the two civic hackers that start to do implementations of the same API out of a hundred or so. This is a pluralistic thinking.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Previously, the authoritarian style leadership you were alluding to assumes there could only be one right solution. There is a lot of power struggle involved in getting to the position where you can deploy it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re much more pluralistic. When I say it gets amplified to the society, it doesn’t exclude, it doesn’t foreclose new possibilities, building on chatbots, voice assistance, various different languages and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        A safe space for collaboration and a very quick adoption that doesn’t exclude anyone, these two are the key.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        It’s the speed with which you managed to get that mask done. There was several years of work behind that, in terms of getting that trust built and getting the processes. Can you tell us, Minister, about that?
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        I’ve read all about the Sunflower Movement. I’m not an expert in understanding how that shifted trust in Taiwan. Could you help me sum up how the Sunflower Movement changed…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Before the Sunflower Movement, people, especially young people, were apathetic about political involvement. The average young person perhaps think that if you make a demonstration, they will not come.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It could be a niche issue about, say, climate change, about human rights conditions, and things like that. It’s simply unlikely that their new ideas or their new thoughts could reach the administration in any short time span, so people went off and do other things. That’s the climate in 2013.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’ve co written “The First Year of g0v.” It is a document that documents the 2012, 2011 ish common knowledge about, for example, how social media could change politics and the commonalities we want. [laughs] I’ll post a link here and you can read at your convenience.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sunflower change all that. First of all, because the demonstration was very successful. It was half a million people on the street and many more online. Whatever you saw in the document I just posted to you, suddenly became not true anymore because people see that their ideas get adopted by the head of the Parliament in a very quick fashion.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Also, there’s a political sea change at the end of 2014. All the mayors that campaigned using open government — that’s transparent participation — as their platform won, and sometimes surprisingly, and all the mayors that didn’t, didn’t win.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It became very clear to all the politicians in Taiwan, they have to switch to open data, crowdsourcing, and so on, as their political platform, otherwise, they don’t get to retain their position anymore. It’s true ever since.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The partisan competition in Taiwan here, all the four major parties are about how much more civic engagement they can do, how much more transparent they can be, instead of one against and one for. We don’t have that dynamic here after the Sunflower Movement.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The historical document, the one that I just posted you, stopped in 2013. It serves as a great reminder — before the Sunflower Movement, this used to be a niche thing.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        Sorry. Where did you paste it?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        To the Skype chat.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        I didn’t see it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s fine. I can send it to you via email now.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        Thank you. Sorry. I…very well. I know everybody always asks you this. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        How would you see that being replicated in America? I feel like with Obama, when Obama first campaigned, he had, back in 2008, this groundbreaking like a new digital platform which allowed people to participate in the campaign. I think he got a lot of people moving away from that apathy and feeling like they can actually contribute.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. It’s called We the People.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        We the People, but then afterwards, it feels like he left that behind when he started governing, and then people couldn’t be engaged. Is it about finding a way to create those spaces where people participate? Is it is that the first step in that creation?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        A good space where people add to each other instead of attacking each other, what I call, “Pro-social media” that helps. We learn from We the People too, in building our Join platform.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The second that I just mentioned, which is this swift adoption and that’s not felt like co opting and amplified to the whole of society, that’s key. That’s really key.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In my opinion, it takes a strong outside game. People need to see themselves as a sector, like the social sector, and in charge of setting the norm. That is to say what’s normal around emerging technologies, say, about UberX or about an emerging threat, like the disinformation crisis and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If people feel that they have the competence to devise part of the solutions, then we, in the government, all we need to do is say, “OK, we can’t beat the people. We must join the people.” That is like working with the people, not for the people.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This with the people thing is new to many people. While Obama did a few tries at the beginning, exactly as you described, the outside game, this social sector approach simply wasn’t there.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If Obama didn’t take, for example, the top suggestions about — I don’t know — marijuana legalization or whatever, there’s no outside game. There’s no pressure for the career public service to learn to work with the people. It could fizzle out.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, we understand if we ask people on a nationwide deliberation and they arrive to a rough consensus, and the administration, after quite a while, didn’t ratify any of it, we expect the Parliament probably will get occupied again or, at a very minimum, people will go to the streets.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s the outside game that makes it less risky for the career public service to work with the people.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        That’s vTaiwan? You’re talking about that platform where you’re creating the rough consensus?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        It’s interesting because vTaiwan is an example of a pretty high tech solution of the rough consensus. I like what you’re talking about with…like picking up a phone to call and give your ideas about the pandemic, the central phone number.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        You’ve talked about before every day, anyone can call the CECC to talk about what their idea is, and this one boy talked about having to wear a pink mask. Technology doesn’t have to be high tech. I’m saying are there other ways to participate? Do you think there aren’t…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When we say high tech, we need to first define what we mean by high tech because high tech could mean two things. One is that it’s a state of the art. It’s literally just being researched out, or it could mean that only a few have access to it. Only a few can operate it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now, these two senses are intertwined. Obviously, when something is first researched, only the researchers can operate it. vTaiwan and the Polis technology users are all free software, meaning that anyone who wants to set up a copy at home, they just go ahead and do so.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There is no financial barrier. There is no intellectual property barrier. Because of that, the governments around the world actually did, like the Canadian government contribute to this French English bilingual automated translation because everything at a federal level for them need to be bilingual.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We took it and work with AIT, the de facto US embassy on a Mandarin English consultation code, the digital dialogue, and so on. There’s a lot of horizontal, open innovation going on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When you have that nature, then even though it’s cutting edge…Well, it’s no longer cutting edge. [laughs] It’s been around for six years at least as free software. Even though it used to be cutting edge, the accessibility and exclusivity of these technologies can be guaranteed. Add to that the cybersecurity too, because people can host it on the digital public infrastructure that they could trust.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Once that’s the case, then all the media people, even students, anyone in Taiwan can start a new Polis conversation by themselves without learning a lot of arcane commands or to get approval from the public sector and so on. That’s when we know that this is part of the civic infrastructure.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The point here is that the technological competence in the people, as guaranteed by universal broadband access, as guaranteed by competence instead of just literacy classes for media and digital, are determine the rate on how quickly future can be distributed. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you don’t have broadband as a human right, and digital competence, then the innovations do not distribute quickly. When adopting this, then people will say, “Oh, you’re excluding the have nots away.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you do have such an infrastructure, then in a couple year’s time, it will spread to more than half of the society as the Join platform did. As you mentioned, the CECC heavily rely on the health card, which is everyone in Taiwan, citizens and residents alike.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The National Health Insurance has an app that makes it possible to, for example, preorder the mask or dedicate a mask quota to other people. It also serves as a data competence tool because you can download your recent X ray scans, dentist visits, doctor visits, of analysis and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now, more than half of the population in Taiwan have downloaded it during the one short year of the pandemic. What I’m trying to get at is that if you have half of your population, then you can drop this E prefix.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We used to call this the e participation platform. Now we just call it the participation platform, [laughs] the digital democracy platform because we don’t say email anymore. I just say, “I can mail you.” This quick distribution is very important.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        We can’t use technology to create a fairer society unless we have equal access to technology.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Broadband is a human right. That’s a no-brainer. I think that’s the term. All the arguments for it, for example, economic argument like universal broadband makes people more productive and have a higher quality of life.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The social part of it, like people who have bidirectional broadband express them more and feel more agency in the democracy, are all very valid. I haven’t heard anything that’s against it.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        I know. We’re only just now in America saying, “Oh, everyone should have broadband.” It’s funny. I live in New York City. I have basically two options for broadband, two big monopolies. It costs so much money. America has some of the highest broadband costs in the world. I feel like it’s not often talked about how much that connects with trust and with…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a deciding factor.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        I was really interested to read about what you were doing with the school curriculum as well, trying redesign that with the same ethos. Could you explain that a little bit?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure. The idea was switching from the literacy, which is more authoritarian — pupils are just readers and viewers of pre-existing curriculum material — to competence, where they are co creators.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, they can collaboratively fact check the three presidential candidates in 2020 when they are doing the platforms and debates and so on in real time. Their fact checking gets published to the whole society.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Once they participate in such a newsroom work, they can’t be that easily swayed by this information online because they’ve learned about journalism firsthand. The same applies to collecting air quality, water quality data and publishing it to a distributed ledger.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Again, this civil IoT project made sure that the students understand what data stewardship is. What does it mean to have a data bias? Which is very difficult to teach in a top down manner, and could only be taught, co learned in a participatory manner.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The curriculum change is a change in the attitude. Instead of saying we know, as educators, what will happen 12 years down the line, we say we have no idea and we have to figure it out with the students.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        That gets them more invested in things like climate change and learning the facts for themselves.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Definitely. A lot of the work here is tied to the sustainable goals. The global goals, the SDGs and using SDGs as a common measure of capstone projects, it enabled…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, at a university level, we have a very large plan called the University Social Responsibility where all the universities can get extra money from the Ministry of Education, but it must be spent to something that correspond to one or more of the 169 SDG targets in 17 SDG categories.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They need to be very public about it, and then invite the co creation from the community. Which happens most of the time to involve both lifelong learners like Community College, but also sometimes the high schoolers and middle schoolers.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is intergenerational learning so that the students won’t feel that getting into the education system is just about increasing their own job prospects relative to other people in the same age group. Rather, this is something that if people work together, they can solve societal challenges, and they build this network of mutual support.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If they “fail” in their initial projects, it’s not really a failure. They can publish a paper about it. The community still love their effort. It’s much more likely that they’ll end up working on something that has a higher long term benefit rather than just short termism.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        When it comes to things like climate crisis, how do you think that co creation can help to address something so huge and pervasive? I feel like at the moment, we’ve got people like Bill Gates talking about how we need to be investing in super technology to fix it rather than thinking about how we missed everybody to fight the climate crisis.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Climate change is one of those issues that before the pandemic, people couldn’t imagine how it could be treated as urgency across the globe because it’s very nature. It’s very long term.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In islands like Taiwan, we feel it right now. We have civic tech projects that remind people to refill their bottles when a heat damage is likely to happen to them because of the sudden peak in temperature and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        People remind each other to refill existing bottles, not buying new plastic or increase new carbon footprints, using a crowdsourced app. This is very trendy in Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We also understand in larger jurisdictions, especially when people do not live in areas that’s affected by hurricanes or wildfire, it could feel like it’s next generation’s business or the generation after that. It’s not a common urgency.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan though, we found that people who are around 16 or 17 years old, as well as people who are around 70 years old, they are the most active both on the citizens’ initiative to counter climate change and also perhaps on the time available to them to dedicate themselves to this effort. Intergenerational solidarity is key. It’s very important in making this work.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Also, shared urgency. Now that we are post pandemic here in Taiwan, and hopefully soon post pandemic in the US, we are now seeing how effective humankind could be if we treat something as a global shared urgency. It actually got solved in record time, the vaccination and everything.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        People can get their habits changed. More and more people understand that wearing a mask protect your own face against your own hands. That wasn’t common knowledge but now is common knowledge across the globe.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If we can effect the same habit change, if we can effect the same urgency using the alliances that we’ve already built during the pandemic, and turn our attention to climate change, I do think we do have a chance in rebuilding it as climate crisis, increasing its urgency. That’s a brilliant first step.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        That’s such a great point. In New York, it’s just been so funny that this time last year, nobody was wearing masks. Now, whenever you step aside, everyone’s wearing masks.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        The behavior change, I don’t think there’s ever been anything like it. The pandemic, do you think it’s also changed how we look at leadership and the things that we value with that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. As in the, for example, Instagrams of the world, we don’t see people showing off that much anymore. It’s considered bad taste during the pandemic. This strutting, this social status based leadership is waning.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The idea of a leader showing care and empathy is sometimes interpreted as weakness pre pandemic. Now, this is a required quality in leadership. People who do not empathize with the very acute suffering across the world, but in their own jurisdiction, when it comes to a pandemic, simply are not considered good leadership material anymore.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is similar to the sea change I refer to, after the Sunflower Movement where the leaders still saying that they know the best, and we don’t have to listen to the citizens. These were considered strong men but simply fell out of favor in Taiwan after 2014. We’re seeing a very similar sea change across the world when it comes to pandemic.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        Yeah. I think that was the Trump riot. The fact that he was so callous was a big factor in his being removed. We’re seeing this shift towards embracing vulnerability and empathy. Hopefully, it will continue.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        Again, those are traits that I feel like women are socialized to think about other people and to be kinder. Then a lot of the traditional advice to women is that that’s weakness. Go against that. Now, it feels like we’re shifting that.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        You’ve talked a little bit about how transitioning helps you see different sides of…Do you think that transition helped change your leadership style? You’ve also talked about your heart is helping to shape how you look at leadership. Would you mind talking a little bit about that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Certainly. Having went through to puberties personally, it means that I don’t have this binary category in my mind where half of the population is closer to me and half a population is strange to me. I don’t have this in my mind.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Everyone in the Homo sapiens community feel equally close to me. This is not just about gender. This is also about culture. It’s all too often that within a jurisdiction, people take on the us versus them attitude, where people feel connected to one half of population and feel like the other population isn’t even quite understandable of why they talk this way.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This could lead to “by association.” The in group would be associated with something good, something positive, and a out group, with time, could be demonized. That leads to polarization, divisiveness, and things like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course, party politics also plays [laughs] some role here. When I went into the Cabinet, I filed “not applicable” in the gender field, but also “not applicable” in the party affiliation field. This is basically a transcultural outlook that’s applied to both gender and political ideology and many other things as well. This is taking all the sides.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Attitude enabled me to find innovations where people were canceling each other out by holding radically opposite positions and refusing to listen to one another. This enabled me to say we’re Homo sapiens, after all. We do share common values. Here are the common values. Maybe we can consider those. That enable a different style of leadership.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        Right now, the incentive structure, whether you’re writing an article or whether you’re running for president or something, is to be on one side or the other.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        If you write an article that is very nuanced, you get the clicks from a headline that’s very much, “This person’s bad. This person’s good.” How do we change that incentive structure to encourage more nuance and less binary thinking?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I tend to think “Guardian” is doing pretty good on this regard. That’s what we call a journalistic standard. As a journalist, the people working on finding the facts from the sources.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        One very important thing is that understanding that the facts have multiple sides and helping the readers to contextualize exactly how many sides are there and draw their own conclusions, empowering them to think not just by themselves but with the various different sides as revealed in a special investigative but also other forms of reporting. That’s journalism.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When I say that people need to learn in the school not media literacy, which is how to appreciate journalism, but media competence, which is how to practice journalism, that’s really key. When one practice media competence and starting to work out their own story, aware of the framing effect of the biases and so on, that’s like inoculation of the mind.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It makes us seeing new one sided narratives as materials to our worldview, not as biases that precludes listening to other side’s point of view. It becomes like piecing together a puzzle. Each puzzle piece do not cancel out future puzzle pieces.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If one doesn’t have this journalistic view on facts, then it’s very easy to get into what we call anchor effect, you get anchored on the first piece of information from your in group. That prevents you moving around in the scapes of ideas to entertain other side’s point of view. Media competence, that’s really the key.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        When you look at the next 10 years, what do you think the major challenges are the world needs to face?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        One of the major challenge is that people still, more so around this piece of this corner of Earth than your corner of the Earth, [laughs] in our corner of the Earth, there still are people who glorify and valorize authoritarianism, even though that we all understand that authoritarianism prevented easy access to journalistic facts.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, Dr. Li Wenliang’s message about there’s COVID in the first place didn’t reach people in Wuhan at all because of authoritarianism and lack of press freedom. He literally save everyone in Taiwan but not everyone in Wuhan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even with such a sharp contrast, we still get people in nearby jurisdictions valorize authoritarianism, calling that it’s inevitable that we need to sacrifice a little bit of democracy, freedom of the press, and so on, in order to fight the pandemic, fight the disinformation crisis.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s even lines of thought that said, “This is the only way to combat climate crisis, is to switch to central planned authoritarian infrastructure work.” [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        One of the main challenge is that the democratized jurisdictions, if they get into this thought of authoritarianism is inevitable when faced with a climate or other crisis, then the actual innovations that could happen, the actual facts that could remind people how to tackle this with shared urgency is lost or at least decimated.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Literally cut by 10 percent [laughs] every time the society got more authoritarian. This is structurally in our corner of the world that the most pressing challenge, the declining of trust on the democratic institutions.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        To combat that declining of trust, you need to, first of all, get rid of the apathy. It’s a massive challenge. To fix it, is it getting people involved, making people feel rooted, feeling like they have a duty?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Indeed. If people can only vote once every four years, uploading three bits per person on average, that’s not a lot of bandwidth. The interval is too long, and the effective information is too low.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Contrasting that with, say, the digital democracy platforms like the Join platform, where literally tens of millions of people have visited, many of them started new citizens initiatives. They can join signatures just like the We the People platform.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The difference is that they will actually hear from across ministerial collaboration meetings. We run such a meeting on average every twice a month and it’s always published to the society the entire proceedings as transcript and sometimes live streamed.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        People can see that their common causes of concern are answered in the here and now, at most 60 days, and usually much faster. With this shortened interval and higher bit rate, because people can participate setting their own agenda, not just answering existing poll questions or vote questions, the bit rate is higher and it’s continuous day to day democracy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When they feel that this is less risk and more impact than yielding to the authoritarian politicians that they doesn’t trust, but doesn’t see any other alternatives [laughs] as in other jurisdictions that are turning more authoritarian, then, people will actually defend and advance the democratic institutions, because now it has their contributions in it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That was a little bit long winded. It usually boils down to this short idea that democracy itself is a form of technology. Like any technology, we can co-create. We can improve and make it better.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        Is there a major so that…It’s going back to what you said at the beginning. You need to create space for people to participate anywhere that’s great speed. It’s not every four years. It’s every day. Slowing everything down are just like all these bureaucratic things. You have to go through 10 people to get one idea approved, etc.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        Is there some things that the government should be doing, like creating horizontal ministers like yourself when your job is really building bridges? Do you see common bureaucratic like things slowing that speed of democracy down?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The ministers at large positions will help, of course. We have nine ministers at large, and I’m part of the nine. All we do, literally, as you said, is build bridges. Within a certain ministry, there is also interagency issues that are not cross ministerial but no less important.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, we have the Participation Officers network or the PO network that replicates this ministry, a large dynamic but within their own ministry. Sometimes their nickname #officers because they engage with emerging trends from the society. They have to do so with swiftness of getting interagency support.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sometimes within a single agency, there’s now also Participation Officers that works across group, cross group within that agency communication. It’s like a fractal. It’s a tree like structure that builds a network of mutual support.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We have a direction for the Participation Officers network and how to choose the cases for the POs to work on. I’m just pasting that also to an email and also an article freshly published just today, where I talk about this year’s PO collaboration workshop.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The third link is in Mandarin. I think machine translation will work, or I can get you an English translation later. It’s in your inbox now.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        Amazing. Thank you. During the pandemic, a lot of people have been talking to you and trying to get lessons from you. Looking around the world — I’m from London — I’m wondering whether you had any more specific advice for London or for America about what you wish you’d see happening?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        One of the main thing is to do what Taiwan did in 2004 right after our 2003 SARS experience, which is very chaotic. We know how chaotic it could be because at that time, we also went through the same chaos, the same panic buying, locking down a hospital unannounced, very traumatic.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In 2004, we decided while the memory is still fresh, we need to institutionalize all those memories and almost unconstitutional emergency actions. We need to have a careful debate, all the way to the constitutional court here, about what is constitutional, what’s acceptable.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If we are sure it’s acceptable, then we write it down into a law, the Communicable Disease Control Act. This time around, we just play the SARS playbook without asking for an emergency crisis state pre authorization from the legislation. We didn’t do anything that’s not pre approved by the legislators.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That, in turn, makes people feel much safer because, first, we’re not turning authoritarian. [laughs] Also, the existing data collection points, they all have more well understood cybersecurity and privacy parameters.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If we invent new tools during the pandemic and ask everyone forcibly to adopt it, then that will raise a lot of concerns cybersecurity  and privacy wise. Because we basically say, “OK, we’ve been preparing for this moment since 2004. We just enable the playbook.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That, people feel much more likely to accept and also to be more able to innovate together because they’re familiar with it. Don’t let this memory fade away. Institutionalize it. That’s my main suggestion.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        That goes back to what you said before about code making, like creating code together. I think that’s really, really good. It’s so amazing. Is there anything we haven’t gone over that you want to touch on?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, I think this is quite comprehensive, actually.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        Amazing. It’s such an honor to talk to you. There’s so many great things. I love the way that you use humor, and you’re so good at boiling things down into amazing lessons and everything. I think it is awesome. I really appreciate this.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        I guess, everything will be in the transcript, but if I have any questions I will follow up.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Just email me.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        Thank you so much. I really appreciate this, and I look forward to to being in touch.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Thank you. Live long and prosper. Bye.
+                    </p>
+                </speech>
+                <speech by="#Arwa Mahdawi">
+                    <p>
+                        Thank you. Bye.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
