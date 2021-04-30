@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+                <TLCPerson href="/ontology/person/::/Gopal Ratnam" id="Gopal Ratnam" showAs="Gopal Ratnam"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2021-04-01 Interview with Congressional Quarterly
+                </heading>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Hello, and greetings.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        Hello. Greetings. Good morning, Minister Tang.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Good morning. I hope we are on time. We’re probably on time. That’s excellent.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        Absolutely you’re on time. Thank you. I apologize. First, I was addressing you by your first name. I had no idea. I should have done some homework first. When Beth Noveck gave me your email, I just sent it off without even realizing…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Audrey is just fine. You don’t have to address me as The Right Honourable …
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        [laughs] That’s interesting. Well, thank you.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        I’m a reporter with Congressional Quarterly. We cover Congress. I cover mostly technology topics for the publication. I recently wrote an article about the uses of technology by the United States Congress. I have to tell you that we are far, far behind where you are because we’re just starting to use video conferencing and so on. Even that has been very contentious.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        When I was speaking with Beth Noveck on the topic, she showed me all the key studies of other countries. I was fascinated by Taiwan which is why I wanted to speak with you.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        I wanted to start by talking about the process. I now have read some of the key studies on your website and on Beth Noveck’s website. You talk about the 26 different pieces of legislation relating to digital economy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, because vTaiwan has been focusing on open parliament and since you work on Congressional Quarterly, I think this latest case study, the Open Parliament National Action Plan, is maybe more pertinent.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Even though it may not result in any new laws per se and mostly just internal proceedings of how the Parliament works, it nevertheless represents the buy-in from all the four major parties on transparency, openness, preservation, digitization, and literacy that’s done through the vTaiwan process.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This may be the latest to contribute. It’s very meta. If the parliament itself becomes more open, then it’s more open to the processes from the administration desk, more open.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        Right, absolutely. I was wanting to ask you in your case, in the case of Taiwan, is the vTaiwan process only applicable to the digital economy areas or is it across the board, all types of legislation?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        vTaiwan is a volunteer community from the g0v movement. Basically, anyone can start a discussion about anything. The reason why pretty much only digital economy issues were explored is that for non-digital economy issues we have another process called join.g0v.tw.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The Join platform is run by a professional public service which actually knows how better, I guess, to run the stakeholder discovery analyses and so on, for topics that are not about the emerging digital world. That is to say we have existing stakeholder mapping networks, and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We do, in the Join platform, have a network called the Participation Officer Network that basically runs the same vTaiwan-inspired process. Every couple of weeks, we choose another topic, not necessarily digital economy, probably not digital economy, that goes through the process.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We talk about marriage equality issues like artificial insemination by single mothers. That’s one issue. We talk about environments, like banning plastic straws from the national identity drink, the bubble tea. These are probably not digital economy [laughs] but if you are interested, it’s collaboration meeting topics which is run because of vTaiwan’s research on this area in 2014, ‘15.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We started to adopt the vTaiwan process internally within the government starting 2016, ‘17. Because of that, vTaiwan has continued to focus on the topics where the digital natives know better how to map stakeholders, that is to say, digital economy issues.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        I want to quickly step back a little bit and ask you what led you and the government in Taiwan to have or bring about this kind of a consultation process with citizens?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think a main reason is that during the Sunflower Movement, people occupied the Parliament for three weeks, and arriving through non-violent communication and open-space technologies to four demands, not one less, which was then gratified by the Parliament.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        People already had a successful demonstration in the sense of a demo, much like the Icelandic constitutional demo. It’s a demo, right?
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        Right.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        After that, we had a national forum on economy and trade. The consensus opinion was that instead of people having to occupy the Parliament every time there’s a controversial [laughs] emergent issue, it might actually work better if we have a system make a consultation mechanism in the very beginning of the issue rather than at the end of ratification, which is almost always more violent.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s a very strange thing that we managed to be completely non-violent [laughs] during the three week occupy of the Congress.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The point here being that around the end of 2014, all the mayors that did support open governments won the election, sometimes surprisingly. The National Cabinet appointed quite a few occupiers and facilitator of the Occupy as reverse mentors to the Cabinet.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yours truly became a reverse mentor for Minister Jaclyn Tsai around that time, end of 2016. That is the legitimacy mechanism because we demonstrated that it actually works.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        What about the process itself? You’ve outlined on your website the proposal, opinion, reflection, legislation, the process. Who starts the proposal? Is it something that emerges from the people themselves? Is it something that emerges from bureaucrats and officials?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s always proposed in a tri-sectoral understanding. The private citizens may want to talk about something like maybe, I don’t know, UberX or whatever. Then of course, the public service also need to respond in real-time. They would only agree to that if they think that this consultation mechanism brings them new stakeholder that they could not know before.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Which is actually almost always true in the digital economy issues because there was no union leader of teleworkers, because they were not even forming a union for that. There was no association leader for people who registered their company in Cayman Islands, right? The traditional representative constituency method fails in such topics.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Any endeavor that will bring a more accurate representation of their views is, post Sunflower, welcomed by the public service. Now finally, the facilitators, the social sector people, also need to give its legitimacy to the whole process because the social sector is where the private citizens and the public service meet.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They usually have different day jobs. During the vTaiwan weekly meetup, we’re all just volunteer in this social sector. The legitimacy of the g0v movement is also important. All the topics went through this tri-sectoral understanding process which is organic and may take weeks to months. In the UberX case, it took like three months.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        In the current process of legislating in Taiwan, you have a combination of both these modern tools to consult and develop legislation plus the old-fashioned way of doing legislation, or is it completely gone and everything is done this fashion?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s important to note we have a different constitutional design. Most of the bills that’s passed by the Parliament started as a administration draft. That is to say, the administration, the professional public service prepare a draft for their ministers. We pass them the draft in the administration Cabinet meeting.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then, it’s sent to the Parliament for the partisan conversation. Before that, it’s largely non-partisan. That carves a space for this kind of consultation at an early stage. To answer your question, all legislations and all regulations actually, much like regulation.gov gets public commentary for 60 days, usually at join.gov.tw. That’s mandatory. It’s not opting in.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        All the citizens’ initiatives that reach 5,000 signatures, digital economy or not, is guaranteed a point-by-point response similar to a parliamentary interpellation or inquiry on the joint platform. This is like “We the People” in the US.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We also have on the same website the participatory auditing on the budget spent. We also have participatory budgeting in terms of the municipal budget cases and so on. There’s many other functions on that platform. These are all mandatory.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What’s not mandatory is the use of the newer stakeholder discovery mechanisms such as the vTaiwan process, such as the Polis tool, which is now a permanent digital public infrastructure at polis.gov.tw. It’s run by the state basically.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        VTaiwan people are welcome to share this polis.gov.tw and set their own conversation topics and so on. Basically, according to the Participation office regulation, we already have a national regulation for what sort of topics is best for this kind of new processes.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We say if the stakes are complex, the stakeholders have diverging views, and public participation seems enthusiastic, if the three conditions are met, then it warrant to the use of the newer processes.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        Speaking of stakeholders, what about, apart from the public and the citizens, the big entities, commercial entities who long-term could be affected, do they also have to participate in this process or do they have a special channel where they can have their views be heard?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Definitely. I think when we use, say, Polis to set the agenda where people understand we’re not as polarized as we think we are, we do have the same concerns about, say, insurance registration, not undercut existing meters when it come to UberX, it becomes very difficult for the Uber people not to show up in the multistakeholder consultation meeting.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We always send invitations by the professional facilitation team to the stakeholders in question. They of course may or may not show up. Almost always, because it involves so many people, many of them their own drivers, they will look very bad and may face some sort of social sanction if they do not show up.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        Is there also a process where if they show up or if they don’t show up, whether they have access to parliamentarians and the official bureaucratic machinery that serve the public service in the country that your ordinary citizens may not have?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As I mentioned, of course, they can lobby the parliamentarians, but during the drafting of the regulations and laws in the administration, the parliamentarians do not actually have a vote because this is two very different stages.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        One is basically mapping out discovering what citizens want and need, and defining our common agenda. It’s only at a fine-detailed development and delivery stage where the Parliament enters play. In this, I think in terms were on the first time in. On the first time in, the special access doesn’t buy you anything because we’re not voting, or just setting the agenda.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        Speaking of the process again, so I think you have talked about some of these, but what are some of the other changes that were required to be made at the level of ministries and government departments to incorporate this kind of a consulting process?
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        Was there a law required to be passed, or was it just simply a set of regulations that self-adopted? What was necessary?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We already had the directions which is at a regulation level for digital democracy, the Participation platform for example, the Join platform. That, I think, is very important because it brings in the ministries that do not feel that open government is extraneous work. Basically, a national regulation says regardless of which ministry you are in, open government is your work.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It has been really good to have such a national regulation. Now, whether there need to be a law, I don’t know. We already had a pretty good Freedom of Information Act that enable the transparent information inquiry. We already have what we call the…Let me just check the English name of the law.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think it’s called the Administrative Procedure Act, which already blessed the way of consultations, including hybrid models where the hearing is done both online and offline and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s not about the acts are not there. It’s about the imaginations of the public service in carrying out those acts. It’s not illegal to run this through video conferencing or live streaming or Polis, but it was not imagined.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        What I meant by law is, for example, in the context of the American Congress when the pandemic broke out in last year, Congress had to adopt a new set of rules where members were allowed to hold hearings through digital platforms. Members were allowed, in the case of the House of Representatives, to cast votes through a proxy system.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        Those new rules have to be adopted. I was wondering if, in the case of Taiwan, you had to also adopt new ways of doing business.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Fortunately, that’s the thing that vTaiwan started discussing. [laughs] Exactly the first cases of vTaiwan were teleworking, tele-education, and things like that. By the time of 2015, we already had pretty robust regulations and laws that defines traditional concepts within a online context.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Add to that, starting 2016, I’m a openly teleworking minister. Any technical issues like cybersecurity at the edges, like the privacy implications of working at home and so on, all these I have been kind of figure out by necessity because otherwise I wouldn’t function. [laughs] By 2017 or so, we already had the infrastructure, both legally and technically, for the pandemic.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        Speaking of security, couple of quick questions. How do you ensure the people who participate in the digital process are real Taiwanese people and not some fake actors pretending to be Taiwanese citizens?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s actually very simple. We use only the SIM card numbers, the SMS numbers issued by the major five telecoms in the country. The first time they register, a SMS confirmation is sent in addition to email or other sort of login mechanisms. There’s actually a surprisingly high difficulty in obtaining thousands of SIM cards.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        I see. That’s interesting. What about the other side of it, which is the whole process is secure and it’s not being interfered with by foreign actors?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is our number one concern. We do have actors that really want to interfere in the democratic process, which is why our server security industry is growing.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Anyway, the point is that we run the entire free software stack within our own perimeter. The National Center for High-speed Computation which hosts the Polis software, the sandstorm.io software hosted by the government cloud.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        These are not just physically in Taiwan having Taiwan IP addresses. The routing is well understood as the cybersecurity penetration testing, hiring professional white hat hackers to file public CVEs for Sandstorm, Polis, and other related infrastructures.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We work very closely with the free software community to contribute back our cybersecurity findings, so they may fix it in time. If they don’t, we fix it for them, and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re very serious in treating this as infrastructure work, just like how you will build roads and bridges that do not fall. We take the civic infrastructure from the civic tech, but we enhance them so that it passed the muster of public infrastructure.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        Speaking of the sandbox, I think one of the examples on your website, the vTaiwan process, was the FinTech. I believe there was a sandbox created for that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s been running for quite a while.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        Could you talk a little bit about how that works, and what do you mean by a sandbox where these new ideas can be tested?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Sure. In the FinTech sandbox, there’s others, like self-driving vehicles.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In a FinTech case, you may come up with a way that says, since we’re talking about SIM cards, like, “I would like to open a bank which doesn’t have any over-the-counter physical infrastructure. I would like to work with people who are 18 years old who did not have a credit history.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        “But I would like to work with telecom providers to see if they pay their bills of the telecoms regularly, and calculate some sort of loan credit score based on that.” That is to say, a very concrete sandbox proposal. The only thing is there’s no law for it or against it, because, well, the lawmaker did not imagine this sort of bank. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Instead of saying it’s legal or it’s illegal, both carry their problems, we say, instead, let’s try it out for half a year. Let’s try it out with a dozen people. This is not unlike vaccination trials. [laughs] It moves in phases. First, we make sure that it does no harm, [laughs] that it has the cybersecurity privacy protections in place, which is overseen by a professional expert review board.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When the design is approved, then we work with the volunteers, just like Phase II trial, making sure that people who actually bank with such a system, this works with them. That is to say, with their benefits in mind, and with their input considered, and things like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If after half a year, the people who participated in the trial develops allergies [laughs] – I’m pushing the metaphor too far – if they don’t like the idea, then we thank the investor for paying the tuition for everyone. Then we say, “Don’t do that.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If, in the actual case that students, the young people, really like this idea, and a risk score can be calculated rather easily using field data, then we’d bless it and change our regulation for risk calculation. Then everybody can start to operate using these new terms, and have a new service by the banks online or offline.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now, if it requires a law change, that may not be possible to do within the scope of six months plus six months. It may take years, literally, to pass that law. In that case, the sandbox continue to run. They gain a de facto monopoly, because for everybody else it’s still illegal. That’s part of the incentive. Until the parliaments have approved their new acts, after that, the competition resumes.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        Now, when in that period where you talk about they may be an effective monopoly, are they still inside the sandbox or are they operating in the public?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They’re outside of the sandbox operating in the public, but they will still have to retroactively comply with whatever new restrictions that the lawmakers ask to them as part of the lawmaking process. They get this provisional, tentative, regulation-level approval. When the law adds new things, they have to obey, too.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        In this case again, while they are operating in the sandbox is when the citizens and officials all can look and see how it’s operating, and take away lessons from that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly, so that the legislators actually have first-hand experience in working with the system so they don’t have to legislate something they only think exist in other countries or in the future. It’s very hard to legislate that way.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        It’s a real trial with people. Your metaphor was very apt. In one of the interviews with “Wired” magazine last year, towards the end of that piece you were asked, “How does one go about doing this or implementing these ideas?” You said, “Start small.”
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        Every country’s complex, but we, in America, tend to think that we’re somehow more complex because we’ve been around as a democracy for 250 years, whatever. What is your advice to democracies like the United States which have established ways of doing things for many years and are resistant to change?
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        How do we go about even copying some of these very unique ways of conducting democracy?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s been tried rather successfully in the US. The Polis tool has seen adoption across the country. On the scale like the Bowling Green Kentucky case, which is the townhall for a single city or municipality, we already know it works on that scale.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Since your congressional members represent states, it’s conceivable that it could be run on a state level. The state legislation, in a sense, is a little bit like our administration draft. That is to say, it could already take effect in a smaller scale.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It has to be subject to the federal law restrictions if the federal exist. If the federal doesn’t exist, [laughs] you get a lot of room to operate, to prototype. That’s the next logical stage to try this method.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        In your case, though, it seems as if that because of the way the whole system evolved during the Sunflower Movement, you didn’t have to start small at a local, provincial level and scale it up to the national level, right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s not strictly true, because the two mayors in particular, the Taipei mayor, Ko Wen-je, the Tainan mayor, Lai Chin-te – Dr. Lai would end up becoming our premier and, now, our vice president – all promised open government in their campaign for team bid for the mayorship.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They had a head start of at least two years, compared to the essential government participation offices.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        I don’t have any further questions. Is there anything else I should’ve asked you?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        [laughs] No, the open parliament plan is very much worth pursuing. In my own experience, if you convince the professional staff workers, including the legislative aides and the permanent workers in the congress, that this thing actually saves their time and reduce their risk.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then, instead of talking about more engagement, more democracy and things like that, treat it as a regular, time-saving and risk-reducing tool.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The buy-in will be much stronger and there’s a lot more room for experimentation, and which is why it’s very smart for the vTaiwan project – I don’t lead the project anymore – for the project leaders now to choose to work with the permanent staff and the legislature. That may be something worth looking into, too.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        I have one quick clarification.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, of course.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        We have, at this point, the United States – you must’ve seen a lot – there’s a huge inequality in terms of access to broadband Internet. Is that a constraint in terms of people participating, because of the inequality?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Broadband is a human right. A lack of access to affordable broadband, just $16 USD per month for 10 megabits at least, bi-directionally. If you don’t, it’s my fault. [laughs] This is considered infrastructure, because unless we have that, digital democracy platform will actually be exclusionary. It would exclude people who only have access to expensive bandwidth.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Basically, like saying, in those under-connected area, only rich people get to participate in democracy. That’s not a legislation or regulation that would get blessed by any party. We first have to do universal broadband, and it’s not hard. It’s not particularly expensive when you compare it to railroads or roads.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe, yeah, get that figured out [laughs] first, or try the experiment in a place that is already well connected.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        What is the landscape in Taiwan? I’m assuming there’s a lot less inequality in terms of broadband connectivity there than the United…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s no broadband inequality. Even on the top of Taiwan, almost 4,000 meters high, you’re guaranteed to have that broadband connection. We design our spectrum auctions, 5G for example, to make sure that there is extra money to be put to subsidize the telecom infrastructure in the economically under-resourced areas.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We made sure that we made the universal healthcare, for example, which is entirely digitalized, we have more than half of our adult population now downloading the app for the national health insurance. Which wouldn’t be very useful if they don’t have broadband connection.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Universal healthcare is also a human right here and a education tool. By saying that access to basic education online, access to health online and access to democracy online are human rights, we are not confining the resource, universal broadband, to just the NCC, our FCC equivalent. Rather, I could use the resource of all the ministries involved.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        Thank you so much for your time. I appreciate it, and I will come back to your assistant, Frances, if I have any follow-up questions.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Frances will help us make a transcript maybe in a week or so, but we publish only after you publish. Feel free to go and add it. I will send you a link.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        Thank you very much. I hope to write my story. I’m talking to a few other people in other countries, too. I hope to have it all done by next week.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Excellent, thank you. Thank you for your time. Live long and prosper. Bye.
+                    </p>
+                </speech>
+                <speech by="#Gopal Ratnam">
+                    <p>
+                        You have a good day. Thank you. Cheers.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
