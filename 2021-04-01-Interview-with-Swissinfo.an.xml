@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Jonas Glatthard" id="Jonas Glatthard" showAs="Jonas Glatthard"/>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+                <TLCPerson href="/ontology/person/::/Bruno Kaufmann" id="Bruno Kaufmann" showAs="Bruno Kaufmann"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2021-04-01 Interview with Swissinfo
+                </heading>
+                <speech by="#Jonas Glatthard">
+                    <p>
+                        First, I’d like to hear your perspective from Taiwan. We here in the West, 15 years ago when social media started, we thought that it is good a tool for democracy. We had the Arab Spring where people could express themselves and yet sneak under the radar of censorship.
+                    </p>
+                </speech>
+                <speech by="#Jonas Glatthard">
+                    <p>
+                        Nowadays, social media aren’t viewed as much as a gain for democracy. We talk much more about the problems like hate speech or fake news. What’s your perspective from Taiwan between this cyber optimism and pessimism?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I don’t think often in the frame of optimism and pessimism. I often think in the frame of a prosocial, civic infrastructure as opposed to a antisocial, more private sector infrastructure.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For social media, could be antisocial or prosocial and remain social, just as we have the gathering places of people who talk about politics in a structured way in a town hall, in a public debate in a park, in an academic setting.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now, these are public infrastructures. People can talk about politics in a very noisy bar, in a nightclub where people have to shout to get heard with addictive drinks, private bouncers and so on. That’s also talking about politics but maybe not very prosocial.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As with these physical spaces, we too in the digital space have different configurations of social interaction. In Taiwan, the Sunflower Movement, by and large, created our own communication infrastructure, in a way that’s often called situation or applications.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Like we code the digital spaces when the demands of the emergent communication needs in the occupied area arise. We don’t retrofit ourselves to the more antisocial corner of social media. We get to shape the interactions the way that the participants want. That has been the case in Taiwan for quite a while, for the past 25 years.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, the PTT is a National Taiwan University subsidized student pet project. It remained free of advertisers or shareholders. In a sense, it’s an extension of the National Taiwan University campus rather than a random nightclub. This is my frame looking at this.
+                    </p>
+                </speech>
+                <speech by="#Jonas Glatthard">
+                    <p>
+                        If you stay with this picture of the nightclub or public park…Also in the public park, you need some guidelines on how to behave, what is acceptable, and what should be…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The town hall isn’t just a hall, right? The town hall is a set of norms on how to take turns speaking and listening. These norms are important as well.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The Taiwan idea of “democracy as a form of technology” captures this norm very well, in a sense that if anyone think there’s something wrong with the existing democratic process, people don’t demonstrate just to protest. People demonstrate to demo, to show how things could work better just as we can try out different software layouts or designs of public parks.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There is a civil society organization in Taiwan specializing in co-creating children’s parks.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s very innovative. [laughs] We can try similar things when it comes to digital democracy participation methods as well. I want to emphasize that, whereas last century, people often said, “You have to have literacy to participate in democracy.” Nowadays, we say, “You need to have competence in order to participate in digital democracy.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The difference between competence and literacy is that literacy is about the receiving end. Competence is about co-creation.
+                    </p>
+                </speech>
+                <speech by="#Jonas Glatthard">
+                    <p>
+                        How do you achieve this competence?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        By making sure the very young people, instead of saying to them that, “You have to be an adult to participate in democracy,” we say, “No, go ahead and start your citizen’s initiatives.” More than one quarter of citizen initiatives are digital democracy platform are started by people younger than 18, and very impactful as well like banning plastic straws in our national identity drink, the bubble tea, among others.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They care a lot more compared to your average 40-year-old, which is like me. [laughs] A very young person like 17, or 16 years old, tend to care even more about long-term impact of our collective decisions, because they are at a receiving end of environmental pollution or climate change.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They have the national ally in the people who are 70, or 80 years old, because these more senior people also spent a lot more of their time thinking about the common good of the future generations as well. They tend to dominate the agenda setting in the initial citizen’s initiatives.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What’s important here is this lifelong learning, intergenerational solidarity, reverse mentorship, making sure the very young people get to set the agenda, so that they feel included in the democracy even before they turn into an adult.
+                    </p>
+                </speech>
+                <speech by="#Jonas Glatthard">
+                    <p>
+                        I’ve seen that you have to fight fake news. You have this slogan, “Humor over rumor.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Humor over rumor.
+                    </p>
+                </speech>
+                <speech by="#Jonas Glatthard">
+                    <p>
+                        You have fact-checkers.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, many middle schoolers among the fact checkers. It’s part of competence, too.
+                    </p>
+                </speech>
+                <speech by="#Jonas Glatthard">
+                    <p>
+                        [laughs] Do you have similar tools or ideas to fight hate speech for example, on the Internet?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When people flag something as spam to the counter-infodemic tool even into an encrypted channels such as Line, there’s no ecosystem. There’s the Virus Buster from Trend Micro. There’s Meiyuyi from Whoscall. There’s Cofacts, the original one from g0v, and you can flag video or pictures or text.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It doesn’t have to be…This information is the intentional, untrue things that harms the public good. It could also be scams, like the original email junk mail. [laughs] A lot of those are still around in these messaging channels and also hate speech.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When these are flagged, the dashboard on the Line platform shows what’s trending, what’s going viral without saying whether this is disinformation, scam, hate speech, or something. Very neutral, like these messages are going viral.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Some of them may be true, so we may have discovered a way to package better journalism, the news into something people like.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What’s viral is not necessarily toxic. When it is toxic, the early detection enable the humor over rumor to take effect. Because if you wait until a week after or even just one night, then people already associate these viral memes with long-term memory.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If we see in the same new cycle, say within the couple of hours, we roll out a comedic response as something that motivates people to share enjoyment rather than in retaliation or discrimination or revenge, and then people feel much better.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Like the young boy with pink mask example. If after receiving this call from this young boy saying, “I don’t want to go to school, because all I got was pink masks.” Say if we punish classmates that bullied the young boy, that will actually lead to the reverse effect because people will start attacking each other.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because the medical officers, including Minister Chen, wore pink and say Pink Panther was his childhood hero. This is humor over rumor, and make sure that people focus on the issue at hand. The PPE. The color doesn’t matter.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Gender mainstreaming, instead of focusing on specific people or group of people that did this bullying in the first place. The key here is early response. All these playbooks don’t work if you have to wait for a few days before responding.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Jonas Glatthard">
+                    <p>
+                        Is this something that the commercial private platforms should do themselves as well or is it better if the broad public works on that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is like asking whether pollution and environmental standards should be done by the economic sector or by the public sector. The right approach depends on the jurisdiction. The idea is always the social sector must move first. The people need to be aware that there is climate change, that we need to demand circular economy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then the people, the social sector, will apply pressure, both to the public sector to set the regulations to provide research into better alternatives to the academia to innovate, as well as to the private sector to do damage control, maybe carbon capture or something, which is a form of damage control. It doesn’t matter as long as we end up with what I call people-public-private partnership.
+                    </p>
+                </speech>
+                <speech by="#Jonas Glatthard">
+                    <p>
+                        In general, are you against the idea of private commercial social media platforms?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m thinking that if they are willing to act in a prosocial manner, a lot of their existing infrastructures could be positive. On the other hand, if they don’t work in a prosocial manner, in Taiwan, they understand they may face social sanction. This is just like any trade negotiation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When the people already have a very firm idea on what is considered the norm, then the multinational media companies that violated the norm will face a lot of difficulty of uptake if they persist in a way that violates those social norms.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If the public sector regulates them without a found social norm on the sorts of things, for example, around campaign finance transparency, then, of course, the social media may just ignore the state altogether.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, because it’s the civil society literally occupying the parliament demanding for transparency, literally walking into the National Auditing Office, bringing out carbon copies of the campaign expenditure report and massively OCR, optical character recognition, efforts that turn them back into structured data.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This hard fought and won radical transparency in terms of campaign expenditure became by default the norm, which is why Facebook cannot refuse the popular social demand for them to turn the political and social advertisements into real-time open data so that no dark pattern is possible. Foreign interference or sponsorship is simply banned, similar to how campaign finance works.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We didn’t pass a law for that. It’s entirely social sanction.
+                    </p>
+                </speech>
+                <speech by="#Jonas Glatthard">
+                    <p>
+                        That’s interesting. Bruno, do you have something to add to that?
+                    </p>
+                </speech>
+                <speech by="#Bruno Kaufmann">
+                    <p>
+                        Yes. I may follow up on real life on this issue of social control in the digital age. I, just yesterday, had to report about the debate or the issue of H&#x26;M in China where the social response to the H&#x26;M indication that they don’t want to buy cotton from Xinjiang province that was to be set by the foreign ministry. This is the free social response to this.
+                    </p>
+                </speech>
+                <speech by="#Bruno Kaufmann">
+                    <p>
+                        Obviously, we all know that this is a very limited reality in that. The question of social control in the digital age, what are the necessary frameworks for this to work properly? We also know that social controls in paternalistic societies often have been used in an anti-democratic way.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The thing is that the language is – I don’t want to say polluted – is ambiguous when we talk about things in the PRC regime. They have this word called social credit, but it doesn’t mean the same thing as when we say social credit.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, when we say somebody has a lot of social credit, we mean something like they maybe had a local farmer skilled. Maybe they run a local credit union. Maybe they go to the worshiping places and gets a lot of respect for visits. We don’t mean that the state or provincial…Taiwan doesn’t have any provincial government anyway.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The state government somehow assign them an arbitrary number for complying with whatever algorithmic ratings that state dictates. The word “social,” the word “credit” is repurposed to mean something entirely different within the PRC regime.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The word “transparency,” we’ve being talking about making state and social media company transparent to citizens. If you go to the PRC and they talk about transparency, they mean making citizens transparent to the state.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I don’t think it’s possible at all to talk about social control in the Beijing case, in the Taiwan case without twisting the words “social” or “control” to mean essentially opposite things by the same word. I try to disambiguate.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now, to go back to your original question, I think the H&#x26;M case is interesting because we do not actually see a lot of people clamoring for the same kind of boycotting now.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The more influential sports circles in the PRC, it seems to be limited to the arts, especially performing arts and YouTubers and so on circles. It’s quite clear that if this is a real popular demand, then it could not narrowly define its scope of action.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If people are going to the physical stores to protest and so on, then they would not make a very clear-cut difference between, “Hey, this is a artist, but that is a national sport.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It seems to me that it’s heavily scripted. You can see in their state media that such scripts are published by the state media. They warn about, and I quote, “The bad actors infused into this boycotting action” – warn people against those so-called bad actors. All this seems to me that this is basically, heavily scripted.
+                    </p>
+                </speech>
+                <speech by="#Bruno Kaufmann">
+                    <p>
+                        To stay there one more second. I talked to the CEO of H&#x26;M yesterday as a journalist about that. She tries to find a way not to give up their sustainability ideas, and she wasn’t complaining about this. Is there out of a Taiwanese experience because there’s so many Taiwanese companies active in PRC?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Definitely.
+                    </p>
+                </speech>
+                <speech by="#Bruno Kaufmann">
+                    <p>
+                        Which lessons could others take from the Taiwanese experience on these issues to not compromise your own values?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The simple answer is this: Don’t compromise your values.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The main thing about world trade negotiation, or really any negotiation is that if your values are coherent, then the constituency either your shareholders or stakeholders, your citizens and so on, eventually gets to know you more. In the Sunflower Movement, each NGO deliberating about one aspect of this TSSTA basically did that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When people generally agreed that we don’t allow the PRC components into the 4G telecom infrastructure, we don’t name specific brands. This is not about against ZTE, against Huawei or against anything. This is about realizing that the PRC can through party branches or whatever plug-and-play leadership in the so-called private sector at any given time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We have to do risk assessment whenever there is a firmware upgrade or wherever there is a CVE against such software or hardware. By purely pragmatic reason, people agreed that it’s actually a lot more expensive. We have to keep doing systemic risk analysis, every upgrade. Such a value-based conversation is not actually ideological.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You can see that there is very, a clear pragmatism instrumental use of value here. Then this deliberation, this wide conversation made it more solid, so that we can stand before say WTO and say, “The PRC is not a full member, is just an observer in the GPA anyway and because of this system of rigorous analysis, we are not going to allow them to open procurement tenders and so on.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Do something like that with broad conversations among stakeholder in the society, and your values will be stronger without going ideological.
+                    </p>
+                </speech>
+                <speech by="#Bruno Kaufmann">
+                    <p>
+                        Very, wise. Now, when it comes to Taiwan, I have to say that I followed your democratization for a long time and have visited your country 24 times since 2003.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        OK.
+                    </p>
+                </speech>
+                <speech by="#Bruno Kaufmann">
+                    <p>
+                        I have worked with the Taiwan Foundation for Democracy and with your government colleague, Lin Chia-lung. What I followed very much is also the democratization of democracy in a way that there are more tools. There are more features of making people being involved in the legislative process through direct democracy.
+                    </p>
+                </speech>
+                <speech by="#Bruno Kaufmann">
+                    <p>
+                        My question to you is, many things in Taiwan, when it comes to offline politics are very, intense, very vibrant, but also sometimes not allowing time to reflection and things becomes very powerful. How do you see that the digitalization of democracy and the democratization of the digital world fits together here when it comes to these citizen initiatives and referendums?
+                    </p>
+                </speech>
+                <speech by="#Bruno Kaufmann">
+                    <p>
+                        Do you feel that Taiwan has learned a lot of lessons in the recent years on this?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, definitely. First of all, this national referenda tied with mayoral election really showed everyone, first of all, how the quality of life [laughs] for people counting the votes suffered, because of the long lines. Also, because you mentioned Lin Chia-lung, how interesting it is to have a election law that says you can’t campaign on the election day.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        On the other hand, having a referendum law that says some campaigning is possible, or referenda, and then have mayoral candidate starting referenda. [laughs] All the interesting interactions were explored in 2018. It’s a really interesting exercise. After that, of course, the legislature changed their referendum act, so that now we’re alternating years schedule.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        One year of voting for people, one year for voting for ideas. Then voting for people and then voting for ideas. That’s solves the temporal issue. Each referenda now has plenty of time for all of society conversation. Even if we are to introduce digital say signature collecting for example for the referenda it will not interfere with the election itself because it’s after all alternating yes.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There is no exponential return or capture by people starting referenda but to capture the presidential or the mayoral seat. This is all very good in theory, but we have not put the theory to test. This August the theory would be put to test and add to that the twist that one of the referendum topic is to go back and tie the referendum and the election together.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I guess this is a very meta, even the way to do democracy is being democratized.
+                    </p>
+                </speech>
+                <speech by="#Bruno Kaufmann">
+                    <p>
+                        I still remember in 2003, I proposed to the then president to have a referendum about the referendum law.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s precisely what’s happening now. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Bruno Kaufmann">
+                    <p>
+                        Exactly, but I mean the decoupling of referendum days and election days is what we in Switzerland have done for 100 years. It’s obviously an asset to focus on issues and on elections separately. What I wonder a little bit is this experience you have mastered very much with these participatory tools involving people.
+                    </p>
+                </speech>
+                <speech by="#Bruno Kaufmann">
+                    <p>
+                        You get people who are really interested and willing. While in a referendum you’re inviting basically everybody and especially older people who are maybe unhappy with the government in place. How does these two worlds fit together in your review? Are they complimentary or are they in a way antagonists?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They’re not antagonists. They can’t be because we have universal broadband access. As I mentioned this, 70 or 80 years old are quite active. We have in the joint platform for example that’s anywhere from 8 million or 10 million visitors a year out of country with 23 million.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The national health insurance app has more than 10 million people using it as a data collaborative access tool. What I’m trying to say is that easily half of the offline participants are also online participants. By definition these are not antagonistic groups.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        On the other hand it is quite true that on the digital world it’s easy to explore many options at once. That is to say if you don’t like additional service maybe you make one on your own. You don’t have to wait for anyone’s permission compared to if you don’t like the local park, you can’t just build anywhere on the same ground. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There some fundamental difference between digital actions and physical actions. What a digital democracy platform excels at is to make sure that those alternate divisions are explored in a way that allows for simultaneous experiments.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Maybe through sandbox application, we have different municipality trying out different configuration of say self-driving vehicle just that’s a really good example, or through the online mask availability map we have hundreds of people coding different visualizations, some as chatbots, some as voice assistance, or whatever of the PPE distribution.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Again, it’s non-rival. It’s non-exclusive. The participation tools allow people to enjoy this non-rival roles co-creation so that in the things that are concerning physical action people still remember that we are a polity after all. That we have much more in common with each other, the common values despite our different positions.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then, they get to do with them essentially very difficult rivals decisions. Even the people who lost feel that they can live with it. That’s also the Swiss idea.
+                    </p>
+                </speech>
+                <speech by="#Bruno Kaufmann">
+                    <p>
+                        You said that in the digital world there’s this hunger to try out things on the local level. When it comes to let’s say citizen initiatives and referendums, I mainly see the dynamics on the national level in Taiwan not so much…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There were also local levels. There’s gambling referenda in the remote islands and so on. The press or the politicians, they focus on the national referenda not because these are national issues per se, but because the Taiwanese Constitution itself is the main point of contention for the major parties. This is a very unique phenomena.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I wouldn’t classify the constitutional referenda level to your usual national policy level. If you take out the constitutional level debates, then you get a pretty normal distribution between normal local issues and normal national issues.
+                    </p>
+                </speech>
+                <speech by="#Bruno Kaufmann">
+                    <p>
+                        I remember very well witnessing on Penghu Island in October 2009, the first valid referendum in Taiwan history. It was about gambling. But at the national level, the first popular votes on issues concerned constitutional matters.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes, the first few national referenda was all about constitutional issues. There were no other issues.
+                    </p>
+                </speech>
+                <speech by="#Bruno Kaufmann">
+                    <p>
+                        That’s right. Thank you very much. Jonas, do you have a final question?
+                    </p>
+                </speech>
+                <speech by="#Jonas Glatthard">
+                    <p>
+                        No, I’m good. I think we have pushed our time to the limit. [laughs] Thank you very much.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Excellent. I will send you the video. Do you plan to publish as text or as video?
+                    </p>
+                </speech>
+                <speech by="#Jonas Glatthard">
+                    <p>
+                        Mainly as text, perhaps we will take a couple of snippets from the video.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s good. Usually we publish after you publish. Whether you prefer us to publish as video or transcript or you don’t care, just let me know. Let me know when you publish then we will publish after this.
+                    </p>
+                </speech>
+                <speech by="#Bruno Kaufmann">
+                    <p>
+                        We are publishing in 10 languages. This will be part of a series on freedom of expression and the whole debate about social media and democracy. We also have started to publish most of our Chinese language publication in Traditional Chinese.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Excellent, awesome. That’s it for now, then. Live long and prosper.
+                    </p>
+                </speech>
+                <speech by="#Jonas Glatthard">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Bruno Kaufmann">
+                    <p>
+                        Thank you very much.
+                    </p>
+                </speech>
+                <speech by="#Jonas Glatthard">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
