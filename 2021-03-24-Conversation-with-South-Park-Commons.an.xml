@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Aviv Ovadya" id="Aviv Ovadya" showAs="Aviv Ovadya"/>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+                <TLCPerson href="/ontology/person/::/Tao Chuchun" id="Tao Chuchun" showAs="Tao Chuchun"/>
+                <TLCPerson href="/ontology/person/::/Ida Wahlquist-Ortiz" id="Ida Wahlquist-Ortiz" showAs="Ida Wahlquist-Ortiz"/>
+                <TLCPerson href="/ontology/person/::/Pen-wen Lin " id="Pen-wen Lin " showAs="Pen-wen Lin "/>
+                <TLCPerson href="/ontology/person/::/Zack Polizzi" id="Zack Polizzi" showAs="Zack Polizzi"/>
+                <TLCPerson href="/ontology/person/::/Ben Bregman" id="Ben Bregman" showAs="Ben Bregman"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2021-03-24 Conversation with South Park Commons
+                </heading>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Hello.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Hello.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Welcome.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Is the sound and video getting through?
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Yeah, we can see you and hear you loud and clear. Nice to meet you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Very nice meeting you.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        One second. I’m figuring out some stuff with me. I seem to have lost my own video feed.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I can hear and see you fine.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        OK. Excellent.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (pause)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        We’re going to take a few more minutes, let people come in. Everybody seems to be all smiles. While we’re waiting, we have a few questions that were very, very low rated in the end the Pol.is thinks we can ask you those, it’s like, what is your favorite color?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        My favorite color is transparent, like opacity zero.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Excellent.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s exactly right. In terms of RGBA the A part is important here.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        I’m curious of any crazy things that have happened for you in the last few weeks, surprising things that one might not expect.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Surprising and interesting, or surprising and bad?
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Anything interesting, reckoning a role where you probably run into weird things happening. Let’s put it that way.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        A couple of days ago, I was in the 中山 University (National Sun Yat-sen University) in Kaohsiung. It surprised me that they have a new graduate level study dedicated for social innovations, a Master degree. They don’t have any traditional classes per se. This is all about using the SDGs to work across sectors, the research agenda.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This surprised me because it’s a national state run University and the class design and so on, it’s considered public infrastructure. It’s quite surprising that they go all the way instead of doing cross-discipline, like two different disciplines together, they become anti-disciplinary.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This may not be surprising in say, MIT Media Lab, [laughs] but in a more traditional state-run University in Taiwan is quite surprising.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Yeah, I know that that’s fun. We’re going to wait for a few more people to join before we dive in, maybe another two to three minutes. This is a way to introduce SPC in general also. I want to thank Christina for helping make this happen and Kathy for jumping in to be a backup in case my video drops out or something else goes wrong.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        We go to the next question that was at the very bottom of the rating list, our favorite animal.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Homo sapiens.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Excellent.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Homo sapiens sapiens. You’re all my favorite animals.
+                    </p>
+                </speech>
+                <speech by="#Tao Chuchun">
+                    <p>
+                        I was thinking about that monkey and my husband use that on us. I’m from Taiwan, so my English is not perfect.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        [laughs] OK.
+                    </p>
+                </speech>
+                <speech by="#Tao Chuchun">
+                    <p>
+                        I don’t know that. I don’t call human Homo sapiens. That make sense. I do learn that before [laughs]
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        I am kind of monkey.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        I have a question for all of you who know how to use Google Meet better than I do, which is, how does one turn the video for yourself on if you somehow manage to turn it off?
+                    </p>
+                </speech>
+                <speech by="#Ida Wahlquist-Ortiz">
+                    <p>
+                        There’s a little this thing that looks like a filmmaker’s apparatus, that’s the thing you need to press. If you don’t have your video on it shows a diagonal line.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        No, my video is on. You can see me from what I understand.
+                    </p>
+                </speech>
+                <speech by="#Pen-wen Lin ">
+                    <p>
+                        You see yourself in a very tiny box on the upper right.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        It is not there anymore.
+                    </p>
+                </speech>
+                <speech by="#Zack Polizzi">
+                    <p>
+                        You got to close, though, meeting details.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        I see. That’s cool. Awesome. That one piece I missed.
+                    </p>
+                </speech>
+                <speech by="#Zack Polizzi">
+                    <p>
+                        My question is, how do you page over to the second page of videos?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You mean to the second square?
+                    </p>
+                </speech>
+                <speech by="#Zack Polizzi">
+                    <p>
+                        Yeah.
+                    </p>
+                </speech>
+                <speech by="#Ben Bregman">
+                    <p>
+                        This is such a great use of everybody’s time.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        We will start in one minute. I just wanted to make sure that we had a chance to have everyone come in here and think we’re basically there. Hopefully, you cannot hear the sirens outside.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        I just want to introduce — first, thank you all for being here — just introduce South Park Commons. It’s an entrepreneurship and exploration community and fund based in San Francisco, brings technologists, who are looking for their next venture, mission, and passionate about making a positive impact.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        The number of SPC members are working on projects, the intersection of tech and government. It’s very exciting for us and for the guests who have joined.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Audrey Tang, if you’re here, she needs no introduction, but the very short version is Taiwanese cabinet minister, the first openly non binary minister in the world, as far as I’m aware. It’s open source projects and consulted for organizations including Apple, Wikipedia. There’s a billion more things that one could say about you.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        I’m just myself as context. I’m Aviv Ovadya. I focus on ensuring that our information ecosystem has a positive impact on society and doing that in a variety of roles, including my organization, the Thoughtful Technology Project.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Having set that stage, so the context of this conversation is around, how can we help use technology in order to improve governance and create a better world and learning from what Audrey…You’ve been in the trenches, and now you’re at the top in some ways. You’ve seen a bit of both. You seem you’ve been in…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Trenches. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        You’re no longer in the trenches, let’s put it that way. Understanding pragmatically, what one learns in that, and also specifically there’s a bunch of tools that you’ve been excitingly sharing with the world. Just understanding, not just look, here’s some tools that are exciting, but also here’s how we can apply them, and here’s where we don’t apply.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Methods for aggregating preferences of citizens, communication approaches by governments to countering misinformation. Those are two large areas. Till there, how did you end up where you are right now?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Because I’m having a chat room chat with Ben Bregman about innovation degrees being out of there, so I might as well start there.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The point of me being the minister at large and in charge of social innovation is that I’m not actually in charge of any specific innovation. I’m in charge of the social context in which innovation could happen with everyone, that everybody’s business with everybody’s help.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That renders this position more evergreen [laughs] means that it’s less likely to be out of date when you’re not the person doing the innovation [laughs] making an environment where innovations happen.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Continuing under state funded infrastructure bit, Taiwan is quite fortunate to have even before we democratizing our own president in 1996, we already have decades of the social sector.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The co op movement, the Homemaker’s Union in particular, about environmental changes happening from consumer co ops, as well as a lot of community building stuff, disaster relief stuff and things like that. Those social sectors play a large part in the early forming of the civil society during the Internet boom, even without any democratic representation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When I was 15 years old, my first exposure to democracy is through the IETF and many others like W3C the pure community, and so on. Where anyone with an email address like 18 years or not going to participate in the rulemaking of the core of the Internet.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        To me, democracy is always a form of technology in Taiwan, of course, adopted representative part of it, but because the Internet was already around and so a lot more participatory, deliberative, and things like that, are part of our expectation of democracy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, not having the legacy system of hundreds of years of Republican tradition allows us to think about constitutional changes, referenda, Presidential Hackathon, sandboxes, and so on, from the very beginning, instead of having to work through the silent revolution of the career public service.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The public service also grew up thinking Internet and democracy are the same things. Long story short, in 2014, I helped occupying our parliament in a demonstration when the Beijing trade deal was Taiwan was being passed without the line by line, paragraph by paragraph, deliberation, but citizens.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The theory of change is that the students and people, civil society occupied a parliament to do the work that MPs were refusing to do. That was the legitimacy theory. The demonstration is not about protest, is about a democracy as in democracy scene.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We showed that was half a million people on the street and many more online with open space technology, nonviolent communication, dynamic facilitation, and all those great social technologies.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We can get to a rough consensus about the trade deal with the fourth demand and not one less [laughs] being tossed out by the 20 or NGOs and the people on the street after three weeks. The head of parliament then agreed with that, thoroughly ratified that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        After doubt no mayors that refused this open government could get elected at the end of that year. Every mayor that elected some time, surprisingly, are all embracing the open government agenda regardless of parties.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I was hired along with other occupiers as reverse members to the cabinet, working on the consultation technologies for the things that we don’t have traditional representation with. For example, after Uber drivers didn’t have a union back then. Health workers didn’t have an association at the startup. The registrant came in line and certainly didn’t have a trade union.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        These people, how do we get their ideas into the rulemaking process became the vTaiwan process and afterward the Pol.is process. After a couple of years working on that in 2016, I was then promoted from an intern to a full time job. That’s my story. I’m still working with, not for the Taiwanese government.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Interesting, we say, “With not for.” what do you mean by that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I don’t give orders. I don’t take orders. This is exactly as in standard making work. I’m more like the editor in the IETF sense or a chatroom moderator for people who haven’t been to IETF editorship.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The point is that I get people humming quite [laughs] literally within the same space humming into rough consensus or through Pol.is and other platforms such as the joining the .gov.tw platform.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We make sure that any citizen — They may not be a voting citizen — There’s more than one quarter of the citizen’s initiative started by people who are not even 18 years old. About, say, banning plastic straws, or national identity drink the proper tea or many other ideas. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When those 5,000 people join Encounter Signature, we can meet them in face to face meetings. I only facilitate meetings were ordered the other ministers to do anything.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Neither do I help the minister to convince the civil society of anything. I make such a space that it’s possible to talk about shared common values despite different positions and innovate to deliver those values.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s my condition joining the cabinet, there were three conditions and this one, voluntary association is the main one. The other two being radical transparency. Everything that I meet, including this meeting, will make a transcript after co editing, will publish the transcript up to the Commons. The other is location independence. Wherever I’m working, I am working.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        That is interesting and I think the idea of being a facilitator minister. It’s similar to being representative, but it’s very different.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I call it the lower-case minister. As I help, I don’t know, run ceremonies and hear confessions and so on. That sort of minister.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Interesting. There’s a lot to dig into that. You mentioned Join, you mentioned Pol.is. There’s so much there. I guess maybe one place to start is you tell the story in many cases, and it’s recommended reading for everyone who came here to read it. That includes the…and so on, and using all this to navigate that.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        There’s this question of — from what I understand it and you can correct me if I’m wrong — the way in which…I would say Pol.is has not become mainstream within Taiwan in the same way that Join has.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s one of the tools Join uses. It’s Pol.is.gov.tw now, meaning that it’s a permanent part of the government public infrastructure. We use it when the situation calls for it. Join, of course, use many tools Pol.is just being one of it.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        For context for people here, you mentioned very briefly, you want to describe, Join, Pol.is, and what connection between them.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Join.gov.tw is this one stop shop for petitions. I already mentioned regulatory preannouncement in that is called something like regulation.gov was a better commenting system and participatory budget. The National Audit Office also publish all the infrastructure project there for people to feedback during the lifecycle.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        On join.gov.tw the municipal as well as the central government, engage the people in the here and now, usually in iterations that’s ranging from a week to at most 60 days. Because of that, the iteration cycle is much faster making a bit rate of democracy higher compared to three bits per person per four years. It’s called voting.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Pol.is is when on the joint platform we encountered such cases where no single ministry can call the shots or the ministries even differ from themselves, where the agenda setting is emergent and the civil society or the government doesn’t have to hold onto what’s the agenda.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We need to map out in terms of the first time and to discover fully the points instead of try to converge so quickly. In that cases, we use Join platform two to run Pol.is consultations. Pol.is is an open source tool. Anybody can run it. Many media, people use it, but we run that as public infrastructure.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Join channels through to Pol.is when certain criteria met. Anyone can start a Pol.is conversation. They don’t have to care about those criteria.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        I started one to help input from for this conversation itself.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You create a Pol.is report. You can do so from…If you can paste the report link, that actually helps us navigate it.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        This is the report here and that was partly to have people have an idea of what we’re talking about.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        When we’re talking about Pol.is and also to collect questions and see. I don’t think this is the right purpose for it exactly, because we don’t have different constituencies or very different perspectives.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        I’ve seen that being the sweet spot of Pol.is as a way to extract, here is a set of perspectives from this group versus that group.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There are still controversy, though. The most controversial statement thing are there any ways in which you would consider yourself ideological so that the term ideology, even in such a very homogeneous group is still divisive. That’s a good thing.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Yes, I know it’s very interesting to see what sort of bumped up. This sort of gets at, one of the things that I wanted to understand…There are a lot of obstacles that come up when you try to introduce these technologies into governance, especially where people are afraid of their own reputations on the line, their own status building empires on the line, like inertia.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        How do you see the navigation of that? How have you been able to help overcome some of those barriers to get this stuff implemented?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Inertia doesn’t mean that it doesn’t move. It means that it moves towards the path of the least resistance. The career public service, as a rule moves toward anything that reduce their risk, anything that saves their time. Then more interestingly, anything that improves the mutual trust.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They’re not fungible in the sense that you can’t say let’s make a tool that improves mutual trust at a cost of increasing risk and wasting your time. That’s just not going to happen. Our theory of change very simply put, is that we only introduce changes that are Pareto improvements that improves upon the risk situation, the time situation, or the trust situation without any sacrifice to the other two, in either of the civil society or the government department.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We don’t introduce things that makes the citizens easier to access the store service at a client’s expense of career public service and so on. It has to be true Pareto improvement. Because of that, we really need onsite customers, which is why I, in my office, pretty much all the people facing ministries send secondments to my office.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They have to vet all the ideas that we introduce to make sure that they don’t sacrifice their core values or to reduce their time, but I increase their risk exposing their ministries at risk. When I say, “When we introduce the ideas”, that’s not even true. I didn’t come up with any ideas. It’s all theirs. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Korea public service in co creation with the civil society people to start ideas like, “Hey, let’s use Pol.is for this one”. I’m mainly just a risk absorber. If this goes hardly wrong, it’s always Audrey’s fault. That helps to push changes because for them, if it doesn’t work, then it’s Audrey’s fault. If it does work though, their career change for the better.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Are there lessons here for those who are pragmatically trying to introduce such tools into other environments? Let’s say whether in we’re introducing that to a local government, or a national government, or a state government, or community.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        One of the challenges I see that I want to get at, if you had to directly overcome, is people who really want to own something and you’re sort of, “There isn’t a Pareto improvement ownership.” It’s very hard to say, “We’re going to do this and you’re going to own it.” You may get some other benefits.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        I want to understand how to introduce these things, and also how to handle the challenge of ownership.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I will not quote the entirety of the, “Nesta Collective Intelligence Design Playbook,” but I will just…
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        No we can wait, yeah.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s a full toolkit and playbook for it, but I’ll just quote some simple tactics. The idea, very simply put, is that if we make sure that we only apply things of collective intelligence to the things that the career public servants or the politicians have no idea what to do.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then, the result, even if it’s pure noise and no signal at all, it’s not a bad thing compared to the businesses’ usual situation. Actually, it’s better because everybody see the mess that we’re in. That’s by definition good for the mutual trust axis, if not for the other two axes.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The thing is choose your battles. Choose the things that the career public servants and the politicians have no idea what to do, where the stakeholders are dynamic and emergent. Thanks to the increasing global scale problems, these problems are now more of the norm.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Of course, the kind of “conter pandemic with no lockdown, counter infodemic with no takedown” was our flagship examples. The same could be said on pretty much any emerging technology, like how to make AI assistive rather than authoritarian intelligence.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s another thing that the politicians would really like to think with the people because it’s impossible to get even the simple ideas across if people do not think about this from their own experience.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Building these mutual experiences is the best thing about those collective intelligence exercises, in that people would entertain other people’s ideas, even downvoting, “What’s your favorite animal?”, downvoting, “What’s your favorite color?”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It still puts the comments into a mood, a feeling around each other’s resonant feelings. Even if it’s trolling, people collectively call it trolling, and then trolling become less of a problem because you’ve called it out, and then it became a social object.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Such impact to the community is always positive if people think that they have learned something in exchange to…Just a couple minutes joining in this exercise is always a good deal. Don’t make it like you have to commit two months into this process because then the expected return is much higher than any emerging team could deliver.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        One thread I see here is to find the place, people are already having trouble where they already need help and show them these tools, these new collective intelligence tools help them solve those problems by going to the place where they already don’t want to have ownership. You’re getting the risk.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They couldn’t even imagine what ownership about this problem.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …might as well let go of it. That’s the main point.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        I feel like that’s phase one. You seem like you’ve gotten through phase one. Now, this is a map, it’s like there, but let’s say there’s hot but an issue that’s polarizing Taiwanese society. It seems like in that case, it would be great to have a Pol.is to help that out.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, Lin Peng-Wen [laughs] just shared that the media just started its own Pol.is conversation, the best social media platform, and censorship, which is a very hot topic. It’s early elections, but we also have referenda so now it’s pretty much every year.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Every year, this is a recurring topic. It’s great as civil society can just say, “Oh, let’s just use Pol.is.gov.tw, to figure something out. In the analog world, people will say, “Hey, let’s run a town hall. Let’s choose a public park. Let’s have a discussion amongst the community. Let’s put a, I don’t know, pizza party or something [laughs] where people could talk about it.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In a digital world without national infrastructures like Pol.is or Join, people would use instead of say, Facebook, and dislike saying, let’s go to the nearby nightclub where we have to shout to get heard serving addictive drinks was private bouncers to try to figure something out about censorship that probably doesn’t work.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Interesting. This is just one component, because this collective intelligence approach, to do collective intelligence, just one part of the broader challenges of governance. Knowing what to do and talking about knowing what to do, and what’s available. If that was, let’s say, 5 percent of the problem. What is the other 95 percent? Or is 95 percent of them?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That the point here is that if the government can think of itself as a team running governance work, but do not have a monopoly or ownership on the governance work, this is why we say Internet Governance rather than Internet government.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s no Internet government, conspiracy theories. It’s like there’s no cabal, [laughs] and there’s no Internet government, there’s bunches people are running governance projects.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That view, indeed, getting the collective intelligence to get into rough consensus is just five percent of work. Anyone who participates in standard making understands that getting the RFC out. It’s where the work starts. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It means that the people who participate in the process in the working groups and interest groups do not cancel each other out. They use their energy in effective ways that are at most orthogonal, like in divergence, and they don’t run against each other. That’s what this 5 percent of work is all about.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The point is that if all the civil society organizations, if they’re local media, journalists, if even primary school teachers can run such governance projects, then the solution discovery starts in the social sector. They do not necessarily start in the public sector and the public sector’s role is much diminished, which is why I call myself a Taoist, or conservative small c anarchist.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Interesting. One thing that, I guess this whole sort of questions. There’s the example here of social media is this big topic, social media censorship, and now, it’s becoming a conversation.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        The world that I imagined the one that you could be helping us move toward, and as one of the actors here, and demonstrators is a world where on TV, we see less politicians talking, and we see more like Pol.is style visualizations or something along those lines, people are talking about those visualizations, as opposed to what that politician said.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Is that the world that you imagine us moving toward? What are the obstacles that you see toward getting to that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The point of these visualizations is what it shows. For example, the visualizations that we just looked at, says that there’s exactly one divisive statement, and pretty much everything is agreed by all the peoples in the commons. That’s a particular shape of the community in regard to this conversation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now, this may not be surprising to all of you because you already know each other for a while. In a larger polity where people do not know each other, it’s very easy to fall into this labeling, divisive polarized.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        On thinking of this us versus them tribal thinking and things like that, such a Pol.is picture can show to the people that most people agree on most of the things, most of the time with most of each other. It’s just not talked about by the politician.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When, for example, people in Bowling Green, Kentucky saw that everybody wants art to be introduced to the STEM education, making it STEAM because it’s creative education. Everybody wants broadbands diversified and more universally accessible broadband and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They see that people who identify as Republican or Democratic libertarian all agree on these simple things that itself shape the imagination of the polity. My argument is not about increasing people’s voice to the decimating of politician’s voices, like literally cutting politicians down by 10 percent. That’s not what I’m arguing. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What I’m arguing is that the politicians are forced to respond to the agenda set by the social sector. The agenda is this rough consensus shape that unifies the people every time a common agenda is put forward.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Interesting. I wonder, are there ways in which you have helped incentivized the policymakers to take in this public input? What are the things beyond…? You demonstrated it. Are there incentives that you’re able to help put in place besides media pressure of like, “This happened once. You should do it here”?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I wouldn’t give such advices because what’s going to be replicable is not any particular tools but rather a particular approach.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This approach, all of you already know really well. This is the Internet governance approach. This is rough consensus, running code. There’s an RFC about that, actually multiple RFC about that, the Tao of the IETF, the Internet for its users, and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s many documents about it. What I’m trying to do is not to push through any particular technology but talking about democracy as a form of technology.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When more people think about democracy not as a ritual, something that people just blindly repeat but rather is something that everyone can improve the bit rate upon, then there is no wrong approach. People who try out different way to improve the bit rate forking and merging with the existing systems will find their local adaptation to this core idea.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        My main suggestion is to start small, not prescribing anything, and use this more in your daily work. It doesn’t have to be Pol.is. It could be quadratic voting. It could be any new voting systems. Think of democracy more dynamically. That’s my main idea.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        That’s ties to this question of, what are the tools that are most exciting to you? If you could magically restructure an organization — I know that Radical Exchange, or have a new system they’ve set up — what are the things that are most exciting to you that haven’t been implemented at a wide scale?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        A lot of things. [laughs] I think Taiwan’s idea…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is going to sound boring, but when I first mentioned about the social innovation state subsidy of the university infrastructure five years ago, the National Audit Office still did not recognize software work or this soft science work, this kind of work that doesn’t produce tangible concrete, literally concrete [laughs] results as infrastructure budget.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In the Audit Office — and Taiwan is probably not alone in this — only the concrete things that you invest and build, like physical bridges or physical parks and so on, qualify as an infrastructure bill. Everything else is science and technology, and research, and other sort of budgets.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We changed out thanks to the Minister of Culture Cheng Li-chun at that time who proposed that we make 4K pipeline publicly available and use photogrammetry and videogrammetry to capture the historic buildings and national heritage sites into digital doubles, so everybody can use them in computer games.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When you look at the cost of the build, it’s entirely nontangible, or it produces some bits in the National Center for High Speed Computation. It’s so clearly in the creative commons.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We argued very fiercely for the National Audit Office and Budget Office to consider them infrastructure bill stuff, and we succeeded. In our advanced, forward looking infrastructure bill, there’s this part about the digital that doesn’t have to produce any tangible results but, nevertheless, enjoy long term infrastructure investment status.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s not replicated in most of the jurisdictions. To be honest, in Taiwan, in municipal level or township level, that’s still not replicated at the moment. If we are going to make digital public infrastructure, rethinking in the budget office is paramount. Otherwise, as I mentioned, it’s the Facebook of the world doing essentially civic infrastructure in a very massive way.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Not necessarily if there’s Zuckerman’s perspective, to some extent, like building on that. We need to have our governments funding the digital infrastructure that we’re building our world on, things like this Google Meet that we’re in right now. That’s what you’re talking about here. How does the government support and fund that? It’s so core to our way of life and our well being.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Exactly.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        This ties interestingly into one of the other aspects that I wanted to turn this. By the way, we’ll open up to Q&#x26;A in about seven minutes or so. I’m going to have to hop out video temporarily.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Christina and Kathy, if you can hop in to help facilitate that speak because my computer’s not drawing power for some reason, the best time to have that happen. I’ll be back immediately as soon as I sort through that.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        I wanted to touch on this new potential that we have due to things like these large or powerful language models and their interaction with this collective intelligence and augmenting governance tools. Is there anything that jumps out at you in terms of excitement or terror with that?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As a translator and a poetician, I appreciate the new language model work. They’re very inspiring in terms of when I have a writer’s block, I can just look at 10 different or 10,000 different inspiration directions. I wouldn’t trust the automated poets to give me clinical advice. Of course, that’s not its use. Its main use is an inspirational use.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s good to open up people’s imaginations. When people hit a bottleneck in their imaginations, poetry always helps. That’s very exciting to me.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        If there’s actually examples that you wanted to highlight of the use of join Pol.is radar technology, if not, that’s fine. If you have one that you’d queued up, I know I mentioned that in our conversation?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I think the joint platform is at its best, as I mentioned when the ministries have no idea what to do. The two large Pol.is conversations we had last year, on the joint platform we’re opening up mountains and opening up the sea.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, we’re just now doing a lot of regulatory adjustment work to make sure that there’s free access to the higher mountains and the ocean activities and so on. A lot of the issues were from our martial law days where people [laughs] go to the mountains to become gorillas or whatever, and the government really prohibited [laughs] access to those natural resources.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Nowadays, of course, people are able to do the hiking by themselves while making sure that the insurance or the training and so on are taken care of by the social sector. This is a massive deregulation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        On the other hand, how to preserve the environmental sustainability or how to respect the Indigenous culture, that shares this mountain, actually treats the mountain as a spirit. How to give, not quite natural personhood, but somewhat a range of rights enjoyed by those natural beings and so on. That’s not something that a Minister of Interior knows very much about.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s why we held, at four plus five, nine different Pol.is conversations to suss out each dimension of the mountain and ocean policies that’s really successful and directly resulted in new revamped digital services like hike.taiwan.gov.tw, ocean.taiwan.gov.tw.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That basically says, anything that citizens need to make sure that the conversation is better around any particular part of the policy, the government need to publish in ocean Taiwan, its real time open data. That’s open data that didn’t get any human being looking at it. It just published upon collection and therefore reducing the risk and saving time improving mutual trust.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The hike Taiwan is about this one stop just registering to climb the mountains, and open API system takes care of sending the request to all of the competent authorities without requiring people to fill anything twice.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        These are crowd sourced, meaning that there’s thousands of people who think correctly that they have contributed to part of it. This kind of digital service gets massive approval rate even when it’s still in early beta, because people understand if they report something goes wrong in the next quarter or even the next couple weeks, it just gets changed for the better.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If they don’t like it, well the API is open, they can just fork that and build their own system. This is about unlocking the imagination by getting the people to study agenda and joining the development afterwards.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That also answers the 95 percent question because when people are engaged with, they are more interested in developing their own better alternative to existing government or digital services.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        What are the metrics that you’re using to evaluate how effective your facilitation of these technologies? How do you evaluate your effectiveness? Where did you…your aspirations could be?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Usually, it’s a couple of things. First, we do conversations, interviews after each collaborative meeting, each face to face facilitative meeting with the agenda determined by Pol.is or other online stuff.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The main thing that we ask is that do the public service staff that participated view that they could trust the citizens more. This is now the metric that most open governance…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …not the other side of the question, whether the citizen trusts government more. I don’t care about that. I think the government should trust the citizens. The citizens may or may not trust back, that’s entirely the citizens’ freedom.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If the career public service say, yeah, I trust the system more, they bring more signals than I anticipate. They’re not just random protesters, they actually have pretty good ideas and so they are more likely to start their own consultations by themselves afterward.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The main metric is to transform the public service to the citizens and the second is that whether this co creation actually results in qualitative change like genuinely new ideas instead of trade offs in policy making and these two I think are more qualitative than quantitative, but still you can actually measure that using some quantitative methods.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        One of our colleagues is doing a PhD thesis on measuring this trust from the career public services to the citizens.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Right, that’s a interesting insight, and I really like asking about what are your success criteria? I think this is a really good example of the power of that. I want to move this at least partially to open Q&#x26;A. I want to also ensure that my computer doesn’t randomly die. Kathy or Christina, if you can take a question from the audience.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We are having a side chat anyway, but we’re [laughs] less inclined to type, feel free to unmute yourself. There should be a slogan, unmute yourself.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Wait a minute.
+                    </p>
+                </speech>
+                <speech by="#Ben Bregman">
+                    <p>
+                        We could have a…
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        I will offer one more question in the meanwhile here. I’m curious if you have other high level thoughts around collective intelligence, alignment between people, corporations, machines.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Do you have a general framework that you’re using to think about all of these things in the short term, in the long term, in the medium term? How do you approach that? While you’re doing that I’m going to try to fix my video.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        My high level framework is in the form of a poem or prayer, and it’s pinned on my Twitter. I’m sure that many of you have already [laughs] check that out. I’ll read it out because poetry is performative and it goes like this, “When we see the Internet of Things, let’s make it an Internet of beings.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When we see virtual reality, let’s make it a shared reality. When we see machine learning, let’s make it collaborative learning. When we see user experience, let’s make it about human experience. And whenever we hear that the singularity is here, let’s always remember that the plurality is here.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is basically we make possibilities for the future generations because they’re going to be smarter than we are, instead of taking away their agency or their freedom in the service of whatever happens to be trending as a singularity in our current generation. It’s a very simple being.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Excellent. I did see two minutes question moving back up here, which was about how to engage elderly people…I see you did answer in the chat.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They’re very active. The elderly people are very active. The point is not to force them to adapt to technology like using keyboards. Instead adapt to technology to fit whatever.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If they frequent a local town hall, then we make sure the local town hall is connected to the type of social innovation lab or that there’s kind of Real Time VR participation from the people who want to be in the town hall. We don’t take away the town hall from them. It doesn’t work that way.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        By the way, people continue to put questions in the chat, so I can calling you. We have one from Panelle, “How do you see existing software tools Pol.is being used for different stages in the policymaking process?”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is a great one. In Design Thinking terms, Pol.is is great at discovering and a little bit of define. When you want to define into fine grained, how might we question DemoPol.is isn’t enough for that. Pol.is is good in ensuring people’s energy. Do not go in the direction that cancel each other out.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s not very good at getting the final part of definer consensus. It just produced a very rough of rough consensus. We don’t say, for example, that we use Pol.is to make delivery or implementation decisions.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It just points this overarching goal, just like the sustainable growth rate of 17 things that need to happen 10 years from now. It doesn’t prescribe how exactly is going to happen. It just provides some hints about it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        After the Pol.is stage, there needs to be a different set of tools, for example, in the presidential Hackathon quadrant voting. We’re also looking into quadrant funding, which is midway between a grant system and a crowd funding system as experiment and Bitcoin and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This seems more closer to the implementation stage in Design Thinking near the second time. The point is to connect these different tools together, and on the final decision making this finding parts maybe something based on sortations, maybe a mini public, as Taiwan did.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When we decided our universal health care plan, there’s a statistically representative, randomly drawn group of people that the decisions of the final implementation details and things like that. There are different social technologies for a different stages…
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Just to say, you’re saying you used a citizen assembly like mini public?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Back in 2002, 2003 the Ministry of Health and Welfare run at once, and then the Ministry of Culture also did that to determine the direction to transition, the Chiang Kai-shek Memorial Hall, now. Something about ideology there. It’s one of the most hot [laughs] contested political topics here about the Chiang Kai-shek historical definition and mini public help there as well.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Here and there, there’s mini publics, but it’s not as pervasiveness as this Join platform, mostly because this is much cheaper to go with Join and Pol.is is one percent of the cost it takes to run a mini public, but we do run mini publics.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        For context here, mini public, so you can search for citizen assembly, you can search for sortition, they’ve been used all over the world to address all sorts of issues like how Ireland ended up with sorting through their political divides around abortion.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        That’s a very powerful technology. We’ve had a speaker earlier that I facilitated talking about those. What I was curious about following up on that. One thing I’ve been talking to someone who you know, Andrew Konya a lot about the ways in which you can essentially have iterative policies, and that’s a technology was created Remesh, allows you to do that and…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’ve tried Remesh in conjunction with Join in 2015.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        …because that allows you to dig into those details that I think we’re fairly…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s very inspirational. The main thing is that we try to apply pressure at that time for Pol.is to become Free Software and that worked but Remesh didn’t go there. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Pol.is become national infrastructure and Remesh did not, not because Remesh technically have any shortcomings, but mostly and this is also in answering Penelope’s other question, we care about upper case free software. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Especially in the recent news from Japan where Line Corporation have outsourced their hate speech screening or whatever, to some PRC teams, People’s Republic of China teams. That makes me feeling very fortunate that I’ve never used LINE [laughs] for public government work.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’ve said everything ourselves the entire stack run in the National Center of Hihg-performance Computing. There is also Sandstorm.io, which is a cybersecurity product masquerading as a work productivity software [laughs] systems like that.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Highly recommended. Sandstorm is also great. You should check that out to. Kenton’s work I highly respect. Ben asked, “Have been there moments or test your optimism?”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Definitely. Yes.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        …a little bit but go ahead let’s hear the answer to that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’ll be quick. When the mask availability map, where people could queue in line pharmacies, early April last year to get their rationed, was purchased and check on their phone that people’s wiping the national healthcare costs before them, purchased two or four or six masks and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s supposed to be disgraced search innovation to increases visibility, accountability and make sure that people only go to the pharmacies that still have some masking stock. On the same day, many pharmacies independently start a new search innovation, saying, instead of giving them masks, they give them number cards.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Take a number system, and in the evening, they asked them to go back with the cards and exchange for the mask. They process the IC card of the universal health care during the lunch break. On the map in those pharmacies that adopted this, take a number system, using nothing sold for the entire morning.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        During the lunch break, it sells everything. It’s not useful. It’s worse than not useful because it makes people call very angrily the pharmacist accusing them of hiding masks, and so on. There’s a lot of like, Coca Cola Mentos independently good things, and then you put them together. It’s very explosive.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We had to apologize very quickly and say, “We’ll fix that next Thursday.” I had to walk into the pharmacy and ask this key question. If you’re a digital minister, what would you do? Because I don’t have any ideas now. Then they, of course, came up with this great innovation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        A as soon as they run out of those numbers, like use up there in number queue for the day, they could just click a button and disappear from the map.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They simulated even before we introduce such a function by saying that they have received from the government negative 1,000 masks. That makes the stock go into the negative and our system can’t handle it. It under flows I guess, and it disappears from the map.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s another [laughs] social innovation is like white hat hacking. Instead of punishing, the pharmacist we just institutionalized and say, “If you click this button, you disappear from the map for the rest of the day.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Notice that what we didn’t do. What we didn’t do is we didn’t punish one side or the other saying that we favorite this innovation over the other, instead we apologize and say, “Let’s figure something out next Thursday.”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That takes some guts, I didn’t sleep well, [laughs] for the first couple of days, and had to take multiple deep breaths to walk into the pharmacy to ask that question.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        I appreciate you sharing this. This is a further layer than most of the interviews that I’ve heard when you spoken about that justtalk like what broke, and then how you had to resolve that. That was an important lesson to get at.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        The follow up on here was that test your ideological commitments. The example I give is I’ve seen a lot of research that shows that transparency is harmful in many cases. Sometimes government is defined in terms of…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Which is why you’re all invited to co edit a transcript for 10 days before we publish to the Commons. If there’s any part of your speech, that is re identifying of your friends that has trade secret, privacy, or whatever confidentiality requirements, feel free to take it out.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The point of radical transparency is transparency at the root means that it always takes more time to censor than for it to be transparent, which is the default. Flipping the default doesn’t mean that you have to go with the default.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You all can spend a minute or two of time to go through the transcript and make yourself more coherent. There’s no harm in that.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Interesting. The potential downsides that I’ve heard that seem salient is the idea that everything becomes posturing. This is one argument for why the way Senate and the House in the US certain change…because all became posturing lobbyists are involved in that process throughout and when they weren’t before.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s a danger in that. However, if it is a binding decision, that affects the stakeholders that’s not in the room, some posturing to take care of that might not be bad.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        When we talk about future generations, by definition, they’re not in a room [laughs] at the quality of conversation changes when people understand that the future generations will go back and read a transcript. They will not make the decision stouts sacrifice the future generations to make this generation live better.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Multistakeholder realism only works if the stakeholders are included, but there are some stakeholders that by definition could not be included because they didn’t have a voice and probably won’t have a voice for a couple more generations. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The radical transparency is a substitute for the generations down the line. I agree that if people feel the need to have a candid conversation well that’s why we endorse end to end encryption.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As long as it’s not in the binding process where people actually get decisions made, feel free to use any end to end encryptions actually feel free to send end to end encrypted messages even during this conversation. If it’s a result in finding decision that will affect the future generation, I guess, restrain wouldn’t be a bad thing.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        I think there’s a much deeper conversation to sort of get into the weeds of those dynamics, because I can imagine some of some powerful counterarguments. We can type that in enviar.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m sure to add to the limits of radical transparency is just still being sussed out. I’m not saying this should imply in all the branches. On the other hand, the courts never said that there’s trade secret or copyright in any of their arguments. They essentially operate on radical transparency. There’s also some for arguments.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        There’s a sub structure of incentives that determine whether radical transparency is effective or ineffective. It’s more like, if you’re not incentivized to do good in general for people radical transparency can actually backfire versus you’re…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Definitely. The point is that we assume people come with good, at least not bad, not harmful intentions. Radical transparency makes it easier for them to share previously unshared by norm information that would be good for public decisions. Like more information always better isn’t actually true.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        More information from well intending participants always make it better. That’s a safer bet. Malicious actors, trolls and things like that, of course, needs to be taken care of.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Sometimes they run things and so that’s complicated. There’s a bunch of questions here. There’s something here about digital public infrastructure. I guess there’s…OK, let’s digitize them, because that’s maybe a little more self contained, like how do you think about digital identity? Are you considering implementing this?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        To Mohak’s question, there’s this new Gold Card website that’s co created by the people who actually got the Gold Cards and understood how difficult it is. It should be better now because it includes the people who complained the most voices.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If you choose the science and technology one, [laughs] you will qualify. I know this because last Christmas we changed the rules so that instead of having to get a Nobel Prize or a Tang prize, you now only have to prove that you have the potential to contribute to science or technology in Taiwan, which is all of you. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is massively streamlined and simplified since last Christmas. Feel free to check out this Gold Card website, which is our Christmas gift. Now back to the identity question because we only have four minutes left.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        …time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m of course on the WhyID signatory list. WhyID is a great checklist from the human right groups on how to assess the ID policies to make sure that it doesn’t, unfortunately more often than not, exclude people who didn’t have a voice before, and because of ID policy that is centralized, are ended up with even less voice than what they have.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Basically, it could be a inclusive tool but only with very deliberate design. The decentralized ID stuff, the intersectional ID stuff, and things like that, these are really good ways to make sure that we’re freed from the more rigid PKI infrastructure informed ID imaginations. I highly recommend thinking about those.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, we also want to make sure that the IDs are not cross purposes. For example, we do have universal IC card based ID for our universal health care. It’s only used for public services and only when the public service institutions pre register with the national health care infrastructure and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You can stay secure in the minds, thinking if we have this national health care app, you download your X ray scans, you can correct your doctor’s diagnosis. You know which dentist you visited and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s your data. If you authorize DIA SDK to a data collisional collaborative or to dedicate your uncollected mass curation to International Humanitarian Aid in exchange for a non fungible token, that’s entirely…This actually happened. [laughs] This is actually your freedom.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You’re not, for example, randomly getting a non aligned advertisement for precision medicine just because you’re enrolled into the national health care app. There’s more than 5 million people in the 23 million country that uses this digital twin of their national health insurance app. There’s no single abuse from the commercial sector.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We believe this purpose driven instead of problem or project driven based development and learning when it comes to identities.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        I have one final question here, and it takes a little bit of build up. If you have seen the reading, for those of you…I linked to the humor over rumor stuff that you’ve been talking about over the world which is an important and powerful way to take advantage of our existing sociotechnical infrastructure where we have our Facebook, Twitter, they reward this sort of thing.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Let’s use it. Let’s use it to address misinformation. Now, my question to you is, can we get a nice Internet beef going between Taiwan and the US, your president and our president, to help get people to apply these public health measures? What will it take to get something silly, something ridiculous, something dramatic going on between our cabinets and your cabinets?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, well, the US is going to host a democracy summit before the end of the year. We hear that Taiwan is invited. I’ll be sure to mention [laughs] some of those very interesting ideas there if I end up as part of the delegate. We’ve been running with the de facto US Embassy, the AIC for quite a couple of years now on Pol.is conversations.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The digital dialogues, the co hack and of course the presidential hackathon with quadratic voting and so on are also co-organized with the US. In a month or so, we’ll unveil this year’s presidential hackathon challenges. There’s no prize money. If you win the hackathon, you get a trophy from our presidents.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The President will promise as a kind of executive order, a presidential promise, your idea will become national policy in Taiwan. That’s some, I guess, interesting bilateral communication and connection right there. We’re trying to get to other governments to see if they are interested in co sponsoring this sovereign level hackathons, and which is a lot of fun.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s much more fun than those two days or three days hackathons. This is three months hackathon, by the way.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        I found that process interesting. I want to see some good Internet beefs going on between the different cabinet ministries. Now, I know you have one in your existing ministries, but the question you have them between across countries in order to get everyone to be having Shiba Inus wearing masks?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I know. [laughs] These need to come from the grassroots. We didn’t adopt Shiba Inus when we first introduced the night gag orthodoxy, to the participation offices in 2017. They look awestruck, but also like, “How the hell are we going to implement this in our ministry?”
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It takes time for the current public service to change. If the civil society shows an appetite of doing so, especially in the municipalities and townships which are always quicker to adapt, that’s going to create a real ripple effect, as we saw in 2014, after Thailand, and Taipei City adopted this cute, open government communication style in three or four years’ time.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It propagates all the way to the national government. Maybe for this one, it’s easier to go to the municipality, which it’s not bought enough, middle out. To go middle out on this direction.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Thank you so much. We’re already one minute over. I’m appreciate your time. Everyone is welcome to stick around for a little bit and get a bit more context on some of the things we talked about if you don’t have that context. Thank you all for showing up.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Feel free to co edit the transcript. We’ll send that to you in a couple of days.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        Excellent.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        All right, live long and prosper everyone.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        For those of you who didn’t have the context on the Shiba Inu’s, and I apologize for not having the time to sort of throw that in there. There are massive public health mascot around COVID from what I recall. Those of us here from Taiwan can speak more about that.
+                    </p>
+                </speech>
+                <speech by="#Aviv Ovadya">
+                    <p>
+                        There’s this incredible amounts of effort that have been put into by the different cabinet ministries and other parts of government to make good digital media like awesome stuff, that is very engaging. People pay attention. It went away. That’s relatively rare in the US.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
