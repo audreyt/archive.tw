@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Audrey Tang" id="Audrey Tang" showAs="Audrey Tang"/>
+                <TLCPerson href="/ontology/person/::/Matthew Claudel" id="Matthew Claudel" showAs="Matthew Claudel"/>
+                <TLCPerson href="/ontology/person/::/Jayne Eagle" id="Jayne Eagle" showAs="Jayne Eagle"/>
+                <TLCPerson href="/ontology/person/::/Frances Feng" id="Frances Feng" showAs="Frances Feng"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2021-03-22 Conversation with Matthew Claudel and Jayne Eagle
+                </heading>
+                <speech by="#Audrey Tang">
+                    <p>
+                        …pretty good.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        Thank you for taking the time to talk. It’s a nice moment to catch up. I invited some friends. Jayne Engle is here. You and Jayne have crossed paths, Audrey, at the Civic Experimentation Workshop that we hosted in Toronto with Indy Johar and Dark Matter Labs.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        Not only that, so that one was virtual. That was the RegX that…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        With my robot and all that. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        Exactly. With Audrey, we did meet very briefly in person in Toronto when you were at Mars giving a talk with Alex Ryan on Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        That super briefly in person. You gave a talk that touched me so much, I still remember it [laughs] very well. It’s lovely to connect directly.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Very good to reconnect.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        Thank you. Missed you, too. What time is it? Are you in Taipei?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I am in Taipei. This is 7:00 AM. It’s fine. First session of the day.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        You had mentioned that you were doing some transformation within the government over the past month. There was a congressional hearing. Is that right?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah. There’s an Open Parliament Action Plan. It’s not directly me. Mostly, you can say it’s inspired by me. [laughs] The point is that even though we’re in the administration, we do, through the publication of our National Action Plan open government, have the support from the MPs.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s quite rare because all the four major parties in Taiwan’s legislature are through their way behind the Open Parliament Plan, making it truly a cross partisan thing, which is very rare, I tell you. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s pretty good. They have also a set of very concrete promises of structured data, of more accessibility and inclusion in the more rural areas to the hearing process, and many more. Quite happy about that.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        It’s interesting that the plan is so aligned with the agenda that you’ve been building. I’m curious what you think caused such a groundswell political change in that direction?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In my previous talks, I talked about the Sunflower Movement. How after 2014 it became quite clear to all politicians that if they do not accord to the open government agenda, they don’t get elected as mayors, or any other candidates. That’s the main point. That’s one.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The second reason that I would chalk it up to the support front of Korea Public Service. Right after Sunflower, around end of 2014, I gave a workshop with three batches, each 100 people, of the most senior level of Korea Public Service. They’re unanimously in support of better listening skill methodologies, because otherwise the parliament would get occupied again.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The point is that with the outside game and with the demonstrators showing, as in demoing, the demonstration that it’s actually quite possible for the career public service to reduce the risks, save time, and build mutual trust. Many of them are on board.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That really paid off last year, when we using this digital social innovation framework fought the pandemic rather successfully with no lockdown. That associated infodemic was no take down. The career public service has bought even more into it.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        The three pillars that you mentioned are interesting: reduce risk, save time, and build trust.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        That seems to be an incontrovertible set of goals.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In that order. We never trade one for the other. It’s always easier to reduce risk. For example, I will say in a Presidential Hackathon anyone’s idea is equally good. It’s OK to fail early. It’s easy to say that, but designing the Presidential Hackathons so that many career public servant can propose something anonymously or through their social sector, friends and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        If it fails, they would just say, “Oh, I went to a hackathon supporting the citizens idea.” If it did work, then it’s the President giving the trophy with the projector projecting the President, promising whatever you did in the past three months.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Five teams each year become Presidential promises, that’s to say the executive order staff. That changes their career immediately. If they fail, they could always say, “Oh, it’s Audrey’s fault,” which is what my service is mostly about.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        One thing that Nigel Jacob, at Boston Mayor’s Office of New Urban Mechanics, always talks about is “being greedy with blame and being generous with grace, with credit.” It sounds like that’s very much what you’re describing. If anything goes wrong, you just raise your hand and say…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I apologize and say we’ll fix it next Thursday.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        I appreciate that. It’s really interesting as an approach to accountability in government. I’m curious, what is the scope of technologies or digital services that you’re playing with right now?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        As in what? As in people engaged? As in the number of developers, number of visitors?
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        No, I mean more like how much is up for grabs, in a way? When you and I had last spoken, it was the early days of the pandemic. You were talking about open digital infrastructure for real time mask availability. That was very pandemic-specific, and it was a new service, so it stands to reason that it was something you could really have a strong hand in.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Mask availability, and that’s bloomed. When we talked, it was mostly about pharmacies distributing the masks. Then the 24 hour convenience store going on the pre ordering, the app, the national health insurance app, that people downloaded just skyrocketed. It’s the top one downloaded app last year in both app stores.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        More than five million, maybe six million people have used it not only to pre order mask. Also, once they have sufficient supply, they could refrain from collecting the ration. For example, if I stop collecting for two weeks, I have 10 rationed quota that I didn’t use, I can use the app to dedicate that for International Humanitarian Aid in exchange for NFT ish stuff for public acknowledgement. Again, sharing the credit.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        To date, there’s more than eight million masks dedicated this way in more than 750,000 citizens and have let them choose to publish their name.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        This is terrifically interesting. It’s a scope of technology that became available in the moment of the pandemic. Obviously, before the pandemic we weren’t thinking that much about mask and PPE production. Then this became a terrain that was up for grabs because of the moment of the crisis. I wonder now, in so many ways, Taiwan is in latter days of the pandemic.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re post pandemic for 10 months, give or take, but yes.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        Building on all of the work that you’ve done and the thesis that you’ve proven in the moment of the pandemic, what is now up for grabs in this open government, digital hackathon space? Are you actually saying healthcare delivery broadly, hack away, or is it…
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yeah, there’s a lot of that. As I mentioned, we say installation base of more than five million, it really changed the game. Because, previously, people wasn’t in the habit of downloading their X ray or CT scans or measurements to mint a zero knowledge range proof that any host of a marathon can check out their entrants are healthy without having any access to their private health data.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s the VK part of the zero knowledge. Or that the SDK, the software development kit, of the NHI also enables people to build their own data coalitions. There’s a very popular one with people with diabetes. There’s also one with people who are outdoors who choose to receive notification when there’s a potential of heat damage because of extreme weather.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The app also is a Pokémon GO like app, where it shows the drinking fountains that you can take your bottles and refill nearby and collect points and redeem them for local social enterprise products and build a zero waste and zero plastic lifestyle after 50 days. Among other things, it’s a multipurpose app.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        All this is as a result of Presidential Hackathon and as a result of people’s renewed imagination of the health care so that it’s not just about Medicare. It’s also about preventative medicine. It’s also about immunity and public health. This year, we’re also starting to use the same app, so that you can show the QR code. The IC card for national health care was a physical IC card.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Nowadays, we’re also checking with the possibilities of scanning over remote telemedicine by just showing a one time QR code and so on. I would say the imagination has been opened.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        Jayne, please jump in. I want you to share as much as you can. Jayne’s speaking so much about civic imagination. I’ve learned so much from Jayne about what that sphere of possibility is.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        Can I ask a quick question on that? I’m super curious, Audrey, because you talk about imagination. One of the things that we’re finding is that we’re still…I’m based here in Canada, in Montreal. We’re very much in the liminal space of the pandemic. An advantage that this liminal space has is imagination. I feel like we’re still in this liminal space where imagination is stronger.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        I worry that when we’re post pandemic, there will be less scope for imagination. I’m wondering, given that you’re post pandemic, have you seen that play out in either direction?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is a great and almost philosophical question. In the parts where the government did not do any top down, or lockdown, or shutdown, or take down during the pandemic, the imagination space has been freed. It’s still certainly growing.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The point I want to take is that when the government take a harsh top down action by necessity, of course, it decimates, literally cut down by 10 percent. Every time the government does something like that, the social sector suffers because there’s less agency for the social sector to express itself.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan, because we had a heuristic of no lockdowns and takedowns, we had a heuristic of no new code, new data collection points inventing during the pandemic by the government.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We have this idea of social sector first, participatory self surveillance, people public private partnership, which means the social sector has to come up with most of the solutions. That means that imagination space is understood, is what I’m saying.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        This is exactly it, Audrey. This is truly the basis of why I wanted to talk today. We had talked during this moment of the early days of the pandemic. Now, there’s this disparity. You’re post pandemic. Many of us, especially in the United States or Canada, we’re still mid pandemic.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        The crisis, the pandemic, cracked open the door of the status quo, in both good and bad ways. It was a moment of exception. There were all sorts of crazy intrusions into personal privacy, but it also allowed us to imagine in new ways. That moment was generative, problematic, and interesting.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        Now, how do we stick with and act on all the imagination that emerged? What’s the possibility space of actual transformative politics or transformative economics, today? So much of what existed before the pandemic is clearly not something we want to replicate, or it’s not going to work anymore. Real property economics are out the window, for example. Now that you are further in the future, post-pandemic, can you describe the possibility space of action?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I see what you’re referring to, but who is this we though? The society as a whole, or the newly elected leadership in your country, or what? [laughs]
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        That’s exactly the right question. “Who is we?” is exactly right, because it would be a missed opportunity if those who were making decisions before the pandemic are the same ones making the same kinds of decision after the pandemic.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        The question is, how do we meaningfully restructure? I appreciate what you were saying: in the midst of a crisis, don’t create new data points because you don’t know what the implications will be. But after the crisis, how do we re-build in light of what has been learned?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Especially the cybersecurity parameter or, most mundanely, MFL catastrophically without anyone noticing because there’s no base value to compare it with. We’ve seen that with many Bluetooth space tracing method, which is why we don’t use Bluetooth.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        Right. A crisis is not the moment for certain kinds of experiments. My doctoral work was around civic experimentation. You don’t do an experiment if you have no idea what the variables are.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s right.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        I wonder now though, as we emerge from the pandemic, we need to give some careful thought to how society is structured. We are restructuring, whether we like it or not. How do we restructure?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’d like to hear from Jayne, because if it’s universal question like that, without regard to a specific jurisdiction dynamics, then I’ll be talking about very mundane things like universal broadband, digital and media competence instead of literacy.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m going to talk about the investment in digital public infrastructure, classifying it as public infrastructure money. I’m going to talk about API first building and so on. You know all that already.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        These are important. These are the dark matters. [laughs] The dark matter is the silent revolution. Jurisdiction specific things warrants more and more context. I’m also eager to hear from Jayne.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        Those are exactly the kinds of things that we’re thinking about now. Interestingly, the federal government here in Canada just launched a public invitation for how we might redefine infrastructure for the future. It’s the first time that something like that has been done here.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        It was a surprise that just came out this week. We have a couple of months to organize around it. It’s interesting moment to think about physical, digital, social infrastructure for these times now.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        You just mentioned you pointed to a few aspects of digital, but we’re also thinking. I work for this philanthropic foundation. McConnell Foundation is where I work. What we tend to think about is…Especially, I leave the city’s work.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        We’re thinking about social and civic transition infrastructure and creating conditions for inclusive community building and what does that look like at a local level. We have a very strong focus on indigenous reconciliation as well.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        Thinking very hard about what opportunities there are for a plurinational Canada. Given that, Canada recognize this on the one hand, the UN Declaration on the Rights of Indigenous Peoples. If we look at this plurinational perspective, how can that help us to reimagine infrastructure could be at the civic level?
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        Just one quick example. This last week, the City of Vancouver is the first large city, anywhere as far as I know of, certainly in Canada, but I think probably anywhere, that city council adopted together with the three first nations on whose lands the City of Vancouver has been built.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        They passed a local law to adopt the United Nations’ Declaration of Rights of Indigenous People at city level, but with these nations. Then what could that open up in terms of a different infrastructure that would actually have…
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        What opportunities does that open up, both socially in terms of social and cultural change and imagination, but also what does it open up in terms of nature based solutions, based on indigenous governance principles, for example?
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        These are some of the things that are pulling right now. I don’t know if there’s anything that you’re doing or working on that would…?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Yes. We do have a indigenous section in the open government’s National Action Plan, and in our bilateral, with say, New Zealand, the ANZTEC, the Taiwan New Zealand’s relationship has a separate track of indigenous to indigenous relationships, and moderated by either’s governments. It’s very much a pluri national pact, whatever that means. [laughs]
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I hear that with our counterpart in Canada, that Taiwan Indigenous to Canadian Indigenous relationship probably need to follow the same way that we did with the Maori people in New Zealand instead of previously through the Canadian federal governments.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There is a lot of very exciting developments. Just out of our Maori relationship, for example, we’re learning about natural personhood, which is actually one of the core things for the digital to empower the Internet of Beings, not just the Internet of Things and many other things as well. It’s enlightening that we’re all moving towards similar directions.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        Exactly. A river here in Quebec just in the past month received legal personhood. It’s the first precedent of this kind in Canada. There’s progress even here in that regard. So far, these are good stuff. It’s not nearly enough, and it’s not adding up yet, unfortunately. These are important steps.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        How can these things…How can that be much more? That’s great. It’s in northern Quebec. It’s the place where not many people live. It is around hydroelectric power.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s the significance.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        Exactly, but very little population there. I’m very curious how that’s going to translate?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The Whanganui River. I probably didn’t do the pronunciation justice, but [laughs] I’ll remember that.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        What we’re describing is almost a new social contract, a new protocol for a social contract, where these ideas of plurinationalism in a geographic territory speaks to a new social and political construct that’s beyond the nation state. Those protocols can be transposable from Canada to Taiwan.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s cross jurisdictional, certainly, and trans culture.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        One of the things, Audrey, that you had said the last time we spoke — it’s one of those things that gets lodged in the back of my head and I have not forgotten it — was the idea of transposing any given learning.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        We were talking about digital competence instead of literacy. Digital competence means that, from a very young age, people feel like they have ownership and authority, and that they are contributing as well as receiving information.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        That is such a different condition than the United States, where we’re not even checking off the boxes with mathematics and reading, let alone digital competence. I was thinking, how can we even compare the initiatives that you’re doing with open government in Taiwan with the present conditions in the United States?
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        What you had mentioned was the idea of building up metadata for any given project, so that you understand the conditions around it. That way it can be abstracted and transposed and re adapted in any context. For example, I’m not copying the mask initiative that you did and pasting it in the United States, but I’m learning from it and contributing to it and re adapting, based on the metadata on conditions in Taiwan and conditions in the US.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        So that instead of going to mask.peters.datataiwan you can go to instead datacolloborative.org or crowd.law and in that catalog find something similar to your jurisdiction. Most of the time, I would argue all the time, [laughs] starting small.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In Taiwan for example, the Sunflower was really…Even with half a million people on the street…Taiwan is what? 23 million. It’s necessary, just a part of the people in the beginning and to open government plans. We’ve adopted our national ones just this year. The city wide, like the Tainan and Taipei City, they did that in 2015, a full six years before. Start small.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        I wonder if the same can be said of the natural personhood of a river?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Certainly. If a city recognize it, that’s something. If a larger municipality, then the better. It doesn’t have to be federal level in the very beginning.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        That’s really interesting. Maybe the tip of the awl, in a sense, to achieve this transformative legal structure is just to have one instance of a natural system being politically recognized. Then it’s a watershed, as long as legal rights can be re adapted in other systems.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, a natural personhood, it’s all about the right, the right to flow. It’s like the right to be respected. It’s natural evolution to be preserved, biodiversity, fulfilling essential functions, integrity, safe from pollution, the right to regenerate, and the right to sue.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Everything else is probably already hinted by national law, except for the right to sue. If a city brands its protections in its city level court or appeal process, because if the damage is done by anything that the city has control over, then that’s actually already quite legal.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        You don’t need this constitutional courts in any jurisdiction to can make it actionable. Of course, it’s good for the constitutional court to recognize, but somebody has to do it in the local level first. We did that, also with civic unions before we legalize marriage equality. There’s many examples.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        That in and of itself is just so exciting as a sphere of work, an agenda. I love that. Jayne, is that something you think you could pull off in Canada as part of the civic indigenous work or the rights of the nature work?
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        Which part did you mean?
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        Audrey was saying there’s all these rights that are hinted at in legal code, with the exception of the right to sue. As long as you can recognize those and then tie it to…
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        Don’t let me put words in your mouth, Audrey, but if you can recognize those rights, and tie them to this broader package including the right to sue, and recognize that the city has jurisdiction over certain, let’s say, functions that infringed on some of these other rights, like the right to regenerate, the right to flow, then perhaps you could tie it over to the right to sue and exert legal power back against the city.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        It feels like we’re still far from that, although the fact that it’s far from a city, but there is a river that has this personhood in another part of the country far away, but we have the city recognizing the Declaration of Rights of Indigenous Peoples, which isn’t the same thing, but it’s there.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        We also have a situation where cities have very little power here. Municipalities have very little power here. They’re creatures of provinces in terms of fiscal and any other kinds of jurisdictional powers that they have very little. There are no cities here who have recognized rights of nature.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        We’re still a little ways from that. Although even if they did, I’m not sure exactly what it would mean in terms of jurisdiction if they would have that possibility.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        I don’t know. Maybe this also ties into a question I would have from you, Audrey. I’m curious, has Taiwan at all, at city level, been able to engage or to build nature based solutions and infrastructure in any deep way?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Nature based solutions?
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        Nature based solutions in urban infrastructure. I feel like we can only unlock that if we recognize rights of nature, for example.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We also have our Indigenous Transition Justice Committee modeled in those small part to the Canadian one. We are broadly on the same page. I have in my mind, for example, the civil IoT system which would certainly qualify.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I mentioned in my previous talks where people, especially primary schoolers, contributed to the environmental sensing projects through measuring, say, PM2.5 or other qualities of nature and writing to distributed ledger to build this common sensing framework at a time in 2015 where the EPA, the Environmental Protection Agency, still only had less than 100 measurement points.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The civic society already have more than 2,000. Nowadays, it’s tens of thousands. That builds a much closer solidarity with the nature, because chances are an average citizen will trust a nearby primary school teacher and the class of data steward and data competence learners rather than a random sensor from the EPA hundreds of kilometers away.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s built a momentum into it. That led to, for example, referenda about cutting back coal burning, I believe, to reduce not just carbon footprint but also reduce PM2.5. Then the referendum was successful.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The government can’t beat anyone, so we must join them. We built the civil IoT project where the government contributed also our resources to, for example, calibrates the environment of science by the people, to make sure the cyber security works with the good story of zero G instead of random WiFi piggybacking.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Making sure industrial areas also have those micro sensors because private schools are not going to break into industrial parks, at least not successfully for long. It turns out we owned the land in those parks. Municipal government can install them in the land, making the puzzle complete.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Now, it’s been extended to not just air quality but also water resources, earthquake warning, disaster prevention relief and integration, and so on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In particular, the water resource evacuation for flood and earthquake has been repurposed to make the digital quarantine without inventing new data collection points. That’s important because a lot of people, including the primary school, already had experience with that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They are fine with the cybersecurity and also the privacy implication because they understand SMS that’s location based through a triangulation of cell phone signals. It’s not going to read your WhatsApp message, for example. That’s also important during the pandemic. Please read the website. It explains it better than I do.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        One idea that’s struck with me, whether it’s ecologically focused or otherwise, is ongoing stewardship.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        Something that you described potently is if someone hacks together a thing, it doesn’t make sense to try and replicate it by government. It doesn’t make sense to try and stifle it. Instead, you put a .gov on it. You’re also recreating a secondary…It’s not necessarily .gov, but it’s something, .tw.gov or something like this.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        G0v.tw, instead of O a zero.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        Exactly. I wonder, that seems to be an interesting way of connecting it and legitimizing it, but not necessarily introducing the risk of connecting it to government.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        My question is the stewardship one. Once that service has been semi-internalized by government, semi legitimized, does government then assume the responsibility for stewarding it? How do you maintain these code bases? How do you continue to adapt them?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is a good question. The governance part, it’s easier. Usually, we do this through a multi stakeholder forum. We already had a pretty good example to look up to, which is the impact assessment for agenda that’s been around for more than 12 years in Taiwan and which ultimately led to marriage equality, among other great things.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        In a very humble beginning, it’s very similar because it’s a bunch of civil society leaders realizing that the government must institutionalize support of gender mainstreaming without encroaching on the agency of the civil society.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They invented this thing called the Gender Equality Committee, where there’s always…Nowadays, it’s 17 ministers with 18 CSO leaders. It’s always one more vote from the civil society side.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        All the government projects and bills must pass through this infrastructure or bills ostensibly unrelated to the agenda, must still pass through this assessment by these people.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s guaranteed to be gender balanced. When there’s more female ministers, there’s more men in CSO leadership. When there’s more male ministers, there’s more women in CSO leadership.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This measurement of inequality are maintained even after that particular project or bill has been passed. We continue to measure that and to formulate the theory of change.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Long story short, this is about a civil society still have the ultimate say, but the career public service essentially taking this measurement of inequality and making sure that they proactively link their work and make sure that the gender impact assessment is permeated through all parts of government work.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For example, we now have 42 percent of state legislators of women, and that’s measured. We have a pretty good Equal Pay Day, of course, through improving, but we have a pretty not so good story in graduates and STEM as currently just short of one quarter women.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then we make it a focus and yours truly make this clipped access, [laughs] computer has never asked about my gender in response to this question about, “Isn’t cybersecurity mostly for boys,” and so on. This is a intentional work by the Korea public service, but still, with stewardship and ultimately saved by the civil society.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        Yeah, which speaks to the replication problem: enabling substantive change across different agencies and departments in government and across countries.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        I’m curious, in the case that you spin up something like the mask searching app (what has now turned into a broader healthcare app) – once it becomes .g0v, whose responsibility is it to maintain that codebase from a strictly software perspective?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There is more than 100 different implementations, all connecting to the same open API. Though, this is like asking who is responsible for making Etherium or Bitcoin work? Of course, everyone is responsible. If they are not responsible, there’s 99 choices. [laughs] People would choose something else, I guess.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s a friendly competition going on. Of course, there’s also a lot of open source infrastructure being built to make new applications easier. The thing we want to convey is that if your average primary school or who just know a little bit of JavaScript in a afternoon’s work, you can also tailor make your own distribution map.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is like tap water stuff. Of course, the quality of the data is co governed. For example, in the beginning, when we update every 30 seconds, we were quite happy because it looks like the pharmacy distribution completely agrees with the population distribution.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Then came this MP, MP 高虹安 from the Taiwan’s People Party, an opposition party. She was VP of data analytics at Foxconn, so she knows something about data. She, in her interpolation showed this great visualization by the OpenStreetMap folks.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That shows that if you zoom out or way out, you actually see the rural places are not that well served, because they take more time to approach the pharmacies through public transportation. That cannot be seen on a type A base view on this distance based map distribution. This is a clearly a bias.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Minister Chen Shih chung, the Health Minister, instead of defending, he simply said, and I quote, “Legislator teach us.” Then within 24 hours, we changed the distribution mechanism. We also introduced pre ordering. MP Gao said yesterday’s interpolation become tomorrow’s co creation.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        This is all public stuff. It’s possible only because we shared the API with the OpenStreetMap folks. Otherwise, it will become a critique maybe, but it’s probably not going to be a co creation.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        That’s exactly it. I mean, I was talking to Ben Cerveny recently. He’s the guy behind the Foundation for Public Code. He thinks carefully about stewardship, because that’s the whole purpose of the organization.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        The question is, how do we maintain these code bases, of course, but then continue to re adapt them and improve them for other conditions? Conditions where potentially you couldn’t be pulling levers like the distribution modality. In many places, you can’t be pulling levers in the same way that you can pull levers in Taiwan… but perhaps you have different ones. The issues of re-adaptation are always sticking with me.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        The swift apology and weekly deployment altogether known as the HI methodology. It’s an old methodology, but it still rings true, especially when matters are clearly of public benefit.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        Since last we talked, I’ve started working for a company that does COVID response, essentially. It’s a healthcare company. I’m dealing with issues like, getting vaccines to rural communities and getting vaccines to underserved populations, such as elderly people who you can’t log on to a computer.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        These are all top of mind for me, in an actionable sense. Tomorrow morning I’m going to be on a call with the State Department of Public Health, and then I’m going to be on the phone with a van guy to figure out how we send a van to some community in Colorado.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        Right now there’s not enough attention being given to how we can do things differently because there are people dying. I’m thinking a lot about the next step, as we emerge from the crisis. How do we build on the kind of thinking that you’ve done? How do we build on these principles of open government?
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        How do we build on these principles of co-creation, swift apology, agile methodology, and get to some of the deeper, more substantive issues like ecological crisis or crisis of representation and sovereignty of natural phenomena? Is it responsible to address long-term crises, when there are immediate crises and lives to save?
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        For me, it’s not immediately clear. But regardless, I want to learn from what you’ve done and potentially adapt these approaches and apply them to some of these longer crises that we’re facing as a society.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I’m here to help. All our methodologies are open source and we say Taiwan can help. For example, this is the slightly parameterized flu map and by the CDC in Taiwan and into the COVID vaccination map. My closest one is the AstraZeneca one, and this is their phone number and things like that.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        For us, this is because the underlying infrastructure worth investing as is already there. Since 2016, we’ve classified this thing as a forward looking infrastructure and upended [laughs] our National Audit Office internal rules because previously intangible things can’t qualify as infrastructure but we changed that anyway.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re reaping the benefit for the past five years because nowadays, to make a map like this and learning about our premier, and the health minister I show you, is going to get to AstraZeneca shot, let’s see, right now [laughs] in the place that I share with you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s easy for us. It took maybe an afternoon to make that work because all the things infrastructure already there, we just change the parameters.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        To get to that place, there’s no shortcut, but if you can divert one percent, as we used to say, in 2016, one percent of the total national budget and invest in this infrastructure, treating something like this map as worth doing as a national park, then you’ll be on the right path.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        I like that, that slow build of digital infrastructure. Jayne and I were talking earlier today about the question of what qualifies as infrastructure. Jayne, we’ve had a lot of opportunities to talk about that through our work with Infrastructure Canada.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        I’d be curious, Jayne, to hear your thoughts on how some of this can be re applied to the opportunities at hand in Canada right now with the infrastructure department.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        Exactly. I’m looking at and thinking about all of this and thinking about how it could go into whatever response we give to this national infrastructure [laughs] inquiry that what they’re doing here, it would be fantastic for us to pull things together and then see how things could be adapted here.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        I’m curious Audrey, what are relationships between you personally and also parts of the government with Canada and with the government here?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I, last Thursday, had a good conversation with Rachel, your shadow digital minister, and one of her colleagues. We’re having a lot of…Bob Zimmer was his name. We agreed to put the transcript on. You would probably see a published transcript at our site within a week or two.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We also had this mission from women entrepreneurs to Taiwan that’s virtual [laughs] a couple of weeks ago, where I gave a talk and a brilliant exchange with the Canadian delegates.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re on very friendly terms. We understand that we’re more or less in the same general direction. The representative office in Canada is also happy to help if you want some person instead of a video [laughs] to talk to people in the government. Please feel free to reach out to our foreign service.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        Good.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        We should get one of those little Audrey robots that we had at the Regulatory Experimentation workshop.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        I know. The representative office folks all know they can summon me very easily.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Audrey Tang">
+                    <p>
+                        At the click of a key, I can appear in an iPad in any meeting room.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        I imagine. Pia Andrews now work for the Canadian government. She started officially right before the pandemic. She had to move back to Australia. I think she is there now but working for the Canadian government [laughs] during the pandemic. Given that you’re post pandemic now, what does that mean in terms of travel for Taiwanese?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It means that we’re actively looking for bubbles with those zero COVID jurisdictions. We get a bubble down last week was Palau, I believe, which will take effect in next week. Anyone can visit Palau.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We’re looking at two to one with Singapore, I believe. They’re also being zero COVID for quite a while. We’re just slowly but surely building those bilateral bubbles with places that are zero COVID.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        You know where’s zero COVID, Jayne is Halifax. I was talking to…You can at least set foot in Canada.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        [laughs]
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        It’s actually in Atlantic bubble. I wonder. I don’t know if there’s zero COVID right now. They did have 10 cases a few days ago. Interesting.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        It’s something that strikes me from the beginning of our conversation just now. In a way, we’re having a synchronous conversation at two different moments in timeline of COVID’s progression.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        It’s interesting to imagine that same asynchronous condition for other examples of digital or political transformation. How do you cohortize groups of countries or municipalities or whatever according to some sort of progression toward a transformative legal agenda or a transformative economic agenda?
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        There might be some that are at different points. Therefore, you could combine them even if they’re strange bedfellows for every other reason.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        What I like is I remember how…It was a year ago in Taiwan. Our direction is converging. That’s the important part. A lot of the recaps that we’re doing now probably will happen just as the infrastructure built and so on. Nobody wants when SARS 2.0 come the same chaos.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It makes a lot of sense, at least in the democratic politics, to have a robust deliberation of what part to institutionalize, what ad hoc responses to institutionalize, and what investment to be done.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That conversation is quite universal, but you’re correct in saying that some jurisdictions will choose a more ambitious interpretation and some not. I like that we’re more or less on the same direction.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        This is interesting. It goes beyond this idea of international networks, which we’ve all been part of and in most cases, fall flat. There’s not much to them. Superficially, what we are describing looks the same, but it’s a much deeper, a more robust theory of change.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Speaking of Singapore, they’ve done an interesting bilateral. I posted here the Australia Singapore Digital Economy Agreement. Australia and Singapore are already, as you said, in many international treaties. It’s not like they need those basic facts reiterated.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        They instead focused on, for example, the social innovation part of it, AI part of it, personal data protection, on the digital identity sharing faster and so on. More future is here, not evenly distributed. Let’s try a bit of a more futuristic trade agreement first.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Something like that is quite beneficial. If Canada wants to do something like that with Taiwan, [laughs] the Canadian indigenous people want to do [laughs] something like with Taiwanese indigenous people, we can certainly look into making it happen.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        That’s exciting.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        Oh my gosh, yes.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        It’s both mutual accountability but also political cover. Something you were saying before was if if someone does it somewhere in a small way, then you can say “they did it there” and create a political cover in a useful way.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        I wonder if that’s part of the, let’s say, shadow agenda around some of these bilateral agreements.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        It’s to get a career public service on both side, recognize that this is a risk reducing move. Then by joining up bilaterally, they reduce even more risk because they could fall back to the support to another jurisdiction.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        Was any of that in the discussion that you had with Rachel?
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Not the bilateral because she’s shadow [laughs] digital minister. One of the topics that we focus on rather is the relationship with the more antisocial part of social media, Facebook and friends.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        There’s another thing about data innovation. If both jurisdictions recognized that was investigating in joint ventures into digital public infrastructure, it doesn’t compete directly with Facebook in terms of mindshare, but it sends a very clear signal saying that we want our town halls, our public deliberations to take place in public parks, in libraries, and other digital equivalent of public infrastructure.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Not in nightclubs where people shout to get heard, where addictive toxic drinks are served with private bouncers and so on. There’s a place in the nightlife district for people, but it’s not the place where the families go to dinner and have a civic deliberation, the upcoming natural personhood, right? [laughs] This signal is what Rachel and Bob Zimmer is more focused on.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        We didn’t talk that much about a direct bilateral thing, but this collective signal to sent to the surveillance capitalist is their focus.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        It’s really interesting to imagine putting something together along this front, in terms of digital infrastructure and potentially the legal implications of natural personhood. Let’s keep pursuing this.
+                    </p>
+                </speech>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        I was just going to say, this particular window around the invitation from the public to feed into this is due in late June. We’ve got a little bit of time. It might be a way to catalyze some energy and attention around some of the possibilities we’ve mentioned here. We really appreciate the discussion. Thank you.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Definitely. Just like my conversation with two Canadian MPs, I’ll also make a transcript. I wouldn’t publish it without you checking on it first though. You’ll get a link and 10 days of co editing. If you need more time just let us know. Frances will follow up with that.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        Thank you.
+                    </p>
+                </speech>
+                <speech by="#Frances Feng">
+                    <p>
+                        I will.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        I have this kind of mess, but I really appreciate a nicer version.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        That’s it then.
+                    </p>
+                </speech>
+                <speech by="#Matthew Claudel">
+                    <p>
+                        Thank you so much.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Until next time. Live long and prosper.
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (laughter)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Jayne Eagle">
+                    <p>
+                        Thank you so much. We appreciate it.
+                    </p>
+                </speech>
+                <speech by="#Audrey Tang">
+                    <p>
+                        Bye.
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
