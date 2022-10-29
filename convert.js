@@ -7,7 +7,7 @@ function cw2pad(x){
   if ((ref$.length > 0) && (!/[：:]/.exec(ref$[0]))) {
     out += (ref$.shift() + "\n");
     out += ':::info\n'
-         + '🌐 This is a collaborative editor for the meeting transcript. If you want to adjust your own speech, please click on the "Pencil" icon at the top left corner to start editing. The system automatically saves each edit. It is scheduled to be released on XXXX-XX-XX and will be published at [Sayit](https://sayit.pdis.nat.gov.tw/) with [Terms of Use](https://sayit.pdis.nat.gov.tw/tos). Thank you for your contribution to the commons.\n'
+         + '🌐 This is a collaborative editor for the meeting transcript. If you want to adjust your own speech, please click on the "Pencil" icon at the top left corner to start editing. The system automatically saves each edit. It is scheduled to be released on XXXX-XX-XX and will be published at [moda.gov.tw](https://moda.gov.tw/en/press/background-information/1003). Thank you for your contribution to the commons.\n'
          + ':::\n';
   }
   for (i$ = 0, len$ = ref$.length; i$ < len$; ++i$) {
